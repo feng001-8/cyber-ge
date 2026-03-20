@@ -1,1 +1,360 @@
-{"data":"IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKR2VuZXJhdGUgU1ZHIGRpYWdyYW1zIGZvciBDdXJ2ZSBDcnlwdG9Td2FwICh2MikgYXJ0aWNsZS4KQ3liZXItWmVuIHN0eWxlOiBtaW5pbWFsaXN0LCBwcm9mZXNzaW9uYWwsIG5vIGhhbmQtZHJhd24gZmVlbC4KIiIiCgppbXBvcnQgbWF0aApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCk9VVFBVVF9ESVIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50IC8gInB1YmxpYy9pbWFnZXMvYmxvZy9jdXJ2ZS1jcnlwdG9zd2FwLWZvcm11bGEiCgpTVkdfU1RZTEUgPSAiIiIKICAgIDxzdHlsZT4KICAgICAgICB0ZXh0IHsgZm9udC1mYW1pbHk6ICdJbnRlcicsIC1hcHBsZS1zeXN0ZW0sIHNhbnMtc2VyaWY7IGZpbGw6ICM0NzQ3NDc7IH0KICAgICAgICAubW9ubyB7IGZvbnQtZmFtaWx5OiAnSmV0QnJhaW5zIE1vbm8nLCAnU0YgTW9ubycsIG1vbm9zcGFjZTsgfQogICAgICAgIC5sYWJlbCB7IGZvbnQtc2l6ZTogMTRweDsgfQogICAgICAgIC50aXRsZSB7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDYwMDsgfQogICAgICAgIC5zbWFsbCB7IGZvbnQtc2l6ZTogMTJweDsgfQogICAgICAgIC5zdWJ0aXRsZSB7IGZvbnQtc2l6ZTogMTNweDsgZmlsbDogIzhDOTI4RjsgfQogICAgPC9zdHlsZT4KIiIiCgpBUlJPV19NQVJLRVIgPSAiIiIKICAgIDxkZWZzPgogICAgICAgIDxtYXJrZXIgaWQ9ImFycm93IiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iMTAiIHJlZlg9IjkiIHJlZlk9IjMiIG9yaWVudD0iYXV0byI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDAgTDAsNiBMOSwzIHoiIGZpbGw9IiM0NzQ3NDciLz4KICAgICAgICA8L21hcmtlcj4KICAgICAgICA8bWFya2VyIGlkPSJhcnJvdy1qYWRlIiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iMTAiIHJlZlg9IjkiIHJlZlk9IjMiIG9yaWVudD0iYXV0byI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDAgTDAsNiBMOSwzIHoiIGZpbGw9IiM0QThCNzEiLz4KICAgICAgICA8L21hcmtlcj4KICAgICAgICA8bWFya2VyIGlkPSJhcnJvdy1ncmF5IiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iMTAiIHJlZlg9IjkiIHJlZlk9IjMiIG9yaWVudD0iYXV0byI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDAgTDAsNiBMOSwzIHoiIGZpbGw9IiM4QzkyOEYiLz4KICAgICAgICA8L21hcmtlcj4KICAgIDwvZGVmcz4KIiIiCgoKZGVmIGdlbmVyYXRlX2tfY29tcGFyaXNvbigpOgogICAgIiIiCiAgICBHZW5lcmF0ZSBTVkcgc2hvd2luZyBLIGFkanVzdG1lbnQgZmFjdG9yIGNvbXBhcmlzb24gYmV0d2VlbiB2MSBhbmQgdjIuCiAgICBTaG93cyBob3cgZ2FtbWEgbWFrZXMgdGhlIGN1cnZlIHN0ZWVwZXIgd2hlbiBhd2F5IGZyb20gZXF1aWxpYnJpdW0uCiAgICAiIiIKICAgIHdpZHRoLCBoZWlnaHQgPSA1NTAsIDQwMAogICAgbWFyZ2luID0gNjAKICAgIHBsb3Rfd2lkdGggPSB3aWR0aCAtIDIgKiBtYXJnaW4KICAgIHBsb3RfaGVpZ2h0ID0gaGVpZ2h0IC0gMiAqIG1hcmdpbiAtIDQwCiAgICAKICAgIGRlZiBzY2FsZV94KGswKToKICAgICAgICByZXR1cm4gbWFyZ2luICsgazAgKiBwbG90X3dpZHRoCiAgICAKICAgIGRlZiBzY2FsZV95KHZhbCwgbWF4X3ZhbD0xLjApOgogICAgICAgIHJldHVybiBtYXJnaW4gKyA0MCArIHBsb3RfaGVpZ2h0ICogKDEgLSB2YWwgLyBtYXhfdmFsKQogICAgCiAgICBwYXRocyA9IFtdCiAgICAKICAgIEEgPSAxMDAKICAgIGdhbW1hID0gMC4wMQogICAgCiAgICB2MV9wb2ludHMgPSBbXQogICAgdjJfcG9pbnRzID0gW10KICAgIAogICAgZm9yIGkgaW4gcmFuZ2UoMTAxKToKICAgICAgICBrMCA9IGkgLyAxMDAuMAogICAgICAgIGlmIGswIDwgMC4wMToKICAgICAgICAgICAgazAgPSAwLjAxCiAgICAgICAgCiAgICAgICAgY2hpX3YxID0gQSAqIGswCiAgICAgICAgCiAgICAgICAgYWRqdXN0bWVudCA9IChnYW1tYSAqKiAyKSAvICgoZ2FtbWEgKyAxIC0gazApICoqIDIpCiAgICAgICAga192MiA9IEEgKiBrMCAqIGFkanVzdG1lbnQKICAgICAgICAKICAgICAgICB2MV9wb2ludHMuYXBwZW5kKChzY2FsZV94KGswKSwgc2NhbGVfeShjaGlfdjEgLyBBKSkpCiAgICAgICAgdjJfcG9pbnRzLmFwcGVuZCgoc2NhbGVfeChrMCksIHNjYWxlX3koa192MiAvIEEpKSkKICAgIAogICAgdjFfcGF0aCA9ICJNICIgKyAiIEwgIi5qb2luKGYie3g6LjFmfSB7eTouMWZ9IiBmb3IgeCwgeSBpbiB2MV9wb2ludHMpCiAgICB2Ml9wYXRoID0gIk0gIiArICIgTCAiLmpvaW4oZiJ7eDouMWZ9IHt5Oi4xZn0iIGZvciB4LCB5IGluIHYyX3BvaW50cykKICAgIAogICAgc3ZnID0gZicnJzxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAge3dpZHRofSB7aGVpZ2h0fSI+CntTVkdfU1RZTEV9CntBUlJPV19NQVJLRVJ9CiAgICAKICAgIDwhLS0gVGl0bGUgLS0+CiAgICA8dGV4dCB4PSJ7d2lkdGgvMn0iIHk9IjI1IiBjbGFzcz0idGl0bGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPksg6LCD5pW05Zug5a2Q5a+55q+U77yadjEgdnMgdjI8L3RleHQ+CiAgICA8dGV4dCB4PSJ7d2lkdGgvMn0iIHk9IjQ1IiBjbGFzcz0ic3VidGl0bGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPs6zIOWPguaVsOiuqeabsue6v+WcqOWBj+emu+W5s+ihoeeCueaXtuS4i+mZjeabtOW/qzwvdGV4dD4KICAgIAogICAgPCEtLSBBeGVzIC0tPgogICAgPGxpbmUgeDE9InttYXJnaW59IiB5MT0ie21hcmdpbiArIDQwICsgcGxvdF9oZWlnaHR9IiB4Mj0ie3dpZHRoIC0gbWFyZ2luICsgMTB9IiB5Mj0ie21hcmdpbiArIDQwICsgcGxvdF9oZWlnaHR9IiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMS41IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93KSIvPgogICAgPGxpbmUgeDE9InttYXJnaW59IiB5MT0ie21hcmdpbiArIDQwICsgcGxvdF9oZWlnaHR9IiB4Mj0ie21hcmdpbn0iIHkyPSJ7bWFyZ2luICsgMzB9IiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMS41IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93KSIvPgogICAgCiAgICA8IS0tIEF4aXMgbGFiZWxzIC0tPgogICAgPHRleHQgeD0ie3dpZHRoIC0gbWFyZ2luICsgMjB9IiB5PSJ7bWFyZ2luICsgNDAgKyBwbG90X2hlaWdodCArIDV9IiBjbGFzcz0ibGFiZWwgbW9ubyI+S+KCgDwvdGV4dD4KICAgIDx0ZXh0IHg9InttYXJnaW4gLSAxMH0iIHk9InttYXJnaW4gKyAyNX0iIGNsYXNzPSJsYWJlbCBtb25vIj5LL0E8L3RleHQ+CiAgICAKICAgIDwhLS0gR3JpZCBsaW5lcyAtLT4KICAgIDxsaW5lIHgxPSJ7c2NhbGVfeCgwLjUpfSIgeTE9InttYXJnaW4gKyA0MH0iIHgyPSJ7c2NhbGVfeCgwLjUpfSIgeTI9InttYXJnaW4gKyA0MCArIHBsb3RfaGVpZ2h0fSIgc3Ryb2tlPSIjRTVFN0VCIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsNCIvPgogICAgPGxpbmUgeDE9InttYXJnaW59IiB5MT0ie3NjYWxlX3koMC41KX0iIHgyPSJ7d2lkdGggLSBtYXJnaW59IiB5Mj0ie3NjYWxlX3koMC41KX0iIHN0cm9rZT0iI0U1RTdFQiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDQiLz4KICAgIAogICAgPCEtLSBUaWNrIG1hcmtzIC0tPgogICAgPHRleHQgeD0ie3NjYWxlX3goMCl9IiB5PSJ7bWFyZ2luICsgNDAgKyBwbG90X2hlaWdodCArIDIwfSIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJtaWRkbGUiPjA8L3RleHQ+CiAgICA8dGV4dCB4PSJ7c2NhbGVfeCgwLjUpfSIgeT0ie21hcmdpbiArIDQwICsgcGxvdF9oZWlnaHQgKyAyMH0iIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4wLjU8L3RleHQ+CiAgICA8dGV4dCB4PSJ7c2NhbGVfeCgxKX0iIHk9InttYXJnaW4gKyA0MCArIHBsb3RfaGVpZ2h0ICsgMjB9IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTwvdGV4dD4KICAgIDx0ZXh0IHg9InttYXJnaW4gLSAxNX0iIHk9IntzY2FsZV95KDApICsgNX0iIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0iZW5kIj4wPC90ZXh0PgogICAgPHRleHQgeD0ie21hcmdpbiAtIDE1fSIgeT0ie3NjYWxlX3koMC41KSArIDV9IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9ImVuZCI+MC41PC90ZXh0PgogICAgPHRleHQgeD0ie21hcmdpbiAtIDE1fSIgeT0ie3NjYWxlX3koMSkgKyA1fSIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJlbmQiPjE8L3RleHQ+CiAgICAKICAgIDwhLS0gdjEgY3VydmUgKGJsdWUpIC0tPgogICAgPHBhdGggZD0ie3YxX3BhdGh9IiBzdHJva2U9IiMzQjgyRjYiIHN0cm9rZS13aWR0aD0iMi41IiBmaWxsPSJub25lIi8+CiAgICAKICAgIDwhLS0gdjIgY3VydmUgKGphZGUpIC0tPgogICAgPHBhdGggZD0ie3YyX3BhdGh9IiBzdHJva2U9IiM0QThCNzEiIHN0cm9rZS13aWR0aD0iMi41IiBmaWxsPSJub25lIi8+CiAgICAKICAgIDwhLS0gRXF1aWxpYnJpdW0gcG9pbnQgLS0+CiAgICA8Y2lyY2xlIGN4PSJ7c2NhbGVfeCgxKX0iIGN5PSJ7c2NhbGVfeSgxKX0iIHI9IjUiIGZpbGw9IiNEMTM0MjkiLz4KICAgIDx0ZXh0IHg9IntzY2FsZV94KDEpICsgMTB9IiB5PSJ7c2NhbGVfeSgxKSAtIDEwfSIgY2xhc3M9InNtYWxsIiBmaWxsPSIjRDEzNDI5Ij7lubPooaHngrk8L3RleHQ+CiAgICAKICAgIDwhLS0gQW5ub3RhdGlvbiBmb3IgZGlmZmVyZW5jZSAtLT4KICAgIDxsaW5lIHgxPSJ7c2NhbGVfeCgwLjM2KX0iIHkxPSJ7c2NhbGVfeSgwLjM2KX0iIHgyPSJ7c2NhbGVfeCgwLjM2KX0iIHkyPSJ7c2NhbGVfeSgwLjM2ICogKGdhbW1hKioyKS8oKGdhbW1hKzEtMC4zNikqKjIpKX0iIHN0cm9rZT0iIzhDOTI4RiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSIyLDIiLz4KICAgIDx0ZXh0IHg9IntzY2FsZV94KDAuMzYpICsgNX0iIHk9Insoc2NhbGVfeSgwLjM2KSArIHNjYWxlX3koMC4zNiAqIChnYW1tYSoqMikvKChnYW1tYSsxLTAuMzYpKioyKSkpIC8gMn0iIGNsYXNzPSJzbWFsbCIgZmlsbD0iIzhDOTI4RiI+5beu6LedPC90ZXh0PgogICAgCiAgICA8IS0tIExlZ2VuZCAtLT4KICAgIDxsaW5lIHgxPSIzODAiIHkxPSI4MCIgeDI9IjQyMCIgeTI9IjgwIiBzdHJva2U9IiMzQjgyRjYiIHN0cm9rZS13aWR0aD0iMi41Ii8+CiAgICA8dGV4dCB4PSI0MzAiIHk9Ijg1IiBjbGFzcz0ic21hbGwgbW9ubyI+djE6IM+HID0gQcK3S+KCgDwvdGV4dD4KICAgIAogICAgPGxpbmUgeDE9IjM4MCIgeTE9IjEwNSIgeDI9IjQyMCIgeTI9IjEwNSIgc3Ryb2tlPSIjNEE4QjcxIiBzdHJva2Utd2lkdGg9IjIuNSIvPgogICAgPHRleHQgeD0iNDMwIiB5PSIxMTAiIGNsYXNzPSJzbWFsbCBtb25vIj52MjogSyA9IEHCt0vigoDCt86zwrIvKM6zKzEtS+KCgCnCsjwvdGV4dD4KICAgIAo8L3N2Zz4nJycKICAgIAogICAgcmV0dXJuIHN2ZwoKCmRlZiBnZW5lcmF0ZV92YWx1ZV9jb252ZXJzaW9uKCk6CiAgICAiIiIKICAgIEdlbmVyYXRlIFNWRyBzaG93aW5nIHRoZSBjb25jZXB0IG9mIHZhbHVlIGNvbnZlcnNpb24gZnJvbSBxdWFudGl0eSB0byB2YWx1ZS4KICAgICIiIgogICAgd2lkdGgsIGhlaWdodCA9IDYwMCwgMzUwCiAgICAKICAgIHN2ZyA9IGYnJyc8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIHt3aWR0aH0ge2hlaWdodH0iPgp7U1ZHX1NUWUxFfQp7QVJST1dfTUFSS0VSfQogICAgCiAgICA8IS0tIFRpdGxlIC0tPgogICAgPHRleHQgeD0ie3dpZHRoLzJ9IiB5PSIzMCIgY2xhc3M9InRpdGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7ku7flgLzovazmjaLvvJrku47mlbDph4/liLDku7flgLw8L3RleHQ+CiAgICAKICAgIDwhLS0gTGVmdCBzaWRlOiBRdWFudGl0eSAtLT4KICAgIDxyZWN0IHg9IjQwIiB5PSI3MCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIHJ4PSI4IiBmaWxsPSJub25lIiBzdHJva2U9IiM4QzkyOEYiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWRhc2hhcnJheT0iNCw0Ii8+CiAgICA8dGV4dCB4PSIxNDAiIHk9Ijk1IiBjbGFzcz0ibGFiZWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4QzkyOEYiPuaVsOmHjyAoYmFsYW5jZSk8L3RleHQ+CiAgICAKICAgIDxyZWN0IHg9IjYwIiB5PSIxMTUiIHdpZHRoPSIxNjAiIGhlaWdodD0iNDAiIHJ4PSI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPHRleHQgeD0iMTQwIiB5PSIxNDAiIGNsYXNzPSJtb25vIHNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xMDAsMDAwIFVTRFQ8L3RleHQ+CiAgICAKICAgIDxyZWN0IHg9IjYwIiB5PSIxNjUiIHdpZHRoPSIxNjAiIGhlaWdodD0iNDAiIHJ4PSI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPHRleHQgeD0iMTQwIiB5PSIxOTAiIGNsYXNzPSJtb25vIHNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4yIFdCVEM8L3RleHQ+CiAgICAKICAgIDxyZWN0IHg9IjYwIiB5PSIyMTUiIHdpZHRoPSIxNjAiIGhlaWdodD0iNDAiIHJ4PSI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPHRleHQgeD0iMTQwIiB5PSIyNDAiIGNsYXNzPSJtb25vIHNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4zMCBXRVRIPC90ZXh0PgogICAgCiAgICA8IS0tIEFycm93IC0tPgogICAgPGxpbmUgeDE9IjI2MCIgeTE9IjE3MCIgeDI9IjM0MCIgeTI9IjE3MCIgc3Ryb2tlPSIjNEE4QjcxIiBzdHJva2Utd2lkdGg9IjIiIG1hcmtlci1lbmQ9InVybCgjYXJyb3ctamFkZSkiLz4KICAgIDx0ZXh0IHg9IjMwMCIgeT0iMTU1IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzRBOEI3MSI+w5cgcOG1ojwvdGV4dD4KICAgIAogICAgPCEtLSBSaWdodCBzaWRlOiBWYWx1ZSAtLT4KICAgIDxyZWN0IHg9IjM2MCIgeT0iNzAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiByeD0iOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOEM5MjhGIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsNCIvPgogICAgPHRleHQgeD0iNDYwIiB5PSI5NSIgY2xhc3M9ImxhYmVsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOEM5MjhGIj7ku7flgLwgKHZhbHVlKTwvdGV4dD4KICAgIAogICAgPHJlY3QgeD0iMzgwIiB5PSIxMTUiIHdpZHRoPSIxNjAiIGhlaWdodD0iNDAiIHJ4PSI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPHRleHQgeD0iNDYwIiB5PSIxNDAiIGNsYXNzPSJtb25vIHNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xMDAsMDAwIFVTRFQ8L3RleHQ+CiAgICAKICAgIDxyZWN0IHg9IjM4MCIgeT0iMTY1IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjQ2MCIgeT0iMTkwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+ODAsMDAwIFVTRFQ8L3RleHQ+CiAgICAKICAgIDxyZWN0IHg9IjM4MCIgeT0iMjE1IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjQ2MCIgeT0iMjQwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+OTAsMDAwIFVTRFQ8L3RleHQ+CiAgICAKICAgIDwhLS0gUHJpY2UgYW5ub3RhdGlvbnMgLS0+CiAgICA8dGV4dCB4PSIzMDAiIHk9IjEzNSIgY2xhc3M9InNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOEM5MjhGIj5w4oKAID0gMTwvdGV4dD4KICAgIDx0ZXh0IHg9IjMwMCIgeT0iMTg1IiBjbGFzcz0ic21hbGwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4QzkyOEYiPnDigoEgPSA0MCwwMDA8L3RleHQ+CiAgICA8dGV4dCB4PSIzMDAiIHk9IjIzNSIgY2xhc3M9InNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOEM5MjhGIj5w4oKCID0gMywwMDA8L3RleHQ+CiAgICAKICAgIDwhLS0gVG90YWwgLS0+CiAgICA8bGluZSB4MT0iMzgwIiB5MT0iMjc1IiB4Mj0iNTQwIiB5Mj0iMjc1IiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPHRleHQgeD0iNDYwIiB5PSIzMDAiIGNsYXNzPSJsYWJlbCBtb25vIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7mgLvku7flgLwgPSAyNzAsMDAwIFVTRFQ8L3RleHQ+CiAgICAKICAgIDwhLS0gRm9ybXVsYSAtLT4KICAgIDx0ZXh0IHg9Int3aWR0aC8yfSIgeT0iMzM1IiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+YifhtaIgPSBi4bWiIMOXIHDhtaI8L3RleHQ+CiAgICAKPC9zdmc+JycnCiAgICAKICAgIHJldHVybiBzdmcKCgpkZWYgZ2VuZXJhdGVfcmVwZWdnaW5nX2Zsb3coKToKICAgICIiIgogICAgR2VuZXJhdGUgU1ZHIHNob3dpbmcgdGhlIHJlcGVnZ2luZyBtZWNoYW5pc20gZmxvdy4KICAgICIiIgogICAgd2lkdGgsIGhlaWdodCA9IDY1MCwgNDAwCiAgICAKICAgIHN2ZyA9IGYnJyc8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIHt3aWR0aH0ge2hlaWdodH0iPgp7U1ZHX1NUWUxFfQp7QVJST1dfTUFSS0VSfQogICAgCiAgICA8IS0tIFRpdGxlIC0tPgogICAgPHRleHQgeD0ie3dpZHRoLzJ9IiB5PSIzMCIgY2xhc3M9InRpdGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5SZXBlZ2dpbmcg5py65Yi277ya5Lu35qC86Ieq5Yqo6L+96LiqPC90ZXh0PgogICAgPHRleHQgeD0ie3dpZHRoLzJ9IiB5PSI1MCIgY2xhc3M9InN1YnRpdGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7kuInnp43ku7fmoLznmoTlhoXpg6jlvqrnjq/osIPmlbQ8L3RleHQ+CiAgICAKICAgIDwhLS0gVHJhZGUgYm94IC0tPgogICAgPHJlY3QgeD0iNTAiIHk9IjEwMCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2MCIgcng9IjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgIDx0ZXh0IHg9IjExMCIgeT0iMTM1IiBjbGFzcz0ibGFiZWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuS6pOaYkzwvdGV4dD4KICAgIAogICAgPCEtLSBsYXN0X3ByaWNlIGJveCAtLT4KICAgIDxyZWN0IHg9IjIzMCIgeT0iMTAwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwIiByeD0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEuNSIvPgogICAgPHRleHQgeD0iMjkwIiB5PSIxMjUiIGNsYXNzPSJsYWJlbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+bGFzdF9wcmljZTwvdGV4dD4KICAgIDx0ZXh0IHg9IjI5MCIgeT0iMTQ1IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+5Y2z5pe25Lu35qC8PC90ZXh0PgogICAgCiAgICA8IS0tIHByaWNlX29yYWNsZSBib3ggLS0+CiAgICA8cmVjdCB4PSI0MTAiIHk9IjEwMCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2MCIgcng9IjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgIDx0ZXh0IHg9IjQ3MCIgeT0iMTI1IiBjbGFzcz0ibGFiZWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPnByaWNlX29yYWNsZTwvdGV4dD4KICAgIDx0ZXh0IHg9IjQ3MCIgeT0iMTQ1IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+RU1BIOW5s+a7kTwvdGV4dD4KICAgIAogICAgPCEtLSBwcmljZV9zY2FsZSBib3ggLS0+CiAgICA8cmVjdCB4PSI0MTAiIHk9IjI0MCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2MCIgcng9IjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRBOEI3MSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8dGV4dCB4PSI0NzAiIHk9IjI2NSIgY2xhc3M9ImxhYmVsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjNEE4QjcxIj5wcmljZV9zY2FsZTwvdGV4dD4KICAgIDx0ZXh0IHg9IjQ3MCIgeT0iMjg1IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+5YaF6YOo57yp5pS+5Lu35qC8PC90ZXh0PgogICAgCiAgICA8IS0tIEN1cnZlIGJveCAtLT4KICAgIDxyZWN0IHg9IjIzMCIgeT0iMjQwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwIiByeD0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEuNSIvPgogICAgPHRleHQgeD0iMjkwIiB5PSIyNjUiIGNsYXNzPSJsYWJlbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QU1NIOabsue6vzwvdGV4dD4KICAgIDx0ZXh0IHg9IjI5MCIgeT0iMjg1IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+SywgRCwgeHA8L3RleHQ+CiAgICAKICAgIDwhLS0gQXJyb3dzIC0tPgogICAgPGxpbmUgeDE9IjE3MCIgeTE9IjEzMCIgeDI9IjIyMCIgeTI9IjEzMCIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEuNSIgbWFya2VyLWVuZD0idXJsKCNhcnJvdykiLz4KICAgIDx0ZXh0IHg9IjE5NSIgeT0iMTIwIiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+ZHgvZHk8L3RleHQ+CiAgICAKICAgIDxsaW5lIHgxPSIzNTAiIHkxPSIxMzAiIHgyPSI0MDAiIHkyPSIxMzAiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3cpIi8+CiAgICA8dGV4dCB4PSIzNzUiIHk9IjEyMCIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJtaWRkbGUiPkVNQTwvdGV4dD4KICAgIAogICAgPGxpbmUgeDE9IjQ3MCIgeTE9IjE2MCIgeDI9IjQ3MCIgeTI9IjIzMCIgc3Ryb2tlPSIjNEE4QjcxIiBzdHJva2Utd2lkdGg9IjEuNSIgbWFya2VyLWVuZD0idXJsKCNhcnJvdy1qYWRlKSIvPgogICAgPHRleHQgeD0iNDkwIiB5PSIxOTUiIGNsYXNzPSJzbWFsbCIgZmlsbD0iIzRBOEI3MSI+6LCD5pW0PC90ZXh0PgogICAgCiAgICA8bGluZSB4MT0iNDEwIiB5MT0iMjcwIiB4Mj0iMzYwIiB5Mj0iMjcwIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iMS41IiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93KSIvPgogICAgPHRleHQgeD0iMzg1IiB5PSIyNjAiIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7mm7TmlrA8L3RleHQ+CiAgICAKICAgIDxsaW5lIHgxPSIyMzAiIHkxPSIyNzAiIHgyPSIxMTAiIHkyPSIyNzAiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSIyNzAiIHgyPSIxMTAiIHkyPSIxNzAiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3cpIi8+CiAgICA8dGV4dCB4PSIxNzAiIHk9IjI2MCIgY2xhc3M9InNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7lvbHlk43mu5Hngrk8L3RleHQ+CiAgICAKICAgIDwhLS0gQ29uZGl0aW9uIGFubm90YXRpb24gLS0+CiAgICA8cmVjdCB4PSI1MjAiIHk9IjE4MCIgd2lkdGg9IjExMCIgaGVpZ2h0PSI1MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0QxMzQyOSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDQiLz4KICAgIDx0ZXh0IHg9IjU3NSIgeT0iMjAwIiBjbGFzcz0ic21hbGwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNEMTM0MjkiPuinpuWPkeadoeS7tjo8L3RleHQ+CiAgICA8dGV4dCB4PSI1NzUiIHk9IjIxOCIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNEMTM0MjkiPuWIqea2piA+IDUwJTwvdGV4dD4KICAgIAogICAgPCEtLSBGb3JtdWxhIGF0IGJvdHRvbSAtLT4KICAgIDx0ZXh0IHg9Int3aWR0aC8yfSIgeT0iMzYwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+zrEgPSAyXigtdC9U4oKBL+KCgiksIHAqID0gcF9sYXN0KDEtzrEpICsgzrHCt3AqX3ByZXY8L3RleHQ+CiAgICA8dGV4dCB4PSJ7d2lkdGgvMn0iIHk9IjM4NSIgY2xhc3M9InNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOEM5MjhGIj7mjIfmlbDnp7vliqjlubPlnYfvvIhFTUHvvInlubPmu5Hku7fmoLzms6Lliqg8L3RleHQ+CiAgICAKPC9zdmc+JycnCiAgICAKICAgIHJldHVybiBzdmcKCgpkZWYgZ2VuZXJhdGVfZHluYW1pY19mZWUoKToKICAgICIiIgogICAgR2VuZXJhdGUgU1ZHIHNob3dpbmcgZHluYW1pYyBmZWUgbWVjaGFuaXNtLgogICAgIiIiCiAgICB3aWR0aCwgaGVpZ2h0ID0gNTAwLCAzNTAKICAgIG1hcmdpbiA9IDYwCiAgICBwbG90X3dpZHRoID0gd2lkdGggLSAyICogbWFyZ2luCiAgICBwbG90X2hlaWdodCA9IGhlaWdodCAtIDIgKiBtYXJnaW4gLSA2MAogICAgCiAgICBkZWYgc2NhbGVfeChyYXRpbyk6CiAgICAgICAgcmV0dXJuIG1hcmdpbiArIHJhdGlvICogcGxvdF93aWR0aAogICAgCiAgICBkZWYgc2NhbGVfeShmZWUsIGZfbWlkPTAuMDQsIGZfb3V0PTAuNDApOgogICAgICAgIG5vcm1hbGl6ZWQgPSAoZmVlIC0gZl9taWQpIC8gKGZfb3V0IC0gZl9taWQpCiAgICAgICAgcmV0dXJuIG1hcmdpbiArIDYwICsgcGxvdF9oZWlnaHQgKiAoMSAtIG5vcm1hbGl6ZWQpCiAgICAKICAgIGdhbW1hX2ZlZSA9IDAuNQogICAgZl9taWQgPSAwLjA0CiAgICBmX291dCA9IDAuNDAKICAgIAogICAgcG9pbnRzID0gW10KICAgIGZvciBpIGluIHJhbmdlKDEwMSk6CiAgICAgICAgcmF0aW8gPSBpIC8gMTAwLjAKICAgICAgICBpZiByYXRpbyA8IDAuMDE6CiAgICAgICAgICAgIHJhdGlvID0gMC4wMQogICAgICAgIAogICAgICAgIGcgPSBnYW1tYV9mZWUgLyAoZ2FtbWFfZmVlICsgMSAtIHJhdGlvKQogICAgICAgIGZlZSA9IGcgKiBmX21pZCArICgxIC0gZykgKiBmX291dAogICAgICAgIHBvaW50cy5hcHBlbmQoKHNjYWxlX3gocmF0aW8pLCBzY2FsZV95KGZlZSkpKQogICAgCiAgICBwYXRoID0gIk0gIiArICIgTCAiLmpvaW4oZiJ7eDouMWZ9IHt5Oi4xZn0iIGZvciB4LCB5IGluIHBvaW50cykKICAgIAogICAgc3ZnID0gZicnJzxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAge3dpZHRofSB7aGVpZ2h0fSI+CntTVkdfU1RZTEV9CntBUlJPV19NQVJLRVJ9CiAgICAKICAgIDwhLS0gVGl0bGUgLS0+CiAgICA8dGV4dCB4PSJ7d2lkdGgvMn0iIHk9IjI1IiBjbGFzcz0idGl0bGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuWKqOaAgeaJi+e7rei0ueacuuWItjwvdGV4dD4KICAgIDx0ZXh0IHg9Int3aWR0aC8yfSIgeT0iNDUiIGNsYXNzPSJzdWJ0aXRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5YGP56a75bmz6KGh54K56LaK6L+c77yM5omL57ut6LS56LaK6auYPC90ZXh0PgogICAgCiAgICA8IS0tIEF4ZXMgLS0+CiAgICA8bGluZSB4MT0ie21hcmdpbn0iIHkxPSJ7bWFyZ2luICsgNjAgKyBwbG90X2hlaWdodH0iIHgyPSJ7d2lkdGggLSBtYXJnaW4gKyAxMH0iIHkyPSJ7bWFyZ2luICsgNjAgKyBwbG90X2hlaWdodH0iIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3cpIi8+CiAgICA8bGluZSB4MT0ie21hcmdpbn0iIHkxPSJ7bWFyZ2luICsgNjAgKyBwbG90X2hlaWdodH0iIHgyPSJ7bWFyZ2lufSIgeTI9InttYXJnaW4gKyA1MH0iIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxLjUiIG1hcmtlci1lbmQ9InVybCgjYXJyb3cpIi8+CiAgICAKICAgIDwhLS0gQXhpcyBsYWJlbHMgLS0+CiAgICA8dGV4dCB4PSJ7d2lkdGggLSBtYXJnaW4gKyAxNX0iIHk9InttYXJnaW4gKyA2MCArIHBsb3RfaGVpZ2h0ICsgNX0iIGNsYXNzPSJzbWFsbCBtb25vIj7iiI944bWiLyjOo3jhtaIvTinhtLo8L3RleHQ+CiAgICA8dGV4dCB4PSJ7bWFyZ2luIC0gNX0iIHk9InttYXJnaW4gKyA0NX0iIGNsYXNzPSJsYWJlbCBtb25vIj5mZWU8L3RleHQ+CiAgICAKICAgIDwhLS0gSG9yaXpvbnRhbCByZWZlcmVuY2UgbGluZXMgLS0+CiAgICA8bGluZSB4MT0ie21hcmdpbn0iIHkxPSJ7c2NhbGVfeShmX21pZCl9IiB4Mj0ie3dpZHRoIC0gbWFyZ2lufSIgeTI9IntzY2FsZV95KGZfbWlkKX0iIHN0cm9rZT0iI0U1RTdFQiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDQiLz4KICAgIDxsaW5lIHgxPSJ7bWFyZ2lufSIgeTE9IntzY2FsZV95KGZfb3V0KX0iIHgyPSJ7d2lkdGggLSBtYXJnaW59IiB5Mj0ie3NjYWxlX3koZl9vdXQpfSIgc3Ryb2tlPSIjRTVFN0VCIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsNCIvPgogICAgCiAgICA8IS0tIEZlZSBsYWJlbHMgLS0+CiAgICA8dGV4dCB4PSJ7bWFyZ2luIC0gMTB9IiB5PSJ7c2NhbGVfeShmX21pZCkgKyA1fSIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJlbmQiIGZpbGw9IiM0QThCNzEiPjAuMDQlPC90ZXh0PgogICAgPHRleHQgeD0ie21hcmdpbiAtIDEwfSIgeT0ie3NjYWxlX3koZl9vdXQpICsgNX0iIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0iZW5kIiBmaWxsPSIjRDEzNDI5Ij4wLjQwJTwvdGV4dD4KICAgIAogICAgPCEtLSBYIGF4aXMgbGFiZWxzIC0tPgogICAgPHRleHQgeD0ie3NjYWxlX3goMCl9IiB5PSJ7bWFyZ2luICsgNjAgKyBwbG90X2hlaWdodCArIDIwfSIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJtaWRkbGUiPjA8L3RleHQ+CiAgICA8dGV4dCB4PSJ7c2NhbGVfeCgwLjUpfSIgeT0ie21hcmdpbiArIDYwICsgcGxvdF9oZWlnaHQgKyAyMH0iIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4wLjU8L3RleHQ+CiAgICA8dGV4dCB4PSJ7c2NhbGVfeCgxKX0iIHk9InttYXJnaW4gKyA2MCArIHBsb3RfaGVpZ2h0ICsgMjB9IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTwvdGV4dD4KICAgIAogICAgPCEtLSBGZWUgY3VydmUgLS0+CiAgICA8cGF0aCBkPSJ7cGF0aH0iIHN0cm9rZT0iIzRBOEI3MSIgc3Ryb2tlLXdpZHRoPSIyLjUiIGZpbGw9Im5vbmUiLz4KICAgIAogICAgPCEtLSBBbm5vdGF0aW9ucyAtLT4KICAgIDx0ZXh0IHg9IntzY2FsZV94KDAuMTUpfSIgeT0ie3NjYWxlX3koMC4zNSkgLSAxMH0iIGNsYXNzPSJzbWFsbCIgZmlsbD0iI0QxMzQyOSI+6L+c56a75bmz6KGhPC90ZXh0PgogICAgPHRleHQgeD0ie3NjYWxlX3goMC4xNSl9IiB5PSJ7c2NhbGVfeSgwLjM1KSArIDV9IiBjbGFzcz0ic21hbGwiIGZpbGw9IiNEMTM0MjkiPumrmOaJi+e7rei0uTwvdGV4dD4KICAgIAogICAgPHRleHQgeD0ie3NjYWxlX3goMC44NSl9IiB5PSJ7c2NhbGVfeSgwLjA2KSArIDIwfSIgY2xhc3M9InNtYWxsIiBmaWxsPSIjNEE4QjcxIj7mjqXov5HlubPooaE8L3RleHQ+CiAgICA8dGV4dCB4PSJ7c2NhbGVfeCgwLjg1KX0iIHk9IntzY2FsZV95KDAuMDYpICsgMzV9IiBjbGFzcz0ic21hbGwiIGZpbGw9IiM0QThCNzEiPuS9juaJi+e7rei0uTwvdGV4dD4KICAgIAogICAgPCEtLSBFcXVpbGlicml1bSBwb2ludCAtLT4KICAgIDxjaXJjbGUgY3g9IntzY2FsZV94KDEpfSIgY3k9IntzY2FsZV95KGZfbWlkKX0iIHI9IjUiIGZpbGw9IiM0QThCNzEiLz4KICAgIAogICAgPCEtLSBGb3JtdWxhIC0tPgogICAgPHRleHQgeD0ie3dpZHRoLzJ9IiB5PSJ7aGVpZ2h0IC0gMjB9IiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+ZiA9IGfCt2ZfbWlkICsgKDEtZynCt2Zfb3V0PC90ZXh0PgogICAgCjwvc3ZnPicnJwogICAgCiAgICByZXR1cm4gc3ZnCgoKZGVmIG1haW4oKToKICAgIE9VVFBVVF9ESVIubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgCiAgICBkaWFncmFtcyA9IFsKICAgICAgICAoImtfY29tcGFyaXNvbi5zdmciLCBnZW5lcmF0ZV9rX2NvbXBhcmlzb24oKSksCiAgICAgICAgKCJ2YWx1ZV9jb252ZXJzaW9uLnN2ZyIsIGdlbmVyYXRlX3ZhbHVlX2NvbnZlcnNpb24oKSksCiAgICAgICAgKCJyZXBlZ2dpbmdfZmxvdy5zdmciLCBnZW5lcmF0ZV9yZXBlZ2dpbmdfZmxvdygpKSwKICAgICAgICAoImR5bmFtaWNfZmVlLnN2ZyIsIGdlbmVyYXRlX2R5bmFtaWNfZmVlKCkpLAogICAgXQogICAgCiAgICBmb3IgZmlsZW5hbWUsIHN2Z19jb250ZW50IGluIGRpYWdyYW1zOgogICAgICAgIG91dHB1dF9wYXRoID0gT1VUUFVUX0RJUiAvIGZpbGVuYW1lCiAgICAgICAgb3V0cHV0X3BhdGgud3JpdGVfdGV4dChzdmdfY29udGVudCwgZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICBwcmludChmIkdlbmVyYXRlZDoge291dHB1dF9wYXRofSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo="}
+#!/usr/bin/env python3
+"""
+Generate SVG diagrams for Curve CryptoSwap (v2) article.
+Cyber-Zen style: minimalist, professional, no hand-drawn feel.
+"""
+
+import math
+from pathlib import Path
+
+OUTPUT_DIR = Path(__file__).parent.parent / "public/images/blog/curve-cryptoswap-formula"
+
+SVG_STYLE = """
+    <style>
+        text { font-family: 'Inter', -apple-system, sans-serif; fill: #474747; }
+        .mono { font-family: 'JetBrains Mono', 'SF Mono', monospace; }
+        .label { font-size: 14px; }
+        .title { font-size: 16px; font-weight: 600; }
+        .small { font-size: 12px; }
+        .subtitle { font-size: 13px; fill: #8C928F; }
+    </style>
+"""
+
+ARROW_MARKER = """
+    <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#474747"/>
+        </marker>
+        <marker id="arrow-jade" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#4A8B71"/>
+        </marker>
+        <marker id="arrow-gray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#8C928F"/>
+        </marker>
+    </defs>
+"""
+
+
+def generate_k_comparison():
+    """
+    Generate SVG showing K adjustment factor comparison between v1 and v2.
+    Shows how gamma makes the curve steeper when away from equilibrium.
+    """
+    width, height = 550, 400
+    margin = 60
+    plot_width = width - 2 * margin
+    plot_height = height - 2 * margin - 40
+    
+    def scale_x(k0):
+        return margin + k0 * plot_width
+    
+    def scale_y(val, max_val=1.0):
+        return margin + 40 + plot_height * (1 - val / max_val)
+    
+    paths = []
+    
+    A = 100
+    gamma = 0.01
+    
+    v1_points = []
+    v2_points = []
+    
+    for i in range(101):
+        k0 = i / 100.0
+        if k0 < 0.01:
+            k0 = 0.01
+        
+        chi_v1 = A * k0
+        
+        adjustment = (gamma ** 2) / ((gamma + 1 - k0) ** 2)
+        k_v2 = A * k0 * adjustment
+        
+        v1_points.append((scale_x(k0), scale_y(chi_v1 / A)))
+        v2_points.append((scale_x(k0), scale_y(k_v2 / A)))
+    
+    v1_path = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y in v1_points)
+    v2_path = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y in v2_points)
+    
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}">
+{SVG_STYLE}
+{ARROW_MARKER}
+    
+    <!-- Title -->
+    <text x="{width/2}" y="25" class="title" text-anchor="middle">K 调整因子对比：v1 vs v2</text>
+    <text x="{width/2}" y="45" class="subtitle" text-anchor="middle">γ 参数让曲线在偏离平衡点时下降更快</text>
+    
+    <!-- Axes -->
+    <line x1="{margin}" y1="{margin + 40 + plot_height}" x2="{width - margin + 10}" y2="{margin + 40 + plot_height}" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <line x1="{margin}" y1="{margin + 40 + plot_height}" x2="{margin}" y2="{margin + 30}" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    
+    <!-- Axis labels -->
+    <text x="{width - margin + 20}" y="{margin + 40 + plot_height + 5}" class="label mono">K₀</text>
+    <text x="{margin - 10}" y="{margin + 25}" class="label mono">K/A</text>
+    
+    <!-- Grid lines -->
+    <line x1="{scale_x(0.5)}" y1="{margin + 40}" x2="{scale_x(0.5)}" y2="{margin + 40 + plot_height}" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="{margin}" y1="{scale_y(0.5)}" x2="{width - margin}" y2="{scale_y(0.5)}" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4,4"/>
+    
+    <!-- Tick marks -->
+    <text x="{scale_x(0)}" y="{margin + 40 + plot_height + 20}" class="small mono" text-anchor="middle">0</text>
+    <text x="{scale_x(0.5)}" y="{margin + 40 + plot_height + 20}" class="small mono" text-anchor="middle">0.5</text>
+    <text x="{scale_x(1)}" y="{margin + 40 + plot_height + 20}" class="small mono" text-anchor="middle">1</text>
+    <text x="{margin - 15}" y="{scale_y(0) + 5}" class="small mono" text-anchor="end">0</text>
+    <text x="{margin - 15}" y="{scale_y(0.5) + 5}" class="small mono" text-anchor="end">0.5</text>
+    <text x="{margin - 15}" y="{scale_y(1) + 5}" class="small mono" text-anchor="end">1</text>
+    
+    <!-- v1 curve (blue) -->
+    <path d="{v1_path}" stroke="#3B82F6" stroke-width="2.5" fill="none"/>
+    
+    <!-- v2 curve (jade) -->
+    <path d="{v2_path}" stroke="#4A8B71" stroke-width="2.5" fill="none"/>
+    
+    <!-- Equilibrium point -->
+    <circle cx="{scale_x(1)}" cy="{scale_y(1)}" r="5" fill="#D13429"/>
+    <text x="{scale_x(1) + 10}" y="{scale_y(1) - 10}" class="small" fill="#D13429">平衡点</text>
+    
+    <!-- Annotation for difference -->
+    <line x1="{scale_x(0.36)}" y1="{scale_y(0.36)}" x2="{scale_x(0.36)}" y2="{scale_y(0.36 * (gamma**2)/((gamma+1-0.36)**2))}" stroke="#8C928F" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="{scale_x(0.36) + 5}" y="{(scale_y(0.36) + scale_y(0.36 * (gamma**2)/((gamma+1-0.36)**2))) / 2}" class="small" fill="#8C928F">差距</text>
+    
+    <!-- Legend -->
+    <line x1="380" y1="80" x2="420" y2="80" stroke="#3B82F6" stroke-width="2.5"/>
+    <text x="430" y="85" class="small mono">v1: χ = A·K₀</text>
+    
+    <line x1="380" y1="105" x2="420" y2="105" stroke="#4A8B71" stroke-width="2.5"/>
+    <text x="430" y="110" class="small mono">v2: K = A·K₀·γ²/(γ+1-K₀)²</text>
+    
+</svg>'''
+    
+    return svg
+
+
+def generate_value_conversion():
+    """
+    Generate SVG showing the concept of value conversion from quantity to value.
+    """
+    width, height = 600, 350
+    
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}">
+{SVG_STYLE}
+{ARROW_MARKER}
+    
+    <!-- Title -->
+    <text x="{width/2}" y="30" class="title" text-anchor="middle">价值转换：从数量到价值</text>
+    
+    <!-- Left side: Quantity -->
+    <rect x="40" y="70" width="200" height="200" rx="8" fill="none" stroke="#8C928F" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="140" y="95" class="label" text-anchor="middle" fill="#8C928F">数量 (balance)</text>
+    
+    <rect x="60" y="115" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="140" y="140" class="mono small" text-anchor="middle">100,000 USDT</text>
+    
+    <rect x="60" y="165" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="140" y="190" class="mono small" text-anchor="middle">2 WBTC</text>
+    
+    <rect x="60" y="215" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="140" y="240" class="mono small" text-anchor="middle">30 WETH</text>
+    
+    <!-- Arrow -->
+    <line x1="260" y1="170" x2="340" y2="170" stroke="#4A8B71" stroke-width="2" marker-end="url(#arrow-jade)"/>
+    <text x="300" y="155" class="small mono" text-anchor="middle" fill="#4A8B71">× pᵢ</text>
+    
+    <!-- Right side: Value -->
+    <rect x="360" y="70" width="200" height="200" rx="8" fill="none" stroke="#8C928F" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="460" y="95" class="label" text-anchor="middle" fill="#8C928F">价值 (value)</text>
+    
+    <rect x="380" y="115" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="140" class="mono small" text-anchor="middle">100,000 USDT</text>
+    
+    <rect x="380" y="165" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="190" class="mono small" text-anchor="middle">80,000 USDT</text>
+    
+    <rect x="380" y="215" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="240" class="mono small" text-anchor="middle">90,000 USDT</text>
+    
+    <!-- Price annotations -->
+    <text x="300" y="135" class="small" text-anchor="middle" fill="#8C928F">p₀ = 1</text>
+    <text x="300" y="185" class="small" text-anchor="middle" fill="#8C928F">p₁ = 40,000</text>
+    <text x="300" y="235" class="small" text-anchor="middle" fill="#8C928F">p₂ = 3,000</text>
+    
+    <!-- Total -->
+    <line x1="380" y1="275" x2="540" y2="275" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="300" class="label mono" text-anchor="middle">总价值 = 270,000 USDT</text>
+    
+    <!-- Formula -->
+    <text x="{width/2}" y="335" class="mono small" text-anchor="middle" fill="#8C928F">b'ᵢ = bᵢ × pᵢ</text>
+    
+</svg>'''
+    
+    return svg
+
+
+def generate_repegging_flow():
+    """
+    Generate SVG showing the repegging mechanism flow.
+    """
+    width, height = 650, 400
+    
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}">
+{SVG_STYLE}
+{ARROW_MARKER}
+    
+    <!-- Title -->
+    <text x="{width/2}" y="30" class="title" text-anchor="middle">Repegging 机制：价格自动追踪</text>
+    <text x="{width/2}" y="50" class="subtitle" text-anchor="middle">三种价格的内部循环调整</text>
+    
+    <!-- Trade box -->
+    <rect x="50" y="100" width="120" height="60" rx="6" fill="none" stroke="#474747" stroke-width="1.5"/>
+    <text x="110" y="135" class="label" text-anchor="middle">交易</text>
+    
+    <!-- last_price box -->
+    <rect x="230" y="100" width="120" height="60" rx="6" fill="none" stroke="#474747" stroke-width="1.5"/>
+    <text x="290" y="125" class="label" text-anchor="middle">last_price</text>
+    <text x="290" y="145" class="small mono" text-anchor="middle" fill="#8C928F">即时价格</text>
+    
+    <!-- price_oracle box -->
+    <rect x="410" y="100" width="120" height="60" rx="6" fill="none" stroke="#474747" stroke-width="1.5"/>
+    <text x="470" y="125" class="label" text-anchor="middle">price_oracle</text>
+    <text x="470" y="145" class="small mono" text-anchor="middle" fill="#8C928F">EMA 平滑</text>
+    
+    <!-- price_scale box -->
+    <rect x="410" y="240" width="120" height="60" rx="6" fill="none" stroke="#4A8B71" stroke-width="2"/>
+    <text x="470" y="265" class="label" text-anchor="middle" fill="#4A8B71">price_scale</text>
+    <text x="470" y="285" class="small mono" text-anchor="middle" fill="#8C928F">内部缩放价格</text>
+    
+    <!-- Curve box -->
+    <rect x="230" y="240" width="120" height="60" rx="6" fill="none" stroke="#474747" stroke-width="1.5"/>
+    <text x="290" y="265" class="label" text-anchor="middle">AMM 曲线</text>
+    <text x="290" y="285" class="small mono" text-anchor="middle" fill="#8C928F">K, D, xp</text>
+    
+    <!-- Arrows -->
+    <line x1="170" y1="130" x2="220" y2="130" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="195" y="120" class="small mono" text-anchor="middle">dx/dy</text>
+    
+    <line x1="350" y1="130" x2="400" y2="130" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="375" y="120" class="small mono" text-anchor="middle">EMA</text>
+    
+    <line x1="470" y1="160" x2="470" y2="230" stroke="#4A8B71" stroke-width="1.5" marker-end="url(#arrow-jade)"/>
+    <text x="490" y="195" class="small" fill="#4A8B71">调整</text>
+    
+    <line x1="410" y1="270" x2="360" y2="270" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="385" y="260" class="small mono" text-anchor="middle">更新</text>
+    
+    <line x1="230" y1="270" x2="110" y2="270" stroke="#474747" stroke-width="1.5"/>
+    <line x1="110" y1="270" x2="110" y2="170" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="170" y="260" class="small" text-anchor="middle">影响滑点</text>
+    
+    <!-- Condition annotation -->
+    <rect x="520" y="180" width="110" height="50" rx="4" fill="none" stroke="#D13429" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="575" y="200" class="small" text-anchor="middle" fill="#D13429">触发条件:</text>
+    <text x="575" y="218" class="small mono" text-anchor="middle" fill="#D13429">利润 > 50%</text>
+    
+    <!-- Formula at bottom -->
+    <text x="{width/2}" y="360" class="mono small" text-anchor="middle" fill="#8C928F">α = 2^(-t/T₁/₂), p* = p_last(1-α) + α·p*_prev</text>
+    <text x="{width/2}" y="385" class="small" text-anchor="middle" fill="#8C928F">指数移动平均（EMA）平滑价格波动</text>
+    
+</svg>'''
+    
+    return svg
+
+
+def generate_dynamic_fee():
+    """
+    Generate SVG showing dynamic fee mechanism.
+    """
+    width, height = 500, 350
+    margin = 60
+    plot_width = width - 2 * margin
+    plot_height = height - 2 * margin - 60
+    
+    def scale_x(ratio):
+        return margin + ratio * plot_width
+    
+    def scale_y(fee, f_mid=0.04, f_out=0.40):
+        normalized = (fee - f_mid) / (f_out - f_mid)
+        return margin + 60 + plot_height * (1 - normalized)
+    
+    gamma_fee = 0.5
+    f_mid = 0.04
+    f_out = 0.40
+    
+    points = []
+    for i in range(101):
+        ratio = i / 100.0
+        if ratio < 0.01:
+            ratio = 0.01
+        
+        g = gamma_fee / (gamma_fee + 1 - ratio)
+        fee = g * f_mid + (1 - g) * f_out
+        points.append((scale_x(ratio), scale_y(fee)))
+    
+    path = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y in points)
+    
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}">
+{SVG_STYLE}
+{ARROW_MARKER}
+    
+    <!-- Title -->
+    <text x="{width/2}" y="25" class="title" text-anchor="middle">动态手续费机制</text>
+    <text x="{width/2}" y="45" class="subtitle" text-anchor="middle">偏离平衡点越远，手续费越高</text>
+    
+    <!-- Axes -->
+    <line x1="{margin}" y1="{margin + 60 + plot_height}" x2="{width - margin + 10}" y2="{margin + 60 + plot_height}" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <line x1="{margin}" y1="{margin + 60 + plot_height}" x2="{margin}" y2="{margin + 50}" stroke="#474747" stroke-width="1.5" marker-end="url(#arrow)"/>
+    
+    <!-- Axis labels -->
+    <text x="{width - margin + 15}" y="{margin + 60 + plot_height + 5}" class="small mono">∏xᵢ/(Σxᵢ/N)ᴺ</text>
+    <text x="{margin - 5}" y="{margin + 45}" class="label mono">fee</text>
+    
+    <!-- Horizontal reference lines -->
+    <line x1="{margin}" y1="{scale_y(f_mid)}" x2="{width - margin}" y2="{scale_y(f_mid)}" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="{margin}" y1="{scale_y(f_out)}" x2="{width - margin}" y2="{scale_y(f_out)}" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4,4"/>
+    
+    <!-- Fee labels -->
+    <text x="{margin - 10}" y="{scale_y(f_mid) + 5}" class="small mono" text-anchor="end" fill="#4A8B71">0.04%</text>
+    <text x="{margin - 10}" y="{scale_y(f_out) + 5}" class="small mono" text-anchor="end" fill="#D13429">0.40%</text>
+    
+    <!-- X axis labels -->
+    <text x="{scale_x(0)}" y="{margin + 60 + plot_height + 20}" class="small mono" text-anchor="middle">0</text>
+    <text x="{scale_x(0.5)}" y="{margin + 60 + plot_height + 20}" class="small mono" text-anchor="middle">0.5</text>
+    <text x="{scale_x(1)}" y="{margin + 60 + plot_height + 20}" class="small mono" text-anchor="middle">1</text>
+    
+    <!-- Fee curve -->
+    <path d="{path}" stroke="#4A8B71" stroke-width="2.5" fill="none"/>
+    
+    <!-- Annotations -->
+    <text x="{scale_x(0.15)}" y="{scale_y(0.35) - 10}" class="small" fill="#D13429">远离平衡</text>
+    <text x="{scale_x(0.15)}" y="{scale_y(0.35) + 5}" class="small" fill="#D13429">高手续费</text>
+    
+    <text x="{scale_x(0.85)}" y="{scale_y(0.06) + 20}" class="small" fill="#4A8B71">接近平衡</text>
+    <text x="{scale_x(0.85)}" y="{scale_y(0.06) + 35}" class="small" fill="#4A8B71">低手续费</text>
+    
+    <!-- Equilibrium point -->
+    <circle cx="{scale_x(1)}" cy="{scale_y(f_mid)}" r="5" fill="#4A8B71"/>
+    
+    <!-- Formula -->
+    <text x="{width/2}" y="{height - 20}" class="mono small" text-anchor="middle" fill="#8C928F">f = g·f_mid + (1-g)·f_out</text>
+    
+</svg>'''
+    
+    return svg
+
+
+def main():
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    
+    diagrams = [
+        ("k_comparison.svg", generate_k_comparison()),
+        ("value_conversion.svg", generate_value_conversion()),
+        ("repegging_flow.svg", generate_repegging_flow()),
+        ("dynamic_fee.svg", generate_dynamic_fee()),
+    ]
+    
+    for filename, svg_content in diagrams:
+        output_path = OUTPUT_DIR / filename
+        output_path.write_text(svg_content, encoding="utf-8")
+        print(f"Generated: {output_path}")
+
+
+if __name__ == "__main__":
+    main()

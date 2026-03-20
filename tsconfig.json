@@ -1,1 +1,5 @@
-{"data":"ewogICJleHRlbmRzIjogImFzdHJvL3RzY29uZmlncy9zdHJpY3QiLAogICJpbmNsdWRlIjogWyIuYXN0cm8vdHlwZXMuZC50cyIsICIqKi8qIl0sCiAgImV4Y2x1ZGUiOiBbImRpc3QiXQp9Cg=="}
+{
+  "extends": "astro/tsconfigs/strict",
+  "include": [".astro/types.d.ts", "**/*"],
+  "exclude": ["dist"]
+}

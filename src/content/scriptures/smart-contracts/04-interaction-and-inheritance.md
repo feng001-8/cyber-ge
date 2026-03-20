@@ -1,1 +1,522 @@
-{"data":"IyDnrKwgNCDnq6DvvJrlkIjnuqbkuqTkupLkuI7nu6fmib8KCj4g5pm66IO95ZCI57qm5LiN5piv5a2k5bKb44CC55CG6Kej5ZCI57qm5LmL6Ze055qE6LCD55So5pa55byP5ZKM5Luj56CB5aSN55So5py65Yi277yM5piv5p6E5bu65aSN5p2CIERlRmkg57O757uf55qE5Z+656GA44CCCgotLS0KCiMjIOWklumDqOiwg+eUqAoK5ZCI57qm5LmL6Ze055qE5Lqk5LqS6YCa6L+H5raI5oGv6LCD55So5a6e546w44CC5b2T5ZCI57qmIEEg6LCD55So5ZCI57qmIEIg55qE5Ye95pWw5pe277yMRVZNIOS8muWIm+W7uuS4gOS4quaWsOeahOaJp+ihjOS4iuS4i+aWh++8jOWIh+aNouWIsOWQiOe6piBCIOeahOS7o+eggeWSjOWtmOWCqOepuumXtOaJp+ihjO+8jOWujOaIkOWQjui/lOWbnue7k+aenOe7meWQiOe6piBB44CCCgohW+WQiOe6puiwg+eUqOa1geeoi10oL2ltYWdlcy9zY3JpcHR1cmVzL3NtYXJ0LWNvbnRyYWN0cy8wNC1jb250cmFjdC1jYWxsLnBuZykKCiMjIyDosIPnlKjmlrnlvI8KClNvbGlkaXR5IOaPkOS+m+S6huWHoOenjeS4jeWQjOeahOiwg+eUqOaWueW8j++8jOWug+S7rOWcqOWuieWFqOaAp+WSjOeBtea0u+aAp+S4iuWQhOacieWPluiIjeOAggoK5pyA5bi46KeB55qE5pa55byP5piv6YCa6L+H5o6l5Y+j5oiW5ZCI57qm57G75Z6L55u05o6l6LCD55So44CC6L+Z56eN5pa55byP57G75Z6L5a6J5YWo77yM57yW6K+R5Zmo5Lya5qOA5p+l5Ye95pWw562+5ZCN5piv5ZCm5Yy56YWN44CCCgpgYGBzb2xpZGl0eQppbnRlcmZhY2UgSUVSQzIwIHsKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgdG8sIHVpbnQyNTYgYW1vdW50KSBleHRlcm5hbCByZXR1cm5zIChib29sKTsKICAgIGZ1bmN0aW9uIGJhbGFuY2VPZihhZGRyZXNzIGFjY291bnQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDI1Nik7Cn0KCmNvbnRyYWN0IFRva2VuVXNlciB7CiAgICBJRVJDMjAgcHVibGljIHRva2VuOwogICAgCiAgICBjb25zdHJ1Y3RvcihhZGRyZXNzIHRva2VuQWRkcmVzcykgewogICAgICAgIHRva2VuID0gSUVSQzIwKHRva2VuQWRkcmVzcyk7CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIHNlbmRUb2tlbnMoYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHsKICAgICAgICBib29sIHN1Y2Nlc3MgPSB0b2tlbi50cmFuc2Zlcih0bywgYW1vdW50KTsgIC8vIOexu+Wei+WuieWFqOeahOiwg+eUqAogICAgICAgIHJlcXVpcmUoc3VjY2VzcywgIlRyYW5zZmVyIGZhaWxlZCIpOwogICAgfQp9CmBgYAoK5aaC5p6c55uu5qCH5ZCI57qm55qE5o6l5Y+j5pyq55+l77yM5oiW6ICF6ZyA6KaB5pu05bqV5bGC55qE5o6n5Yi277yM5Y+v5Lul5L2/55SoIGBjYWxsYCDov5vooYzkvY7nuqfosIPnlKjjgIJgY2FsbGAg6L+U5Zue5LiA5Liq5biD5bCU5YC86KGo56S66LCD55So5piv5ZCm5oiQ5Yqf77yM5Lul5Y+K6L+U5Zue5pWw5o2u55qE5a2X6IqC5pWw57uE44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBMb3dMZXZlbENhbGxlciB7CiAgICBmdW5jdGlvbiBjYWxsVHJhbnNmZXIoYWRkcmVzcyB0b2tlbiwgYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHJldHVybnMgKGJvb2wpIHsKICAgICAgICAvLyDnvJbnoIHlh73mlbDosIPnlKgKICAgICAgICBieXRlcyBtZW1vcnkgZGF0YSA9IGFiaS5lbmNvZGVXaXRoU2lnbmF0dXJlKAogICAgICAgICAgICAidHJhbnNmZXIoYWRkcmVzcyx1aW50MjU2KSIsCiAgICAgICAgICAgIHRvLAogICAgICAgICAgICBhbW91bnQKICAgICAgICApOwogICAgICAgIAogICAgICAgIC8vIOS9jue6p+iwg+eUqAogICAgICAgIChib29sIHN1Y2Nlc3MsIGJ5dGVzIG1lbW9yeSByZXR1cm5EYXRhKSA9IHRva2VuLmNhbGwoZGF0YSk7CiAgICAgICAgCiAgICAgICAgaWYgKHN1Y2Nlc3MgJiYgcmV0dXJuRGF0YS5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIHJldHVybiBhYmkuZGVjb2RlKHJldHVybkRhdGEsIChib29sKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KfQpgYGAKCuS9jue6p+iwg+eUqOeahOS4gOS4qumHjeimgeeJueaAp+aYr++8muWNs+S9v+ebruagh+WQiOe6puS4jeWtmOWcqOaIluiwg+eUqOWksei0pe+8jOWug+S5n+S4jeS8muiHquWKqOWbnua7muOAguiwg+eUqOiAheW/hemhu+aYvuW8j+ajgOafpei/lOWbnuWAvOW5tuWGs+WumuWmguS9leWkhOeQhuWksei0peaDheWGteOAgui/meS4juebtOaOpeiwg+eUqOS4jeWQjOKAlOKAlOebtOaOpeiwg+eUqOWcqOWksei0peaXtuS8muiHquWKqOWbnua7muaVtOS4quS6pOaYk+OAggoKIyMjIGRlbGVnYXRlY2FsbAoKYGRlbGVnYXRlY2FsbGAg5piv5LiA56eN54m55q6K55qE6LCD55So5pa55byP44CC5a6D5omn6KGM55uu5qCH5ZCI57qm55qE5Luj56CB77yM5L2G5L2/55So6LCD55So6ICF55qE5a2Y5YKo56m66Ze05ZKM5LiK5LiL5paH44CC6L+Z5oSP5ZGz552AIGBtc2cuc2VuZGVyYCDlkowgYG1zZy52YWx1ZWAg5L+d5oyB5LiN5Y+Y77yM54q25oCB5Y+Y6YeP55qE5L+u5pS55Y+R55Sf5Zyo6LCD55So6ICF55qE5a2Y5YKo5Lit44CCCgohW2RlbGVnYXRlY2FsbCDmiafooYzkuIrkuIvmloddKC9pbWFnZXMvc2NyaXB0dXJlcy9zbWFydC1jb250cmFjdHMvMDQtZGVsZWdhdGVjYWxsLnBuZykKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IEltcGxlbWVudGF0aW9uIHsKICAgIHVpbnQyNTYgcHVibGljIHZhbHVlOyAgLy8g5qe9IDAKICAgIAogICAgZnVuY3Rpb24gc2V0VmFsdWUodWludDI1NiBfdmFsdWUpIGV4dGVybmFsIHsKICAgICAgICB2YWx1ZSA9IF92YWx1ZTsgIC8vIOS/ruaUueanvSAwCiAgICB9Cn0KCmNvbnRyYWN0IFByb3h5IHsKICAgIHVpbnQyNTYgcHVibGljIHZhbHVlOyAgLy8g5qe9IDDvvIzkuI4gSW1wbGVtZW50YXRpb24g5biD5bGA55u45ZCMCiAgICBhZGRyZXNzIHB1YmxpYyBpbXBsZW1lbnRhdGlvbjsKICAgIAogICAgY29uc3RydWN0b3IoYWRkcmVzcyBfaW1wbCkgewogICAgICAgIGltcGxlbWVudGF0aW9uID0gX2ltcGw7CiAgICB9CiAgICAKICAgIGZhbGxiYWNrKCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICAgICAgYWRkcmVzcyBpbXBsID0gaW1wbGVtZW50YXRpb247CiAgICAgICAgYXNzZW1ibHkgewogICAgICAgICAgICAvLyDlpI3liLYgY2FsbGRhdGEKICAgICAgICAgICAgY2FsbGRhdGFjb3B5KDAsIDAsIGNhbGxkYXRhc2l6ZSgpKQogICAgICAgICAgICAvLyBkZWxlZ2F0ZWNhbGwg5Yiw5a6e546w5ZCI57qmCiAgICAgICAgICAgIGxldCByZXN1bHQgOj0gZGVsZWdhdGVjYWxsKGdhcygpLCBpbXBsLCAwLCBjYWxsZGF0YXNpemUoKSwgMCwgMCkKICAgICAgICAgICAgLy8g5aSN5Yi26L+U5Zue5pWw5o2uCiAgICAgICAgICAgIHJldHVybmRhdGFjb3B5KDAsIDAsIHJldHVybmRhdGFzaXplKCkpCiAgICAgICAgICAgIC8vIOagueaNrue7k+aenOi/lOWbnuaIluWbnua7mgogICAgICAgICAgICBzd2l0Y2ggcmVzdWx0CiAgICAgICAgICAgIGNhc2UgMCB7IHJldmVydCgwLCByZXR1cm5kYXRhc2l6ZSgpKSB9CiAgICAgICAgICAgIGRlZmF1bHQgeyByZXR1cm4oMCwgcmV0dXJuZGF0YXNpemUoKSkgfQogICAgICAgIH0KICAgIH0KfQpgYGAKCmBkZWxlZ2F0ZWNhbGxgIOaYr+S7o+eQhuaooeW8j+eahOWfuuehgO+8jOS9huS5n+aYr+acgOWNsemZqeeahOiwg+eUqOaWueW8j+S5i+S4gOOAguWmguaenOWunueOsOWQiOe6pueahOWtmOWCqOW4g+WxgOS4juS7o+eQhuWQiOe6puS4jeWMuemFje+8jOS8muWvvOiHtOWtmOWCqOWGsueqge+8jOWPr+iDvemAoOaIkOS4pemHjeeahOWuieWFqOmXrumimOOAggoKIyMjIHN0YXRpY2NhbGwKCmBzdGF0aWNjYWxsYCDnlKjkuo7lj6ror7vosIPnlKjjgILlroPkv53or4HooqvosIPnlKjnmoTlh73mlbDkuI3kvJrkv67mlLnku7vkvZXnirbmgIHjgILlpoLmnpzooqvosIPnlKjnmoTku6PnoIHlsJ3or5XlhpnlhaXlrZjlgqjjgIHlj5HpgIEgRVRIIOaIluWIm+W7uuWQiOe6pu+8jOiwg+eUqOS8muWksei0peOAggoKYGBgc29saWRpdHkKY29udHJhY3QgUmVhZE9ubHlDYWxsZXIgewogICAgZnVuY3Rpb24gc2FmZUdldEJhbGFuY2UoYWRkcmVzcyB0b2tlbiwgYWRkcmVzcyBhY2NvdW50KSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgICAgICBieXRlcyBtZW1vcnkgZGF0YSA9IGFiaS5lbmNvZGVXaXRoU2lnbmF0dXJlKCJiYWxhbmNlT2YoYWRkcmVzcykiLCBhY2NvdW50KTsKICAgICAgICAKICAgICAgICAvLyBzdGF0aWNjYWxsIOS/neivgeS4jeS8muS/ruaUueeKtuaAgQogICAgICAgIChib29sIHN1Y2Nlc3MsIGJ5dGVzIG1lbW9yeSByZXR1cm5EYXRhKSA9IHRva2VuLnN0YXRpY2NhbGwoZGF0YSk7CiAgICAgICAgCiAgICAgICAgcmVxdWlyZShzdWNjZXNzLCAiU3RhdGljIGNhbGwgZmFpbGVkIik7CiAgICAgICAgcmV0dXJuIGFiaS5kZWNvZGUocmV0dXJuRGF0YSwgKHVpbnQyNTYpKTsKICAgIH0KfQpgYGAKCuW9k+WHveaVsOWjsOaYjuS4uiBgdmlld2Ag5oiWIGBwdXJlYCDml7bvvIxTb2xpZGl0eSDnvJbor5HlmajkvJroh6rliqjkvb/nlKggYHN0YXRpY2NhbGxgIOi/m+ihjOWklumDqOiwg+eUqOOAggoKLS0tCgojIyDmjqXmlLYgRVRICgrlkIjnuqbmjqXmlLYgRVRIIOmcgOimgeeJueauiuWkhOeQhuOAguacieS4pOS4queJueauiuWHveaVsOeUqOS6juatpOebrueahO+8mmByZWNlaXZlYCDlkowgYGZhbGxiYWNrYOOAggoKYHJlY2VpdmVgIOWHveaVsOWcqOWQiOe6puaUtuWIsOe6ryBFVEgg6L2s6LSm77yI5rKh5pyJIGNhbGxkYXRh77yJ5pe26KKr6LCD55So44CC5a6D5b+F6aG75pivIGBleHRlcm5hbCBwYXlhYmxlYO+8jOS4jeiDveacieWPguaVsOWSjOi/lOWbnuWAvOOAggoKYGBgc29saWRpdHkKY29udHJhY3QgRVRIUmVjZWl2ZXIgewogICAgZXZlbnQgUmVjZWl2ZWQoYWRkcmVzcyBzZW5kZXIsIHVpbnQyNTYgYW1vdW50KTsKICAgIAogICAgcmVjZWl2ZSgpIGV4dGVybmFsIHBheWFibGUgewogICAgICAgIGVtaXQgUmVjZWl2ZWQobXNnLnNlbmRlciwgbXNnLnZhbHVlKTsKICAgIH0KfQpgYGAKCmBmYWxsYmFja2Ag5Ye95pWw5Zyo5Lik56eN5oOF5Ya15LiL6KKr6LCD55So77ya5pS25YiwIEVUSCDkvYbmsqHmnIkgYHJlY2VpdmVgIOWHveaVsO+8jOaIluiAheiwg+eUqOS6huS4jeWtmOWcqOeahOWHveaVsOOAguWmguaenCBgZmFsbGJhY2tgIOWjsOaYjuS4uiBgcGF5YWJsZWDvvIzlroPkuZ/lj6/ku6XmjqXmlLYgRVRI44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBGYWxsYmFja0V4YW1wbGUgewogICAgZXZlbnQgRmFsbGJhY2tDYWxsZWQoYWRkcmVzcyBzZW5kZXIsIHVpbnQyNTYgdmFsdWUsIGJ5dGVzIGRhdGEpOwogICAgCiAgICBmYWxsYmFjaygpIGV4dGVybmFsIHBheWFibGUgewogICAgICAgIGVtaXQgRmFsbGJhY2tDYWxsZWQobXNnLnNlbmRlciwgbXNnLnZhbHVlLCBtc2cuZGF0YSk7CiAgICB9Cn0KYGBgCgrosIPnlKjpobrluo/mmK/vvJrlpoLmnpzmnIkgY2FsbGRhdGHvvIzosIPnlKggYGZhbGxiYWNrYO+8m+WmguaenOayoeaciSBjYWxsZGF0YSDkuJTlrZjlnKggYHJlY2VpdmVg77yM6LCD55SoIGByZWNlaXZlYO+8m+WQpuWImeiwg+eUqCBgZmFsbGJhY2tg77yI5aaC5p6c5a2Y5Zyo5LiUIHBheWFibGXvvInjgIIKCiMjIyDlj5HpgIEgRVRICgrlj5HpgIEgRVRIIOacieS4ieenjeaWueW8j++8jOWug+S7rOeahCBHYXMg6ZmQ5Yi25ZKM6ZSZ6K+v5aSE55CG5pa55byP5LiN5ZCM44CCCgpgdHJhbnNmZXJgIOWPkemAgeWbuuWumiAyMzAwIEdhc++8jOWksei0peaXtuiHquWKqOWbnua7muOAgui/meS4qiBHYXMg6ZmQ5Yi25Y+q5aSf5omn6KGM5LiA5Liq5LqL5Lu25pel5b+X77yM5LiN6Laz5Lul5omn6KGM5aSN5p2C6YC76L6R44CCCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiBzZW5kVmlhVHJhbnNmZXIoYWRkcmVzcyBwYXlhYmxlIHJlY2lwaWVudCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICByZWNpcGllbnQudHJhbnNmZXIobXNnLnZhbHVlKTsgIC8vIOWksei0peiHquWKqOWbnua7mgp9CmBgYAoKYHNlbmRgIOS5n+WPkemAgSAyMzAwIEdhc++8jOS9huWksei0peaXtui/lOWbniBgZmFsc2VgIOiAjOS4jeaYr+Wbnua7muOAggoKYGBgc29saWRpdHkKZnVuY3Rpb24gc2VuZFZpYVNlbmQoYWRkcmVzcyBwYXlhYmxlIHJlY2lwaWVudCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICBib29sIHN1Y2Nlc3MgPSByZWNpcGllbnQuc2VuZChtc2cudmFsdWUpOwogICAgcmVxdWlyZShzdWNjZXNzLCAiU2VuZCBmYWlsZWQiKTsKfQpgYGAKCmBjYWxsYCDmmK/mjqjojZDnmoTmlrnlvI/jgILlroPovazlj5HmiYDmnInlj6/nlKggR2Fz77yI5oiW5oyH5a6a5pWw6YeP77yJ77yM6L+U5Zue5oiQ5Yqf54q25oCB5ZKM6L+U5Zue5pWw5o2u44CCCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiBzZW5kVmlhQ2FsbChhZGRyZXNzIHBheWFibGUgcmVjaXBpZW50KSBleHRlcm5hbCBwYXlhYmxlIHsKICAgIChib29sIHN1Y2Nlc3MsICkgPSByZWNpcGllbnQuY2FsbHt2YWx1ZTogbXNnLnZhbHVlfSgiIik7CiAgICByZXF1aXJlKHN1Y2Nlc3MsICJDYWxsIGZhaWxlZCIpOwp9CmBgYAoKPiDnlLHkuo4gRUlQLTE4ODQg5o+Q6auY5LqG5p+Q5Lqb5pON5L2c56CB55qEIEdhcyDmiJDmnKzvvIwyMzAwIEdhcyDpmZDliLblj6/og73kuI3otrPku6XorqnmjqXmlLblkIjnuqbmiafooYwgYHJlY2VpdmVgIOWHveaVsOOAguaOqOiNkOS9v+eUqCBgY2FsbGAg5Y+R6YCBIEVUSOOAggoKLS0tCgojIyDnu6fmib8KClNvbGlkaXR5IOaUr+aMgeWkmumHjee7p+aJv++8jOWFgeiuuOWQiOe6puS7juWkmuS4queItuWQiOe6pue7p+aJv+eKtuaAgeWPmOmHj+WSjOWHveaVsOOAgue7p+aJv+S9v+eUqCBgaXNgIOWFs+mUruWtl+OAggoKYGBgc29saWRpdHkKY29udHJhY3QgT3duYWJsZSB7CiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsKICAgIAogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgb3duZXIgPSBtc2cuc2VuZGVyOwogICAgfQogICAgCiAgICBtb2RpZmllciBvbmx5T3duZXIoKSB7CiAgICAgICAgcmVxdWlyZShtc2cuc2VuZGVyID09IG93bmVyLCAiTm90IG93bmVyIik7CiAgICAgICAgXzsKICAgIH0KfQoKY29udHJhY3QgUGF1c2FibGUgaXMgT3duYWJsZSB7CiAgICBib29sIHB1YmxpYyBwYXVzZWQ7CiAgICAKICAgIG1vZGlmaWVyIHdoZW5Ob3RQYXVzZWQoKSB7CiAgICAgICAgcmVxdWlyZSghcGF1c2VkLCAiUGF1c2VkIik7CiAgICAgICAgXzsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gcGF1c2UoKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIHBhdXNlZCA9IHRydWU7CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIHVucGF1c2UoKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIHBhdXNlZCA9IGZhbHNlOwogICAgfQp9Cgpjb250cmFjdCBUb2tlbiBpcyBQYXVzYWJsZSB7CiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gdWludDI1NikgcHVibGljIGJhbGFuY2VzOwogICAgCiAgICBmdW5jdGlvbiB0cmFuc2ZlcihhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCkgZXh0ZXJuYWwgd2hlbk5vdFBhdXNlZCB7CiAgICAgICAgcmVxdWlyZShiYWxhbmNlc1ttc2cuc2VuZGVyXSA+PSBhbW91bnQsICJJbnN1ZmZpY2llbnQgYmFsYW5jZSIpOwogICAgICAgIGJhbGFuY2VzW21zZy5zZW5kZXJdIC09IGFtb3VudDsKICAgICAgICBiYWxhbmNlc1t0b10gKz0gYW1vdW50OwogICAgfQp9CmBgYAoKYFRva2VuYCDlkIjnuqbnu6fmib/kuoYgYFBhdXNhYmxlYCDnmoTmiYDmnInlip/og73vvIzogIwgYFBhdXNhYmxlYCDlj4jnu6fmib/kuoYgYE93bmFibGVg44CC6L+Z5b2i5oiQ5LqG5LiA5Liq57un5om/6ZO+77yaYFRva2VuIC0+IFBhdXNhYmxlIC0+IE93bmFibGVg44CCCgojIyMg5Ye95pWw6YeN5YaZCgrlrZDlkIjnuqblj6/ku6Xph43lhpnniLblkIjnuqbnmoTlh73mlbDjgILniLblkIjnuqbnmoTlh73mlbDlv4XpobvmoIforrDkuLogYHZpcnR1YWxg77yM5a2Q5ZCI57qm55qE6YeN5YaZ5Ye95pWw5b+F6aG75qCH6K6w5Li6IGBvdmVycmlkZWDjgIIKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IEJhc2UgewogICAgZnVuY3Rpb24gZ3JlZXQoKSBwdWJsaWMgdmlydHVhbCByZXR1cm5zIChzdHJpbmcgbWVtb3J5KSB7CiAgICAgICAgcmV0dXJuICJIZWxsbyBmcm9tIEJhc2UiOwogICAgfQp9Cgpjb250cmFjdCBDaGlsZCBpcyBCYXNlIHsKICAgIGZ1bmN0aW9uIGdyZWV0KCkgcHVibGljIHZpcnR1YWwgb3ZlcnJpZGUgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSkgewogICAgICAgIHJldHVybiAiSGVsbG8gZnJvbSBDaGlsZCI7CiAgICB9Cn0KCmNvbnRyYWN0IEdyYW5kQ2hpbGQgaXMgQ2hpbGQgewogICAgZnVuY3Rpb24gZ3JlZXQoKSBwdWJsaWMgb3ZlcnJpZGUgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSkgewogICAgICAgIHJldHVybiBzdHJpbmcuY29uY2F0KHN1cGVyLmdyZWV0KCksICIgYW5kIEdyYW5kQ2hpbGQiKTsKICAgIH0KfQpgYGAKCmBzdXBlcmAg5YWz6ZSu5a2X55So5LqO6LCD55So54i25ZCI57qm55qE5Ye95pWw44CC5Zyo5aSa6YeN57un5om/5Lit77yMYHN1cGVyYCDkvJrmjInnhacgQzMg57q/5oCn5YyW6aG65bqP6LCD55So5omA5pyJ54i25ZCI57qm55qE5ZCM5ZCN5Ye95pWw44CCCgojIyMg5aSa6YeN57un5om/CgrlvZPlkIjnuqbku47lpJrkuKrniLblkIjnuqbnu6fmib/ml7bvvIzpnIDopoHms6jmhI/nu6fmib/pobrluo/jgIJTb2xpZGl0eSDkvb/nlKggQzMg57q/5oCn5YyW566X5rOV56Gu5a6a5Ye95pWw6LCD55So6aG65bqP44CC5Z+65pys6KeE5YiZ5piv77ya5LuO5pyA5Z+656GA55qE5ZCI57qm5Yiw5pyA5rS+55Sf55qE5ZCI57qm77yM5LuO5Y+z5Yiw5bem44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBBIHsKICAgIGZ1bmN0aW9uIGZvbygpIHB1YmxpYyB2aXJ0dWFsIHJldHVybnMgKHN0cmluZyBtZW1vcnkpIHsKICAgICAgICByZXR1cm4gIkEiOwogICAgfQp9Cgpjb250cmFjdCBCIGlzIEEgewogICAgZnVuY3Rpb24gZm9vKCkgcHVibGljIHZpcnR1YWwgb3ZlcnJpZGUgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSkgewogICAgICAgIHJldHVybiBzdHJpbmcuY29uY2F0KHN1cGVyLmZvbygpLCAiQiIpOwogICAgfQp9Cgpjb250cmFjdCBDIGlzIEEgewogICAgZnVuY3Rpb24gZm9vKCkgcHVibGljIHZpcnR1YWwgb3ZlcnJpZGUgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSkgewogICAgICAgIHJldHVybiBzdHJpbmcuY29uY2F0KHN1cGVyLmZvbygpLCAiQyIpOwogICAgfQp9CgovLyDnu6fmib/pobrluo/vvJpBIC0+IEIgLT4gQyAtPiBECmNvbnRyYWN0IEQgaXMgQiwgQyB7CiAgICBmdW5jdGlvbiBmb28oKSBwdWJsaWMgb3ZlcnJpZGUoQiwgQykgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSkgewogICAgICAgIHJldHVybiBzdHJpbmcuY29uY2F0KHN1cGVyLmZvbygpLCAiRCIpOyAgLy8g6L+U5ZueICJBQkNEIgogICAgfQp9CmBgYAoK5ZyoIGBEYCDkuK3osIPnlKggYHN1cGVyLmZvbygpYCDkvJrop6blj5HmlbTkuKrnu6fmib/pk77vvJpgRC5mb28oKWAgLT4gYEMuZm9vKClgIC0+IGBCLmZvbygpYCAtPiBgQS5mb28oKWDjgIIKCiMjIyDmnoTpgKDlh73mlbDnu6fmib8KCuWmguaenOeItuWQiOe6pueahOaehOmAoOWHveaVsOacieWPguaVsO+8jOWtkOWQiOe6puW/hemhu+aPkOS+m+i/meS6m+WPguaVsOOAguacieS4pOenjeaWueW8j++8mgoKYGBgc29saWRpdHkKY29udHJhY3QgUGFyZW50IHsKICAgIHVpbnQyNTYgcHVibGljIHZhbHVlOwogICAgCiAgICBjb25zdHJ1Y3Rvcih1aW50MjU2IF92YWx1ZSkgewogICAgICAgIHZhbHVlID0gX3ZhbHVlOwogICAgfQp9CgovLyDmlrnlvI8gMe+8muWcqOe7p+aJv+WIl+ihqOS4reaMh+Wumgpjb250cmFjdCBDaGlsZDEgaXMgUGFyZW50KDEwMCkgewogICAgLy8gdmFsdWUg6KKr5Yid5aeL5YyW5Li6IDEwMAp9CgovLyDmlrnlvI8gMu+8muWcqOaehOmAoOWHveaVsOS4reaMh+Wumgpjb250cmFjdCBDaGlsZDIgaXMgUGFyZW50IHsKICAgIGNvbnN0cnVjdG9yKHVpbnQyNTYgX3ZhbHVlKSBQYXJlbnQoX3ZhbHVlKSB7CiAgICAgICAgLy8g5Y+v5Lul5L2/55So5Yqo5oCB5YC8CiAgICB9Cn0KYGBgCgotLS0KCiMjIOaKveixoeWQiOe6puS4juaOpeWPowoK5oq96LGh5ZCI57qm5YyF5ZCr6Iez5bCR5LiA5Liq5pyq5a6e546w55qE5Ye95pWw44CC5a6D5LiN6IO96KKr55u05o6l6YOo572y77yM5Y+q6IO96KKr57un5om/44CCCgpgYGBzb2xpZGl0eQphYnN0cmFjdCBjb250cmFjdCBBbmltYWwgewogICAgc3RyaW5nIHB1YmxpYyBuYW1lOwogICAgCiAgICBjb25zdHJ1Y3RvcihzdHJpbmcgbWVtb3J5IF9uYW1lKSB7CiAgICAgICAgbmFtZSA9IF9uYW1lOwogICAgfQogICAgCiAgICAvLyDmir3osaHlh73mlbDvvIzlrZDlkIjnuqblv4Xpobvlrp7njrAKICAgIGZ1bmN0aW9uIHNwZWFrKCkgcHVibGljIHZpcnR1YWwgcmV0dXJucyAoc3RyaW5nIG1lbW9yeSk7CiAgICAKICAgIC8vIOWFt+S9k+WHveaVsO+8jOWtkOWQiOe6puWPr+S7peebtOaOpeS9v+eUqAogICAgZnVuY3Rpb24gZ2V0TmFtZSgpIHB1YmxpYyB2aWV3IHJldHVybnMgKHN0cmluZyBtZW1vcnkpIHsKICAgICAgICByZXR1cm4gbmFtZTsKICAgIH0KfQoKY29udHJhY3QgRG9nIGlzIEFuaW1hbCB7CiAgICBjb25zdHJ1Y3RvcigpIEFuaW1hbCgiRG9nIikge30KICAgIAogICAgZnVuY3Rpb24gc3BlYWsoKSBwdWJsaWMgcHVyZSBvdmVycmlkZSByZXR1cm5zIChzdHJpbmcgbWVtb3J5KSB7CiAgICAgICAgcmV0dXJuICJXb29mISI7CiAgICB9Cn0KYGBgCgrmjqXlj6PmmK/mm7TkuKXmoLznmoTmir3osaHjgILmjqXlj6PkuI3og73mnInnirbmgIHlj5jph4/jgIHmnoTpgKDlh73mlbDmiJblh73mlbDlrp7njrDjgILmiYDmnInlh73mlbDlv4XpobvmmK8gYGV4dGVybmFsYOOAggoKYGBgc29saWRpdHkKaW50ZXJmYWNlIElFUkMyMCB7CiAgICBmdW5jdGlvbiB0b3RhbFN1cHBseSgpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDI1Nik7CiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyBhY2NvdW50KSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTYpOwogICAgZnVuY3Rpb24gdHJhbnNmZXIoYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHJldHVybnMgKGJvb2wpOwogICAgZnVuY3Rpb24gYWxsb3dhbmNlKGFkZHJlc3Mgb3duZXIsIGFkZHJlc3Mgc3BlbmRlcikgZXh0ZXJuYWwgdmlldyByZXR1cm5zICh1aW50MjU2KTsKICAgIGZ1bmN0aW9uIGFwcHJvdmUoYWRkcmVzcyBzcGVuZGVyLCB1aW50MjU2IGFtb3VudCkgZXh0ZXJuYWwgcmV0dXJucyAoYm9vbCk7CiAgICBmdW5jdGlvbiB0cmFuc2ZlckZyb20oYWRkcmVzcyBmcm9tLCBhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCkgZXh0ZXJuYWwgcmV0dXJucyAoYm9vbCk7CiAgICAKICAgIGV2ZW50IFRyYW5zZmVyKGFkZHJlc3MgaW5kZXhlZCBmcm9tLCBhZGRyZXNzIGluZGV4ZWQgdG8sIHVpbnQyNTYgdmFsdWUpOwogICAgZXZlbnQgQXBwcm92YWwoYWRkcmVzcyBpbmRleGVkIG93bmVyLCBhZGRyZXNzIGluZGV4ZWQgc3BlbmRlciwgdWludDI1NiB2YWx1ZSk7Cn0KYGBgCgrmjqXlj6PlrprkuYnkuoblkIjnuqbnmoTlpJbpg6ggQVBJ77yM5piv5ZCI57qm5LmL6Ze05Lqk5LqS55qE5aWR57qm44CCRVJDLTIw44CBRVJDLTcyMSDnrYnmoIflh4bpg73mmK/ku6XmjqXlj6PlvaLlvI/lrprkuYnnmoTjgIIKCi0tLQoKIyMg5bqTCgrlupPmmK/kuIDnp43nibnmrornmoTlkIjnuqbvvIznlKjkuo7ku6PnoIHlpI3nlKjjgILlupPkuI3og73mnInnirbmgIHlj5jph4/vvIjpmaTkuobluLjph4/vvInvvIzkuI3og73nu6fmib/miJbooqvnu6fmib/vvIzkuI3og73mjqXmlLYgRVRI44CCCgpgYGBzb2xpZGl0eQpsaWJyYXJ5IFNhZmVNYXRoIHsKICAgIGZ1bmN0aW9uIGFkZCh1aW50MjU2IGEsIHVpbnQyNTYgYikgaW50ZXJuYWwgcHVyZSByZXR1cm5zICh1aW50MjU2KSB7CiAgICAgICAgdWludDI1NiBjID0gYSArIGI7CiAgICAgICAgcmVxdWlyZShjID49IGEsICJTYWZlTWF0aDogYWRkaXRpb24gb3ZlcmZsb3ciKTsKICAgICAgICByZXR1cm4gYzsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gc3ViKHVpbnQyNTYgYSwgdWludDI1NiBiKSBpbnRlcm5hbCBwdXJlIHJldHVybnMgKHVpbnQyNTYpIHsKICAgICAgICByZXF1aXJlKGIgPD0gYSwgIlNhZmVNYXRoOiBzdWJ0cmFjdGlvbiBvdmVyZmxvdyIpOwogICAgICAgIHJldHVybiBhIC0gYjsKICAgIH0KfQoKY29udHJhY3QgQ2FsY3VsYXRvciB7CiAgICB1c2luZyBTYWZlTWF0aCBmb3IgdWludDI1NjsgIC8vIOmZhOWKoOW6k+WHveaVsOWIsOexu+WeiwogICAgCiAgICBmdW5jdGlvbiBjYWxjdWxhdGUodWludDI1NiBhLCB1aW50MjU2IGIpIGV4dGVybmFsIHB1cmUgcmV0dXJucyAodWludDI1NikgewogICAgICAgIHJldHVybiBhLmFkZChiKTsgIC8vIOetieS7t+S6jiBTYWZlTWF0aC5hZGQoYSwgYikKICAgIH0KfQpgYGAKCmB1c2luZyBBIGZvciBCYCDor63ms5XlsIblupMgYEFgIOeahOWHveaVsOmZhOWKoOWIsOexu+WeiyBgQmDjgILosIPnlKjml7bvvIznsbvlnosgYEJgIOeahOWAvOS8muS9nOS4uuesrOS4gOS4quWPguaVsOS8oOWFpeOAggoK5bqT5Ye95pWw5Y+v5Lul5pivIGBpbnRlcm5hbGAg5oiWIGBleHRlcm5hbGDjgIJgaW50ZXJuYWxgIOWHveaVsOS8muiiq+WGheiBlOWIsOiwg+eUqOWQiOe6puS4re+8jOS4jeS6p+eUn+WklumDqOiwg+eUqOW8gOmUgOOAgmBleHRlcm5hbGAg5Ye95pWw6ZyA6KaB6YOo572y5bqT5ZCI57qm77yM6YCa6L+HIGBkZWxlZ2F0ZWNhbGxgIOiwg+eUqOOAggoKYGBgc29saWRpdHkKbGlicmFyeSBBcnJheVV0aWxzIHsKICAgIC8vIGludGVybmFsIOWHveaVsO+8jOS8muiiq+WGheiBlAogICAgZnVuY3Rpb24gc3VtKHVpbnQyNTZbXSBtZW1vcnkgYXJyKSBpbnRlcm5hbCBwdXJlIHJldHVybnMgKHVpbnQyNTYpIHsKICAgICAgICB1aW50MjU2IHRvdGFsID0gMDsKICAgICAgICBmb3IgKHVpbnQyNTYgaSA9IDA7IGkgPCBhcnIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgdG90YWwgKz0gYXJyW2ldOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdG90YWw7CiAgICB9CiAgICAKICAgIC8vIGV4dGVybmFsIOWHveaVsO+8jOmcgOimgemDqOe9suW6kwogICAgZnVuY3Rpb24gc29ydCh1aW50MjU2W10gc3RvcmFnZSBhcnIpIGV4dGVybmFsIHsKICAgICAgICAvLyDljp/lnLDmjpLluo8KICAgICAgICBmb3IgKHVpbnQyNTYgaSA9IDA7IGkgPCBhcnIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgZm9yICh1aW50MjU2IGogPSBpICsgMTsgaiA8IGFyci5sZW5ndGg7IGorKykgewogICAgICAgICAgICAgICAgaWYgKGFycltpXSA+IGFycltqXSkgewogICAgICAgICAgICAgICAgICAgIChhcnJbaV0sIGFycltqXSkgPSAoYXJyW2pdLCBhcnJbaV0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9CmBgYAoKLS0tCgojIyDlt6XljoLmqKHlvI8KCuW3peWOguWQiOe6pueUqOS6juWKqOaAgeWIm+W7uuWFtuS7luWQiOe6puOAgui/meWcqOmcgOimgemDqOe9suWkmuS4quebuOS8vOWQiOe6puaXtumdnuW4uOacieeUqO+8jOavlOWmgiBVbmlzd2FwIOeahOS6pOaYk+WvueW3peWOguOAggoKYGBgc29saWRpdHkKY29udHJhY3QgVG9rZW4gewogICAgc3RyaW5nIHB1YmxpYyBuYW1lOwogICAgc3RyaW5nIHB1YmxpYyBzeW1ib2w7CiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsKICAgIAogICAgY29uc3RydWN0b3Ioc3RyaW5nIG1lbW9yeSBfbmFtZSwgc3RyaW5nIG1lbW9yeSBfc3ltYm9sLCBhZGRyZXNzIF9vd25lcikgewogICAgICAgIG5hbWUgPSBfbmFtZTsKICAgICAgICBzeW1ib2wgPSBfc3ltYm9sOwogICAgICAgIG93bmVyID0gX293bmVyOwogICAgfQp9Cgpjb250cmFjdCBUb2tlbkZhY3RvcnkgewogICAgYWRkcmVzc1tdIHB1YmxpYyB0b2tlbnM7CiAgICAKICAgIGV2ZW50IFRva2VuQ3JlYXRlZChhZGRyZXNzIGluZGV4ZWQgdG9rZW4sIHN0cmluZyBuYW1lLCBzdHJpbmcgc3ltYm9sKTsKICAgIAogICAgZnVuY3Rpb24gY3JlYXRlVG9rZW4oc3RyaW5nIG1lbW9yeSBuYW1lLCBzdHJpbmcgbWVtb3J5IHN5bWJvbCkgZXh0ZXJuYWwgcmV0dXJucyAoYWRkcmVzcykgewogICAgICAgIFRva2VuIHRva2VuID0gbmV3IFRva2VuKG5hbWUsIHN5bWJvbCwgbXNnLnNlbmRlcik7CiAgICAgICAgdG9rZW5zLnB1c2goYWRkcmVzcyh0b2tlbikpOwogICAgICAgIGVtaXQgVG9rZW5DcmVhdGVkKGFkZHJlc3ModG9rZW4pLCBuYW1lLCBzeW1ib2wpOwogICAgICAgIHJldHVybiBhZGRyZXNzKHRva2VuKTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gZ2V0VG9rZW5Db3VudCgpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAodWludDI1NikgewogICAgICAgIHJldHVybiB0b2tlbnMubGVuZ3RoOwogICAgfQp9CmBgYAoKIyMjIENSRUFURTIKCuaZrumAmueahCBgbmV3YCDkvb/nlKggQ1JFQVRFIOaTjeS9nOegge+8jOWQiOe6puWcsOWdgOeUsemDqOe9suiAheWcsOWdgOWSjCBub25jZSDlhrPlrprjgIJDUkVBVEUyIOWFgeiuuOmihOWFiOiuoeeul+WQiOe6puWcsOWdgO+8jOWcsOWdgOeUsemDqOe9suiAheWcsOWdgOOAgXNhbHQg5ZKM5ZCI57qm5a2X6IqC56CB55qE5ZOI5biM5Yaz5a6a44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBDcmVhdGUyRmFjdG9yeSB7CiAgICBldmVudCBEZXBsb3llZChhZGRyZXNzIGFkZHIsIGJ5dGVzMzIgc2FsdCk7CiAgICAKICAgIGZ1bmN0aW9uIGRlcGxveShieXRlczMyIHNhbHQsIGJ5dGVzIG1lbW9yeSBieXRlY29kZSkgZXh0ZXJuYWwgcmV0dXJucyAoYWRkcmVzcykgewogICAgICAgIGFkZHJlc3MgYWRkcjsKICAgICAgICBhc3NlbWJseSB7CiAgICAgICAgICAgIGFkZHIgOj0gY3JlYXRlMigwLCBhZGQoYnl0ZWNvZGUsIDB4MjApLCBtbG9hZChieXRlY29kZSksIHNhbHQpCiAgICAgICAgICAgIGlmIGlzemVybyhleHRjb2Rlc2l6ZShhZGRyKSkgewogICAgICAgICAgICAgICAgcmV2ZXJ0KDAsIDApCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgZW1pdCBEZXBsb3llZChhZGRyLCBzYWx0KTsKICAgICAgICByZXR1cm4gYWRkcjsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gY29tcHV0ZUFkZHJlc3MoYnl0ZXMzMiBzYWx0LCBieXRlcyBtZW1vcnkgYnl0ZWNvZGUpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoYWRkcmVzcykgewogICAgICAgIHJldHVybiBhZGRyZXNzKHVpbnQxNjAodWludDI1NihrZWNjYWsyNTYoYWJpLmVuY29kZVBhY2tlZCgKICAgICAgICAgICAgYnl0ZXMxKDB4ZmYpLAogICAgICAgICAgICBhZGRyZXNzKHRoaXMpLAogICAgICAgICAgICBzYWx0LAogICAgICAgICAgICBrZWNjYWsyNTYoYnl0ZWNvZGUpCiAgICAgICAgKSkpKSk7CiAgICB9Cn0KYGBgCgpDUkVBVEUyIOeahOS4u+imgeeUqOmAlOWMheaLrO+8mgotIOWPjeS6i+WunumDqOe9su+8muWcqOWQiOe6pumDqOe9suWJjeWwseefpemBk+WcsOWdgO+8jOWPr+S7peWFiOWQkeivpeWcsOWdgOi9rOi0pgotIOehruWumuaAp+WcsOWdgO+8muebuOWQjOeahCBzYWx0IOWSjOWtl+iKgueggeaAu+aYr+S6p+eUn+ebuOWQjOeahOWcsOWdgAotIOWQiOe6puWNh+e6p++8mumUgOavgeaXp+WQiOe6puWQju+8jOWPr+S7peWcqOWQjOS4gOWcsOWdgOmDqOe9suaWsOWQiOe6pgoKLS0tCgojIyDmgLvnu5MKCuWQiOe6puS6pOS6kuaYryBEZUZpIOeUn+aAgeezu+e7n+eahOWfuuehgOOAgueQhuino+S4jeWQjOiwg+eUqOaWueW8j+eahOeJueaAp+KAlOKAlGBjYWxsYCDnmoTngbXmtLvmgKfjgIFgZGVsZWdhdGVjYWxsYCDnmoTkuIrkuIvmlofkv53mjIHjgIFgc3RhdGljY2FsbGAg55qE5Y+q6K+75L+d6K+B4oCU4oCU5a+55LqO57yW5YaZ5a6J5YWo55qE5ZCI57qm6Iez5YWz6YeN6KaB44CC57un5om/5ZKM5bqT5o+Q5L6b5LqG5Luj56CB5aSN55So55qE5py65Yi277yM6ICM5bel5Y6C5qih5byP5YiZ5pSv5oyB5Yqo5oCB5ZCI57qm6YOo572y44CCCgrkvYbmmK/vvIzlkIjnuqbkuqTkupLkuZ/luKbmnaXkuoblronlhajpo47pmanjgILlpJbpg6josIPnlKjlj6/og73op6blj5Hph43lhaXmlLvlh7vvvIxgZGVsZWdhdGVjYWxsYCDlj6/og73lr7zoh7TlrZjlgqjlhrLnqoHvvIzkuI3lvZPnmoTnu6fmib/pobrluo/lj6/og73kuqfnlJ/mhI/lpJbooYzkuLrjgILkuIvkuIDnq6DlsIbmt7HlhaXorqjorrrov5nkupvlronlhajpl67popjku6Xlj4rlpoLkvZXpmLLojIPjgIIKCi0tLQoKIyMg5Y+C6ICD5paH54yuCgotIFtTb2xpZGl0eSBEb2N1bWVudGF0aW9uIC0gQ29udHJhY3RzXShodHRwczovL2RvY3Muc29saWRpdHlsYW5nLm9yZy9lbi9sYXRlc3QvY29udHJhY3RzLmh0bWwpCi0gW1NvbGlkaXR5IERvY3VtZW50YXRpb24gLSBJbmhlcml0YW5jZV0oaHR0cHM6Ly9kb2NzLnNvbGlkaXR5bGFuZy5vcmcvZW4vbGF0ZXN0L2NvbnRyYWN0cy5odG1sI2luaGVyaXRhbmNlKQotIFtFSVAtMTAxNDogU2tpbm55IENSRUFURTJdKGh0dHBzOi8vZWlwcy5ldGhlcmV1bS5vcmcvRUlQUy9laXAtMTAxNCkKLSBbT3BlblplcHBlbGluIENvbnRyYWN0c10oaHR0cHM6Ly9naXRodWIuY29tL09wZW5aZXBwZWxpbi9vcGVuemVwcGVsaW4tY29udHJhY3RzKQo="}
+# 第 4 章：合约交互与继承
+
+> 智能合约不是孤岛。理解合约之间的调用方式和代码复用机制，是构建复杂 DeFi 系统的基础。
+
+---
+
+## 外部调用
+
+合约之间的交互通过消息调用实现。当合约 A 调用合约 B 的函数时，EVM 会创建一个新的执行上下文，切换到合约 B 的代码和存储空间执行，完成后返回结果给合约 A。
+
+![合约调用流程](/images/scriptures/smart-contracts/04-contract-call.png)
+
+### 调用方式
+
+Solidity 提供了几种不同的调用方式，它们在安全性和灵活性上各有取舍。
+
+最常见的方式是通过接口或合约类型直接调用。这种方式类型安全，编译器会检查函数签名是否匹配。
+
+```solidity
+interface IERC20 {
+    function transfer(address to, uint256 amount) external returns (bool);
+    function balanceOf(address account) external view returns (uint256);
+}
+
+contract TokenUser {
+    IERC20 public token;
+    
+    constructor(address tokenAddress) {
+        token = IERC20(tokenAddress);
+    }
+    
+    function sendTokens(address to, uint256 amount) external {
+        bool success = token.transfer(to, amount);  // 类型安全的调用
+        require(success, "Transfer failed");
+    }
+}
+```
+
+如果目标合约的接口未知，或者需要更底层的控制，可以使用 `call` 进行低级调用。`call` 返回一个布尔值表示调用是否成功，以及返回数据的字节数组。
+
+```solidity
+contract LowLevelCaller {
+    function callTransfer(address token, address to, uint256 amount) external returns (bool) {
+        // 编码函数调用
+        bytes memory data = abi.encodeWithSignature(
+            "transfer(address,uint256)",
+            to,
+            amount
+        );
+        
+        // 低级调用
+        (bool success, bytes memory returnData) = token.call(data);
+        
+        if (success && returnData.length > 0) {
+            return abi.decode(returnData, (bool));
+        }
+        return false;
+    }
+}
+```
+
+低级调用的一个重要特性是：即使目标合约不存在或调用失败，它也不会自动回滚。调用者必须显式检查返回值并决定如何处理失败情况。这与直接调用不同——直接调用在失败时会自动回滚整个交易。
+
+### delegatecall
+
+`delegatecall` 是一种特殊的调用方式。它执行目标合约的代码，但使用调用者的存储空间和上下文。这意味着 `msg.sender` 和 `msg.value` 保持不变，状态变量的修改发生在调用者的存储中。
+
+![delegatecall 执行上下文](/images/scriptures/smart-contracts/04-delegatecall.png)
+
+```solidity
+contract Implementation {
+    uint256 public value;  // 槽 0
+    
+    function setValue(uint256 _value) external {
+        value = _value;  // 修改槽 0
+    }
+}
+
+contract Proxy {
+    uint256 public value;  // 槽 0，与 Implementation 布局相同
+    address public implementation;
+    
+    constructor(address _impl) {
+        implementation = _impl;
+    }
+    
+    fallback() external payable {
+        address impl = implementation;
+        assembly {
+            // 复制 calldata
+            calldatacopy(0, 0, calldatasize())
+            // delegatecall 到实现合约
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            // 复制返回数据
+            returndatacopy(0, 0, returndatasize())
+            // 根据结果返回或回滚
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+}
+```
+
+`delegatecall` 是代理模式的基础，但也是最危险的调用方式之一。如果实现合约的存储布局与代理合约不匹配，会导致存储冲突，可能造成严重的安全问题。
+
+### staticcall
+
+`staticcall` 用于只读调用。它保证被调用的函数不会修改任何状态。如果被调用的代码尝试写入存储、发送 ETH 或创建合约，调用会失败。
+
+```solidity
+contract ReadOnlyCaller {
+    function safeGetBalance(address token, address account) external view returns (uint256) {
+        bytes memory data = abi.encodeWithSignature("balanceOf(address)", account);
+        
+        // staticcall 保证不会修改状态
+        (bool success, bytes memory returnData) = token.staticcall(data);
+        
+        require(success, "Static call failed");
+        return abi.decode(returnData, (uint256));
+    }
+}
+```
+
+当函数声明为 `view` 或 `pure` 时，Solidity 编译器会自动使用 `staticcall` 进行外部调用。
+
+---
+
+## 接收 ETH
+
+合约接收 ETH 需要特殊处理。有两个特殊函数用于此目的：`receive` 和 `fallback`。
+
+`receive` 函数在合约收到纯 ETH 转账（没有 calldata）时被调用。它必须是 `external payable`，不能有参数和返回值。
+
+```solidity
+contract ETHReceiver {
+    event Received(address sender, uint256 amount);
+    
+    receive() external payable {
+        emit Received(msg.sender, msg.value);
+    }
+}
+```
+
+`fallback` 函数在两种情况下被调用：收到 ETH 但没有 `receive` 函数，或者调用了不存在的函数。如果 `fallback` 声明为 `payable`，它也可以接收 ETH。
+
+```solidity
+contract FallbackExample {
+    event FallbackCalled(address sender, uint256 value, bytes data);
+    
+    fallback() external payable {
+        emit FallbackCalled(msg.sender, msg.value, msg.data);
+    }
+}
+```
+
+调用顺序是：如果有 calldata，调用 `fallback`；如果没有 calldata 且存在 `receive`，调用 `receive`；否则调用 `fallback`（如果存在且 payable）。
+
+### 发送 ETH
+
+发送 ETH 有三种方式，它们的 Gas 限制和错误处理方式不同。
+
+`transfer` 发送固定 2300 Gas，失败时自动回滚。这个 Gas 限制只够执行一个事件日志，不足以执行复杂逻辑。
+
+```solidity
+function sendViaTransfer(address payable recipient) external payable {
+    recipient.transfer(msg.value);  // 失败自动回滚
+}
+```
+
+`send` 也发送 2300 Gas，但失败时返回 `false` 而不是回滚。
+
+```solidity
+function sendViaSend(address payable recipient) external payable {
+    bool success = recipient.send(msg.value);
+    require(success, "Send failed");
+}
+```
+
+`call` 是推荐的方式。它转发所有可用 Gas（或指定数量），返回成功状态和返回数据。
+
+```solidity
+function sendViaCall(address payable recipient) external payable {
+    (bool success, ) = recipient.call{value: msg.value}("");
+    require(success, "Call failed");
+}
+```
+
+> 由于 EIP-1884 提高了某些操作码的 Gas 成本，2300 Gas 限制可能不足以让接收合约执行 `receive` 函数。推荐使用 `call` 发送 ETH。
+
+---
+
+## 继承
+
+Solidity 支持多重继承，允许合约从多个父合约继承状态变量和函数。继承使用 `is` 关键字。
+
+```solidity
+contract Ownable {
+    address public owner;
+    
+    constructor() {
+        owner = msg.sender;
+    }
+    
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Not owner");
+        _;
+    }
+}
+
+contract Pausable is Ownable {
+    bool public paused;
+    
+    modifier whenNotPaused() {
+        require(!paused, "Paused");
+        _;
+    }
+    
+    function pause() external onlyOwner {
+        paused = true;
+    }
+    
+    function unpause() external onlyOwner {
+        paused = false;
+    }
+}
+
+contract Token is Pausable {
+    mapping(address => uint256) public balances;
+    
+    function transfer(address to, uint256 amount) external whenNotPaused {
+        require(balances[msg.sender] >= amount, "Insufficient balance");
+        balances[msg.sender] -= amount;
+        balances[to] += amount;
+    }
+}
+```
+
+`Token` 合约继承了 `Pausable` 的所有功能，而 `Pausable` 又继承了 `Ownable`。这形成了一个继承链：`Token -> Pausable -> Ownable`。
+
+### 函数重写
+
+子合约可以重写父合约的函数。父合约的函数必须标记为 `virtual`，子合约的重写函数必须标记为 `override`。
+
+```solidity
+contract Base {
+    function greet() public virtual returns (string memory) {
+        return "Hello from Base";
+    }
+}
+
+contract Child is Base {
+    function greet() public virtual override returns (string memory) {
+        return "Hello from Child";
+    }
+}
+
+contract GrandChild is Child {
+    function greet() public override returns (string memory) {
+        return string.concat(super.greet(), " and GrandChild");
+    }
+}
+```
+
+`super` 关键字用于调用父合约的函数。在多重继承中，`super` 会按照 C3 线性化顺序调用所有父合约的同名函数。
+
+### 多重继承
+
+当合约从多个父合约继承时，需要注意继承顺序。Solidity 使用 C3 线性化算法确定函数调用顺序。基本规则是：从最基础的合约到最派生的合约，从右到左。
+
+```solidity
+contract A {
+    function foo() public virtual returns (string memory) {
+        return "A";
+    }
+}
+
+contract B is A {
+    function foo() public virtual override returns (string memory) {
+        return string.concat(super.foo(), "B");
+    }
+}
+
+contract C is A {
+    function foo() public virtual override returns (string memory) {
+        return string.concat(super.foo(), "C");
+    }
+}
+
+// 继承顺序：A -> B -> C -> D
+contract D is B, C {
+    function foo() public override(B, C) returns (string memory) {
+        return string.concat(super.foo(), "D");  // 返回 "ABCD"
+    }
+}
+```
+
+在 `D` 中调用 `super.foo()` 会触发整个继承链：`D.foo()` -> `C.foo()` -> `B.foo()` -> `A.foo()`。
+
+### 构造函数继承
+
+如果父合约的构造函数有参数，子合约必须提供这些参数。有两种方式：
+
+```solidity
+contract Parent {
+    uint256 public value;
+    
+    constructor(uint256 _value) {
+        value = _value;
+    }
+}
+
+// 方式 1：在继承列表中指定
+contract Child1 is Parent(100) {
+    // value 被初始化为 100
+}
+
+// 方式 2：在构造函数中指定
+contract Child2 is Parent {
+    constructor(uint256 _value) Parent(_value) {
+        // 可以使用动态值
+    }
+}
+```
+
+---
+
+## 抽象合约与接口
+
+抽象合约包含至少一个未实现的函数。它不能被直接部署，只能被继承。
+
+```solidity
+abstract contract Animal {
+    string public name;
+    
+    constructor(string memory _name) {
+        name = _name;
+    }
+    
+    // 抽象函数，子合约必须实现
+    function speak() public virtual returns (string memory);
+    
+    // 具体函数，子合约可以直接使用
+    function getName() public view returns (string memory) {
+        return name;
+    }
+}
+
+contract Dog is Animal {
+    constructor() Animal("Dog") {}
+    
+    function speak() public pure override returns (string memory) {
+        return "Woof!";
+    }
+}
+```
+
+接口是更严格的抽象。接口不能有状态变量、构造函数或函数实现。所有函数必须是 `external`。
+
+```solidity
+interface IERC20 {
+    function totalSupply() external view returns (uint256);
+    function balanceOf(address account) external view returns (uint256);
+    function transfer(address to, uint256 amount) external returns (bool);
+    function allowance(address owner, address spender) external view returns (uint256);
+    function approve(address spender, uint256 amount) external returns (bool);
+    function transferFrom(address from, address to, uint256 amount) external returns (bool);
+    
+    event Transfer(address indexed from, address indexed to, uint256 value);
+    event Approval(address indexed owner, address indexed spender, uint256 value);
+}
+```
+
+接口定义了合约的外部 API，是合约之间交互的契约。ERC-20、ERC-721 等标准都是以接口形式定义的。
+
+---
+
+## 库
+
+库是一种特殊的合约，用于代码复用。库不能有状态变量（除了常量），不能继承或被继承，不能接收 ETH。
+
+```solidity
+library SafeMath {
+    function add(uint256 a, uint256 b) internal pure returns (uint256) {
+        uint256 c = a + b;
+        require(c >= a, "SafeMath: addition overflow");
+        return c;
+    }
+    
+    function sub(uint256 a, uint256 b) internal pure returns (uint256) {
+        require(b <= a, "SafeMath: subtraction overflow");
+        return a - b;
+    }
+}
+
+contract Calculator {
+    using SafeMath for uint256;  // 附加库函数到类型
+    
+    function calculate(uint256 a, uint256 b) external pure returns (uint256) {
+        return a.add(b);  // 等价于 SafeMath.add(a, b)
+    }
+}
+```
+
+`using A for B` 语法将库 `A` 的函数附加到类型 `B`。调用时，类型 `B` 的值会作为第一个参数传入。
+
+库函数可以是 `internal` 或 `external`。`internal` 函数会被内联到调用合约中，不产生外部调用开销。`external` 函数需要部署库合约，通过 `delegatecall` 调用。
+
+```solidity
+library ArrayUtils {
+    // internal 函数，会被内联
+    function sum(uint256[] memory arr) internal pure returns (uint256) {
+        uint256 total = 0;
+        for (uint256 i = 0; i < arr.length; i++) {
+            total += arr[i];
+        }
+        return total;
+    }
+    
+    // external 函数，需要部署库
+    function sort(uint256[] storage arr) external {
+        // 原地排序
+        for (uint256 i = 0; i < arr.length; i++) {
+            for (uint256 j = i + 1; j < arr.length; j++) {
+                if (arr[i] > arr[j]) {
+                    (arr[i], arr[j]) = (arr[j], arr[i]);
+                }
+            }
+        }
+    }
+}
+```
+
+---
+
+## 工厂模式
+
+工厂合约用于动态创建其他合约。这在需要部署多个相似合约时非常有用，比如 Uniswap 的交易对工厂。
+
+```solidity
+contract Token {
+    string public name;
+    string public symbol;
+    address public owner;
+    
+    constructor(string memory _name, string memory _symbol, address _owner) {
+        name = _name;
+        symbol = _symbol;
+        owner = _owner;
+    }
+}
+
+contract TokenFactory {
+    address[] public tokens;
+    
+    event TokenCreated(address indexed token, string name, string symbol);
+    
+    function createToken(string memory name, string memory symbol) external returns (address) {
+        Token token = new Token(name, symbol, msg.sender);
+        tokens.push(address(token));
+        emit TokenCreated(address(token), name, symbol);
+        return address(token);
+    }
+    
+    function getTokenCount() external view returns (uint256) {
+        return tokens.length;
+    }
+}
+```
+
+### CREATE2
+
+普通的 `new` 使用 CREATE 操作码，合约地址由部署者地址和 nonce 决定。CREATE2 允许预先计算合约地址，地址由部署者地址、salt 和合约字节码的哈希决定。
+
+```solidity
+contract Create2Factory {
+    event Deployed(address addr, bytes32 salt);
+    
+    function deploy(bytes32 salt, bytes memory bytecode) external returns (address) {
+        address addr;
+        assembly {
+            addr := create2(0, add(bytecode, 0x20), mload(bytecode), salt)
+            if iszero(extcodesize(addr)) {
+                revert(0, 0)
+            }
+        }
+        emit Deployed(addr, salt);
+        return addr;
+    }
+    
+    function computeAddress(bytes32 salt, bytes memory bytecode) external view returns (address) {
+        return address(uint160(uint256(keccak256(abi.encodePacked(
+            bytes1(0xff),
+            address(this),
+            salt,
+            keccak256(bytecode)
+        )))));
+    }
+}
+```
+
+CREATE2 的主要用途包括：
+- 反事实部署：在合约部署前就知道地址，可以先向该地址转账
+- 确定性地址：相同的 salt 和字节码总是产生相同的地址
+- 合约升级：销毁旧合约后，可以在同一地址部署新合约
+
+---
+
+## 总结
+
+合约交互是 DeFi 生态系统的基础。理解不同调用方式的特性——`call` 的灵活性、`delegatecall` 的上下文保持、`staticcall` 的只读保证——对于编写安全的合约至关重要。继承和库提供了代码复用的机制，而工厂模式则支持动态合约部署。
+
+但是，合约交互也带来了安全风险。外部调用可能触发重入攻击，`delegatecall` 可能导致存储冲突，不当的继承顺序可能产生意外行为。下一章将深入讨论这些安全问题以及如何防范。
+
+---
+
+## 参考文献
+
+- [Solidity Documentation - Contracts](https://docs.soliditylang.org/en/latest/contracts.html)
+- [Solidity Documentation - Inheritance](https://docs.soliditylang.org/en/latest/contracts.html#inheritance)
+- [EIP-1014: Skinny CREATE2](https://eips.ethereum.org/EIPS/eip-1014)
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)

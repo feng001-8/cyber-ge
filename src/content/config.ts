@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IHsgZGVmaW5lQ29sbGVjdGlvbiwgeiB9IGZyb20gJ2FzdHJvOmNvbnRlbnQnOwoKY29uc3QgYmxvZyA9IGRlZmluZUNvbGxlY3Rpb24oewogIHR5cGU6ICdjb250ZW50JywKICBzY2hlbWE6IHoub2JqZWN0KHsKICAgIHRpdGxlOiB6LnN0cmluZygpLAogICAgZGVzY3JpcHRpb246IHouc3RyaW5nKCksCiAgICBwdWJEYXRlOiB6LnN0cmluZygpLAogICAgdGFnczogei5hcnJheSh6LnN0cmluZygpKSwKICAgIGhleGFncmFtOiB6LnN0cmluZygpLm9wdGlvbmFsKCksCiAgICBlbGVtZW50OiB6LnN0cmluZygpLm9wdGlvbmFsKCksCiAgfSksCn0pOwoKY29uc3Qgc2NyaXB0dXJlcyA9IGRlZmluZUNvbGxlY3Rpb24oewogIHR5cGU6ICdjb250ZW50JywKICBzY2hlbWE6IHoub2JqZWN0KHsKICAgIHRpdGxlOiB6LnN0cmluZygpLAogICAgZGVzY3JpcHRpb246IHouc3RyaW5nKCkub3B0aW9uYWwoKSwKICAgIGNoYXB0ZXI6IHoubnVtYmVyKCkub3B0aW9uYWwoKSwKICB9KSwKfSk7CgpleHBvcnQgY29uc3QgY29sbGVjdGlvbnMgPSB7CiAgYmxvZywKICBzY3JpcHR1cmVzLAp9Owo="}
+import { defineCollection, z } from 'astro:content';
+
+const blog = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.string(),
+    tags: z.array(z.string()),
+    hexagram: z.string().optional(),
+    element: z.string().optional(),
+  }),
+});
+
+const scriptures = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+    chapter: z.number().optional(),
+  }),
+});
+
+export const collections = {
+  blog,
+  scriptures,
+};

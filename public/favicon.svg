@@ -1,1 +1,6 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTQiIGZpbGw9IiNGOUY5RjYiIHN0cm9rZT0iIzRBOEI3MSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHBhdGggZD0iTTE2IDYgQTEwIDEwIDAgMCAxIDE2IDI2IEE1IDUgMCAwIDAgMTYgMTYgQTUgNSAwIDAgMSAxNiA2IiBmaWxsPSIjNEE4QjcxIi8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxMSIgcj0iMiIgZmlsbD0iI0Y5RjlGNiIvPgogIDxjaXJjbGUgY3g9IjE2IiBjeT0iMjEiIHI9IjIiIGZpbGw9IiM0QThCNzEiLz4KPC9zdmc+Cg=="}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="14" fill="#F9F9F6" stroke="#4A8B71" stroke-width="2"/>
+  <path d="M16 6 A10 10 0 0 1 16 26 A5 5 0 0 0 16 16 A5 5 0 0 1 16 6" fill="#4A8B71"/>
+  <circle cx="16" cy="11" r="2" fill="#F9F9F6"/>
+  <circle cx="16" cy="21" r="2" fill="#4A8B71"/>
+</svg>

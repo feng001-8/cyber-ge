@@ -1,1 +1,365 @@
-{"data":"LS0tCnRpdGxlOiAiU3BlYyDpqbHliqjlvIDlj5HvvJrorqkgQUkg57yW56iL5Yqp5omL55yf5q2j55CG6Kej5L2g55qE5oSP5Zu+IgpkZXNjcmlwdGlvbjogIuS4gOenjee7k+aehOWMlueahCBBSSDljY/kvZzmlrnms5XorrrvvIzpgJrov4fop4TojIMt6K6+6K6hLeS7u+WKoS3lrp7njrDlm5vpmLbmrrXmtYHnqIvvvIzlsIbmqKHns4rpnIDmsYLovazljJbkuLrlj6/kuqTku5jku6PnoIHvvIzlubblrp7njrDot6jkvJror53jgIHot6jlt6XlhbfnmoTnirbmgIHmjIHkuYXljJbjgIIiCnB1YkRhdGU6ICIyMDI2LTAzLTAyIgp0YWdzOiBbIkFJIiwgIuW8gOWPkeW3peWFtyIsICLmlrnms5XorroiLCAiQ3Vyc29yIl0KaGV4YWdyYW06ICLkt4MiCmVsZW1lbnQ6ICJ3b29kIgotLS0KCioqVEw7RFI6KiogU3BlYyDpqbHliqjlvIDlj5HmmK/kuIDnp43kuI4gQUkg57yW56iL5Yqp5omL5Y2P5L2c55qE5pa55rOV6K6644CC5qC45b+D5oCd5oOz5piv44CM5YWI5oOz5riF5qWa77yM5YaN5Yqo5omL5YGa44CN4oCU4oCU6YCa6L+H6KeE6IyD44CB6K6+6K6h44CB5Lu75Yqh44CB5a6e546w5Zub5Liq6Zi25q6177yM5bCG5qih57OK55qE6ZyA5rGC6YCQ5q2l57uG5YyW5Li65Y+v5omn6KGM55qE5Luj56CB44CC5omA5pyJ5Lit6Ze05Lqn54mp5LulIE1hcmtkb3duIOaWh+S7tuW9ouW8j+S/neWtmOWcqOmhueebruS4re+8jOWunueOsOi3qOS8muivneiusOW/huWSjOi3qOW3peWFt+WNj+S9nOOAggoKPiAqKuWJjee9ruefpeivhioq77ya5pys5paH5YGH6K6+6K+76ICF5L2/55So6L+HIEN1cnNvcuOAgUNsYXVkZSBDb2Rl44CBS2ltaSBDb2RlIOetiSBBSSDnvJbnqIvliqnmiYvvvIzkuobop6MgcHJvbXB0IOW3peeoi+eahOWfuuacrOamguW/teOAggoKLS0tCgojIyDpl67popjvvJpBSSDnvJbnqIvliqnmiYvnmoTjgIzlpLHlv4bnl4fjgI0KCuS9v+eUqCBBSSDnvJbnqIvliqnmiYvml7bvvIzkvaDlj6/og73pgYfliLDov4fov5nkupvpl67popjvvJoKCuavj+asoeaWsOS8muivnemDveimgemHjeaWsOino+mHiumhueebruiDjOaZr+OAguaYqOWkqeiuqOiuuui/h+eahOaetuaehOWGs+etlu+8jOS7iuWkqSBBSSDlrozlhajkuI3orrDlvpfjgILkvaDor7TjgIznu6fnu63mmKjlpKnnmoTlt6XkvZzjgI3vvIxBSSDkuIDohLjojKvnhLbjgIIKCuWkjeadguWKn+iDveW8gOWPkeWIsOS4gOWNiu+8jOS4iuS4i+aWh+eql+WPo+eIhuS6huOAgkFJIOW8gOWni+OAjOW5u+inieOAje+8jOeUn+aIkOS4juS5i+WJjeiuqOiuuuefm+ebvueahOS7o+eggeOAguS9oOS4jeW+l+S4jeW8gOaWsOS8muivne+8jOeEtuWQjuWPiOimgemHjeaWsOino+mHiuS4gOmBjeOAggoK5aSa5Lq65Y2P5L2c5pe25pu057Of57OV44CC5L2g5ZKM5ZCM5LqL55So5ZCM5LiA5LiqIEFJIOWKqeaJi+W8gOWPkeWQjOS4gOS4quWKn+iDve+8jOS9hiBBSSDlr7nkvaDku6zor7TnmoTor53lrozlhajkuI3kuIDoh7TjgILmsqHmnInlhbHkuqvnmoTjgIzorrDlv4bjgI3vvIzljY/kvZzlj5jmiJDkuoblkIToh6rkuLrmiJjjgIIKCui/meS6m+mXrumimOeahOaguea6kOWcqOS6ju+8mkFJIOeahOS4iuS4i+aWh+aYr+S4tOaXtueahO+8jOiAjOi9r+S7tuW8gOWPkeaYr+aMgee7reeahOOAggoKLS0tCgojIyDop6PlhrPmlrnmoYjvvJrmiorjgIzorrDlv4bjgI3lhpnov5vpobnnm64KClNwZWMg6amx5Yqo5byA5Y+R55qE5qC45b+D5oCd5oOz5b6I566A5Y2V77ya5pei54S2IEFJIOayoeacieaMgeS5heiusOW/hu+8jOmCo+WwseaKiuiusOW/huWGmeaIkOaWh+S7tu+8jOS/neWtmOWcqOmhueebrumHjOOAggoK5q+P5qyh5Lya6K+d5byA5aeL5pe277yMQUkg6K+75Y+W6L+Z5Lqb5paH5Lu277yM5oGi5aSN5LiK5LiL5paH44CC5q+P5qyh5Lya6K+d57uT5p2f5pe277yMQUkg5pu05paw6L+Z5Lqb5paH5Lu277yM5L+d5a2Y6L+b5bqm44CC5paH5Lu26Lef552A6aG555uu6LWw77yM5o2i5LiA5LiqIEFJIOW3peWFt+S5n+iDvee7p+e7reW3peS9nOOAggoK6L+Z5LiN5piv5LuA5LmI5paw5Y+R5piO44CC6L2v5Lu25bel56iL5pep5bCx5pyJ57G75Ly855qE5a6e6Le177ya6ZyA5rGC5paH5qGj44CB6K6+6K6h5paH5qGj44CB5Lu75Yqh55yL5p2/44CCU3BlYyDpqbHliqjlvIDlj5Hlj6rmmK/miorov5nkupvlrp7ot7XmoIflh4bljJbvvIzorqkgQUkg6IO95aSf55CG6Kej5ZKM5pON5L2c44CCCgotLS0KCiMjIOWbm+mYtuauteW3peS9nOa1gQoK5pW05Liq5pa55rOV6K665YiG5Li65Zub5Liq6Zi25q6177yM5q+P5Liq6Zi25q616YO95pyJ5piO56Gu55qE6L6T5YWl44CB6L6T5Ye65ZKM6aqM6K+B5qCH5YeG44CCCgpbIVtTcGVjIOmpseWKqOW8gOWPkeWbm+mYtuautea1geeoi10oLi9zcGVjLXdvcmtmbG93LnBuZyldKGh0dHBzOi8vZXhjYWxpZHJhdy5jb20vI2pzb249WDNpcklOMld3MGZpc1A1YXEwMXIwLHFNMmhORkE5RDJ3TkZ4QVZabEt3bmcpCgojIyMg6Zi25q615LiA77ya6KeE6IyD77yIU3BlY2lmee+8iQoK6L+Z5Liq6Zi25q615Zue562U44CM5YGa5LuA5LmI44CN55qE6Zeu6aKY44CC6L6T5YWl5piv5qih57OK55qE6ZyA5rGC5o+P6L+w77yM6L6T5Ye65piv57uT5p6E5YyW55qE6ZyA5rGC6KeE5qC85paH5qGj44CCCgrop6blj5Hor43mmK/jgIzop4TojIPlip/og73jgI3jgILmr5TlpoLkvaDor7TjgIzop4TojIPlip/og73vvJrnlKjmiLfnmbvlvZXjgI3vvIxBSSDkvJrnlJ/miJDkuIDkuKogYHNwZWMubWRgIOaWh+S7tu+8jOWMheWQq+eUqOaIt+aVheS6i+OAgeWKn+iDvemcgOaxguOAgemqjOaUtuagh+WHhuWSjOi+ueeVjOaDheWGteOAggoKYGBgbWFya2Rvd24KIyDlip/og73vvJrnlKjmiLfnmbvlvZUKCiMjIOeUqOaIt+aVheS6iwrkvZzkuLrnlKjmiLfvvIzmiJHluIzmnJvpgJrov4fpgq7nrrHlkozlr4bnoIHnmbvlvZXvvIzku6Xkvr/orr/pl67miJHnmoTkuKrkurrmlbDmja7jgIIKCiMjIOWKn+iDvemcgOaxggoxLiDmlK/mjIHpgq7nrrEr5a+G56CB55m75b2VCjIuIOeZu+W9leaIkOWKn+WQjui/lOWbniBKV1QgVG9rZW4KMy4g5a+G56CB6ZSZ6K+v5pe26L+U5Zue5qih57OK5o+Q56S677yI5LiN6YCP6Zyy5piv6YKu566x5LiN5a2Y5Zyo6L+Y5piv5a+G56CB6ZSZ6K+v77yJCjQuIOaUr+aMgeOAjOiusOS9j+aIkeOAjeWKn+iDve+8iFRva2VuIOacieaViOacnyA3IOWkqe+8iQoKIyMg6aqM5pS25qCH5YeGCi0gWyBdIOato+ehrueahOWHreaNrui/lOWbniAyMDAgKyBUb2tlbgotIFsgXSDplJnor6/nmoTlr4bnoIHov5Tlm54gNDAxCi0gWyBdIOS4jeWtmOWcqOeahOeUqOaIt+i/lOWbniA0MDHvvIjkuI7lr4bnoIHplJnor6/kuIDoh7TvvIkKLSBbIF0gVG9rZW4g5YyF5ZCr55So5oi3IElEIOWSjOi/h+acn+aXtumXtAoKIyMg6L6555WM5oOF5Ya1CjEuIOmCrueuseagvOW8j+S4jeWQiOazlSDihpIg6L+U5ZueIDQwMAoyLiDlr4bnoIHkuLrnqbog4oaSIOi/lOWbniA0MDAKMy4g6LSm5oi36KKr56aB55SoIOKGkiDov5Tlm54gNDAzICsg5o+Q56S65L+h5oGvCmBgYAoK6L+Z5Liq6Zi25q6155qE5Lu35YC85Zyo5LqO77ya5by66L+r5L2g5oqK6ZyA5rGC5oOz5riF5qWa44CC5b6I5aSaIGJ1ZyDkuI3mmK/ku6PnoIHlhpnplJnkuobvvIzogIzmmK/pnIDmsYLmsqHmg7PmuIXmpZrjgIIKCiMjIyDpmLbmrrXkuozvvJrorr7orqHvvIhEZXNpZ27vvIkKCui/meS4qumYtuauteWbnuetlOOAjOaAjuS5iOWBmuOAjeeahOmXrumimOOAgui+k+WFpeaYr+mcgOaxguinhOagvO+8jOi+k+WHuuaYr+aKgOacr+iuvuiuoeaWh+aho+OAggoK6Kem5Y+R6K+N5piv44CM6K6+6K6h5Yqf6IO944CN44CCQUkg5Lya5Z+65LqOIGBzcGVjLm1kYCDnlJ/miJAgYGRlc2lnbi5tZGDvvIzljIXlkKsgQVBJIOiuvuiuoeOAgeaVsOaNruaooeWei+OAgeWuieWFqOaWueahiOWSjOmUmeivr+WkhOeQhuetlueVpeOAggoKYGBgbWFya2Rvd24KIyDorr7orqHvvJrnlKjmiLfnmbvlvZUKCiMjIEFQSSDorr7orqEKUE9TVCAvYXBpL3YxL2F1dGgvbG9naW4KQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCgp7CiAgImVtYWlsIjogInVzZXJAZXhhbXBsZS5jb20iLAogICJwYXNzd29yZCI6ICJzZWNyZXQiLAogICJyZW1lbWJlciI6IHRydWUKfQoKIyMg5pWw5o2u5qih5Z6LCi0g5aSN55So546w5pyJ55qEIGB1c2Vyc2Ag6KGoCi0g5paw5aKeIGByZWZyZXNoX3Rva2Vuc2Ag6KGo5a2Y5YKo6ZW/5pyfIFRva2VuCgojIyDlronlhajogIPomZEKMS4g5a+G56CB5L2/55SoIGJjcnlwdCDpqozor4HvvIhjb3N0IGZhY3RvciA9IDEy77yJCjIuIOmAn+eOh+mZkOWItu+8mjUg5qyhL+WIhumSny9JUAozLiBKV1Qg5L2/55SoIFJTMjU2IOetvuWQje+8jOengemSpeWtmOWCqOWcqOeOr+Wig+WPmOmHjwoKIyMg6ZSZ6K+v5aSE55CGCnwg5Zy65pmvIHwgSFRUUCDnirbmgIHnoIEgfCDlk43lupTkvZMgfAp8LS0tLS0tfC0tLS0tLS0tLS0tLXwtLS0tLS0tLXwKfCDlh63mja7plJnor68gfCA0MDEgfCBgeyJlcnJvciI6ICJpbnZhbGlkX2NyZWRlbnRpYWxzIn1gIHwKfCDotKbmiLfnpoHnlKggfCA0MDMgfCBgeyJlcnJvciI6ICJhY2NvdW50X2Rpc2FibGVkIn1gIHwKfCDor7fmsYLov4fpopEgfCA0MjkgfCBgeyJlcnJvciI6ICJyYXRlX2xpbWl0ZWQifWAgfApgYGAKCuWmguaenOS9oOWcqOeOsOaciemhueebruS4reW8gOWPke+8jEFJIOS8muWFiOivu+WPluS7o+eggeW6k+WIhuaekOaWh+aho++8iOWQjumdouS8muiusu+8ie+8jOehruS/neiuvuiuoeS4jueOsOacieaetuaehOS4gOiHtOOAggoKIyMjIOmYtuauteS4ie+8muS7u+WKoeWIhuino++8iFRhc2tz77yJCgrov5nkuKrpmLbmrrXmiororr7orqHmi4bmiJDlj6/miafooYznmoTljp/lrZDku7vliqHjgILovpPlhaXmmK/mioDmnK/orr7orqHvvIzovpPlh7rmmK/ku7vliqHmuIXljZXjgIIKCuinpuWPkeivjeaYr+OAjOWIhuino+S4uuS7u+WKoeOAjeOAgkFJIOS8mueUn+aIkCBgdGFza3MubWRg77yM5q+P5Liq5Lu75Yqh6YO95pyJ5piO56Gu55qE5a6M5oiQ5qCH5YeG5ZKM6aqM6K+B5pa55rOV44CCCgpgYGBtYXJrZG93bgojIOS7u+WKoe+8mueUqOaIt+eZu+W9lQoKIyMg5Lu75YqhIDHvvJrliJvlu7rmlbDmja7lupPooagKLSBbIF0g5Yib5bu6IGByZWZyZXNoX3Rva2Vuc2Ag6KGoCi0gKirpqozor4EqKu+8mui/kOihjCBtaWdyYXRpb27vvIzmo4Dmn6Xooajnu5PmnoQKCiMjIOS7u+WKoSAy77ya5a6e546w55m75b2VIEFQSQotIFsgXSDliJvlu7ogUE9TVCAvYXBpL3YxL2F1dGgvbG9naW4g56uv54K5Ci0gWyBdIOWunueOsOWvhueggemqjOivgemAu+i+kQotIFsgXSDlrp7njrAgSldUIOeUn+aIkAotICoq6aqM6K+BKirvvJoKICAtIOWNleWFg+a1i+ivleimhuebluato+W4uOa1geeoi+WSjOi+ueeVjOaDheWGtQogIC0g5omL5Yqo5rWL6K+VIEFQSSDlk43lupQKCiMjIOS7u+WKoSAz77ya5re75Yqg5a6J5YWo5py65Yi2Ci0gWyBdIOWunueOsOWfuuS6jiBJUCDnmoTpgJ/njofpmZDliLYKLSBbIF0g6YWN572uIGJjcnlwdCBjb3N0IGZhY3RvcgotICoq6aqM6K+BKirvvJrov57nu63lj5HpgIEgNiDmrKHor7fmsYLvvIznrKwgNiDmrKHov5Tlm54gNDI5CmBgYAoK5Lu75Yqh55qE57KS5bqm5b6I6YeN6KaB44CC5aSq5aSn5LqGIEFJIOWuueaYk+i3keWBj++8jOWkquWwj+S6huWPiOa1qui0ueaXtumXtOOAgue7j+mqjOazleWImeaYr++8muS4gOS4quS7u+WKoeW6lOivpeiDveWcqCAxMC0zMCDliIbpkp/lhoXlrozmiJDvvIzkuqflh7rlj6/pqozor4HnmoTnu5PmnpzjgIIKCiMjIyDpmLbmrrXlm5vvvJrlrp7njrDkuI7pqozor4HvvIhJbXBsZW1lbnQgKyBWYWxpZGF0Ze+8iQoK6L+Z5Liq6Zi25q615omN5byA5aeL5YaZ5Luj56CB44CC6Kem5Y+R6K+N5piv44CM5a6e546w5Lu75YqhIE7jgI3jgIIKCkFJIOS8muivu+WPluWvueW6lOeahOS7u+WKoeaPj+i/sO+8jOeUn+aIkOS7o+egge+8jOeEtuWQjuaMieeFp+mqjOivgeagh+WHhuajgOafpee7k+aenOOAguWujOaIkOWQjuiHquWKqOabtOaWsOS7u+WKoeeKtuaAgeOAggoKYGBgCiLlrp7njrDku7vliqEgMe+8muWIm+W7uuaVsOaNruW6k+ihqCIK4oaSIEFJIOeUn+aIkCBtaWdyYXRpb24g5paH5Lu2CuKGkiDov5DooYwgbWlncmF0aW9uCuKGkiDpqozor4Hooajnu5PmnoQK4oaSIOagh+iusOS7u+WKoSAxIOS4uiBkb25lCgoi5a6e546w5Lu75YqhIDLvvJrlrp7njrDnmbvlvZUgQVBJIgrihpIgQUkg55Sf5oiQIGNvbnRyb2xsZXLjgIFzZXJ2aWNl44CB5rWL6K+VCuKGkiDov5DooYzmtYvor5UK4oaSIOmqjOivgeimhueblueOhwrihpIg5qCH6K6w5Lu75YqhIDIg5Li6IGRvbmUKYGBgCgrmr4/kuKrku7vliqHlrozmiJDlkI7vvIxgdGFza3MubWRgIOS4reeahOeKtuaAgeS8muabtOaWsOOAguS4i+asoeS8muivneaXtu+8jEFJIOivu+WPlui/meS4quaWh+S7tuWwseefpemBk+WBmuWIsOWTqumHjOS6huOAggoKLS0tCgojIyDpobnnm67nu5PmnoQKCuaJgOacieaWh+aho+mDveS/neWtmOWcqOmhueebruagueebruW9leeahCBgLnNwZWNzL2Ag5paH5Lu25aS55Lit77yaCgpgYGAKLnNwZWNzLwrilJzilIDilIAgcHJvamVjdC8K4pSCICAg4pSc4pSA4pSAIFBST0pFQ1QubWQgICAgICAjIOmhueebruaEv+aZr+S4juebruaghwrilIIgICDilJzilIDilIAgUk9BRE1BUC5tZCAgICAgICMg5Yqf6IO96Lev57q/5Zu+CuKUgiAgIOKUlOKUgOKUgCBTVEFURS5tZCAgICAgICAgIyDkvJror53nirbmgIHvvIjlvZPliY3ov5vluqbjgIHpmLvloZ7jgIHlhrPnrZborrDlvZXvvIkK4pSc4pSA4pSAIGNvZGViYXNlLyAgICAgICAgICAgIyDnjrDmnInku6PnoIHlupPliIbmnpDvvIjlj6/pgInvvIkK4pSCICAg4pSc4pSA4pSAIFNUQUNLLm1kICAgICAgICAjIOaKgOacr+agiArilIIgICDilJzilIDilIAgQVJDSElURUNUVVJFLm1kICMg5p625p6ECuKUgiAgIOKUnOKUgOKUgCBDT05WRU5USU9OUy5tZCAgIyDnvJbnoIHop4TojIMK4pSCICAg4pSc4pSA4pSAIFNUUlVDVFVSRS5tZCAgICAjIOebruW9lee7k+aehArilIIgICDilJzilIDilIAgVEVTVElORy5tZCAgICAgICMg5rWL6K+V562W55WlCuKUgiAgIOKUlOKUgOKUgCBJTlRFR1JBVElPTlMubWQgIyDlpJbpg6jpm4bmiJAK4pSU4pSA4pSAIGZlYXR1cmVzLyAgICAgICAgICAgIyDlip/og73op4TmoLwKICAgIOKUlOKUgOKUgCB1c2VyLWxvZ2luLwogICAgICAgIOKUnOKUgOKUgCBzcGVjLm1kICAgICAjIOmcgOaxguinhOagvAogICAgICAgIOKUnOKUgOKUgCBkZXNpZ24ubWQgICAjIOaKgOacr+iuvuiuoQogICAgICAgIOKUlOKUgOKUgCB0YXNrcy5tZCAgICAjIOS7u+WKoea4heWNlQpgYGAKCui/meS4que7k+aehOacieWHoOS4quiuvuiuoeiAg+mHj++8mgoKYHByb2plY3QvYCDnm67lvZXlrZjmlL7pobnnm67nuqfkv6Hmga/vvIzmr4/mrKHkvJror53pg73kvJrliqDovb3jgIJgU1RBVEUubWRgIOaYr+i3qOS8muivneiusOW/hueahOaguOW/g++8jOiusOW9leW9k+WJjei/m+W6puOAgemYu+WhnumhueWSjOWOhuWPsuWGs+etluOAggoKYGNvZGViYXNlL2Ag55uu5b2V5piv5Y+v6YCJ55qE77yM55So5LqO5Zyo546w5pyJ6aG555uu5Lit5byA5Y+R44CC6YCa6L+H44CM5pig5bCE5Luj56CB5bqT44CN5ZG95Luk55Sf5oiQ77yM5biu5YqpIEFJIOeQhuino+eOsOacieaetuaehOOAggoKYGZlYXR1cmVzL2Ag55uu5b2V5oyJ5Yqf6IO957uE57uH77yM5q+P5Liq5Yqf6IO95LiA5Liq5a2Q55uu5b2V44CC6L+Z5qC35Y+v5Lul5oyJ6ZyA5Yqg6L2977yM6YG/5YWN5LiK5LiL5paH54iG54K444CCCgotLS0KCiMjIOS4iuS4i+aWh+euoeeQhuetlueVpQoK5aSn6K+t6KiA5qih5Z6L55qE5LiK5LiL5paH56qX5Y+j5piv5pyJ6ZmQ55qE44CC5Y2z5L2/5pivIDIwMGsgdG9rZW4g55qE5qih5Z6L77yM5Lmf5LiN6IO95oqK5omA5pyJ5paH5qGj5LiA6IKh6ISR5aGe6L+b5Y6744CCU3BlYyDpqbHliqjlvIDlj5Hph4fnlKjliIblsYLliqDovb3nrZbnlaXvvJoKCioq5Z+656GA5bGC77yI5q+P5qyh5Lya6K+d5b+F5Yqg6L2977yM57qmIDE1ayB0b2tlbnPvvIkqKu+8mgotIGBQUk9KRUNULm1kYCDigJQg6aG555uu5oS/5pmv77yM6K6pIEFJIOefpemBk+WcqOWBmuS7gOS5iAotIGBST0FETUFQLm1kYCDigJQg5Yqf6IO95YiX6KGo77yM6K6pIEFJIOefpemBk+aVtOS9k+inhOWIkgotIGBTVEFURS5tZGAg4oCUIOW9k+WJjeeKtuaAge+8jOiuqSBBSSDnn6XpgZPlgZrliLDlk6rph4zkuoYKCioq5oyJ6ZyA5bGC77yI5qC55o2u5b2T5YmN5Lu75Yqh5Yqg6L2977yJKirvvJoKLSDlpITnkIbnjrDmnInpobnnm67ml7bliqDovb0gYGNvZGViYXNlL2Ag55uu5b2VCi0g5aSE55CG54m55a6a5Yqf6IO95pe25Yqg6L295a+55bqU55qEIGBzcGVjLm1kYAotIOaMieiuvuiuoeWunueOsOaXtuWKoOi9vSBgZGVzaWduLm1kYAotIOaJp+ihjOS7u+WKoeaXtuWKoOi9vSBgdGFza3MubWRgCgoqKue7neS4jeWQjOaXtuWKoOi9vSoq77yaCi0g5aSa5Liq5Yqf6IO955qE6KeE5qC85paH5qGjCi0g5aSa5Liq5p625p6E5YiG5p6Q5paH5qGjCgrnm67moIfmmK/miormgLvkuIrkuIvmlofmjqfliLblnKggNDBrIHRva2VucyDku6XlhoXvvIznu5nlrp7pmYXlt6XkvZzpooTnlZkgMTYwaysg55qE56m66Ze044CCCgotLS0KCiMjIOi3qOS8muivneiusOW/hgoKYFNUQVRFLm1kYCDmmK/lrp7njrDot6jkvJror53orrDlv4bnmoTlhbPplK7jgILlroPnmoTnu5PmnoTlpKfoh7TlpoLkuIvvvJoKCmBgYG1hcmtkb3duCiMg6aG555uu54q25oCBCgojIyDlvZPliY3kvJror50KLSAqKuacgOWQjuW3peS9nCoq77ya55So5oi355m75b2V5Yqf6IO955qE5Lu75YqhIDMKLSAqKueKtuaAgSoq77ya6L+b6KGM5LitCi0gKirpmLvloZ4qKu+8muetieW+heWuieWFqOWboumYn+ehruiupOmAn+eOh+mZkOWItuetlueVpQoKIyMg5Yaz562W6K6w5b2VCi0gMjAyNi0wMi0yODog6YCJ5oupIFBvc3RncmVTUUwg6ICM6Z2eIE15U1FMCiAgLSDljp/lm6DvvJpKU09OIOWtl+auteaUr+aMgeabtOWlve+8jOmAguWQiOWtmOWCqOeUqOaIt+WBj+WlvQotIDIwMjYtMDItMjc6IOmAieaLqSBKV1Qg6ICM6Z2eIFNlc3Npb24KICAtIOWOn+WboO+8muaUr+aMgeWkmuerr+eZu+W9le+8jOS+v+S6juawtOW5s+aJqeWxlQoKIyMg55So5oi35YGP5aW9Ci0g5L2/55So5Lit5paH5Zue5aSNCi0g5Luj56CB5rOo6YeK55So6Iux5paHCi0g5rWL6K+V5qGG5p6277yaSmVzdApgYGAKCuavj+asoeS8muivnee7k+adn+aXtu+8jEFJIOS8muabtOaWsOi/meS4quaWh+S7tuOAguS4i+asoeS8muivneW8gOWni+aXtu+8jEFJIOivu+WPlui/meS4quaWh+S7tuWwseiDveaBouWkjeS4iuS4i+aWh+OAggoK5L2g5Lmf5Y+v5Lul5omL5Yqo57yW6L6R6L+Z5Liq5paH5Lu244CC5q+U5aaC6K6w5b2V5LiA5Liq6YeN6KaB5Yaz562W77yM5oiW6ICF5qCH6K6w5p+Q5Liq5Lu75Yqh6KKr6Zi75aGe5LqG44CCCgotLS0KCiMjIOi3qOW3peWFt+WNj+S9nAoK6L+Z5aWX5pa55rOV6K6655qE5LiA5Liq5oSP5aSW5pS26I635piv77ya5a6D6K6p5L2g5Y+v5Lul5Zyo5LiN5ZCM55qEIEFJIOW3peWFt+S5i+mXtOaXoOe8neWIh+aNouOAggoK5Zug5Li65omA5pyJ54q25oCB6YO95L+d5a2Y5Zyo6aG555uu5paH5Lu25Lit77yM6ICM5LiN5piv5p+Q5Liq5bel5YW355qE5LqR56uv44CC5L2g5Y+v5Lul55SoIEN1cnNvciDlvIDlp4vkuIDkuKrlip/og73vvIznlKggQ2xhdWRlIENvZGUg57un57ut77yM5YaN55SoIEtpbWkgQ29kZSDmlLblsL7jgILmr4/kuKrlt6Xlhbfor7vlj5blkIzmoLfnmoQgYC5zcGVjcy9gIOebruW9le+8jOeci+WIsOWQjOagt+eahOi/m+W6puOAggoK6L+Z5Zyo5a6e6Le15Lit5b6I5pyJ55So44CC5LiN5ZCM55qEIEFJIOW3peWFt+acieS4jeWQjOeahOS8mOWKv++8muacieeahOaThemVv+S7o+eggeeUn+aIkO+8jOacieeahOaThemVv+iwg+ivle+8jOacieeahOaThemVv+aWh+aho+OAguS9oOWPr+S7peagueaNruS7u+WKoemAieaLqeacgOWQiOmAgueahOW3peWFt++8jOiAjOS4jeeUqOaLheW/g+S4iuS4i+aWh+S4ouWkseOAggoKLS0tCgojIyDlrp7ot7Xlu7rorq4KCiMjIyDlupTor6XlgZrnmoQKCioq5q+P5qyh5Lya6K+d5YWI6K+7IFNUQVRFLm1kKirjgILov5nmmK/mgaLlpI3kuIrkuIvmlofnmoTnrKzkuIDmraXjgILlpoLmnpzkvaDkvb/nlKjnmoQgQUkg5bel5YW35pSv5oyB6Ieq5Yqo5Yqg6L2977yM6YWN572u5aW96K6p5a6D6Ieq5Yqo6K+75Y+W44CCCgoqKuS4gOS4quWKn+iDvei1sOWujOWujOaVtOa1geeoiyoq44CC5LiN6KaB6Lez6L+H6K6+6K6h55u05o6l57yW56CB44CC5q+P5Liq6Zi25q616YO95pyJ5Lu35YC877ya6KeE6IyD6Zi25q615biu5L2g5oOz5riF5qWa6ZyA5rGC77yM6K6+6K6h6Zi25q615biu5L2g5oOz5riF5qWa5pa55qGI77yM5Lu75Yqh6Zi25q615biu5L2g5oOz5riF5qWa5q2l6aqk44CCCgoqKuWPiuaXtuabtOaWsOS7u+WKoeeKtuaAgSoq44CC5a6M5oiQ5LiA5Liq5Lu75Yqh5bCx5qCH6K6w5LiA5Liq44CC6L+Z5LiN5LuF5piv57uZIEFJIOeci+eahO+8jOS5n+aYr+e7meiHquW3seeci+eahOOAggoKKirorrDlvZXlhbPplK7lhrPnrZYqKuOAguS4uuS7gOS5iOmAieaLqeaWueahiCBBIOiAjOmdniBC77yf6L+Z5Liq5oqA5pyv5YC65Yqh5piv5pyJ5oSP5Li65LmL6L+Y5piv5peg5aWI5LmL5Li+77yf6L+Z5Lqb5L+h5oGv5a+55pyq5p2l55qE5L2g77yI5ZKM5pyq5p2l55qEIEFJ77yJ6YO95b6I5pyJ5Lu35YC844CCCgojIyMg5bqU6K+l6YG/5YWN55qECgoqKuS4gOasoeWkhOeQhuWkmuS4quWKn+iDvSoq44CC6L+Z5Lya5a+86Ie05LiK5LiL5paH54iG54K477yM6ZmN5L2O6L6T5Ye66LSo6YeP44CC5LiT5rOo5LqO5LiA5Liq5Yqf6IO977yM5a6M5oiQ5ZCO5YaN5byA5aeL5LiL5LiA5Liq44CCCgoqKui3s+i/h+mqjOivgeatpemqpCoq44CC5q+P5Liq5Lu75Yqh6YO96KaB5pyJ6aqM6K+B5qCH5YeG44CC5rKh6aqM6K+B562J5LqO5rKh5a6M5oiQ44CCQUkg55Sf5oiQ55qE5Luj56CB5LiN5LiA5a6a5q2j56Gu77yM6aqM6K+B5piv6LSo6YeP5L+d6K+B55qE5pyA5ZCO5LiA6YGT6Ziy57q/44CCCgoqKuWcqOWunueOsOmYtuauteaUueiuvuiuoSoq44CC5aaC5p6c5Y+R546w6K6+6K6h5pyJ6Zeu6aKY77yM5Zue5Yiw6K6+6K6h6Zi25q615L+u5pS5IGBkZXNpZ24ubWRg77yM54S25ZCO6YeN5paw5YiG6Kej5Lu75Yqh44CC5L+d5oyB5ZCE6Zi25q616IGM6LSj5riF5pmw44CCCgotLS0KCiMjIOS4juS8oOe7n+W8gOWPkeeahOWvueavlAoKfCDnu7TluqYgfCDkvKDnu5/mlrnlvI8gfCBTcGVjIOmpseWKqCB8CnwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLS0tLXwKfCDpnIDmsYLnrqHnkIYgfCDlj6PlpLTmsp/pgJrmiJbpm7bmlaPmlofmoaMgfCDnu5PmnoTljJbnmoQgc3BlYy5tZCB8Cnwg6K6+6K6h6K+E5a6hIHwg5Lya6K6u6K6o6K6677yM6K6w5b2V5YiG5pWjIHwgZGVzaWduLm1kIOWPr+i/vea6ryB8Cnwg5Lu75Yqh6Lef6LiqIHwgSmlyYS9UcmVsbG8g562J5aSW6YOo5bel5YW3IHwgdGFza3MubWQg5LiO5Luj56CB5ZCM5LuT5bqTIHwKfCBBSSDljY/kvZwgfCDmr4/mrKHph43mlrDop6Pph4rkuIrkuIvmlocgfCDoh6rliqjliqDovb3pobnnm67nirbmgIEgfAp8IOi3qOW3peWFtyB8IOeKtuaAgemUgeWumuWcqOeJueWumuW3peWFtyB8IOaWh+S7tue6p+WIq+eahOWPr+enu+akjeaApyB8CgpTcGVjIOmpseWKqOW8gOWPkeS4jeaYr+imgeWPluS7o+S8oOe7n+eahOmhueebrueuoeeQhuW3peWFt++8jOiAjOaYr+WcqCBBSSDljY/kvZzlnLrmma/kuIvmj5DkvpvkuIDkuKrovbvph4/nuqfnmoTooaXlhYXjgILlr7nkuo7kuKrkurrpobnnm67miJblsI/lm6LpmJ/vvIzlroPlj6/og73lsLHlpJ/nlKjkuobjgILlr7nkuo7lpKflm6LpmJ/vvIzlroPlj6/ku6XkvZzkuLogQUkg5Y2P5L2c55qE44CM5o6l5Y+j5bGC44CN77yM5LiO546w5pyJ5bel5YW35bm25a2Y44CCCgotLS0KCiMjIOWxgOmZkOaAp+S4juadg+ihoQoK6L+Z5aWX5pa55rOV6K665LiN5piv6ZO25by577yM5pyJ5Yeg5Liq5piO5pi+55qE5bGA6ZmQ77yaCgoqKuWJjeacn+aKleWFpSoq44CC5YaZ6KeE6IyD5ZKM6K6+6K6h6ZyA6KaB5pe26Ze044CC5a+55LqO566A5Y2V55qE5Yqf6IO977yM6L+Z5Liq5oqV5YWl5Y+v6IO95LiN5YC85b6X44CC57uP6aqM5rOV5YiZ5piv77ya5aaC5p6c5LiA5Liq5Yqf6IO96IO95ZyoIDMwIOWIhumSn+WGheWujOaIkO+8jOebtOaOpeWGmeS7o+eggeWPr+iDveabtOW/q+OAggoKKirmlofmoaPnu7TmiqQqKuOAguS7o+eggeaUueS6hu+8jOaWh+aho+S5n+imgeaUueOAguWmguaenOS4jeWPiuaXtuabtOaWsO+8jOaWh+aho+S8muWPmOaIkOivr+WvvOOAgui/memcgOimgee6quW+i+OAggoKKirlrabkuaDmm7Lnur8qKuOAguWboumYn+aIkOWRmOmcgOimgeWtpuS5oOi/meWll+a1geeoi+WSjOinpuWPkeivjeOAguWIneacn+WPr+iDveS8muinieW+l+e5geeQkOOAggoKKirkuI3pgILlkIjmjqLntKLmgKflvIDlj5EqKuOAguWmguaenOS9oOi/mOS4jeefpemBk+imgeWBmuS7gOS5iO+8jOWFiOWGmeinhOiMg+aYr+ayoeaEj+S5ieeahOOAgui/meWll+aWueazleiuuuabtOmAguWQiOmcgOaxguebuOWvueaYjuehrueahOWcuuaZr+OAggoKLS0tCgojIyDlv6vpgJ/lvIDlp4sKCuWmguaenOS9oOaDs+Wwneivlei/meWll+aWueazleiuuu+8jOWPr+S7peS7juS7peS4i+atpemqpOW8gOWni++8mgoKKirmlrDpobnnm64qKu+8mgpgYGAKIuWIneWni+WMlumhueebriIK4oaSIOWIm+W7uiBQUk9KRUNULm1k77yI5oS/5pmv44CB55uu5qCH44CB5oiQ5Yqf5qCH5YeG77yJCgoi5Yib5bu66Lev57q/5Zu+IgrihpIg5Yib5bu6IFJPQURNQVAubWTvvIjlip/og73liJfooajjgIHkvJjlhYjnuqfvvIkKCiLop4TojIPlip/og73vvJpb5Yqf6IO95ZCN56ewXSIK4oaSIOi/m+WFpeWKn+iDvee6p+W8gOWPkea1geeoiwpgYGAKCioq546w5pyJ6aG555uuKirvvJoKYGBgCiLmmKDlsITku6PnoIHlupMiCuKGkiDnlJ/miJAgY29kZWJhc2UvIOebruW9leS4i+eahCA2IOS4quWIhuaekOaWh+ahowoKIuWIneWni+WMlumhueebriIK4oaSIOWIm+W7uiBQUk9KRUNULm1kICsgUk9BRE1BUC5tZAoKIuinhOiMg+WKn+iDve+8mlvlip/og73lkI3np7BdIgrihpIg6L+b5YWl5Yqf6IO957qn5byA5Y+R5rWB56iLCmBgYAoKKirmmoLlgZzkuI7mgaLlpI0qKu+8mgpgYGAKIuaaguWBnOW3peS9nCIK4oaSIOiHquWKqOabtOaWsCBTVEFURS5tZO+8jOiusOW9leW9k+WJjei/m+W6pgoKIue7p+e7reW3peS9nCIK4oaSIOivu+WPliBTVEFURS5tZO+8jOS7juS4iuasoeS9jee9rue7p+e7rQpgYGAKCi0tLQoKIyMg6L+b5LiA5q2l6ZiF6K+7CgotIFt0bGMtc3BlYy1kcml2ZW4temgg5oqA6IO95paH5qGjXShodHRwczovL2dpdGh1Yi5jb20vZXhhbXBsZS90bGMtc3BlYy1kcml2ZW4temgpIOKAlCDlrozmlbTnmoTmioDog73lrprkuYnlkozmqKHmnb8KLSBbQ3Vyc29yIFJ1bGVzIOacgOS9s+Wunui3tV0oaHR0cHM6Ly9jdXJzb3Iuc2gvZG9jcy9ydWxlcykg4oCUIOWmguS9lemFjee9riBBSSDnvJbnqIvliqnmiYsKLSBbVGhlIFR3ZWx2ZS1GYWN0b3IgQXBwXShodHRwczovLzEyZmFjdG9yLm5ldC8pIOKAlCDnjrDku6PlupTnlKjlvIDlj5HnmoTmlrnms5XorrrvvIzkuI4gU3BlYyDpqbHliqjlvIDlj5HnkIblv7Xnm7jpgJoKCi0tLQoK5LiA5Y+l6K+d5oC757uT77yaKipTcGVjIOmpseWKqOW8gOWPkSA9IOaDs+a4healmiArIOWGmeS4i+adpSArIOaMieatpemqpOaJp+ihjCArIOmqjOivgeWujOaIkCoq44CCCgrlroPkuI3kvJrorqkgQUkg5Y+Y5b6X5pu06IGq5piO77yM5L2G5Lya6K6p5L2g5ZKMIEFJIOeahOWNj+S9nOabtOmrmOaViOOAggo="}
+---
+title: "Spec 驱动开发：让 AI 编程助手真正理解你的意图"
+description: "一种结构化的 AI 协作方法论，通过规范-设计-任务-实现四阶段流程，将模糊需求转化为可交付代码，并实现跨会话、跨工具的状态持久化。"
+pubDate: "2026-03-02"
+tags: ["AI", "开发工具", "方法论", "Cursor"]
+hexagram: "䷃"
+element: "wood"
+---
+
+**TL;DR:** Spec 驱动开发是一种与 AI 编程助手协作的方法论。核心思想是「先想清楚，再动手做」——通过规范、设计、任务、实现四个阶段，将模糊的需求逐步细化为可执行的代码。所有中间产物以 Markdown 文件形式保存在项目中，实现跨会话记忆和跨工具协作。
+
+> **前置知识**：本文假设读者使用过 Cursor、Claude Code、Kimi Code 等 AI 编程助手，了解 prompt 工程的基本概念。
+
+---
+
+## 问题：AI 编程助手的「失忆症」
+
+使用 AI 编程助手时，你可能遇到过这些问题：
+
+每次新会话都要重新解释项目背景。昨天讨论过的架构决策，今天 AI 完全不记得。你说「继续昨天的工作」，AI 一脸茫然。
+
+复杂功能开发到一半，上下文窗口爆了。AI 开始「幻觉」，生成与之前讨论矛盾的代码。你不得不开新会话，然后又要重新解释一遍。
+
+多人协作时更糟糕。你和同事用同一个 AI 助手开发同一个功能，但 AI 对你们说的话完全不一致。没有共享的「记忆」，协作变成了各自为战。
+
+这些问题的根源在于：AI 的上下文是临时的，而软件开发是持续的。
+
+---
+
+## 解决方案：把「记忆」写进项目
+
+Spec 驱动开发的核心思想很简单：既然 AI 没有持久记忆，那就把记忆写成文件，保存在项目里。
+
+每次会话开始时，AI 读取这些文件，恢复上下文。每次会话结束时，AI 更新这些文件，保存进度。文件跟着项目走，换一个 AI 工具也能继续工作。
+
+这不是什么新发明。软件工程早就有类似的实践：需求文档、设计文档、任务看板。Spec 驱动开发只是把这些实践标准化，让 AI 能够理解和操作。
+
+---
+
+## 四阶段工作流
+
+整个方法论分为四个阶段，每个阶段都有明确的输入、输出和验证标准。
+
+[![Spec 驱动开发四阶段流程](./spec-workflow.png)](https://excalidraw.com/#json=X3irIN2Ww0fisP5aq01r0,qM2hNFA9D2wNFxAVZlKwng)
+
+### 阶段一：规范（Specify）
+
+这个阶段回答「做什么」的问题。输入是模糊的需求描述，输出是结构化的需求规格文档。
+
+触发词是「规范功能」。比如你说「规范功能：用户登录」，AI 会生成一个 `spec.md` 文件，包含用户故事、功能需求、验收标准和边界情况。
+
+```markdown
+# 功能：用户登录
+
+## 用户故事
+作为用户，我希望通过邮箱和密码登录，以便访问我的个人数据。
+
+## 功能需求
+1. 支持邮箱+密码登录
+2. 登录成功后返回 JWT Token
+3. 密码错误时返回模糊提示（不透露是邮箱不存在还是密码错误）
+4. 支持「记住我」功能（Token 有效期 7 天）
+
+## 验收标准
+- [ ] 正确的凭据返回 200 + Token
+- [ ] 错误的密码返回 401
+- [ ] 不存在的用户返回 401（与密码错误一致）
+- [ ] Token 包含用户 ID 和过期时间
+
+## 边界情况
+1. 邮箱格式不合法 → 返回 400
+2. 密码为空 → 返回 400
+3. 账户被禁用 → 返回 403 + 提示信息
+```
+
+这个阶段的价值在于：强迫你把需求想清楚。很多 bug 不是代码写错了，而是需求没想清楚。
+
+### 阶段二：设计（Design）
+
+这个阶段回答「怎么做」的问题。输入是需求规格，输出是技术设计文档。
+
+触发词是「设计功能」。AI 会基于 `spec.md` 生成 `design.md`，包含 API 设计、数据模型、安全方案和错误处理策略。
+
+```markdown
+# 设计：用户登录
+
+## API 设计
+POST /api/v1/auth/login
+Content-Type: application/json
+
+{
+  "email": "user@example.com",
+  "password": "secret",
+  "remember": true
+}
+
+## 数据模型
+- 复用现有的 `users` 表
+- 新增 `refresh_tokens` 表存储长期 Token
+
+## 安全考虑
+1. 密码使用 bcrypt 验证（cost factor = 12）
+2. 速率限制：5 次/分钟/IP
+3. JWT 使用 RS256 签名，私钥存储在环境变量
+
+## 错误处理
+| 场景 | HTTP 状态码 | 响应体 |
+|------|------------|--------|
+| 凭据错误 | 401 | `{"error": "invalid_credentials"}` |
+| 账户禁用 | 403 | `{"error": "account_disabled"}` |
+| 请求过频 | 429 | `{"error": "rate_limited"}` |
+```
+
+如果你在现有项目中开发，AI 会先读取代码库分析文档（后面会讲），确保设计与现有架构一致。
+
+### 阶段三：任务分解（Tasks）
+
+这个阶段把设计拆成可执行的原子任务。输入是技术设计，输出是任务清单。
+
+触发词是「分解为任务」。AI 会生成 `tasks.md`，每个任务都有明确的完成标准和验证方法。
+
+```markdown
+# 任务：用户登录
+
+## 任务 1：创建数据库表
+- [ ] 创建 `refresh_tokens` 表
+- **验证**：运行 migration，检查表结构
+
+## 任务 2：实现登录 API
+- [ ] 创建 POST /api/v1/auth/login 端点
+- [ ] 实现密码验证逻辑
+- [ ] 实现 JWT 生成
+- **验证**：
+  - 单元测试覆盖正常流程和边界情况
+  - 手动测试 API 响应
+
+## 任务 3：添加安全机制
+- [ ] 实现基于 IP 的速率限制
+- [ ] 配置 bcrypt cost factor
+- **验证**：连续发送 6 次请求，第 6 次返回 429
+```
+
+任务的粒度很重要。太大了 AI 容易跑偏，太小了又浪费时间。经验法则是：一个任务应该能在 10-30 分钟内完成，产出可验证的结果。
+
+### 阶段四：实现与验证（Implement + Validate）
+
+这个阶段才开始写代码。触发词是「实现任务 N」。
+
+AI 会读取对应的任务描述，生成代码，然后按照验证标准检查结果。完成后自动更新任务状态。
+
+```
+"实现任务 1：创建数据库表"
+→ AI 生成 migration 文件
+→ 运行 migration
+→ 验证表结构
+→ 标记任务 1 为 done
+
+"实现任务 2：实现登录 API"
+→ AI 生成 controller、service、测试
+→ 运行测试
+→ 验证覆盖率
+→ 标记任务 2 为 done
+```
+
+每个任务完成后，`tasks.md` 中的状态会更新。下次会话时，AI 读取这个文件就知道做到哪里了。
+
+---
+
+## 项目结构
+
+所有文档都保存在项目根目录的 `.specs/` 文件夹中：
+
+```
+.specs/
+├── project/
+│   ├── PROJECT.md      # 项目愿景与目标
+│   ├── ROADMAP.md      # 功能路线图
+│   └── STATE.md        # 会话状态（当前进度、阻塞、决策记录）
+├── codebase/           # 现有代码库分析（可选）
+│   ├── STACK.md        # 技术栈
+│   ├── ARCHITECTURE.md # 架构
+│   ├── CONVENTIONS.md  # 编码规范
+│   ├── STRUCTURE.md    # 目录结构
+│   ├── TESTING.md      # 测试策略
+│   └── INTEGRATIONS.md # 外部集成
+└── features/           # 功能规格
+    └── user-login/
+        ├── spec.md     # 需求规格
+        ├── design.md   # 技术设计
+        └── tasks.md    # 任务清单
+```
+
+这个结构有几个设计考量：
+
+`project/` 目录存放项目级信息，每次会话都会加载。`STATE.md` 是跨会话记忆的核心，记录当前进度、阻塞项和历史决策。
+
+`codebase/` 目录是可选的，用于在现有项目中开发。通过「映射代码库」命令生成，帮助 AI 理解现有架构。
+
+`features/` 目录按功能组织，每个功能一个子目录。这样可以按需加载，避免上下文爆炸。
+
+---
+
+## 上下文管理策略
+
+大语言模型的上下文窗口是有限的。即使是 200k token 的模型，也不能把所有文档一股脑塞进去。Spec 驱动开发采用分层加载策略：
+
+**基础层（每次会话必加载，约 15k tokens）**：
+- `PROJECT.md` — 项目愿景，让 AI 知道在做什么
+- `ROADMAP.md` — 功能列表，让 AI 知道整体规划
+- `STATE.md` — 当前状态，让 AI 知道做到哪里了
+
+**按需层（根据当前任务加载）**：
+- 处理现有项目时加载 `codebase/` 目录
+- 处理特定功能时加载对应的 `spec.md`
+- 按设计实现时加载 `design.md`
+- 执行任务时加载 `tasks.md`
+
+**绝不同时加载**：
+- 多个功能的规格文档
+- 多个架构分析文档
+
+目标是把总上下文控制在 40k tokens 以内，给实际工作预留 160k+ 的空间。
+
+---
+
+## 跨会话记忆
+
+`STATE.md` 是实现跨会话记忆的关键。它的结构大致如下：
+
+```markdown
+# 项目状态
+
+## 当前会话
+- **最后工作**：用户登录功能的任务 3
+- **状态**：进行中
+- **阻塞**：等待安全团队确认速率限制策略
+
+## 决策记录
+- 2026-02-28: 选择 PostgreSQL 而非 MySQL
+  - 原因：JSON 字段支持更好，适合存储用户偏好
+- 2026-02-27: 选择 JWT 而非 Session
+  - 原因：支持多端登录，便于水平扩展
+
+## 用户偏好
+- 使用中文回复
+- 代码注释用英文
+- 测试框架：Jest
+```
+
+每次会话结束时，AI 会更新这个文件。下次会话开始时，AI 读取这个文件就能恢复上下文。
+
+你也可以手动编辑这个文件。比如记录一个重要决策，或者标记某个任务被阻塞了。
+
+---
+
+## 跨工具协作
+
+这套方法论的一个意外收获是：它让你可以在不同的 AI 工具之间无缝切换。
+
+因为所有状态都保存在项目文件中，而不是某个工具的云端。你可以用 Cursor 开始一个功能，用 Claude Code 继续，再用 Kimi Code 收尾。每个工具读取同样的 `.specs/` 目录，看到同样的进度。
+
+这在实践中很有用。不同的 AI 工具有不同的优势：有的擅长代码生成，有的擅长调试，有的擅长文档。你可以根据任务选择最合适的工具，而不用担心上下文丢失。
+
+---
+
+## 实践建议
+
+### 应该做的
+
+**每次会话先读 STATE.md**。这是恢复上下文的第一步。如果你使用的 AI 工具支持自动加载，配置好让它自动读取。
+
+**一个功能走完完整流程**。不要跳过设计直接编码。每个阶段都有价值：规范阶段帮你想清楚需求，设计阶段帮你想清楚方案，任务阶段帮你想清楚步骤。
+
+**及时更新任务状态**。完成一个任务就标记一个。这不仅是给 AI 看的，也是给自己看的。
+
+**记录关键决策**。为什么选择方案 A 而非 B？这个技术债务是有意为之还是无奈之举？这些信息对未来的你（和未来的 AI）都很有价值。
+
+### 应该避免的
+
+**一次处理多个功能**。这会导致上下文爆炸，降低输出质量。专注于一个功能，完成后再开始下一个。
+
+**跳过验证步骤**。每个任务都要有验证标准。没验证等于没完成。AI 生成的代码不一定正确，验证是质量保证的最后一道防线。
+
+**在实现阶段改设计**。如果发现设计有问题，回到设计阶段修改 `design.md`，然后重新分解任务。保持各阶段职责清晰。
+
+---
+
+## 与传统开发的对比
+
+| 维度 | 传统方式 | Spec 驱动 |
+|------|----------|-----------|
+| 需求管理 | 口头沟通或零散文档 | 结构化的 spec.md |
+| 设计评审 | 会议讨论，记录分散 | design.md 可追溯 |
+| 任务跟踪 | Jira/Trello 等外部工具 | tasks.md 与代码同仓库 |
+| AI 协作 | 每次重新解释上下文 | 自动加载项目状态 |
+| 跨工具 | 状态锁定在特定工具 | 文件级别的可移植性 |
+
+Spec 驱动开发不是要取代传统的项目管理工具，而是在 AI 协作场景下提供一个轻量级的补充。对于个人项目或小团队，它可能就够用了。对于大团队，它可以作为 AI 协作的「接口层」，与现有工具并存。
+
+---
+
+## 局限性与权衡
+
+这套方法论不是银弹，有几个明显的局限：
+
+**前期投入**。写规范和设计需要时间。对于简单的功能，这个投入可能不值得。经验法则是：如果一个功能能在 30 分钟内完成，直接写代码可能更快。
+
+**文档维护**。代码改了，文档也要改。如果不及时更新，文档会变成误导。这需要纪律。
+
+**学习曲线**。团队成员需要学习这套流程和触发词。初期可能会觉得繁琐。
+
+**不适合探索性开发**。如果你还不知道要做什么，先写规范是没意义的。这套方法论更适合需求相对明确的场景。
+
+---
+
+## 快速开始
+
+如果你想尝试这套方法论，可以从以下步骤开始：
+
+**新项目**：
+```
+"初始化项目"
+→ 创建 PROJECT.md（愿景、目标、成功标准）
+
+"创建路线图"
+→ 创建 ROADMAP.md（功能列表、优先级）
+
+"规范功能：[功能名称]"
+→ 进入功能级开发流程
+```
+
+**现有项目**：
+```
+"映射代码库"
+→ 生成 codebase/ 目录下的 6 个分析文档
+
+"初始化项目"
+→ 创建 PROJECT.md + ROADMAP.md
+
+"规范功能：[功能名称]"
+→ 进入功能级开发流程
+```
+
+**暂停与恢复**：
+```
+"暂停工作"
+→ 自动更新 STATE.md，记录当前进度
+
+"继续工作"
+→ 读取 STATE.md，从上次位置继续
+```
+
+---
+
+## 进一步阅读
+
+- [tlc-spec-driven-zh 技能文档](https://github.com/example/tlc-spec-driven-zh) — 完整的技能定义和模板
+- [Cursor Rules 最佳实践](https://cursor.sh/docs/rules) — 如何配置 AI 编程助手
+- [The Twelve-Factor App](https://12factor.net/) — 现代应用开发的方法论，与 Spec 驱动开发理念相通
+
+---
+
+一句话总结：**Spec 驱动开发 = 想清楚 + 写下来 + 按步骤执行 + 验证完成**。
+
+它不会让 AI 变得更聪明，但会让你和 AI 的协作更高效。

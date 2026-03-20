@@ -1,1 +1,400 @@
-{"data":"LS0tCnRpdGxlOiAiQ3VydmUgQ3J5cHRvU3dhcCAodjIpIOWFrOW8j+aOqOWvvO+8muS7jueos+WumuW4geWIsOazouWKqOi1hOS6pyIKZGVzY3JpcHRpb246ICLmt7HlhaXmjqjlr7wgQ3VydmUgdjIg55qEIENyeXB0b1N3YXAg5LiN5Y+Y6YeP77yM55CG6Kej5Lu35YC86L2s5o2i44CB5Yqo5oCBIEsg5Y+C5pWw44CBUmVwZWdnaW5nIOacuuWItuWmguS9leiuqSBBTU0g5pSv5oyB5Lu75oSP6LWE5Lqn5a+544CCIgpwdWJEYXRlOiAiMjAyNi0wMy0wMSIKdGFnczogWyJEZUZpIiwgIkFNTSIsICJDdXJ2ZSIsICLmlbDlraYiXQpoZXhhZ3JhbTogIuS3gCIKZWxlbWVudDogImZpcmUiCi0tLQoKKipUTDtEUjoqKiBDdXJ2ZSB2MiBDcnlwdG9Td2FwIOmAmui/h+S4ieS4quaguOW/g+WIm+aWsOeqgeegtOS6hiBTdGFibGVTd2FwIOeahOWxgOmZkO+8migxKSDlvJXlhaXlhoXpg6jku7fmoLwgcHJpY2Vfc2NhbGUg5bCG5pWw6YeP6L2s5o2i5Li65Lu35YC877yM5L2/5YWs5byP6YCC55So5LqO5Lu75oSP6LWE5Lqn5a+577ybKDIpIOeUqCDOsyDlj4LmlbDosIPmlbQgSyDns7vmlbDvvIzorqnmm7Lnur/lnKjlgY/nprvlubPooaHngrnml7bmm7Tlv6vlj5jpmaHvvJsoMykgUmVwZWdnaW5nIOacuuWItuiHquWKqOi/vei4quW4guWcuuS7t+agvO+8jOaXoOmcgOWklumDqOmihOiogOacuuOAgueQhuino+i/meS6m+acuuWItu+8jOaYr+eQhuino+eOsOS7oyBBTU0g6K6+6K6h55qE5YWz6ZSu44CCCgo+ICoq5YmN572u55+l6K+GKirvvJrmnKzmloflgYforr7or7vogIXlt7LnkIbop6MgW0N1cnZlIFN0YWJsZVN3YXAg5YWs5byP5o6o5a+8XSgvYmxvZy9jdXJ2ZS1zdGFibGVzd2FwLWZvcm11bGEp77yM54af5oKJ5Yqo5oCB5Y+C5pWwIM+HID0gQSDDlyA0eHkvRMKyIOeahOiuvuiuoeaAnei3r+OAguWmguaenOS4jeeGn+aCie+8jOW7uuiuruWFiOmYheivu+ivpeaWh+eroOOAggoKLS0tCgojIyDku44gU3RhYmxlU3dhcCDliLAgQ3J5cHRvU3dhcO+8muS4uuS7gOS5iOmcgOimgSB2MgoKMjAyMCDlubQgQ3VydmUgdjEgU3RhYmxlU3dhcCDlnKjnqLPlrprluIHkuqTmmJPpoobln5/lj5blvpfkuoblt6jlpKfmiJDlip/jgILkvYblroPmnInkuIDkuKrmoLnmnKzmgKfnmoTlgYforr7vvJrmsaDkuK3otYTkuqfnmoTku7fmoLzlupTor6XmjqXov5EgMTox44CC6L+Z5Liq5YGH6K6+5a+5IFVTREMvVVNEVC9EQUkg5a6M576O6YCC55So77yM5Y205peg5rOV5aSE55CGIFVTRFQvV0JUQy9XRVRIIOi/meagt+eahOe7hOWQiOKAlOKAlOW9kyBXQlRDIOS7t+agvOaYryA0MCwwMDAg576O5YWD44CBV0VUSCDmmK8gMywwMDAg576O5YWD5pe277yMMToxIOeahOWBh+iuvuaYvueEtuS4jeaIkOeri+OAggoKMjAyMSDlubQgNiDmnIjvvIxDdXJ2ZSBDRU8gTWljaGFlbCBFZ29yb3Yg5Y+R5biD5LqGIENyeXB0b1N3YXAg55m955qu5Lmm77yM5o+Q5Ye65LqG5LiA5aWX5YWo5paw55qE5py65Yi244CC5qC45b+D5oCd5oOz5piv77ya5pei54S25Lu35qC85LiN5YaN5pivIDE6Me+8jOWwsemcgOimgeW8leWFpeWGhemDqOS7t+agvOadpeOAjOagh+WHhuWMluOAjeS4jeWQjOi1hOS6p++8jOiuqeWug+S7rOWcqOS7t+WAvOWxgumdouWPr+avlOi+g+OAggoK6L+Z5Liq55yL5Ly8566A5Y2V55qE5oOz5rOV77yM5byV5Ye65LqG5LiA57O75YiX5aSN5p2C5L2G57K+5aaZ55qE6K6+6K6h44CCCgotLS0KCiMjIOS7t+WAvOi9rOaNou+8muS7juaVsOmHj+WIsOS7t+WAvAoKIyMjIOmXrumimOeahOacrOi0qAoK5Zue6aG+IHYxIFN0YWJsZVN3YXAg55qE5qC45b+D5YWs5byP77yIbiA9IDLvvInvvJoKCiQkNEEoeCt5KSArIEQgPSA0QUQgKyBcZnJhY3tEXjN9ezR4eX0kJAoK6L+Z6YeM55qEIHgg5ZKMIHkg5piv6LWE5Lqn55qEKirmlbDph48qKuOAguWFrOW8j+iDveW3peS9nOeahOWJjeaPkOaYr++8mjEg5LiqIFVTREMg5ZKMIDEg5LiqIFVTRFQg55qE5Lu35YC855u4562J44CC5L2G5aaC5p6c5rGg5a2Q5pivIFVTRFQtV0JUQ++8jDEg5LiqIFVTRFQg5ZKMIDEg5LiqIFdCVEMg55qE5Lu35YC855u45beuIDQwLDAwMCDlgI3vvIznm7TmjqXnlKjmlbDph4/orqHnrpfmr6vml6DmhI/kuYnjgIIKCiMjIyDlvJXlhaXlhoXpg6jku7fmoLwKCnYyIOeahOino+WGs+aWueahiOaYr+W8leWFpSoq5YaF6YOo57yp5pS+5Lu35qC8KiogcHJpY2Vfc2NhbGXvvIzorrDkuLogcOOAguWvueS6jiBVU0RULVdCVEMtV0VUSCDmsaDvvJoKCi0gVVNEVCDku7fmoLzvvJpw4oKAID0gMe+8iOS9nOS4uumUmuWumuagh+eahO+8jOWni+e7iOS4uiAx77yJCi0gV0JUQyDku7fmoLzvvJpw4oKBID0gNDAsMDAw77yI55u45a+55LqOIFVTRFTvvIkKLSBXRVRIIOS7t+agvO+8mnDigoIgPSAzLDAwMO+8iOebuOWvueS6jiBVU0RU77yJCgoqKuWFs+mUruinhOWImSoq77ya56ys5LiA5Liq6LWE5Lqn5aeL57uI5L2c5Li66K6h5Lu35Y2V5L2N77yM5YW25Lu35qC85oGS5Li6IDHjgIIKCiMjIyDmlbDph4/kuI7ku7flgLznmoTovazmjaIKCuWumuS5ieS4pOS4quWQkemHj++8mgoKLSAqKuaVsOmHj+WQkemHjyoqIGIgPSAoYuKCgCwgYuKCgSwgYuKCgiwgLi4uKe+8muWunumZheaMgeacieeahCB0b2tlbiDmlbDph48KLSAqKuS7t+WAvOWQkemHjyoqIGInID0gKGIn4oKALCBiJ+KCgSwgYifigoIsIC4uLinvvJrnlKjplJrlrprotYTkuqforqHku7fnmoTku7flgLwKCui9rOaNouWFrOW8j++8mgoKJCRiJ19pID0gYl9pIFxjZG90IHBfaSQkCgrkuL7kuKrkvovlrZDjgILlgYforr7msaDlrZDnirbmgIHkuLrvvJoxMDAsMDAwIFVTRFTjgIEyIFdCVEPjgIEzMCBXRVRI44CCCgohW+S7t+WAvOi9rOaNouekuuaEj+Wbvl0oL2ltYWdlcy9ibG9nL2N1cnZlLWNyeXB0b3N3YXAtZm9ybXVsYS92YWx1ZV9jb252ZXJzaW9uLnN2ZykKCumAmui/h+S7t+agvOi9rOaNou+8jOS4ieenjei1hOS6p+WPr+S7peWcqOWQjOS4gOWwuuW6puS4iuavlOi+g+S6huOAggoKPiAqKueZveearuS5puWLmOivryoq77ya5Y6f55m955qu5Lmm5LitIGIg5ZKMIGInIOeahOi9rOaNouWFrOW8j+WGmeWPjeS6huOAguato+ehrueahOW9ouW8j+aYryBiJyA9IGIgw5cgcO+8iOS7t+WAvCA9IOaVsOmHjyDDlyDku7fmoLzvvInvvIzogIzpnZ4gYiA9IGInIMOXIHDjgILov5nkuKrplJnor6/lnKjku6PnoIHkuK3lt7Lkv67mraPjgIIKCi0tLQoKIyMgRCDnmoTph43mlrDlrprkuYkKCiMjIyB2MSDkuK3nmoQgRAoK5ZyoIHYxIFN0YWJsZVN3YXAg5Lit77yMRCDnmoTlrprkuYnlvojnm7Top4LvvJoKCiQkRCA9IFxzdW0geF9pJCQKCuW9k+axoOWtkOWkhOS6juW5s+ihoeeKtuaAge+8iOaJgOaciei1hOS6p+aVsOmHj+ebuOetie+8ieaXtu+8jEQg5bCx5piv6LWE5Lqn5pWw6YeP55qE5oC75ZKM44CCCgojIyMgdjIg5Lit55qEIEQKCnYyIOS4rei1hOS6p+S7t+agvOS4jeWQjO+8jOS4jeiDveebtOaOpeeUqOaVsOmHj+axguWSjOOAgkQg6KKr6YeN5paw5a6a5LmJ5Li677yaCgokJEQgPSBOIFxjZG90IHhfe2VxfSQkCgrlhbbkuK0gTiDmmK/otYTkuqfmlbDph4/vvIx4X2VxIOaYr+W5s+ihoeeCueaXtioq5q+P5Liq6LWE5Lqn55qE562J5Lu35Lu35YC8KirjgIIKCueQhuino+OAjOW5s+ihoeeCueOAje+8muW9k+axoOWtkOWkhOS6juW5s+ihoeeKtuaAgeaXtu+8jOavj+S4qui1hOS6p+eahCoq5Lu35YC8Kirnm7jnrYnvvJoKCiQkYidfMCA9IGInXzEgPSBiJ18yID0gXGxkb3RzID0geF97ZXF9JCQKCuS7pSAzIOS4quW4geenjeS4uuS+i++8jOWmguaenOW5s+ihoeeCueaXtuavj+S4qui1hOS6p+S7t+WAvOS4uiA5MCwwMDAgVVNEVO+8mgoKJCREID0gMyBcdGltZXMgOTAsMDAwID0gMjcwLDAwMCQkCgoqKuWHoOS9leaEj+S5ieeahOi9rOWPmCoq77yadjEg5LitIEQg5piv5pWw6YeP55qE5oC75ZKM77yMdjIg5LitIEQg5piv5Lu35YC855qE5oC75ZKM44CC6L+Z5Liq6L2s5Y+Y5pivIENyeXB0b1N3YXAg6IO95aSE55CG5Lu75oSP6LWE5Lqn5a+555qE5Z+656GA44CCCgotLS0KCiMjIEsg55qE5Yqo5oCB6LCD5pW05py65Yi2CgojIyMg5Zue6aG+IHYxIOeahCDPhwoKdjEgU3RhYmxlU3dhcCDnmoTliqjmgIHlj4LmlbDvvJoKCiQkXGNoaSA9IEEgXHRpbWVzIFxmcmFjezR4eX17RF4yfSQkCgrlhbbkuK0gNHh5L0TCsiDmmK/jgIzkvY3nva7lm6DlrZDjgI3vvIzlnKjlubPooaHngrnkuLogMe+8jOi/nOemu+aXtui2i+WQkSAw44CC6L+Z6K6p5puy57q/5Zyo5bmz6KGh54K56ZmE6L+R5bmz5Z2m44CB6L+c56a75pe25byv5puy44CCCgojIyMgdjIg55qEIEvigoAKCnYyIOWwhuS9jee9ruWboOWtkOaOqOW5v+WIsCBOIOS4qui1hOS6p++8mgoKJCRLXzAgPSBcZnJhY3tccHJvZCB4X2kgXGNkb3QgTl5OfXtEXk59JCQKCumqjOivgeW5s+ihoeeCue+8muW9k+aJgOaciSB44bWiID0gRC9OIOaXtu+8mgoKJCRLXzAgPSBcZnJhY3soRC9OKV5OIFxjZG90IE5eTn17RF5OfSA9IFxmcmFje0ReTiBcY2RvdCBOXk59e05eTiBcY2RvdCBEXk59ID0gMSQkCgpL4oKAIOeahOihjOS4uuS4jiB2MSDnmoTkvY3nva7lm6DlrZDkuIDoh7TvvJrlubPooaHngrnkuLogMe+8jOWBj+emu+aXtuWwj+S6jiAx44CCCgojIyMg5byV5YWlIM6zIOiwg+aVtOWboOWtkAoKdjIg55qE5qC45b+D5Yib5paw5piv5ZyoIEHCt0vigoAg5Z+656GA5LiK77yM5YaN5LmY5Lul5LiA5Liq6LCD5pW05Zug5a2Q77yaCgokJEsgPSBBIFxjZG90IEtfMCBcY2RvdCBcZnJhY3tcZ2FtbWFeMn17KFxnYW1tYSArIDEgLSBLXzApXjJ9JCQKCs6z77yIZ2FtbWHvvInmmK/kuIDkuKrmlrDlj4LmlbDvvIzmjqfliLbmm7Lnur/lnKjlgY/nprvlubPooaHngrnml7bnmoTjgIzpmaHls63nqIvluqbjgI3jgIIKCuWIhuaekOi/meS4quiwg+aVtOWboOWtkOeahOihjOS4uu+8mgoKKirlnKjlubPooaHngrkqKu+8iEvigoAgPSAx77yJ77yaCgokJFxmcmFje1xnYW1tYV4yfXsoXGdhbW1hICsgMSAtIDEpXjJ9ID0gXGZyYWN7XGdhbW1hXjJ9e1xnYW1tYV4yfSA9IDEkJAoK6LCD5pW05Zug5a2Q5Li6IDHvvIzkuI3lvbHlk40gQeOAggoKKirov5znprvlubPooaHngrkqKu+8iEvigoAg4oaSIDDvvInvvJoKCiQkXGZyYWN7XGdhbW1hXjJ9eyhcZ2FtbWEgKyAxKV4yfSA8IDEkJAoK6LCD5pW05Zug5a2Q5bCP5LqOIDHvvIzov5vkuIDmraXpmY3kvY4gS+OAggoK6L+Z5oSP5ZGz552A5LuA5LmI77yf55yL5LiA5Liq5pWw5YC85a+55q+U77yI5YGH6K6+IEEgPSAxMDDvvIzOsyA9IDAuMDHvvInvvJoKCnwg5L2N572uIHwgS+KCgCB8IHYxOiDPhyA9IEHCt0vigoAgfCB2MjogSyA9IEHCt0vigoDCt+iwg+aVtOWboOWtkCB8CnwtLS0tLS18LS0tLS18LS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCDlubPooaHngrkgfCAxLjAgfCAxMDAgfCAxMDAgfAp8IOi9u+W+ruWBj+emuyB8IDAuOTYgfCA5NiB8IDk0LjEgfAp8IOS4pemHjeWBj+emuyB8IDAuMzYgfCAzNiB8IDI2LjMgfAoKKirnu5PorroqKu+8ms6zIOiwg+aVtOWboOWtkOiuqeabsue6v+WcqOWBj+emu+W5s+ihoeeCueaXtuS4i+mZjeW+l+abtOW/q+OAgui/meWvueazouWKqOi1hOS6p+W+iOmHjeimgeKAlOKAlOW9k+S7t+agvOWJp+eDiOWPmOWMluWvvOiHtOaxoOWtkOWkseihoeaXtu+8jOabsue6v+mcgOimgeabtOW/q+WcsOWPmOmZoeadpeS/neaKpOa1geWKqOaAp+OAggoKIVtLIOiwg+aVtOWboOWtkOWvueavlF0oL2ltYWdlcy9ibG9nL2N1cnZlLWNyeXB0b3N3YXAtZm9ybXVsYS9rX2NvbXBhcmlzb24uc3ZnKQoKLS0tCgojIyBDcnlwdG9Td2FwIOS4jeWPmOmHj+WFrOW8jwoKIyMjIOacgOe7iOW9ouW8jwoK5bCG5Yqo5oCBIEsg5Luj5YWl77yM5b6X5YiwIENyeXB0b1N3YXAg5LiN5Y+Y6YeP77yaCgokJEsgRF57Ti0xfSBcc3VtIHhfaSArIFxwcm9kIHhfaSA9IEsgRF5OICsgXGxlZnQoXGZyYWN7RH17Tn1ccmlnaHQpXk4kJAoK5YW25Lit77yaCgokJEsgPSBBIFxjZG90IEtfMCBcY2RvdCBcZnJhY3tcZ2FtbWFeMn17KFxnYW1tYSArIDEgLSBLXzApXjJ9JCQKCiQkS18wID0gXGZyYWN7XHByb2QgeF9pIFxjZG90IE5eTn17RF5OfSQkCgojIyMg6aqM6K+BIG4gPSAyIOeahOaDheWGtQoK5bCGIE4gPSAyIOS7o+WFpe+8mgoKJCRLIEQgKHgreSkgKyB4eSA9IEsgRF4yICsgXGZyYWN7RF4yfXs0fSQkCgrlr7nmr5QgdjEg5YWs5byP77yI5Lik6L655LmY5LulIHh5L0TvvInvvJoKCiQkNEEoeCt5KSArIEQgPSA0QUQgKyBcZnJhY3tEXjN9ezR4eX0kJAoK5b2i5byP5LiA6Ie077yM5Y+q5pivIHYyIOS4reeahCBLIOaYr+WKqOaAgeeahO+8jOiAjCB2MSDkuK3nmoQgNEEg5piv6Z2Z5oCB55qE44CCCgojIyMg5Ye95pWw5b2i5byPCgrlsIbkuI3lj5jph4/lhpnmiJAgRih4LCBEKSA9IDAg55qE5b2i5byP77yM5L6/5LqO54mb6aG/5rOV5rGC6Kej77yaCgokJEYoXG1hdGhiZnt4fSwgRCkgPSBLIERee04tMX0gXHN1bSB4X2kgKyBccHJvZCB4X2kgLSBLIEReTiAtIFxsZWZ0KFxmcmFje0R9e059XHJpZ2h0KV5OID0gMCQkCgotLS0KCiMjIOeJm+mhv+azleaxguinowoKIyMjIOS4pOenjeaxguino+WcuuaZrwoKQ3J5cHRvU3dhcCDpnIDopoHlnKjkuKTnp43lnLrmma/kuIvmsYLop6PmlrnnqIvvvJoKCjEuICoq5re75YqgL+enu+mZpOa1geWKqOaApyoq77ya5bey55+l5omA5pyJIHjhtaLvvIzmsYIgRAoyLiAqKuS6pOaYkyoq77ya5bey55+lIEQg5ZKM6ZmkIHjisbwg5aSW55qE5omA5pyJIHjhtaLvvIzmsYIgeOKxvAoK55Sx5LqO5pa556iL5piv6auY5qyh5aSa6aG55byP77yM5peg5rOV55u05o6l5rGC6Kej77yM5b+F6aG75L2/55So5pWw5YC85pa55rOV44CCQ3VydmUg6YCJ5oup5LqG54mb6aG/5rOV44CCCgojIyMg54mb6aG/5rOV6L+t5Luj5YWs5byPCgrniZvpob/ms5XnmoTmoLjlv4PmgJ3mg7PmmK/nlKjliIfnur/pgLzov5Hmm7Lnur/vvJoKCiQkeF97bisxfSA9IHhfbiAtIFxmcmFje0YoeF9uKX17RicoeF9uKX0kJAoKIyMjIOaxguinoyBEIOeahOWIneWAvOmAieaLqQoK5Yid5YC855qE6YCJ5oup5a+55pS25pWb6YCf5bqm6Iez5YWz6YeN6KaB44CCQ3VydmUg5L2/55So5Yeg5L2V5bmz5Z2H5pWw5L2c5Li65Yid5YC877yaCgokJERfMCA9IE4gXGNkb3QgXGxlZnQoXHByb2QgeF9rXHJpZ2h0KV57XGZyYWN7MX17Tn19JCQKCui/meS4qumAieaLqeacieaVsOWtpuS+neaNru+8muWHoOS9leW5s+Wdh+aVsOaYr+OAjOW5s+ihoeeCueOAjeeahOiHqueEtuS8sOiuoeOAggoKIyMjIOaxguinoyB44bWiIOeahOWIneWAvOmAieaLqQoKJCR4X3tpLDB9ID0gXGZyYWN7RF5OfXtccHJvZF97ayBcbmVxIGl9IHhfayBcY2RvdCBOXk59JCQKCj4gKirnmb3nmq7kuabli5jor68qKu+8muWOn+eZveearuS5puS4reWIhuWtkOeahCBEIOW5guasoeWGmeaIkCBOLTHvvIzliIbmr43nmoQgTiDluYLmrKHkuZ/lhpnmiJAgTi0x77yM6YO95bqU6K+l5pivIE7jgILku6PnoIHkuK3lt7Lkv67mraPjgIIKCiMjIyBHYXMg5raI6ICXCgrniZvpob/ms5XlnKggRVZNIOS4rea2iOiAl+e6piAqKjM1SyBnYXMqKuOAgumAmuW4uCA0IOi9rui/reS7o+WNs+WPr+aUtuaVm+WIsOeyvuW6piAx77yI5Y2z6K+v5beuIOKJpCAxIHdlae+8ieOAguWmguaenCAyNTUg6L2u5ZCO5LuN5pyq5pS25pWb77yM5Lqk5piT5Zue5rua4oCU4oCU6L+Z6YCa5bi45oSP5ZGz552A5rGg5a2Q54q25oCB5byC5bi444CCCgotLS0KCiMjIFJlcGVnZ2luZyDmnLrliLbvvJroh6rliqjov73ouKrluILlnLrku7fmoLwKCiMjIyDmoLjlv4Ppl67popgKCnByaWNlX3NjYWxlIOaYr+WGhemDqOS7t+agvO+8jOS9huW4guWcuuS7t+agvOWcqOS4jeaWreWPmOWMluOAguWmguaenCBXQlRDIOS7jiA0MCwwMDAg5rao5YiwIDUwLDAwMO+8jOiAjCBwcmljZV9zY2FsZSDov5jmmK8gNDAsMDAw77yM5rGg5a2Q5bCx5Lya6KKr5aWX5Yip5o6P56m644CCCgpSZXBlZ2dpbmcg5py65Yi26Kej5Yaz6L+Z5Liq6Zeu6aKY77ya6Ieq5Yqo6LCD5pW0IHByaWNlX3NjYWxl77yM6K6p5a6D6L+96Liq5biC5Zy655yf5a6e5Lu35qC844CCCgojIyMg5LiJ56eN5Lu35qC855qE5YWz57O7CgpDcnlwdG9Td2FwIOe7tOaKpOS4ieenjeS7t+agvO+8mgoKMS4gKipsYXN0X3ByaWNlKirvvJrmr4/nrJTkuqTmmJPkuqfnlJ/nmoTljbPml7bku7fmoLwKMi4gKipwcmljZV9vcmFjbGUqKu+8mmxhc3RfcHJpY2Ug55qE5oyH5pWw56e75Yqo5bmz5Z2H77yIRU1B77yJCjMuICoqcHJpY2Vfc2NhbGUqKu+8mueUqOS6juiuoeeul+eahOWGhemDqOe8qeaUvuS7t+agvAoK5a6D5Lus55qE5pu05paw5YWz57O75b2i5oiQ5LiA5Liq6Zet546v77yaCgohW1JlcGVnZ2luZyDmnLrliLbmtYHnqItdKC9pbWFnZXMvYmxvZy9jdXJ2ZS1jcnlwdG9zd2FwLWZvcm11bGEvcmVwZWdnaW5nX2Zsb3cuc3ZnKQoKIyMjIOS7t+agvOmihOiogOacuu+8iEVNQe+8iQoKcHJpY2Vfb3JhY2xlIOS9v+eUqOaMh+aVsOenu+WKqOW5s+Wdh+adpeW5s+a7kSBsYXN0X3ByaWNl77yaCgokJFxhbHBoYSA9IDJeey1cZnJhY3t0fXtUX3sxLzJ9fX0kJAoKJCRwXiogPSBwX3tsYXN0fSgxLVxhbHBoYSkgKyBcYWxwaGEgXGNkb3QgcF4qX3twcmV2fSQkCgrlhbbkuK0gdCDmmK/ot53nprvkuIrmrKHmm7TmlrDnmoTml7bpl7Tpl7TpmpTvvIxU4oKBL+KCgiDmmK/ljYroobDmnJ/vvIhtYV9oYWxmX3RpbWXvvInjgIIKCkVNQSDnmoTkvZznlKjmmK/ov4fmu6Tlmarlo7DvvJrljZXnrJTlpKfpop3kuqTmmJPkuI3kvJrnq4vljbPmlLnlj5ggcHJpY2Vfb3JhY2xl77yM6ZyA6KaB5oyB57ut55qE5Lu35qC85YGP56a75omN5Lya6Kem5Y+R6LCD5pW044CCCgojIyMg6LCD5pW0IHByaWNlX3NjYWxlIOeahOWFrOW8jwoK5b2TIHByaWNlX29yYWNsZSDkuI4gcHJpY2Vfc2NhbGUg5YGP56a75pe277yM5oyJ5Lul5LiL5YWs5byP6LCD5pW077yaCgokJFxmcmFje3BfaX17cF97aSxwcmV2fX0gPSAxICsgXGZyYWN7c317XHNxcnR7XHN1bVxsZWZ0KFxmcmFje3BeKl9qfXtwX3tqLHByZXZ9fSAtIDFccmlnaHQpXjJ9fSBcbGVmdChcZnJhY3twXipfaX17cF97aSxwcmV2fX0gLSAxXHJpZ2h0KSQkCgrov5nkuKrlhazlvI/nmoTlh6DkvZXmhI/kuYnvvJoKCi0g5YiG5q+N5pivIHByaWNlX29yYWNsZSDkuI4gcHJpY2Vfc2NhbGUg5YGP5beu55qE5qyn5Yeg6YeM5b6X6Led56a7Ci0gcyDmmK/osIPmlbTmraXplb/vvIhzdGVwIHNpemXvvIkKLSDmlbTkvZPmlYjmnpzmmK/orqkgcHJpY2Vfc2NhbGUg5ZCRIHByaWNlX29yYWNsZSDmlrnlkJHnp7vliqjkuIDlsI/mraUKCioq5Li65LuA5LmI5LiN55u05o6l6K6+572uIHByaWNlX3NjYWxlID0gcHJpY2Vfb3JhY2xl77yfKiog5Zug5Li656qB5Y+Y5Lya5Yib6YCg5aWX5Yip56m66Ze044CC5riQ6L+b6LCD5pW06K6p5aWX5Yip6ICF5peg5rOV6aKE5rWL5LiL5LiA5q2l55qE5Lu35qC877yM5L+d5oqk5LqGIExQ44CCCgojIyMgUmVwZWdnaW5nIOeahOinpuWPkeadoeS7tgoK5LiN5piv5q+P5qyh5Lqk5piT6YO95Lya6Kem5Y+RIHJlcGVnZ2luZ+OAguWPquacieW9k+WIqea2pui2s+Wkn+aXtuaJjeaJp+ihjO+8mgoKJCRwX3t2aXJ0dWFsfSAtIDEgPiBcZnJhY3tYX3tjcCxwcm9maXR9IC0gMX17Mn0kJAoK5YW25Lit77yaCgotIHBfdmlydHVhbCA9IFhfY3AgLyBUb3RhbFN1cHBsee+8jOihoemHj+avj+WNleS9jSBMUCB0b2tlbiDnmoTku7flgLwKLSBYX2NwLHByb2ZpdCDmmK/ntK/orqHliKnmtqbnmoTph4/ljJYKCui/meS4quadoeS7tueahOWQq+S5ieaYr++8mioq5bCG5rGg5a2Q57Sv56ev5oC75Yip5ram55qE5LiA5Y2K55So5LqOIHJlcGVnZ2luZyoq44CC5Y+q5pyJ5b2TIExQIOeahOWunuaXtuaUtuebiui2hei/h+e0r+iuoeaUtuebiueahOS4gOWNiuaXtu+8jOaJjeiwg+aVtOS7t+agvOOAgui/meS/neaKpOS6hiBMUCDlnKjkuo/mjZ/ml7bkuI3kvJrooqvov5vkuIDmraXkvKTlrrPjgIIKCi0tLQoKIyMg5Yqo5oCB5omL57ut6LS5CgojIyMgdjEg55qE5Zu65a6a6LS5546HCgp2MSBTdGFibGVTd2FwIOS9v+eUqOWbuuWumuaJi+e7rei0ueeOh++8iOWmgiAwLjA0Je+8ieOAggoKIyMjIHYyIOeahOWKqOaAgei0ueeOhwoKdjIg55qE5omL57ut6LS55ZyoIGZfbWlkIOWSjCBmX291dCDkuYvpl7TliqjmgIHosIPmlbTvvJoKCiQkZyA9IFxmcmFje1xnYW1tYV97ZmVlfX17XGdhbW1hX3tmZWV9ICsgMSAtIFxmcmFje1xwcm9kIHhfaX17KFxzdW0geF9pIC8gTileTn19JCQKCiQkZiA9IGcgXGNkb3QgZl97bWlkfSArICgxLWcpIFxjZG90IGZfe291dH0kJAoK5YiG5p6Q6L+Z5Liq5YWs5byP77yaCgotIOWIhuavjeS4reeahCDiiI944bWiIC8gKM6jeOG1oi9OKV5OIOaYr+WHoOS9leW5s+Wdh+S4jueul+acr+W5s+Wdh+eahOavlOWAvAotIOWcqOW5s+ihoeeCueaXtu+8jOi/meS4quavlOWAvOacgOWkp++8iD0gMe+8ie+8jGcg4omIIDHvvIxmIOKJiCBmX21pZO+8iOS9juaJi+e7rei0ue+8iQotIOi/nOemu+W5s+ihoeeCueaXtu+8jOavlOWAvOWHj+Wwj++8jGcg4oaSIDDvvIxmIOKGkiBmX291dO+8iOmrmOaJi+e7rei0ue+8iQoKKirnu4/mtY7mhI/kuYkqKu+8mum8k+WKseS9v+axoOWtkOWbnuWIsOW5s+ihoeeKtuaAgeeahOS6pOaYk++8iOS9juaJi+e7rei0ue+8ie+8jOaDqee9muS9v+axoOWtkOi/nOemu+W5s+ihoeeKtuaAgeeahOS6pOaYk++8iOmrmOaJi+e7rei0ue+8ieOAggoK5YW45Z6L5Y+C5pWw77yaZl9taWQgPSAwLjA0Je+8jGZfb3V0ID0gMC40MCXjgILmiYvnu63otLnlj6/ku6Xnm7jlt64gMTAg5YCN44CCCgohW+WKqOaAgeaJi+e7rei0ueacuuWItl0oL2ltYWdlcy9ibG9nL2N1cnZlLWNyeXB0b3N3YXAtZm9ybXVsYS9keW5hbWljX2ZlZS5zdmcpCgotLS0KCiMjIHYxIHZzIHYyIOWvueavlAoKfCDnibnmgKcgfCB2MSBTdGFibGVTd2FwIHwgdjIgQ3J5cHRvU3dhcCB8CnwtLS0tLS18LS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLXwKfCDpgILnlKjlnLrmma8gfCDplJrlrprotYTkuqfvvIjnqLPlrprluIHvvIkgfCDku7vmhI/otYTkuqcgfAp8IOS7t+agvOWBh+iuviB8IDE6MSB8IOS7u+aEj+avlOS+iyB8Cnwg5Z+656GA5Y2V5L2NIHwg5pWw6YePIHjhtaIgfCDku7flgLwgeOG1osK3cOG1oiB8Cnwg5Yqo5oCB5Y+C5pWwIHwgz4cgPSBBwrc0eHkvRMKyIHwgSyA9IEHCt0vigoDCt86zwrIvKM6zKzEtS+KCgCnCsiB8Cnwg5Lu35qC86LCD5pW0IHwg5pegIHwgUmVwZWdnaW5nIOacuuWItiB8Cnwg5omL57ut6LS5IHwg5Zu65a6aIHwg5Yqo5oCB77yIMC4wNCUtMC40MCXvvIkgfAp8IOWkjeadguW6piB8IOS4reetiSB8IOmrmCB8CgotLS0KCiMjIOWxgOmZkOaAp+S4juadg+ihoQoKQ3J5cHRvU3dhcCDmmK/kuIDkuKrnsr7lppnnmoTorr7orqHvvIzkvYblroPkuI3mmK/kuIfog73nmoTvvJoKCioqMS4g5aSN5p2C5oCn5oiQ5pysKioKClJlcGVnZ2luZyDmnLrliLbmtonlj4rlpJrkuKrnm7jkupLlhbPogZTnmoTlj5jph4/vvIhsYXN0X3ByaWNl44CBcHJpY2Vfb3JhY2xl44CBcHJpY2Vfc2NhbGXjgIF2aXJ0dWFsX3ByaWNl44CBeGNwX3Byb2ZpdO+8ie+8jOeQhuino+WSjOWuoeiuoemDveW+iOWbsOmavuOAgjIwMjIg5bm0IEN1cnZlIOeahCBUcmljcnlwdG8g5rGg5pu+5ZugIHJlcGVnZ2luZyDpgLvovpHnmoTovrnnlYzmg4XlhrXlr7zoh7TnuqYgNTAg5LiH576O5YWD55qE5o2f5aSx44CCCgoqKjIuIEdhcyDmtojogJcqKgoKQ3J5cHRvU3dhcCDnmoTorqHnrpfmr5QgU3RhYmxlU3dhcCDlpI3mnYLlvpflpJrjgILkuIDmrKHkuqTmmJPnmoQgR2FzIOa2iOiAl+e6piAxNTBLLTIwMEvvvIzmmK8gVW5pc3dhcCBWMiDnmoQgMi0zIOWAjeOAggoKKiozLiDlj4LmlbDmlY/mhJ/mgKcqKgoKQeOAgc6z44CBbWFfaGFsZl90aW1l44CBYWRqdXN0bWVudF9zdGVwIOetieWPguaVsOeahOmAieaLqemcgOimgeS4k+S4muWIpOaWreOAgumUmeivr+eahOWPguaVsOWPr+iDveWvvOiHtO+8mgotIOabsue6v+i/h+S6juW5s+Wdpu+8jOiiq+Wll+WIqeaOj+epugotIOabsue6v+i/h+S6jumZoeWzre+8jOa7keeCuei/h+mrmAotIFJlcGVnZ2luZyDov4flv6vvvIzliJvpgKDlpZfliKnnqbrpl7QKLSBSZXBlZ2dpbmcg6L+H5oWi77yM5peg5rOV6Lef6Liq5biC5Zy6CgoqKjQuIOmihOiogOacuuW7tui/nyoqCgpFTUEg6aKE6KiA5py65pyJ5Zu65pyJ5bu26L+f44CC5Zyo5Ymn54OI5rOi5Yqo5pe277yI5aaC6Zeq5bSp77yJ77yMcHJpY2Vfc2NhbGUg5Y+v6IO96Lef5LiN5LiK5biC5Zy65Lu35qC877yM5a+86Ie0IExQIOaNn+WkseOAggoKKio1LiDmtYHliqjmgKfnoo7niYfljJYqKgoK5q+P5LiqIENyeXB0b1N3YXAg5rGg5Y+q6IO95YyF5ZCrIDItMyDnp43otYTkuqfjgILlr7nkuo7pnIDopoHlpJrnp43otYTkuqfnu4TlkIjnmoTlnLrmma/vvIzmtYHliqjmgKfkvJrooqvliIbmlaPliLDlpJrkuKrmsaDlrZDjgIIKCi0tLQoKIyMg5YWz6ZSu5YWs5byP5rGH5oC7CgoqKuS7t+WAvOi9rOaNoioqCiQkYidfaSA9IGJfaSBcY2RvdCBwX2kkJAoKKipEIOeahOWumuS5iSoqCiQkRCA9IE4gXGNkb3QgeF97ZXF9JCQKCioqS+KCgCDnmoTlrprkuYkqKgokJEtfMCA9IFxmcmFje1xwcm9kIHhfaSBcY2RvdCBOXk59e0ReTn0kJAoKKipLIOeahOWumuS5iSoqCiQkSyA9IEEgXGNkb3QgS18wIFxjZG90IFxmcmFje1xnYW1tYV4yfXsoXGdhbW1hICsgMSAtIEtfMCleMn0kJAoKKipDcnlwdG9Td2FwIOS4jeWPmOmHjyoqCiQkSyBEXntOLTF9IFxzdW0geF9pICsgXHByb2QgeF9pID0gSyBEXk4gKyBcbGVmdChcZnJhY3tEfXtOfVxyaWdodCleTiQkCgoqKueJm+mhv+azleWIneWAvO+8iOaxgiBE77yJKioKJCREXzAgPSBOIFxjZG90IFxsZWZ0KFxwcm9kIHhfa1xyaWdodClee1xmcmFjezF9e059fSQkCgoqKueJm+mhv+azleWIneWAvO+8iOaxgiB44bWi77yJKioKJCR4X3tpLDB9ID0gXGZyYWN7RF5OfXtccHJvZF97ayBcbmVxIGl9IHhfayBcY2RvdCBOXk59JCQKCioq5Lu35qC86aKE6KiA5py677yIRU1B77yJKioKJCRcYWxwaGEgPSAyXnstXGZyYWN7dH17VF97MS8yfX19JCQKJCRwXiogPSBwX3tsYXN0fSgxLVxhbHBoYSkgKyBcYWxwaGEgXGNkb3QgcF4qX3twcmV2fSQkCgoqKlByaWNlIFNjYWxlIOiwg+aVtCoqCiQkXGZyYWN7cF9pfXtwX3tpLHByZXZ9fSA9IDEgKyBcZnJhY3tzfXtcc3FydHtcc3VtXGxlZnQoXGZyYWN7cF4qX2p9e3Bfe2oscHJldn19IC0gMVxyaWdodCleMn19IFxsZWZ0KFxmcmFje3BeKl9pfXtwX3tpLHByZXZ9fSAtIDFccmlnaHQpJCQKCioq5Yqo5oCB5omL57ut6LS5KioKJCRnID0gXGZyYWN7XGdhbW1hX3tmZWV9fXtcZ2FtbWFfe2ZlZX0gKyAxIC0gXGZyYWN7XHByb2QgeF9pfXsoXHN1bSB4X2kgLyBOKV5OfX0kJAokJGYgPSBnIFxjZG90IGZfe21pZH0gKyAoMS1nKSBcY2RvdCBmX3tvdXR9JCQKCi0tLQoKIyMg6L+b5LiA5q2l6ZiF6K+7CgotIFtDdXJ2ZSBDcnlwdG9Td2FwIOeZveearuS5pl0oaHR0cHM6Ly9jdXJ2ZS5maS9maWxlcy9jcnlwdG8tcG9vbHMtcGFwZXIucGRmKSDigJQg5Y6f5aeL6K665paH77yM5YyF5ZCr5a6M5pW05pWw5a2m5o6o5a+8Ci0gW0N1cnZlIHYyIENyeXB0b1N3YXAg6K+m6Kej57O75YiXXShodHRwczovLzB4cmV2aWV3cy54eXovcG9zdHMvMjAyMi0wMy0wMS1DdXJ2ZS1DcnlwdG9Td2FwLXdoaXRlcGFwZXIvKSDigJQgMHhyZXZpZXdzIOeahOa3seW6puS7o+eggeWIhuaekO+8jOacrOaWh+WPguiAg+S6huWFtuS4reeahOWLmOivrwotIFtDdXJ2ZSB2MiDlj4LmlbDmt7HluqbliIbmnpBdKGh0dHBzOi8vbmFnYWtpbmcuc3Vic3RhY2suY29tL3AvZGVlcC1kaXZlLWN1cnZlLXYyLXBhcmFtZXRlcnMpIOKAlCBBIOWSjCDOsyDlj4LmlbDnmoTpgInmi6nmjIfljZcKLSBbQ3VydmUg5oqA5pyv5paH5qGjXShodHRwczovL2RvY3MuY3VydmUuZmluYW5jZS9jcnlwdG9zd2FwLWV4Y2hhbmdlL292ZXJ2aWV3Lykg4oCUIOWumOaWueaWh+aho++8jOWMheWQq+acgOaWsOeahOWQiOe6puaOpeWPowo="}
+---
+title: "Curve CryptoSwap (v2) 公式推导：从稳定币到波动资产"
+description: "深入推导 Curve v2 的 CryptoSwap 不变量，理解价值转换、动态 K 参数、Repegging 机制如何让 AMM 支持任意资产对。"
+pubDate: "2026-03-01"
+tags: ["DeFi", "AMM", "Curve", "数学"]
+hexagram: "䷀"
+element: "fire"
+---
+
+**TL;DR:** Curve v2 CryptoSwap 通过三个核心创新突破了 StableSwap 的局限：(1) 引入内部价格 price_scale 将数量转换为价值，使公式适用于任意资产对；(2) 用 γ 参数调整 K 系数，让曲线在偏离平衡点时更快变陡；(3) Repegging 机制自动追踪市场价格，无需外部预言机。理解这些机制，是理解现代 AMM 设计的关键。
+
+> **前置知识**：本文假设读者已理解 [Curve StableSwap 公式推导](/blog/curve-stableswap-formula)，熟悉动态参数 χ = A × 4xy/D² 的设计思路。如果不熟悉，建议先阅读该文章。
+
+---
+
+## 从 StableSwap 到 CryptoSwap：为什么需要 v2
+
+2020 年 Curve v1 StableSwap 在稳定币交易领域取得了巨大成功。但它有一个根本性的假设：池中资产的价格应该接近 1:1。这个假设对 USDC/USDT/DAI 完美适用，却无法处理 USDT/WBTC/WETH 这样的组合——当 WBTC 价格是 40,000 美元、WETH 是 3,000 美元时，1:1 的假设显然不成立。
+
+2021 年 6 月，Curve CEO Michael Egorov 发布了 CryptoSwap 白皮书，提出了一套全新的机制。核心思想是：既然价格不再是 1:1，就需要引入内部价格来「标准化」不同资产，让它们在价值层面可比较。
+
+这个看似简单的想法，引出了一系列复杂但精妙的设计。
+
+---
+
+## 价值转换：从数量到价值
+
+### 问题的本质
+
+回顾 v1 StableSwap 的核心公式（n = 2）：
+
+$$4A(x+y) + D = 4AD + \frac{D^3}{4xy}$$
+
+这里的 x 和 y 是资产的**数量**。公式能工作的前提是：1 个 USDC 和 1 个 USDT 的价值相等。但如果池子是 USDT-WBTC，1 个 USDT 和 1 个 WBTC 的价值相差 40,000 倍，直接用数量计算毫无意义。
+
+### 引入内部价格
+
+v2 的解决方案是引入**内部缩放价格** price_scale，记为 p。对于 USDT-WBTC-WETH 池：
+
+- USDT 价格：p₀ = 1（作为锚定标的，始终为 1）
+- WBTC 价格：p₁ = 40,000（相对于 USDT）
+- WETH 价格：p₂ = 3,000（相对于 USDT）
+
+**关键规则**：第一个资产始终作为计价单位，其价格恒为 1。
+
+### 数量与价值的转换
+
+定义两个向量：
+
+- **数量向量** b = (b₀, b₁, b₂, ...)：实际持有的 token 数量
+- **价值向量** b' = (b'₀, b'₁, b'₂, ...)：用锚定资产计价的价值
+
+转换公式：
+
+$$b'_i = b_i \cdot p_i$$
+
+举个例子。假设池子状态为：100,000 USDT、2 WBTC、30 WETH。
+
+![价值转换示意图](/images/blog/curve-cryptoswap-formula/value_conversion.svg)
+
+通过价格转换，三种资产可以在同一尺度上比较了。
+
+> **白皮书勘误**：原白皮书中 b 和 b' 的转换公式写反了。正确的形式是 b' = b × p（价值 = 数量 × 价格），而非 b = b' × p。这个错误在代码中已修正。
+
+---
+
+## D 的重新定义
+
+### v1 中的 D
+
+在 v1 StableSwap 中，D 的定义很直观：
+
+$$D = \sum x_i$$
+
+当池子处于平衡状态（所有资产数量相等）时，D 就是资产数量的总和。
+
+### v2 中的 D
+
+v2 中资产价格不同，不能直接用数量求和。D 被重新定义为：
+
+$$D = N \cdot x_{eq}$$
+
+其中 N 是资产数量，x_eq 是平衡点时**每个资产的等价价值**。
+
+理解「平衡点」：当池子处于平衡状态时，每个资产的**价值**相等：
+
+$$b'_0 = b'_1 = b'_2 = \ldots = x_{eq}$$
+
+以 3 个币种为例，如果平衡点时每个资产价值为 90,000 USDT：
+
+$$D = 3 \times 90,000 = 270,000$$
+
+**几何意义的转变**：v1 中 D 是数量的总和，v2 中 D 是价值的总和。这个转变是 CryptoSwap 能处理任意资产对的基础。
+
+---
+
+## K 的动态调整机制
+
+### 回顾 v1 的 χ
+
+v1 StableSwap 的动态参数：
+
+$$\chi = A \times \frac{4xy}{D^2}$$
+
+其中 4xy/D² 是「位置因子」，在平衡点为 1，远离时趋向 0。这让曲线在平衡点附近平坦、远离时弯曲。
+
+### v2 的 K₀
+
+v2 将位置因子推广到 N 个资产：
+
+$$K_0 = \frac{\prod x_i \cdot N^N}{D^N}$$
+
+验证平衡点：当所有 xᵢ = D/N 时：
+
+$$K_0 = \frac{(D/N)^N \cdot N^N}{D^N} = \frac{D^N \cdot N^N}{N^N \cdot D^N} = 1$$
+
+K₀ 的行为与 v1 的位置因子一致：平衡点为 1，偏离时小于 1。
+
+### 引入 γ 调整因子
+
+v2 的核心创新是在 A·K₀ 基础上，再乘以一个调整因子：
+
+$$K = A \cdot K_0 \cdot \frac{\gamma^2}{(\gamma + 1 - K_0)^2}$$
+
+γ（gamma）是一个新参数，控制曲线在偏离平衡点时的「陡峭程度」。
+
+分析这个调整因子的行为：
+
+**在平衡点**（K₀ = 1）：
+
+$$\frac{\gamma^2}{(\gamma + 1 - 1)^2} = \frac{\gamma^2}{\gamma^2} = 1$$
+
+调整因子为 1，不影响 A。
+
+**远离平衡点**（K₀ → 0）：
+
+$$\frac{\gamma^2}{(\gamma + 1)^2} < 1$$
+
+调整因子小于 1，进一步降低 K。
+
+这意味着什么？看一个数值对比（假设 A = 100，γ = 0.01）：
+
+| 位置 | K₀ | v1: χ = A·K₀ | v2: K = A·K₀·调整因子 |
+|------|-----|--------------|----------------------|
+| 平衡点 | 1.0 | 100 | 100 |
+| 轻微偏离 | 0.96 | 96 | 94.1 |
+| 严重偏离 | 0.36 | 36 | 26.3 |
+
+**结论**：γ 调整因子让曲线在偏离平衡点时下降得更快。这对波动资产很重要——当价格剧烈变化导致池子失衡时，曲线需要更快地变陡来保护流动性。
+
+![K 调整因子对比](/images/blog/curve-cryptoswap-formula/k_comparison.svg)
+
+---
+
+## CryptoSwap 不变量公式
+
+### 最终形式
+
+将动态 K 代入，得到 CryptoSwap 不变量：
+
+$$K D^{N-1} \sum x_i + \prod x_i = K D^N + \left(\frac{D}{N}\right)^N$$
+
+其中：
+
+$$K = A \cdot K_0 \cdot \frac{\gamma^2}{(\gamma + 1 - K_0)^2}$$
+
+$$K_0 = \frac{\prod x_i \cdot N^N}{D^N}$$
+
+### 验证 n = 2 的情况
+
+将 N = 2 代入：
+
+$$K D (x+y) + xy = K D^2 + \frac{D^2}{4}$$
+
+对比 v1 公式（两边乘以 xy/D）：
+
+$$4A(x+y) + D = 4AD + \frac{D^3}{4xy}$$
+
+形式一致，只是 v2 中的 K 是动态的，而 v1 中的 4A 是静态的。
+
+### 函数形式
+
+将不变量写成 F(x, D) = 0 的形式，便于牛顿法求解：
+
+$$F(\mathbf{x}, D) = K D^{N-1} \sum x_i + \prod x_i - K D^N - \left(\frac{D}{N}\right)^N = 0$$
+
+---
+
+## 牛顿法求解
+
+### 两种求解场景
+
+CryptoSwap 需要在两种场景下求解方程：
+
+1. **添加/移除流动性**：已知所有 xᵢ，求 D
+2. **交易**：已知 D 和除 xⱼ 外的所有 xᵢ，求 xⱼ
+
+由于方程是高次多项式，无法直接求解，必须使用数值方法。Curve 选择了牛顿法。
+
+### 牛顿法迭代公式
+
+牛顿法的核心思想是用切线逼近曲线：
+
+$$x_{n+1} = x_n - \frac{F(x_n)}{F'(x_n)}$$
+
+### 求解 D 的初值选择
+
+初值的选择对收敛速度至关重要。Curve 使用几何平均数作为初值：
+
+$$D_0 = N \cdot \left(\prod x_k\right)^{\frac{1}{N}}$$
+
+这个选择有数学依据：几何平均数是「平衡点」的自然估计。
+
+### 求解 xᵢ 的初值选择
+
+$$x_{i,0} = \frac{D^N}{\prod_{k \neq i} x_k \cdot N^N}$$
+
+> **白皮书勘误**：原白皮书中分子的 D 幂次写成 N-1，分母的 N 幂次也写成 N-1，都应该是 N。代码中已修正。
+
+### Gas 消耗
+
+牛顿法在 EVM 中消耗约 **35K gas**。通常 4 轮迭代即可收敛到精度 1（即误差 ≤ 1 wei）。如果 255 轮后仍未收敛，交易回滚——这通常意味着池子状态异常。
+
+---
+
+## Repegging 机制：自动追踪市场价格
+
+### 核心问题
+
+price_scale 是内部价格，但市场价格在不断变化。如果 WBTC 从 40,000 涨到 50,000，而 price_scale 还是 40,000，池子就会被套利掏空。
+
+Repegging 机制解决这个问题：自动调整 price_scale，让它追踪市场真实价格。
+
+### 三种价格的关系
+
+CryptoSwap 维护三种价格：
+
+1. **last_price**：每笔交易产生的即时价格
+2. **price_oracle**：last_price 的指数移动平均（EMA）
+3. **price_scale**：用于计算的内部缩放价格
+
+它们的更新关系形成一个闭环：
+
+![Repegging 机制流程](/images/blog/curve-cryptoswap-formula/repegging_flow.svg)
+
+### 价格预言机（EMA）
+
+price_oracle 使用指数移动平均来平滑 last_price：
+
+$$\alpha = 2^{-\frac{t}{T_{1/2}}}$$
+
+$$p^* = p_{last}(1-\alpha) + \alpha \cdot p^*_{prev}$$
+
+其中 t 是距离上次更新的时间间隔，T₁/₂ 是半衰期（ma_half_time）。
+
+EMA 的作用是过滤噪声：单笔大额交易不会立即改变 price_oracle，需要持续的价格偏离才会触发调整。
+
+### 调整 price_scale 的公式
+
+当 price_oracle 与 price_scale 偏离时，按以下公式调整：
+
+$$\frac{p_i}{p_{i,prev}} = 1 + \frac{s}{\sqrt{\sum\left(\frac{p^*_j}{p_{j,prev}} - 1\right)^2}} \left(\frac{p^*_i}{p_{i,prev}} - 1\right)$$
+
+这个公式的几何意义：
+
+- 分母是 price_oracle 与 price_scale 偏差的欧几里得距离
+- s 是调整步长（step size）
+- 整体效果是让 price_scale 向 price_oracle 方向移动一小步
+
+**为什么不直接设置 price_scale = price_oracle？** 因为突变会创造套利空间。渐进调整让套利者无法预测下一步的价格，保护了 LP。
+
+### Repegging 的触发条件
+
+不是每次交易都会触发 repegging。只有当利润足够时才执行：
+
+$$p_{virtual} - 1 > \frac{X_{cp,profit} - 1}{2}$$
+
+其中：
+
+- p_virtual = X_cp / TotalSupply，衡量每单位 LP token 的价值
+- X_cp,profit 是累计利润的量化
+
+这个条件的含义是：**将池子累积总利润的一半用于 repegging**。只有当 LP 的实时收益超过累计收益的一半时，才调整价格。这保护了 LP 在亏损时不会被进一步伤害。
+
+---
+
+## 动态手续费
+
+### v1 的固定费率
+
+v1 StableSwap 使用固定手续费率（如 0.04%）。
+
+### v2 的动态费率
+
+v2 的手续费在 f_mid 和 f_out 之间动态调整：
+
+$$g = \frac{\gamma_{fee}}{\gamma_{fee} + 1 - \frac{\prod x_i}{(\sum x_i / N)^N}}$$
+
+$$f = g \cdot f_{mid} + (1-g) \cdot f_{out}$$
+
+分析这个公式：
+
+- 分母中的 ∏xᵢ / (Σxᵢ/N)^N 是几何平均与算术平均的比值
+- 在平衡点时，这个比值最大（= 1），g ≈ 1，f ≈ f_mid（低手续费）
+- 远离平衡点时，比值减小，g → 0，f → f_out（高手续费）
+
+**经济意义**：鼓励使池子回到平衡状态的交易（低手续费），惩罚使池子远离平衡状态的交易（高手续费）。
+
+典型参数：f_mid = 0.04%，f_out = 0.40%。手续费可以相差 10 倍。
+
+![动态手续费机制](/images/blog/curve-cryptoswap-formula/dynamic_fee.svg)
+
+---
+
+## v1 vs v2 对比
+
+| 特性 | v1 StableSwap | v2 CryptoSwap |
+|------|---------------|---------------|
+| 适用场景 | 锚定资产（稳定币） | 任意资产 |
+| 价格假设 | 1:1 | 任意比例 |
+| 基础单位 | 数量 xᵢ | 价值 xᵢ·pᵢ |
+| 动态参数 | χ = A·4xy/D² | K = A·K₀·γ²/(γ+1-K₀)² |
+| 价格调整 | 无 | Repegging 机制 |
+| 手续费 | 固定 | 动态（0.04%-0.40%） |
+| 复杂度 | 中等 | 高 |
+
+---
+
+## 局限性与权衡
+
+CryptoSwap 是一个精妙的设计，但它不是万能的：
+
+**1. 复杂性成本**
+
+Repegging 机制涉及多个相互关联的变量（last_price、price_oracle、price_scale、virtual_price、xcp_profit），理解和审计都很困难。2022 年 Curve 的 Tricrypto 池曾因 repegging 逻辑的边界情况导致约 50 万美元的损失。
+
+**2. Gas 消耗**
+
+CryptoSwap 的计算比 StableSwap 复杂得多。一次交易的 Gas 消耗约 150K-200K，是 Uniswap V2 的 2-3 倍。
+
+**3. 参数敏感性**
+
+A、γ、ma_half_time、adjustment_step 等参数的选择需要专业判断。错误的参数可能导致：
+- 曲线过于平坦，被套利掏空
+- 曲线过于陡峭，滑点过高
+- Repegging 过快，创造套利空间
+- Repegging 过慢，无法跟踪市场
+
+**4. 预言机延迟**
+
+EMA 预言机有固有延迟。在剧烈波动时（如闪崩），price_scale 可能跟不上市场价格，导致 LP 损失。
+
+**5. 流动性碎片化**
+
+每个 CryptoSwap 池只能包含 2-3 种资产。对于需要多种资产组合的场景，流动性会被分散到多个池子。
+
+---
+
+## 关键公式汇总
+
+**价值转换**
+$$b'_i = b_i \cdot p_i$$
+
+**D 的定义**
+$$D = N \cdot x_{eq}$$
+
+**K₀ 的定义**
+$$K_0 = \frac{\prod x_i \cdot N^N}{D^N}$$
+
+**K 的定义**
+$$K = A \cdot K_0 \cdot \frac{\gamma^2}{(\gamma + 1 - K_0)^2}$$
+
+**CryptoSwap 不变量**
+$$K D^{N-1} \sum x_i + \prod x_i = K D^N + \left(\frac{D}{N}\right)^N$$
+
+**牛顿法初值（求 D）**
+$$D_0 = N \cdot \left(\prod x_k\right)^{\frac{1}{N}}$$
+
+**牛顿法初值（求 xᵢ）**
+$$x_{i,0} = \frac{D^N}{\prod_{k \neq i} x_k \cdot N^N}$$
+
+**价格预言机（EMA）**
+$$\alpha = 2^{-\frac{t}{T_{1/2}}}$$
+$$p^* = p_{last}(1-\alpha) + \alpha \cdot p^*_{prev}$$
+
+**Price Scale 调整**
+$$\frac{p_i}{p_{i,prev}} = 1 + \frac{s}{\sqrt{\sum\left(\frac{p^*_j}{p_{j,prev}} - 1\right)^2}} \left(\frac{p^*_i}{p_{i,prev}} - 1\right)$$
+
+**动态手续费**
+$$g = \frac{\gamma_{fee}}{\gamma_{fee} + 1 - \frac{\prod x_i}{(\sum x_i / N)^N}}$$
+$$f = g \cdot f_{mid} + (1-g) \cdot f_{out}$$
+
+---
+
+## 进一步阅读
+
+- [Curve CryptoSwap 白皮书](https://curve.fi/files/crypto-pools-paper.pdf) — 原始论文，包含完整数学推导
+- [Curve v2 CryptoSwap 详解系列](https://0xreviews.xyz/posts/2022-03-01-Curve-CryptoSwap-whitepaper/) — 0xreviews 的深度代码分析，本文参考了其中的勘误
+- [Curve v2 参数深度分析](https://nagaking.substack.com/p/deep-dive-curve-v2-parameters) — A 和 γ 参数的选择指南
+- [Curve 技术文档](https://docs.curve.finance/cryptoswap-exchange/overview/) — 官方文档，包含最新的合约接口

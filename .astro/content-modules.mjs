@@ -1,1 +1,1 @@
-{"data":"ZXhwb3J0IGRlZmF1bHQgbmV3IE1hcCgpOw=="}
+export default new Map();

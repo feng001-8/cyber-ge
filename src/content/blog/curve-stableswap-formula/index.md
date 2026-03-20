@@ -1,1 +1,210 @@
-{"data":"LS0tCnRpdGxlOiAiQ3VydmUgU3RhYmxlU3dhcCDlhazlvI/mjqjlr7zvvJrku47liqDmnYPlubPlnYfliLDliqjmgIHlj4LmlbAiCmRlc2NyaXB0aW9uOiAi5LuO56ys5LiA5oCn5Y6f55CG5o6o5a+8IEN1cnZlIOeahCBTdGFibGVTd2FwIOS4jeWPmOmHj++8jOeQhuino+S4uuS7gOS5iOWug+iDveWcqOeos+WumuW4geS6pOaYk+S4reWunueOsOaegeS9jua7keeCueOAgiIKcHViRGF0ZTogIjIwMjYtMDMtMDEiCnRhZ3M6IFsiRGVGaSIsICJBTU0iLCAiQ3VydmUiLCAi5pWw5a2mIl0KaGV4YWdyYW06ICLkt4EiCmVsZW1lbnQ6ICJ3YXRlciIKLS0tCgoqKlRMO0RSOioqIEN1cnZlIOeahCBTdGFibGVTd2FwIOWFrOW8j+acrOi0qOaYryBDb25zdGFudCBQcm9kdWN0IOWSjCBDb25zdGFudCBTdW0g55qE5Yqg5p2D5bmz5Z2H77yM6YCa6L+H5byV5YWl5Yqo5oCB5Y+C5pWwIM+HID0gQSDDlyA0eHkvRMKy77yM5a6e546w5LqG44CM5bmz6KGh54K56ZmE6L+R5L2O5ruR54K544CB6L+c56a75pe26Ziy5o6P56m644CN55qE5Y+M6YeN55uu5qCH44CC55CG6Kej6L+Z5Liq5o6o5a+86L+H56iL77yM5q+U6K6w5L2P5pyA57uI5YWs5byP5pu06YeN6KaB44CCCgo+ICoq5YmN572u55+l6K+GKirvvJrmnKzmloflgYforr7or7vogIXnhp/mgokgVW5pc3dhcCDnmoTmgZLlrprkuZjnp6/lhazlvI8geHkgPSBr77yM55CG6Kej5ruR54K555qE5qaC5b+144CC5aaC5p6c5LiN54af5oKJ77yM5bu66K6u5YWI6ZiF6K+7IFtERVgg5Lqk5piT5py65Yi2XSgvYmxvZy9kZXgtdHJhZGluZy1tZWNoYW5pc21zKeOAggoKLS0tCgojIyDmoLjlv4Ppl67popjvvJrnqLPlrprluIHkuqTmmJPnmoTkuKTpmr4KCjIwMjAg5bm05LmL5YmN77yM56iz5a6a5biB5LmL6Ze055qE5YWR5o2i5piv5LiA5Liq5bC05bCs55qE5Zy65pmv44CCCgrlnKggVW5pc3dhcCBWMiDkuIrnlKggMTAwIOS4hyBVU0RDIOaNoiBVU0RU77yM5ruR54K55Y+v6IO96auY6L6+IDAuMyXigJTigJTov5nmhI/lkbPnnYDmjZ/lpLEgMzAwMCDnvo7lhYPjgILlr7nkuo7nkIborrrkuIrlupTor6UgMToxIOmUmuWumueahOi1hOS6p++8jOi/meS4quaIkOacrOaYvueEtuS4jeWQiOeQhuOAgumXrumimOWHuuWcqCBDb25zdGFudCBQcm9kdWN0IOWFrOW8j+acrOi6q++8mnh5ID0gayDnmoTmm7Lnur/mm7LnjoflpKrlpKfvvIzljbPkvb/ku7fmoLzlj6rlgY/nprsgMSUg5Lmf5Lya5Lqn55Sf5piO5pi+5ruR54K544CCCgrkuIDkuKrnm7Top4nnmoTop6PlhrPmlrnmoYjmmK/kvb/nlKggQ29uc3RhbnQgU3VtIOWFrOW8j++8mnggKyB5ID0gROOAgui/meadoeebtOe6v+WujOWFqOW5s+Wdpu+8jOS7u+aEj+inhOaooeeahOS6pOaYk+mDveayoeaciea7keeCueOAguS9huWug+acieS4gOS4quiHtOWRvee8uumZt++8muaxoOWtkOS8muiiq+aOj+epuuOAguWmguaenCBVU0RDIOS7t+agvOeojeW+rumrmOS6jiBVU0RU77yM5aWX5Yip6ICF5Lya5oqK5rGg5Lit5omA5pyJIFVTRFQg5o2i5oiQIFVTREPvvIznm7TliLDmsaDlrZDlj6rlianljZXkuIDotYTkuqfjgIIKCkN1cnZlIOeahOWIm+aWsOWcqOS6juaJvuWIsOS6huS4gOadoeS4remXtOi3r+W+hO+8muaehOmAoOS4gOadoeWcqOW5s+ihoeeCuemZhOi/keaOpei/keebtOe6v+OAgei/nOemu+W5s+ihoeeCueaXtuaOpei/keWPjOabsue6v+eahOabsue6v+OAgui/meWwseaYryBTdGFibGVTd2FwIOS4jeWPmOmHj+eahOiuvuiuoeebruagh+OAggoKIVtDdXJ2ZSDmqKHlnovorr7orqFdKC9pbWFnZXMvYmxvZy9jdXJ2ZS1zdGFibGVzd2FwLWZvcm11bGEvY3VydmVfbW9kZWxfZGVzaWduLnN2ZykKCuS4iuWbvuWxleekuuS6huS4pOadoeWfuuWHhuabsue6v+OAguiTneiJsueahCB4eSA9IGsg5puy546H5aSn5L2G5rC45LiN5p6v56ut77yM57u/6Imy55qEIHggKyB5ID0gRCDlrozlhajlubPlnabkvYbkvJrooqvmjo/nqbrjgILkuKTmnaHmm7Lnur/kuqTkuo7ngrkgUO+8iHggPSB5ID0gRC8y77yJ77yM6L+Z5Liq5Lqk54K55bCx5piv44CM5bmz6KGh54K544CN4oCU4oCUQ3VydmUg5puy57q/55qE6K6+6K6h6ZSa54K544CCCgotLS0KCiMjIOWKoOadg+W5s+Wdh++8mue7n+S4gOS4pOenjeaooeWeiwoK5p6E6YCg5re35ZCI5puy57q/55qE56ys5LiA5q2l5piv5bCG5Lik5Liq5pa556iL57uE5ZCI6LW35p2l44CC5L2G55u05o6l55u45Yqg6KGM5LiN6YCa77yM5Zug5Li65Zug5qyh5LiN5ZCM77yaeHkg55qE5Zug5qyh5pivIFvmlbDph4/Csl3vvIzogIwgeCArIHkg55qE5Zug5qyh5pivIFvmlbDph49d44CCCgrop6PlhrPmlrnms5XmmK/nu5kgeCArIHkg5LmY5LiKIETvvIznu5/kuIDlm6DmrKHlkI7lho3lgZrliqDmnYPlubPlnYfjgILorr4gzrEg5Li6IENvbnN0YW50IFN1bSDnmoTmnYPph43vvIzOsiDkuLogQ29uc3RhbnQgUHJvZHVjdCDnmoTmnYPph43vvJoKCiQkXGFscGhhIFxjZG90IEQoeCArIHkpICsgXGJldGEgXGNkb3QgeHkgPSBcYWxwaGEgXGNkb3QgRF4yICsgXGJldGEgXGNkb3QgXGZyYWN7RF4yfXs0fSQkCgrnrYnlvI/lj7PovrnmmK/lsIblubPooaHngrkgKEQvMiwgRC8yKSDku6PlhaXlt6bovrnlvpfliLDnmoTluLjmlbDjgILkuKTovrnlkIzml7bpmaTku6UgzrLvvIzku6Qgz4cgPSDOsS/Osu+8jOW+l+WIsOeugOWMluW9ouW8j++8mgoKJCRcY2hpIEQoeCArIHkpICsgeHkgPSBcY2hpIEReMiArIFxmcmFje0ReMn17NH0kJAoK5Y+C5pWwIM+HIOaOp+WItuS4pOenjeaooeWei+eahOa3t+WQiOavlOS+i++8mgoKLSDPhyA9IDDvvJrpgIDljJbkuLogeHkgPSBEwrIvNO+8jOe6ryBDb25zdGFudCBQcm9kdWN0Ci0gz4cg4oaSIOKInu+8mumAgOWMluS4uiB4ICsgeSA9IETvvIznuq8gQ29uc3RhbnQgU3VtCi0gz4cg5Zyo5Lit6Ze077ya5b6X5Yiw5re35ZCI5puy57q/CgrkvYbpnZnmgIHnmoQgz4cg5peg5rOV6Kej5Yaz5qC45b+D6Zeu6aKY44CC5bmz6KGh54K56ZmE6L+R6ZyA6KaB5aSnIM+H77yI5puy57q/5bmz5Z2m77yM5L2O5ruR54K577yJ77yM6L+c56a75bmz6KGh54K56ZyA6KaB5bCPIM+H77yI5puy57q/5byv5puy77yM6Ziy5o6P56m677yJ44CC6L+Z5Lik5Liq6ZyA5rGC5piv55+b55u+55qE4oCU4oCU6Zmk6Z2e6K6pIM+HIOWKqOaAgeWPmOWMluOAggoKLS0tCgojIyDliqjmgIHlj4LmlbDvvJrorqnmm7Lnur/oh6rpgILlupQKCuWFs+mUrua0nuWvn+adpeiHquS4gOS4quaVsOWtpuaAp+i0qO+8muWcqCBDb25zdGFudCBTdW0g57qm5p2f77yIeCArIHkgPSBE77yJ5LiL77yMeHkg55qE5YC85Y+v5Lul5oyH56S65b2T5YmN5L2N572u6Led56a75bmz6KGh54K55pyJ5aSa6L+c44CCCgohW3h5IOS4juS9jee9rueahOWFs+ezu10oL2ltYWdlcy9ibG9nL2N1cnZlLXN0YWJsZXN3YXAtZm9ybXVsYS9jdXJ2ZV94eV9wb3NpdGlvbi5zdmcpCgrov5nmmK/kuIDmnaHlvIDlj6PlkJHkuIvnmoTmipvniannur/jgILlvZMgeCA9IHkgPSBELzIg5pe277yMeHkg6L6+5Yiw5pyA5aSn5YC8IETCsi8077yb5b2T5rGg5a2Q5YGP56a75bmz6KGh77yIeCDiiaAgee+8ieaXtu+8jHh5IOWPmOWwj+OAgui/meS4queJueaAp+ato+WlveWPr+S7peeUqOadpeaehOmAoOWKqOaAgeWPguaVsOOAggoK5a6a5LmJ44CM5L2N572u5Zug5a2Q44CN5Li6IHh5IOebuOWvueS6juacgOWkp+WAvOeahOavlOS+i++8mgoKJCRcdGV4dHvkvY3nva7lm6DlrZB9ID0gXGZyYWN7eHl9eyhELzIpXjJ9ID0gXGZyYWN7NHh5fXtEXjJ9JCQKCuS9jee9ruWboOWtkOeahOWPluWAvOiMg+WbtOaYryAoMCwgMV3jgILlnKjlubPooaHngrnnrYnkuo4gMe+8jOWBj+emu+i2iui/nOi2iuaOpei/kSAw44CCCgrlvJXlhaXmlL7lpKfns7vmlbAgQe+8iEFtcGxpZmljYXRpb24gQ29lZmZpY2llbnTvvInvvIzmnoTpgKDliqjmgIHlj4LmlbDvvJoKCiQkXGNoaSA9IEEgXHRpbWVzIFxmcmFjezR4eX17RF4yfSQkCgpBIOaYr+S4gOS4quWbuuWumuW4uOaVsO+8jOeUsSBEQU8g5rK755CG6K6+5a6a77yIQ3VydmUgM3Bvb2wg55qEIEEgPSAyMDAw77yJ44CC6ICMIDR4eS9EwrIg6ZqP5rGg5a2Q54q25oCB5a6e5pe25Y+Y5YyW44CC6L+Z5qC35bCx5a6e546w5LqG6Ieq6YCC5bqU77yaCgotIOW5s+ihoeeCuemZhOi/ke+8mjR4eS9EwrIg4omIIDHvvIzPhyDiiYggQe+8jOabsue6v+aOpei/keebtOe6vwotIOi/nOemu+W5s+ihoeeCue+8mjR4eS9EwrIg4oaSIDDvvIzPhyDihpIgMO+8jOabsue6v+aOpei/keWPjOabsue6vwoKLS0tCgojIyDmnIDnu4jlhazlvI/nmoTmjqjlr7wKCuWwhuWKqOaAgeWPguaVsOS7o+WFpeWKoOadg+W5s+Wdh+WFrOW8j++8jOWxleW8gOiuoeeul+OAggoKKirku6PlhaUqKu+8mgoKJCRBIFx0aW1lcyBcZnJhY3s0eHl9e0ReMn0gXHRpbWVzIEQoeCt5KSArIHh5ID0gQSBcdGltZXMgXGZyYWN7NHh5fXtEXjJ9IFx0aW1lcyBEXjIgKyBcZnJhY3tEXjJ9ezR9JCQKCioq5YyW566A5bem6L6556ys5LiA6aG5KirvvJoKCiQkXGZyYWN7NEF4eSBcY2RvdCBEKHgreSl9e0ReMn0gPSBcZnJhY3s0QXh5KHgreSl9e0R9JCQKCioq5YyW566A5Y+z6L6556ys5LiA6aG5KirvvJoKCiQkQSBcdGltZXMgXGZyYWN7NHh5fXtEXjJ9IFx0aW1lcyBEXjIgPSA0QXh5JCQKCioq5b6X5Yiw5b2i5byPIDEqKu+8iOaOqOWvvOebtOaOpee7k+aenO+8ie+8mgoKJCRcZnJhY3s0QXh5KHgreSl9e0R9ICsgeHkgPSA0QXh5ICsgXGZyYWN7RF4yfXs0fSQkCgrkuLrkuoblvpfliLDnmb3nmq7kuabkuK3nmoTmoIflh4blvaLlvI/vvIzkuKTovrnlkIzml7bkuZjku6UgRO+8jOWGjemZpOS7pSB4ee+8mgoKKirkuKTovrnkuZggRCoq77yaCgokJDRBeHkoeCt5KSArIER4eSA9IDRBeHlEICsgXGZyYWN7RF4zfXs0fSQkCgoqKuS4pOi+uemZpOS7pSB4eSoq77yaCgokJDRBKHgreSkgKyBEID0gNEFEICsgXGZyYWN7RF4zfXs0eHl9JCQKCui/meWwseaYryAqKkN1cnZlIFN0YWJsZVN3YXAg5LiN5Y+Y6YePKirvvIhuID0gMiDnmoTmg4XlhrXvvInjgIIKCi0tLQoKIyMg5o6o5bm/5Yiw5aSa5biB56eNCgpDdXJ2ZSDnmoQgM3Bvb2zvvIhVU0RDL1VTRFQvREFJ77yJ5YyF5ZCr5LiJ56eN6LWE5Lqn77yM6ZyA6KaB5bCG5YWs5byP5o6o5bm/5YiwIG4g5Liq5biB56eN44CC5o6o5bm/6KeE5YiZ5piv77yaCgp8IOWPjOW4geenjSB8IG4g5biB56eNIHwKfC0tLS0tLS0tfC0tLS0tLS0tfAp8IHggKyB5IHwgzqN44bWiIHwKfCB4eSB8IM6geOG1oiB8CnwgNCAoPSAywrIpIHwgbuKBvyB8CnwgRMKzIHwgROKBv+KBusK5IHwKCuS7o+WFpeW+l+WIsOmAmueUqOWFrOW8j++8mgoKJCRBbl5uIFxzdW1fe2k9MX1ee259IHhfaSArIEQgPSBBRG5ebiArIFxmcmFje0Ree24rMX19e25ebiBccHJvZF97aT0xfV57bn0geF9pfSQkCgrpqozor4HvvJrlvZMgbiA9IDIg5pe277yMbuKBvyA9IDTvvIxE4oG/4oG6wrkgPSBEwrPvvIzkuI7liY3pnaLmjqjlr7zkuIDoh7TjgIIKCi0tLQoKIyMg5pS+5aSn57O75pWwIEEg55qE6YCJ5oupCgpBIOWGs+WumuS6huabsue6v+WcqOW5s+ihoeeCuemZhOi/keeahOOAjOW5s+Wdpueoi+W6puOAjeOAgkEg6LaK5aSn77yM5puy57q/6LaK5o6l6L+R55u057q/77yM5ruR54K56LaK5L2O77ybQSDotorlsI/vvIzmm7Lnur/otormjqXov5Hlj4zmm7Lnur/vvIzmipfmjo/nqbrog73lipvotorlvLrjgIIKCiFb5pS+5aSn57O75pWwIEEg55qE5b2x5ZONXSgvaW1hZ2VzL2Jsb2cvY3VydmUtc3RhYmxlc3dhcC1mb3JtdWxhL2N1cnZlX2FtcGxpZmljYXRpb24uc3ZnKQoK5L2GIEEg5LiN5piv6LaK5aSn6LaK5aW944CC6YCJ5oupIEEg55qE5qC45b+D55uu5qCH5pivKirmnIDlpKfljJbmiYvnu63otLnmlLblhaUqKu+8jOiAjOmdnuWNlee6r+mZjeS9jua7keeCueOAggoKQ3VydmUgQ0VPIE1pY2hhZWwgRWdvcm92IOe7meWHuueahOe7j+mqjOWFrOW8j++8mgoKJCRBX3tcdGV4dHtvcHRpbWFsfX0gXGFwcHJveCBcZnJhY3sxfXtcc2lnbWF9JCQKCuWFtuS4rSDPgyDmmK/otYTkuqflr7nku7fmoLznmoTmoIflh4blt67jgILlr7nkuo7lvLrplJrlrprnmoTnqLPlrprluIHvvIjlpoIgVVNEQy9VU0RU77yJ77yM5Lu35qC85rOi5Yqo546H57qmIDAuMDUl77yM5a+55bqUIEEg4omIIDIwMDDvvJvlr7nkuo7lvLHplJrlrprotYTkuqfvvIjlpoIgc3RFVEgvRVRI77yJ77yM5rOi5Yqo546H57qmIDEl77yM5a+55bqUIEEg4omIIDEwMOOAggoKKipBIOWAvOiwg+aVtOeahOmjjumZqSoq77yaCgotIOiwg+aVtOi/h+W/q+S8muWIm+mAoOWll+WIqeepuumXtAotIOWcqOaxoOWtkOS4jeW5s+ihoeaXtuiwg+aVtOWPr+iDveWvvOiHtCBMUCDotYTph5HmjZ/lpLEKLSDmsqHmnInml7bpl7TplIHkv53miqTkvJrooqvmiqLot5HmlLvlh7sKCuWboOatpCBDdXJ2ZSDnmoQgQSDlgLzosIPmlbTpgJrluLjpnIDopoEgREFPIOaKleelqO+8jOW5tuaciSAzIOWkqeeahOaXtumXtOmUgeOAgjIwMjAg5bm0IEN1cnZlIOabvuWboCBBIOWAvOiwg+aVtOS4jeW9k+WvvOiHtOe6piAxNCDkuIfnvo7lhYPnmoTlpZfliKnmjZ/lpLHjgIIKCi0tLQoKIyMg5a6e6ZmF5pWI5p6c77ya5pWw5a2X6K+06K+dCgrku6UgQ3VydmUgM3Bvb2wg5Li65L6L77yIQSA9IDIwMDDvvIxUVkwg57qmIDMg5Lq/576O5YWD77yJ77yaCgp8IOS6pOaYk+inhOaooSB8IFVuaXN3YXAgVjIg5ruR54K5IHwgQ3VydmUg5ruR54K5IHwg6IqC55yBIHwKfC0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLXwKfCAxMCDkuIfnvo7lhYMgfCAwLjAzJSB8IDAuMDAxJSB8IDMwIOWAjSB8CnwgMTAwIOS4h+e+juWFgyB8IDAuMyUgfCAwLjAxJSB8IDMwIOWAjSB8CnwgMTAwMCDkuIfnvo7lhYMgfCAzJSB8IDAuMSUgfCAzMCDlgI0gfAoK5Zyo5bmz6KGh54K56ZmE6L+R77yMQ3VydmUg55qE5ruR54K55q+UIFVuaXN3YXAgVjIg5L2O57qmIDMwIOWAjeOAgui/meWwseaYryBTdGFibGVTd2FwIOWFrOW8j+eahOWogeWKm+OAggoKLS0tCgojIyDlhazlvI/pgJ/mn6UKCioqQ29uc3RhbnQgUHJvZHVjdO+8iFVuaXN3YXDvvIkqKgokJHh5ID0gayQkCgoqKkNvbnN0YW50IFN1be+8iOeQhuaDs+S9huS4jeWuieWFqO+8iSoqCiQkeCArIHkgPSBEJCQKCioq5Yqo5oCB5Y+C5pWwKioKJCRcY2hpID0gQSBcdGltZXMgXGZyYWN7NHh5fXtEXjJ9JCQKCioqQ3VydmUgU3RhYmxlU3dhcO+8iG4gPSAy77yJKioKJCQ0QSh4K3kpICsgRCA9IDRBRCArIFxmcmFje0ReM317NHh5fSQkCgoqKkN1cnZlIFN0YWJsZVN3YXDvvIjpgJrnlKjvvIkqKgokJEFuXm4gXHN1bV97aT0xfV57bn0geF9pICsgRCA9IEFEbl5uICsgXGZyYWN7RF57bisxfX17bl5uIFxwcm9kX3tpPTF9XntufSB4X2l9JCQKCi0tLQoKIyMg5bGA6ZmQ5oCn5LiO5p2D6KGhCgpTdGFibGVTd2FwIOS4jeaYr+S4h+iDveeahOOAguWug+eahOiuvuiuoeWBh+iuvuaYr+i1hOS6p+S7t+agvOW6lOivpeaOpei/kSAxOjHvvIzov5nluKbmnaXlh6DkuKrpmZDliLbvvJoKCjEuICoq5Y+q6YCC55So5LqO6ZSa5a6a6LWE5LqnKirvvJrlr7nkuo4gRVRIL1VTREMg6L+Z5qC355qE6Z2e6ZSa5a6a5a+577yMU3RhYmxlU3dhcCDnmoTkvY7mu5Hngrnlj43ogIzmmK/nvLrpmbfigJTigJTlroPml6Dms5XmraPnoa7lj43mmKDku7fmoLzlj5jljJbjgIIKCjIuICoq6ISx6ZSa6aOO6ZmpKirvvJrlvZPnqLPlrprluIHohLHplJrml7bvvIjlpoIgMjAyMyDlubQgVVNEQyDnn63mmoLohLHplJroh7MgMC44N++8ie+8jFN0YWJsZVN3YXAg5rGg5Lya6YGt5Y+X5Lil6YeN55qE5peg5bi45o2f5aSx77yM5Zug5Li65puy57q/5YGH6K6+5Lu35qC85Lya5Zue5b2SIDE6MeOAggoKMy4gKipBIOWAvOayu+eQhumjjumZqSoq77yaQSDlgLznmoTpgInmi6nlkozosIPmlbTpnIDopoHkuJPkuJrliKTmlq3vvIzplJnor6/nmoTmsrvnkIblhrPnrZblj6/og73lr7zoh7TotYTph5HmjZ/lpLHjgIIKCjQuICoqR2FzIOaIkOacrCoq77yaU3RhYmxlU3dhcCDnmoTorqHnrpfmr5QgQ29uc3RhbnQgUHJvZHVjdCDlpI3mnYLvvIzpk77kuIogR2FzIOa2iOiAl+abtOmrmO+8iOe6piAxLjUtMiDlgI3vvInjgIIKCueQhuino+i/meS6m+adg+ihoe+8jOaJjeiDveWcqOato+ehrueahOWcuuaZr+S9v+eUqOato+ehrueahOW3peWFt+OAggoKLS0tCgojIyDov5vkuIDmraXpmIXor7sKCi0gW0N1cnZlIFN0YWJsZVN3YXAg55m955qu5LmmXShodHRwczovL2N1cnZlLmZpL2ZpbGVzL3N0YWJsZXN3YXAtcGFwZXIucGRmKSDigJQg5Y6f5aeL6K665paH77yM5YyF5ZCr5a6M5pW05pWw5a2m5o6o5a+85ZKM56iz5a6a5oCn5YiG5p6QCi0gW+a3uuirh+epqeWumuW5o+S6kuaPm+apn+WItl0oaHR0cHM6Ly9tZWRpdW0uY29tL0BjaWMuZXRoYW4vJUU2JUI3JUJBJUU4JUFCJTg3JUU3JUE5JUE5JUU1JUFFJTlBJUU1JUI5JUEzJUU0JUJBJTkyJUU2JThGJTlCJUU2JUE5JTlGJUU1JTg4JUI2LSVFNSVCRSU5RS1iYWxhbmNlci0lRTUlODglQjAtY3VydmUtZjYzOGYyOWIzM2Y5KSDigJQg5pys5paH5o6o5a+85oCd6Lev55qE5p2l5rqQ77yM5Lit5paH6K6y6Kej5riF5pmwCi0gW0N1cnZlIOaKgOacr+aWh+aho10oaHR0cHM6Ly9kb2NzLmN1cnZlLmZpLykg4oCUIOWumOaWueaWh+aho++8jOWMheWQqyBBIOWAvOmAieaLqeaMh+WNl+WSjOaxoOWtkOWPguaVsAotIFtDdXJ2ZSBBIFBhcmFtZXRlciBEZWVwIERpdmVdKGh0dHBzOi8vbmFnYWtpbmcuc3Vic3RhY2suY29tL3AvZGVlcC1kaXZlLWN1cnZlLWZpbmFuY2UtYS1wYXJhbWV0ZXIpIOKAlCBBIOWAvOiwg+aVtOeahOmjjumZqeWIhuaekAo="}
+---
+title: "Curve StableSwap 公式推导：从加权平均到动态参数"
+description: "从第一性原理推导 Curve 的 StableSwap 不变量，理解为什么它能在稳定币交易中实现极低滑点。"
+pubDate: "2026-03-01"
+tags: ["DeFi", "AMM", "Curve", "数学"]
+hexagram: "䷁"
+element: "water"
+---
+
+**TL;DR:** Curve 的 StableSwap 公式本质是 Constant Product 和 Constant Sum 的加权平均，通过引入动态参数 χ = A × 4xy/D²，实现了「平衡点附近低滑点、远离时防掏空」的双重目标。理解这个推导过程，比记住最终公式更重要。
+
+> **前置知识**：本文假设读者熟悉 Uniswap 的恒定乘积公式 xy = k，理解滑点的概念。如果不熟悉，建议先阅读 [DEX 交易机制](/blog/dex-trading-mechanisms)。
+
+---
+
+## 核心问题：稳定币交易的两难
+
+2020 年之前，稳定币之间的兑换是一个尴尬的场景。
+
+在 Uniswap V2 上用 100 万 USDC 换 USDT，滑点可能高达 0.3%——这意味着损失 3000 美元。对于理论上应该 1:1 锚定的资产，这个成本显然不合理。问题出在 Constant Product 公式本身：xy = k 的曲线曲率太大，即使价格只偏离 1% 也会产生明显滑点。
+
+一个直觉的解决方案是使用 Constant Sum 公式：x + y = D。这条直线完全平坦，任意规模的交易都没有滑点。但它有一个致命缺陷：池子会被掏空。如果 USDC 价格稍微高于 USDT，套利者会把池中所有 USDT 换成 USDC，直到池子只剩单一资产。
+
+Curve 的创新在于找到了一条中间路径：构造一条在平衡点附近接近直线、远离平衡点时接近双曲线的曲线。这就是 StableSwap 不变量的设计目标。
+
+![Curve 模型设计](/images/blog/curve-stableswap-formula/curve_model_design.svg)
+
+上图展示了两条基准曲线。蓝色的 xy = k 曲率大但永不枯竭，绿色的 x + y = D 完全平坦但会被掏空。两条曲线交于点 P（x = y = D/2），这个交点就是「平衡点」——Curve 曲线的设计锚点。
+
+---
+
+## 加权平均：统一两种模型
+
+构造混合曲线的第一步是将两个方程组合起来。但直接相加行不通，因为因次不同：xy 的因次是 [数量²]，而 x + y 的因次是 [数量]。
+
+解决方法是给 x + y 乘上 D，统一因次后再做加权平均。设 α 为 Constant Sum 的权重，β 为 Constant Product 的权重：
+
+$$\alpha \cdot D(x + y) + \beta \cdot xy = \alpha \cdot D^2 + \beta \cdot \frac{D^2}{4}$$
+
+等式右边是将平衡点 (D/2, D/2) 代入左边得到的常数。两边同时除以 β，令 χ = α/β，得到简化形式：
+
+$$\chi D(x + y) + xy = \chi D^2 + \frac{D^2}{4}$$
+
+参数 χ 控制两种模型的混合比例：
+
+- χ = 0：退化为 xy = D²/4，纯 Constant Product
+- χ → ∞：退化为 x + y = D，纯 Constant Sum
+- χ 在中间：得到混合曲线
+
+但静态的 χ 无法解决核心问题。平衡点附近需要大 χ（曲线平坦，低滑点），远离平衡点需要小 χ（曲线弯曲，防掏空）。这两个需求是矛盾的——除非让 χ 动态变化。
+
+---
+
+## 动态参数：让曲线自适应
+
+关键洞察来自一个数学性质：在 Constant Sum 约束（x + y = D）下，xy 的值可以指示当前位置距离平衡点有多远。
+
+![xy 与位置的关系](/images/blog/curve-stableswap-formula/curve_xy_position.svg)
+
+这是一条开口向下的抛物线。当 x = y = D/2 时，xy 达到最大值 D²/4；当池子偏离平衡（x ≠ y）时，xy 变小。这个特性正好可以用来构造动态参数。
+
+定义「位置因子」为 xy 相对于最大值的比例：
+
+$$\text{位置因子} = \frac{xy}{(D/2)^2} = \frac{4xy}{D^2}$$
+
+位置因子的取值范围是 (0, 1]。在平衡点等于 1，偏离越远越接近 0。
+
+引入放大系数 A（Amplification Coefficient），构造动态参数：
+
+$$\chi = A \times \frac{4xy}{D^2}$$
+
+A 是一个固定常数，由 DAO 治理设定（Curve 3pool 的 A = 2000）。而 4xy/D² 随池子状态实时变化。这样就实现了自适应：
+
+- 平衡点附近：4xy/D² ≈ 1，χ ≈ A，曲线接近直线
+- 远离平衡点：4xy/D² → 0，χ → 0，曲线接近双曲线
+
+---
+
+## 最终公式的推导
+
+将动态参数代入加权平均公式，展开计算。
+
+**代入**：
+
+$$A \times \frac{4xy}{D^2} \times D(x+y) + xy = A \times \frac{4xy}{D^2} \times D^2 + \frac{D^2}{4}$$
+
+**化简左边第一项**：
+
+$$\frac{4Axy \cdot D(x+y)}{D^2} = \frac{4Axy(x+y)}{D}$$
+
+**化简右边第一项**：
+
+$$A \times \frac{4xy}{D^2} \times D^2 = 4Axy$$
+
+**得到形式 1**（推导直接结果）：
+
+$$\frac{4Axy(x+y)}{D} + xy = 4Axy + \frac{D^2}{4}$$
+
+为了得到白皮书中的标准形式，两边同时乘以 D，再除以 xy：
+
+**两边乘 D**：
+
+$$4Axy(x+y) + Dxy = 4AxyD + \frac{D^3}{4}$$
+
+**两边除以 xy**：
+
+$$4A(x+y) + D = 4AD + \frac{D^3}{4xy}$$
+
+这就是 **Curve StableSwap 不变量**（n = 2 的情况）。
+
+---
+
+## 推广到多币种
+
+Curve 的 3pool（USDC/USDT/DAI）包含三种资产，需要将公式推广到 n 个币种。推广规则是：
+
+| 双币种 | n 币种 |
+|--------|--------|
+| x + y | Σxᵢ |
+| xy | Πxᵢ |
+| 4 (= 2²) | nⁿ |
+| D³ | Dⁿ⁺¹ |
+
+代入得到通用公式：
+
+$$An^n \sum_{i=1}^{n} x_i + D = ADn^n + \frac{D^{n+1}}{n^n \prod_{i=1}^{n} x_i}$$
+
+验证：当 n = 2 时，nⁿ = 4，Dⁿ⁺¹ = D³，与前面推导一致。
+
+---
+
+## 放大系数 A 的选择
+
+A 决定了曲线在平衡点附近的「平坦程度」。A 越大，曲线越接近直线，滑点越低；A 越小，曲线越接近双曲线，抗掏空能力越强。
+
+![放大系数 A 的影响](/images/blog/curve-stableswap-formula/curve_amplification.svg)
+
+但 A 不是越大越好。选择 A 的核心目标是**最大化手续费收入**，而非单纯降低滑点。
+
+Curve CEO Michael Egorov 给出的经验公式：
+
+$$A_{\text{optimal}} \approx \frac{1}{\sigma}$$
+
+其中 σ 是资产对价格的标准差。对于强锚定的稳定币（如 USDC/USDT），价格波动率约 0.05%，对应 A ≈ 2000；对于弱锚定资产（如 stETH/ETH），波动率约 1%，对应 A ≈ 100。
+
+**A 值调整的风险**：
+
+- 调整过快会创造套利空间
+- 在池子不平衡时调整可能导致 LP 资金损失
+- 没有时间锁保护会被抢跑攻击
+
+因此 Curve 的 A 值调整通常需要 DAO 投票，并有 3 天的时间锁。2020 年 Curve 曾因 A 值调整不当导致约 14 万美元的套利损失。
+
+---
+
+## 实际效果：数字说话
+
+以 Curve 3pool 为例（A = 2000，TVL 约 3 亿美元）：
+
+| 交易规模 | Uniswap V2 滑点 | Curve 滑点 | 节省 |
+|----------|-----------------|------------|------|
+| 10 万美元 | 0.03% | 0.001% | 30 倍 |
+| 100 万美元 | 0.3% | 0.01% | 30 倍 |
+| 1000 万美元 | 3% | 0.1% | 30 倍 |
+
+在平衡点附近，Curve 的滑点比 Uniswap V2 低约 30 倍。这就是 StableSwap 公式的威力。
+
+---
+
+## 公式速查
+
+**Constant Product（Uniswap）**
+$$xy = k$$
+
+**Constant Sum（理想但不安全）**
+$$x + y = D$$
+
+**动态参数**
+$$\chi = A \times \frac{4xy}{D^2}$$
+
+**Curve StableSwap（n = 2）**
+$$4A(x+y) + D = 4AD + \frac{D^3}{4xy}$$
+
+**Curve StableSwap（通用）**
+$$An^n \sum_{i=1}^{n} x_i + D = ADn^n + \frac{D^{n+1}}{n^n \prod_{i=1}^{n} x_i}$$
+
+---
+
+## 局限性与权衡
+
+StableSwap 不是万能的。它的设计假设是资产价格应该接近 1:1，这带来几个限制：
+
+1. **只适用于锚定资产**：对于 ETH/USDC 这样的非锚定对，StableSwap 的低滑点反而是缺陷——它无法正确反映价格变化。
+
+2. **脱锚风险**：当稳定币脱锚时（如 2023 年 USDC 短暂脱锚至 0.87），StableSwap 池会遭受严重的无常损失，因为曲线假设价格会回归 1:1。
+
+3. **A 值治理风险**：A 值的选择和调整需要专业判断，错误的治理决策可能导致资金损失。
+
+4. **Gas 成本**：StableSwap 的计算比 Constant Product 复杂，链上 Gas 消耗更高（约 1.5-2 倍）。
+
+理解这些权衡，才能在正确的场景使用正确的工具。
+
+---
+
+## 进一步阅读
+
+- [Curve StableSwap 白皮书](https://curve.fi/files/stableswap-paper.pdf) — 原始论文，包含完整数学推导和稳定性分析
+- [淺談穩定幣互換機制](https://medium.com/@cic.ethan/%E6%B7%BA%E8%AB%87%E7%A9%A9%E5%AE%9A%E5%B9%A3%E4%BA%92%E6%8F%9B%E6%A9%9F%E5%88%B6-%E5%BE%9E-balancer-%E5%88%B0-curve-f638f29b33f9) — 本文推导思路的来源，中文讲解清晰
+- [Curve 技术文档](https://docs.curve.fi/) — 官方文档，包含 A 值选择指南和池子参数
+- [Curve A Parameter Deep Dive](https://nagaking.substack.com/p/deep-dive-curve-finance-a-parameter) — A 值调整的风险分析

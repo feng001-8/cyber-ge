@@ -1,1 +1,370 @@
-{"data":"LS0tCnRpdGxlOiAi5rWB5Yqo5oCn6LSo5oq855qE5Lu96aKd5qih5Z6L5LiO5rGH546H5py65Yi2IgpkZXNjcmlwdGlvbjogIua3seWFpeino+aekCBMaWRvIOetiea1geWKqOaAp+i0qOaKvOWNj+iurueahOaguOW/g+iuvuiuoe+8muS4uuS7gOS5iCBzdEVUSCDkuI3mmK8gMToxIOmUmuWumiBFVEjvvIzmsYfnjoflpoLkvZXorqHnrpfvvIxPcmFjbGUg5omu5ryU5LuA5LmI6KeS6Imy44CCIgpwdWJEYXRlOiAiMjAyNi0wMy0wMiIKdGFnczogWyJFdGhlcmV1bSIsICJTdGFraW5nIiwgIkRlRmkiLCAiTGlkbyJdCmhleGFncmFtOiAi5LeAIgplbGVtZW50OiAibWV0YWwiCi0tLQoKKipUTDtEUjoqKiDmtYHliqjmgKfotKjmirzku6PluIHmnKzotKjmmK/jgIzku73pop3lh63or4HjgI3ogIzpnZ4gMToxIOmUmuWumui1hOS6p+OAgueUqOaIt+S9meminSA9IOS7veminSDDlyDmgLvotKjmirxFVEggLyDmgLvku73pop3vvIzmsYfnjofpmo/lpZblirHntK/np6/oh6rliqjkuIrmtqjjgIJPcmFjbGUg5piv5pW05Liq57O757uf55qE5L+h5Lu76ZSa54K577yM6LSf6LSj5bCG5L+h5qCH6ZO+5LiK55qE6aqM6K+B6ICF5L2Z6aKd5ZCM5q2l5Yiw5omn6KGM5bGC44CCCgo+ICoq5YmN572u55+l6K+GKirvvJrmnKzmloflgYforr7or7vogIXkuobop6Pku6XlpKrlnYogUG9TIOi0qOaKvOeahOWfuuacrOamguW/te+8jOefpemBk+mqjOivgeiAhemcgOimgSAzMiBFVEjjgILlpoLmnpzkuI3nhp/mgonvvIzlu7rorq7lhYjpmIXor7vku6XlpKrlnYrlrpjmlrnnmoQgW+i0qOaKvOS7i+e7jV0oaHR0cHM6Ly9ldGhlcmV1bS5vcmcvZW4vc3Rha2luZy8p44CCCgotLS0KCiMjIOaguOW/g+mXrumimO+8mui0qOaKvOaUtuebiuWmguS9leWIhumFjee7meaJgOacieaMgeacieiAhQoK5Lul5aSq5Z2KIFBvUyDotKjmirzpnaLkuLTkuIDkuKrmoLnmnKzmgKfnmoTnlKjmiLfkvZPpqozpl67popjvvJrpqozor4HogIXnmoTlpZblirHnm7TmjqXntK/np6/lnKjkv6HmoIfpk77kuIrnmoTpqozor4HogIXkvZnpop3kuK3vvIzogIzkuI3mmK/oh6rliqjliIblj5HliLDmr4/kuKrotKjmirzogIXnmoTpkrHljIXjgIIKCuWBh+iuvuS4gOS4qua1geWKqOaAp+i0qOaKvOWNj+iurueuoeeQhuedgCAxMDAg5LiHIEVUSO+8jOWIhuW4g+WcqCAzMSwyNTAg5Liq6aqM6K+B6ICF5LiK44CC5q+P5aSp5Lqn55Sf57qmIDEwMCBFVEgg55qE6LSo5oq85aWW5Yqx44CC5aaC5p6c5Y2P6K6u6KaB5oqK6L+Z5Lqb5aWW5Yqx44CM5YiG5Y+R44CN57uZIDEwIOS4h+S4queUqOaIt++8jOavj+asoSBPcmFjbGUg5oql5ZGK6YO96ZyA6KaB5omn6KGMIDEwIOS4h+asoei9rOi0puKAlOKAlOi/meWcqCBHYXMg5oiQ5pys5LiK5a6M5YWo5LiN5Y+v6KGM44CCCgpMaWRvIOeahOino+WGs+aWueahiOaYryoq5LiN5YiG5Y+R5aWW5YqxKirjgILnlKjmiLfmjIHmnInnmoTkuI3mmK8gRVRI77yM6ICM5piv5Y2P6K6u5oC76LWE5Lqn55qE44CM5Lu96aKd44CN44CC5b2T6aqM6K+B6ICF5L2Z6aKd5aKe5Yqg5pe277yM5q+P5Liq5Lu96aKd5a+55bqU55qEIEVUSCDmlbDph4/oh6rliqjlop7liqDvvIznlKjmiLfkvZnpop3pmo/kuYvkuIrmtqjjgILov5nlsLHmmK8gUmViYXNlIOacuuWItueahOacrOi0qOOAggoKLS0tCgojIyDkuKTnp43ku6PluIHmqKHlnovvvJpSZWJhc2UgdnMgU2hhcmUKCua1geWKqOaAp+i0qOaKvOS7o+W4geacieS4pOenjeS4u+a1geiuvuiuoe+8jOeQhuino+Wug+S7rOeahOWMuuWIq+WvueS6jiBEZUZpIOmbhuaIkOiHs+WFs+mHjeimgeOAggoKIVtzdEVUSCB2cyB3c3RFVEgg5a+55q+UXSguL3N0ZXRoLXZzLXdzdGV0aC5wbmcpCgojIyMgUmViYXNlIOaooeWei++8iHN0RVRI77yJCgpzdEVUSCDmmK/kuIDkuKogUmViYXNlIOS7o+W4ge+8mueUqOaIt+mSseWMheS4reeahOS7o+W4geaVsOmHj+S8mumaj+aXtumXtOiHquWKqOWinuWKoOOAguWmguaenOS9oOS7iuWkqeaMgeaciSAxMDAgc3RFVEjvvIzmmI7lpKnlj6/og73lj5jmiJAgMTAwLjAxIHN0RVRI44CCCgrov5nnp43orr7orqHnmoTkvJjngrnmmK/nm7Top4LigJTigJTnlKjmiLfnnIvliLDkvZnpop3lop7plb/vvIzlv4PnkIbkuIrmhJ/op4njgIzlnKjotZrpkrHjgI3jgILkvYblroPmnInkuIDkuKrkuKXph43nmoTmioDmnK/pl67popjvvJrlpKflpJrmlbAgRGVGaSDljY/orq7ml6Dms5XmraPnoa7lpITnkIYgUmViYXNlIOS7o+W4geOAggoK6ICD6JmR5LiA5Liq5YCf6LS35Y2P6K6u44CC55So5oi35a2Y5YWlIDEwMCBzdEVUSCDkvZzkuLrmirXmirzlk4HvvIzljY/orq7orrDlvZXjgIznlKjmiLflrZjkuoYgMTAwIOS4quS7o+W4geOAjeOAguS4gOWkqeWQju+8jOeUqOaIt+eahCBzdEVUSCDlj5jmiJDkuoYgMTAwLjAxIOS4qu+8jOS9huWNj+iurueahOiusOW9lei/mOaYryAxMDDjgILov5kgMC4wMSDkuKrku6PluIHnmoTlpZblirHljrvlk6rkuobvvJ/lroPooqvjgIzlm7DjgI3lnKjljY/orq7lkIjnuqbph4zvvIzml6LkuI3lsZ7kuo7nlKjmiLfvvIzkuZ/kuI3lsZ7kuo7ljY/orq7jgIIKCui3qOmTvuahpeeahOmXrumimOabtOS4pemHjeOAgueUqOaIt+WcqCBMMSDplIHlrpogMTAwIHN0RVRI77yM5qGl5ZyoIEwyIOmTuOmAoCAxMDAg5Liq5YyF6KOF5Luj5biB44CC5LiA5ZGo5ZCOIEwxIOeahCBzdEVUSCDlj5jmiJDkuoYgMTAwLjA3IOS4qu+8jOS9hiBMMiDnmoTljIXoo4Xku6PluIHov5jmmK8gMTAwIOS4quOAgui/mSAwLjA3IOS4quS7o+W4geawuOS5heS4ouWkseWcqOahpeWQiOe6puS4reOAggoKIyMjIFNoYXJlIOaooeWei++8iHdzdEVUSO+8iQoKd3N0RVRI77yId3JhcHBlZCBzdEVUSO+8ieaYryBMaWRvIOS4uuino+WGsyBEZUZpIOWFvOWuueaAp+mXrumimOaOqOWHuueahOWMheijheS7o+W4geOAguWug+eahOS9memineawuOi/nOS4jeWPmO+8jOS9huavj+S4qiB3c3RFVEgg5a+55bqU55qEIEVUSCDmlbDph4/kvJrlop7liqDjgIIKCueUqOaIt+eUqCAxMDAgc3RFVEgg5YyF6KOF5oiQIHdzdEVUSO+8jOWBh+iuvuW9k+aXtuaxh+eOh+aYryAxIHdzdEVUSCA9IDEuMSBzdEVUSO+8jOeUqOaIt+W+l+WIsOe6piA5MC45IHdzdEVUSOOAguS4gOW5tOWQju+8jOaxh+eOh+WPmOaIkCAxIHdzdEVUSCA9IDEuMTUgc3RFVEjvvIznlKjmiLfnmoQgOTAuOSB3c3RFVEgg5Y+v5Lul6Kej5YyF5oiQ57qmIDEwNC41IHN0RVRI44CCCgrkvZnpop3msqHlj5jvvIzkvYbku7flgLzlop7liqDkuobjgILov5nnp43mqKHlnovkuI4gRVJDLTQ2MjYg6YeR5bqT5qCH5YeG5a6M5YWo5YW85a6577yM5Y+v5Lul5peg57yd6ZuG5oiQ5Yiw5Lu75L2VIERlRmkg5Y2P6K6u5Lit44CCCgojIyMg6YCJ5oup5ZOq56eN5qih5Z6LCgp8IOWcuuaZryB8IOaOqOiNkOS7o+W4gSB8IOWOn+WboCB8CnwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS18Cnwg6ZW/5pyf5oyB5pyJIHwgc3RFVEggfCDnm7Top4LnnIvliLDkvZnpop3lop7plb8gfAp8IOWAn+i0t+aKteaKvCB8IHdzdEVUSCB8IOWNj+iuruiDveato+ehruiuoeeul+aKteaKvOS7t+WAvCB8Cnwg6Leo6ZO+6L2s56e7IHwgd3N0RVRIIHwg5aWW5Yqx5LiN5Lya5Lii5aSx5Zyo5qGl5LitIHwKfCBMUCDmj5DkvpvmtYHliqjmgKcgfCB3c3RFVEggfCDpgb/lhY3ml6DluLjmjZ/lpLHorqHnrpfplJnor68gfAoK5a6e6ZmF5LiK77yM5aSn5aSa5pWwIERlRmkg6ZuG5oiQ6YO95L2/55SoIHdzdEVUSOOAgnN0RVRIIOabtOWkmuaYr+mdouWQkeaZrumAmueUqOaIt+eahOOAjOWxleekuuWxguOAjeOAggoKLS0tCgojIyDku73pop3orqHnrpfnmoTmlbDlrabln7rnoYAKCuaXoOiuuuaYryBzdEVUSCDov5jmmK8gd3N0RVRI77yM5bqV5bGC6YO95L2/55So55u45ZCM55qE5Lu96aKd5qih5Z6L44CC55CG6Kej6L+Z5Liq5qih5Z6L5piv55CG6Kej5pW05Liq5Y2P6K6u55qE5YWz6ZSu44CCCgohW+S7vemineaooeWei+aguOW/g+WFrOW8j10oLi9zaGFyZS1tb2RlbC1mb3JtdWxhLnBuZykKCiMjIyDmoLjlv4PlhazlvI8KCkxpZG8g5LiN5a2Y5YKo55So5oi355qEIEVUSCDkvZnpop3vvIzogIzmmK/lrZjlgqjnlKjmiLfmi6XmnInnmoTjgIzku73pop3jgI3jgILkvZnpop3pgJrov4fku6XkuIvlhazlvI/liqjmgIHorqHnrpfvvJoKCiQkXHRleHR7YmFsYW5jZU9mfShhY2NvdW50KSA9IFxmcmFje1x0ZXh0e3NoYXJlc31bYWNjb3VudF0gXHRpbWVzIFx0ZXh0e3RvdGFsUG9vbGVkRXRoZXJ9fXtcdGV4dHt0b3RhbFNoYXJlc319JCQKCuWFrOW8j+S4reeahOS4ieS4quWPmOmHj+WIhuWIq+aYr++8mmBzaGFyZXNbYWNjb3VudF1gIOihqOekuueUqOaIt+aLpeacieeahOS7vemineaVsOmHj++8jGB0b3RhbFBvb2xlZEV0aGVyYCDmmK/ljY/orq7mjqfliLbnmoTlhajpg6ggRVRI77yMYHRvdGFsU2hhcmVzYCDmmK/miYDmnInnlKjmiLfku73pop3nmoTmgLvlkozjgIIKCiMjIyDlrZjmrL7ml7bnmoTku73pop3orqHnrpcKCuW9k+eUqOaIt+WtmOWFpSBFVEgg5pe277yM5Y2P6K6u6ZyA6KaB6K6h566X5bqU6K+l57uZ55So5oi35aSa5bCR5Lu96aKd44CC6L+Z55SxIGBnZXRTaGFyZXNCeVBvb2xlZEV0aGAg5Ye95pWw5a6M5oiQ77yaCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiBnZXRTaGFyZXNCeVBvb2xlZEV0aCh1aW50MjU2IF9ldGhBbW91bnQpIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgIHJldHVybiBfZXRoQW1vdW50ICogX2dldFRvdGFsU2hhcmVzKCkgLyBfZ2V0VG90YWxQb29sZWRFdGhlcigpOwp9CmBgYAoK5YGH6K6+5Y2P6K6u5b2T5YmN5pyJIDEsMDAwLDAwMCBFVEgg5a+55bqUIDkwMCwwMDAg5Lu96aKd44CC55So5oi35a2Y5YWlIDEwMCBFVEjvvIzojrflvpfnmoTku73pop0gPSAxMDAgw5cgOTAwLDAwMCAvIDEsMDAwLDAwMCA9IDkwIOS7vemineOAggoK5rOo5oSP6L+Z6YeM55qE5rGH546H77yaMSBFVEgg5Y+q6IO95o2i5YiwIDAuOSDku73pop3jgILov5nmmK/lm6DkuLrljY/orq7lt7Lnu4/ntK/np6/kuoblpZblirHvvIzmr4/kuKrku73pop3lr7nlupTnmoQgRVRIIOW3sue7j+i2hei/hyAx44CCCgojIyMg5Li65LuA5LmI5paw55So5oi35LiN5Lya56iA6YeK6ICB55So5oi3Cgrov5nmmK/ku73pop3mqKHlnovmnIDnsr7lppnnmoTlnLDmlrnjgILnlKjkuIDkuKrlhbfkvZPkvovlrZDmnaXmjqjmvJTmlbTkuKrov4fnqIvjgIIKCiFb5paw55So5oi35LiN56iA6YeK6ICB55So5oi3XSguL25vLWRpbHV0aW9uLnBuZykKCuWBh+iuvuWIneWni+eKtuaAgeS4i++8jEFsaWNlIOaMgeaciSAxMDAg5Lu96aKd77yMQm9iIOaMgeaciSA0MDAg5Lu96aKd77yM5Y2P6K6u5oC75YWx5pyJIDUwMCDku73pop3lr7nlupQgNTAwIEVUSOOAguatpOaXtuaxh+eOh+S4uiAxOjHvvIxBbGljZSDnmoTkvZnpop3mmK8gMTAwIEVUSO+8jEJvYiDnmoTkvZnpop3mmK8gNDAwIEVUSOOAggoK5b2T6aqM6K+B6ICF6I635b6XIDUwIEVUSCDlpZblirHlkI7vvIx0b3RhbFBvb2xlZEV0aGVyIOWPmOaIkCA1NTAgRVRI77yM5L2GIHRvdGFsU2hhcmVzIOS/neaMgSA1MDAg5LiN5Y+Y44CC5qC55o2u5L2Z6aKd5YWs5byP6YeN5paw6K6h566X77yaCgokJFx0ZXh0e0FsaWNlIOS9meminX0gPSBcZnJhY3sxMDAgXHRpbWVzIDU1MH17NTAwfSA9IDExMCBcdGV4dHsgRVRIfSQkCgokJFx0ZXh0e0JvYiDkvZnpop19ID0gXGZyYWN7NDAwIFx0aW1lcyA1NTB9ezUwMH0gPSA0NDAgXHRleHR7IEVUSH0kJAoKQWxpY2Ug5aKe5Yqg5LqGIDEwIEVUSO+8jEJvYiDlop7liqDkuoYgNDAgRVRI77yM5aWW5Yqx5oyJ5Lu96aKd5q+U5L6L6Ieq5Yqo5YiG6YWN77yM5peg6ZyA5Lu75L2V6L2s6LSm5pON5L2c44CCCgrnjrDlnKjmlrDnlKjmiLcgQ2Fyb2wg5oOz5a2Y5YWlIDU1IEVUSOOAguWlueiDveiOt+W+l+WkmuWwkeS7vemine+8n+aMieW9k+WJjeaxh+eOh+iuoeeul++8mgoKJCRcdGV4dHtDYXJvbCDku73pop19ID0gXGZyYWN7NTUgXHRpbWVzIDUwMH17NTUwfSA9IDUwIFx0ZXh0eyDku73pop19JCQKCuWtmOasvuWQju+8jHRvdGFsU2hhcmVzIOWPmOaIkCA1NTDvvIx0b3RhbFBvb2xlZEV0aGVyIOWPmOaIkCA2MDUgRVRI44CC6aqM6K+B6ICB55So5oi355qE5L2Z6aKd5piv5ZCm6KKr56iA6YeK77yaCgokJFx0ZXh0e0FsaWNlIOS9meminX0gPSBcZnJhY3sxMDAgXHRpbWVzIDYwNX17NTUwfSA9IDExMCBcdGV4dHsgRVRI77yI5LiN5Y+Y77yJfSQkCgokJFx0ZXh0e0JvYiDkvZnpop19ID0gXGZyYWN7NDAwIFx0aW1lcyA2MDV9ezU1MH0gPSA0NDAgXHRleHR7IEVUSO+8iOS4jeWPmO+8iX0kJAoKJCRcdGV4dHtDYXJvbCDkvZnpop19ID0gXGZyYWN7NTAgXHRpbWVzIDYwNX17NTUwfSA9IDU1IFx0ZXh0eyBFVEh9JCQKCkNhcm9sIOeahOWKoOWFpeayoeacieeogOmHiiBBbGljZSDlkowgQm9iIOeahOaUtuebiuOAgui/meaYr+WboOS4uiBDYXJvbCDmjInlvZPliY3msYfnjofotK3kubDku73pop3igJTigJTlpbnnlKggNTUgRVRIIOWPquaNouWIsOS6hiA1MCDku73pop3vvIzogIzkuI3mmK8gNTUg5Lu96aKd44CC6L+Z5Liq44CM5rqi5Lu344CN5q2j5aW96KGl5YG/5LqG5aW56I635b6X55qE5Lu96aKd5a+55bqU55qE5bey57Sv56ev5aWW5Yqx44CCCgotLS0KCiMjIHRvdGFsUG9vbGVkRXRoZXLvvJrljY/orq7mjqfliLbnmoTkuInnsbvotYTph5EKCuaxh+eOh+iuoeeul+eahOWIhuavjSBgdG90YWxQb29sZWRFdGhlcmAg5piv5pW05Liq57O757uf5pyA5YWz6ZSu55qE5pWw5YC844CC5a6D55Sx5LiJ6YOo5YiG57uE5oiQ77yaCgojIyMg57yT5Yay5L2Z6aKd77yIQnVmZmVyZWQgRXRoZXLvvIkKCueUqOaIt+WtmOWFpeS9huWwmuacquWPkemAgeWIsOS/oeagh+mTvueahCBFVEjjgILov5npg6jliIbotYTph5HlrZjlgqjlnKggTGlkbyDkuLvlkIjnuqbkuK3vvIzlj6/ku6XnlKjkuo7mu6HotrPmj5DmrL7or7fmsYLvvIjlv6vpgJ/ot6/lvoTvvInvvIzmiJbogIXmibnph4/lrZjlhaXmlrDpqozor4HogIXvvIjmr48gMzIgRVRIIOS4gOS4qu+8ieOAggoKYGBgc29saWRpdHkKZnVuY3Rpb24gZ2V0QnVmZmVyZWRFdGhlcigpIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgIHJldHVybiBCVUZGRVJFRF9FVEhFUl9QT1NJVElPTi5nZXRTdG9yYWdlVWludDI1NigpOwp9CmBgYAoKIyMjIOi/h+a4oeS9memine+8iFRyYW5zaWVudCBCYWxhbmNl77yJCgrlt7Llj5HpgIHliLDku6XlpKrlnYrlrpjmlrkgRGVwb3NpdCBDb250cmFjdO+8jOS9humqjOivgeiAheWwmuacquWcqOS/oeagh+mTvua/gOa0u+eahCBFVEjjgIIKCmBgYHNvbGlkaXR5CmZ1bmN0aW9uIF9nZXRUcmFuc2llbnRCYWxhbmNlKCkgaW50ZXJuYWwgdmlldyByZXR1cm5zICh1aW50MjU2KSB7CiAgICB1aW50MjU2IGRlcG9zaXRlZFZhbGlkYXRvcnMgPSBERVBPU0lURURfVkFMSURBVE9SU19QT1NJVElPTi5nZXRTdG9yYWdlVWludDI1NigpOwogICAgdWludDI1NiBjbFZhbGlkYXRvcnMgPSBDTF9WQUxJREFUT1JTX1BPU0lUSU9OLmdldFN0b3JhZ2VVaW50MjU2KCk7CiAgICAvLyDlt7LlrZjmrL7kvYbmnKrmv4DmtLvnmoTpqozor4HogIXmlbDph48gw5cgMzIgRVRICiAgICByZXR1cm4gKGRlcG9zaXRlZFZhbGlkYXRvcnMgLSBjbFZhbGlkYXRvcnMpICogREVQT1NJVF9TSVpFOwp9CmBgYAoK6aqM6K+B6ICF5LuO5a2Y5qy+5Yiw5r+A5rS76ZyA6KaB57uP6L+H5L+h5qCH6ZO+55qE5YWl6Zif562J5b6F77yM6L+Z5Liq5pe26Ze05Y+W5Yaz5LqO6Zif5YiX6ZW/5bqm77yM5Y+v6IO95LuO5Yeg5bCP5pe25Yiw5Yeg5aSp5LiN562J44CCCgojIyMg5YWx6K+G5bGC5L2Z6aKd77yIQ29uc2Vuc3VzIExheWVyIEJhbGFuY2XvvIkKCumqjOivgeiAheWcqOS/oeagh+mTvuS4iueahOWunumZheS9memineaAu+WSjOOAgui/meaYr+WUr+S4gOS8mumaj+aXtumXtOWinumVv++8iOaIluWboCBzbGFzaGluZyDlh4/lsJHvvInnmoTpg6jliIbjgIIKCmBgYHNvbGlkaXR5CmZ1bmN0aW9uIF9nZXRUb3RhbFBvb2xlZEV0aGVyKCkgaW50ZXJuYWwgdmlldyByZXR1cm5zICh1aW50MjU2KSB7CiAgICByZXR1cm4gX2dldEJ1ZmZlcmVkRXRoZXIoKQogICAgICAgICsgQ0xfQkFMQU5DRV9QT1NJVElPTi5nZXRTdG9yYWdlVWludDI1NigpICAvLyDlhbHor4blsYLkvZnpop0KICAgICAgICArIF9nZXRUcmFuc2llbnRCYWxhbmNlKCk7Cn0KYGBgCgrlhbPplK7pl67popjlnKjkuo7vvJrmiafooYzlsYLlkIjnuqbml6Dms5Xnm7TmjqXor7vlj5blhbHor4blsYLnirbmgIHjgIJgQ0xfQkFMQU5DRV9QT1NJVElPTmAg55qE5YC85b+F6aG755SxIE9yYWNsZSDku47pk77kuIvlkIzmraXkuIrmnaXjgIIKCi0tLQoKIyMgT3JhY2xl77ya6L+e5o6l5Lik5Liq5LiW55WM55qE5qGl5qKBCgrku6XlpKrlnYrnmoTmiafooYzlsYLvvIhFVk3vvInlkozlhbHor4blsYLvvIjkv6HmoIfpk77vvInmmK/kuKTkuKrni6znq4vnmoTnirbmgIHmnLrjgILmiafooYzlsYLlkIjnuqbml6Dms5Xnm7TmjqXmn6Xor6LjgIzmiJHku6znmoTpqozor4HogIXnjrDlnKjmnInlpJrlsJHkvZnpop3jgI3jgILov5nkuKrkv6Hmga/lv4XpobvpgJrov4cgT3JhY2xlIOS7jumTvuS4i+W4puWFpeOAggoKIVtPcmFjbGUg5oql5ZGK5rWB56iLXSguL29yYWNsZS1mbG93LnBuZykKCiMjIyDkuLrku4DkuYjpnIDopoHkuJPnlKggT3JhY2xlCgrkvaDlj6/og73kvJrpl67vvJrkuLrku4DkuYjkuI3nlKggQ2hhaW5saW5rIOi/meagt+eahOmAmueUqCBPcmFjbGXvvJ8KCuWOn+WboOaYr+aVsOaNrueahOeJueauiuaAp+OAgkxpZG8g6ZyA6KaB55qE5LiN5piv44CMRVRIIOS7t+agvOOAjei/meagt+eahOWFrOW8gOW4guWcuuaVsOaNru+8jOiAjOaYr+OAjExpZG8g566h55CG55qEIDMxLDI1MCDkuKrnibnlrprpqozor4HogIXnmoTkvZnpop3mgLvlkozjgI3jgILov5nkuKrmlbDmja7pnIDopoHpgY3ljoblpKfph4/pqozor4HogIXmn6Xor6Lmr4/kuKrkvZnpop3vvIzpnIDopoHpgJrov4fmj5DmrL7lh63or4HvvIh3aXRoZHJhd2FsIGNyZWRlbnRpYWxz77yJ6K+G5Yir5ZOq5Lqb5pivIExpZG8g55qE6aqM6K+B6ICF77yM6L+Y6ZyA6KaB5aSE55CGIHNsYXNoaW5n44CB6YCA5Ye65Lit44CB5bey6YCA5Ye6562J5ZCE56eN6L6557yY5oOF5Ya144CC6YCa55SoIE9yYWNsZSDkuI3lhbflpIfov5nnp43kuJPkuJrog73lipvvvIzlv4XpobvnlLHljY/orq7oh6rlt7Hov5DokKXkuJPnlKggT3JhY2xlIOe9kee7nOOAggoKIyMjIExpZG8g55qEIE9yYWNsZSDmnrbmnoQKCkxpZG8g5L2/55So5LiA5Liq55Sx5aSa5Liq6IqC54K557uE5oiQ55qEIE9yYWNsZSDlp5TlkZjkvJrvvIzph4fnlKjlpJrnrb7mnLrliLbnoa7kv53lronlhajjgILmlbTkuKrmtYHnqIvliIbkuLrlm5vkuKrpmLbmrrXvvJrpppblhYjmmK8qKuaVsOaNruaUtumbhioq77yM5q+P5LiqIE9yYWNsZSDoioLngrnni6znq4vmn6Xor6Lkv6HmoIfpk74gQVBJ77yM6I635Y+W5omA5pyJIExpZG8g6aqM6K+B6ICF55qE5L2Z6aKd77yb54S25ZCO5pivKirlk4jluIzlhbHor4YqKu+8jOiKgueCueWwhuaKpeWRiuaVsOaNruWTiOW4jOaPkOS6pOWIsCBIYXNoQ29uc2Vuc3VzIOWQiOe6pu+8m+aOpeedgOaYryoq5rOV5a6a5Lq65pWwKirnoa7orqTvvIzlvZPotoXov4cgNTAlIOeahOiKgueCueaPkOS6pOebuOWQjOWTiOW4jOaXtui+vuaIkOWFseivhu+8m+acgOWQjuaYryoq5oql5ZGK5o+Q5LqkKirvvIzlhbbkuK3kuIDkuKroioLngrnmj5DkuqTlrozmlbTmiqXlkYrmlbDmja7vvIzop6blj5HljY/orq7nirbmgIHmm7TmlrDjgIIKCmBgYHNvbGlkaXR5CnN0cnVjdCBSZXBvcnREYXRhIHsKICAgIHVpbnQyNTYgY29uc2Vuc3VzVmVyc2lvbjsgICAgICAvLyDlhbHor4bop4TliJnniYjmnKwKICAgIHVpbnQyNTYgcmVmU2xvdDsgICAgICAgICAgICAgICAvLyDlj4LogIPmp73kvY0KICAgIHVpbnQyNTYgbnVtVmFsaWRhdG9yczsgICAgICAgICAvLyDpqozor4HogIXmgLvmlbAKICAgIHVpbnQyNTYgY2xCYWxhbmNlR3dlaTsgICAgICAgICAvLyDlhbHor4blsYLkvZnpop3vvIhnd2Vp77yJCiAgICB1aW50MjU2IHdpdGhkcmF3YWxWYXVsdEJhbGFuY2U7ICAgIC8vIOaPkOasvumHkeW6k+S9meminQogICAgdWludDI1NiBlbFJld2FyZHNWYXVsdEJhbGFuY2U7ICAgICAvLyDmiafooYzlsYLlpZblirHph5HlupPkvZnpop0KICAgIC8vIC4uLiDlhbbku5blrZfmrrUKfQpgYGAKCiMjIyDmiqXlkYrlkajmnJ8KCk9yYWNsZSDmiqXlkYrmjInlm7rlrprlkajmnJ/ov5vooYzjgILmr4/kuKrmiqXlkYrluKfplb/luqbkuLogMjI1IOS4qiBlcG9jaO+8iOe6piAxIOWkqe+8ie+8jOWPguiAg+anveS9jeiuvue9ruS4uuavj+W4p+esrOS4gOS4qiBlcG9jaCDkuYvliY3nmoTmnIDlkI7kuIDkuKrmp73kvY3vvIzlpITnkIbnqpflj6Pku47lj4LogIPmp73kvY3noa7lrprmjIHnu63liLDluKfnu5PmnZ/jgIIKCuS4uuS7gOS5iOmAieaLqSAyMjUgZXBvY2jvvJ/ov5nmmK/lnKggR2FzIOaIkOacrOWSjOaVsOaNruaWsOmynOW6puS5i+mXtOeahOadg+ihoeOAguabtOmikee5geeahOaKpeWRiuaEj+WRs+edgOabtOmrmOeahCBHYXMg5raI6ICX77yM5L2G55So5oi355yL5Yiw55qE5L2Z6aKd5pu05o6l6L+R5a6e5pe244CC5a+55LqO5bm05YyWIDMtNSUg55qE6LSo5oq85pS255uK77yM5q+P5aSp5pu05paw5LiA5qyh5bey57uP6Laz5aSf57K+56Gu44CCCgojIyMg5oql5ZGK6Kem5Y+R55qE54q25oCB5Y+Y5pu0CgrlvZMgT3JhY2xlIOaKpeWRiuiiq+aOpeWPl+aXtu+8jExpZG8g5ZCI57qm5omn6KGM5LiA57O75YiX5pON5L2c77yaCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiBoYW5kbGVPcmFjbGVSZXBvcnQoCiAgICB1aW50MjU2IF9yZXBvcnRUaW1lc3RhbXAsCiAgICB1aW50MjU2IF90aW1lRWxhcHNlZCwKICAgIHVpbnQyNTYgX2NsVmFsaWRhdG9ycywKICAgIHVpbnQyNTYgX2NsQmFsYW5jZSwKICAgIHVpbnQyNTYgX3dpdGhkcmF3YWxWYXVsdEJhbGFuY2UsCiAgICB1aW50MjU2IF9lbFJld2FyZHNWYXVsdEJhbGFuY2UsCiAgICAvLyAuLi4KKSBleHRlcm5hbCByZXR1cm5zICh1aW50MjU2WzRdIHBvc3RSZWJhc2VBbW91bnRzKSB7CiAgICAvLyAxLiDmm7TmlrDlhbHor4blsYLpqozor4HogIXmlbDph4/lkozkvZnpop0KICAgIC8vIDIuIOS7jumHkeW6k+aUtumbhiBFVEgg5Yiw57yT5Yay5Yy6CiAgICAvLyAzLiDorqHnrpflpZblirHlubbliIbphY3otLnnlKgKICAgIC8vIDQuIOWkhOeQhuaPkOasvuivt+axggogICAgLy8gNS4g6Kem5Y+RIFJlYmFzZSDkuovku7YKfQpgYGAKCui/meS4quWHveaVsOaYr+aVtOS4quWNj+iurueahOOAjOW/g+i3s+OAje+8jOavj+WkqeaJp+ihjOS4gOasoe+8jOmpseWKqOaJgOacieeKtuaAgeabtOaWsOOAggoKLS0tCgojIyDkv6Hku7vlgYforr7kuI7po47pmanliIbmnpAKCk9yYWNsZSDmmK/mtYHliqjmgKfotKjmirzljY/orq7mnIDlpKfnmoTkv6Hku7vlgYforr7jgILnkIbop6Pov5nkupvpo47pmanlr7nkuo7nlKjmiLflkozlvIDlj5HogIXpg73lvojph43opoHjgIIKCiMjIyBPcmFjbGUg5pON57q15pS75Ye7CgrlpoLmnpwgT3JhY2xlIOiiq+aUu+egtO+8jOaUu+WHu+iAheWPr+S7peiZmuaKpemrmOS9memineiuqeWNj+iuruiupOS4uumqjOivgeiAheS9memineWinuWKoOS6hu+8jOinpuWPkeiZmuWBh+eahCBSZWJhc2Ug56iA6YeK5omA5pyJ5oyB5pyJ6ICF77yb5oiW6ICF6Jma5oql5L2O5L2Z6aKd6K6p5Y2P6K6u6K6k5Li65Y+R55Sf5LqG5aSn6KeE5qihIHNsYXNoaW5n77yM6Kem5Y+R5oGQ5oWM5oCn5oqb5ZSu77yb6L+Y5Y+v5Lul5bu26L+f5oql5ZGK6Zi75q2i5o+Q5qy+6K+35rGC6KKr5aSE55CG77yM6YCg5oiQ5rWB5Yqo5oCn5Y2x5py644CCCgpMaWRvIOeahOmYsuW+oeaOquaWveWMheaLrOWkmuetvuacuuWItu+8iOmcgOimgSA5IOS4quiKgueCueS4reeahCA1IOS4qui+vuaIkOWFseivhu+8ieOAgeWBpeWFqOaAp+ajgOafpe+8iGBPcmFjbGVSZXBvcnRTYW5pdHlDaGVja2VyYCDlkIjnuqbpqozor4HmiqXlkYrmlbDmja7nmoTlkIjnkIbmgKfvvInjgIHku6Xlj4rlj5jljJbpmZDliLbvvIjljZXmrKHmiqXlkYrnmoTkvZnpop3lj5jljJbkuI3og73otoXov4fpmIjlgLzvvInjgIIKCmBgYHNvbGlkaXR5Ci8vIOeugOWMlueahOWBpeWFqOaAp+ajgOafpemAu+i+kQpmdW5jdGlvbiBjaGVja0FjY291bnRpbmdPcmFjbGVSZXBvcnQoCiAgICB1aW50MjU2IF9wcmVDTEJhbGFuY2UsCiAgICB1aW50MjU2IF9wb3N0Q0xCYWxhbmNlLAogICAgdWludDI1NiBfdGltZUVsYXBzZWQKKSBleHRlcm5hbCB2aWV3IHsKICAgIC8vIOajgOafpeS9memineWPmOWMluaYr+WQpuWcqOWQiOeQhuiMg+WbtOWGhQogICAgdWludDI1NiBtYXhJbmNyZWFzZSA9IF9wcmVDTEJhbGFuY2UgKiBtYXhQb3NpdGl2ZVJlYmFzZVBlckRheSAqIF90aW1lRWxhcHNlZCAvIE9ORV9EQVk7CiAgICByZXF1aXJlKF9wb3N0Q0xCYWxhbmNlIDw9IF9wcmVDTEJhbGFuY2UgKyBtYXhJbmNyZWFzZSwgIlJlYmFzZSB0b28gbGFyZ2UiKTsKfQpgYGAKCiMjIyDljrvkuK3lv4PljJbnmoTmvJTov5sKCkxpZG8g55qEIE9yYWNsZSDnm67liY3mmK/orrjlj6/liLbnmoTigJTigJTlj6rmnInooqvmibnlh4bnmoToioLngrnmiY3og73lj4LkuI7jgILov5nmmK/kuIDkuKrkuK3lv4PljJbnmoTkv6Hku7vngrnjgIIKCuekvuWMuuato+WcqOaOoue0ouabtOWOu+S4reW/g+WMlueahOaWueahiOOAgioqRUlQLTQ3ODgqKiDlsIbkv6HmoIfpk77nirbmgIHmoLnmmrTpnLLnu5nmiafooYzlsYLvvIzlhYHorrjlkIjnuqbnm7TmjqXpqozor4Hkv6HmoIfpk77mlbDmja7jgIIqKlpLIOivgeaYjioq5pa55qGI5L2/55So6Zu255+l6K+G6K+B5piO6aqM6K+B6aqM6K+B6ICF5L2Z6aKd77yM5peg6ZyA5L+h5Lu7IE9yYWNsZeOAgioq5LmQ6KeCIE9yYWNsZSoqIOWFgeiuuOS7u+S9leS6uuaPkOS6pOaKpeWRiu+8jOS9huacieaMkeaImOacn+WSjOaDqee9muacuuWItuOAgui/meS6m+aWueahiOmDvei/mOWcqOeglOWPkeS4re+8jOefreacn+WGhSBPcmFjbGUg5aeU5ZGY5Lya5LuN5piv5Li75rWB6K6+6K6h44CCCgojIyMg5LiO5YW25LuWIE9yYWNsZSDnmoTlr7nmr5QKCnwg54m55oCnIHwgTGlkbyBPcmFjbGUgfCBDaGFpbmxpbmsgfCBVTUEgfAp8LS0tLS0tfC0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS18LS0tLS18Cnwg5pWw5o2u57G75Z6LIHwg5Y2P6K6u5LiT55SoIHwg6YCa55So5biC5Zy65pWw5o2uIHwg5Lu75oSPIHwKfCDmm7TmlrDpopHnjocgfCDmr4/lpKkgfCDlrp7ml7YgfCDmjInpnIAgfAp8IOiKgueCueaVsOmHjyB8IDkgfCDmlbDnmb4gfCDliqjmgIEgfAp8IOiuuOWPr+aooeW8jyB8IOiuuOWPr+WItiB8IOiuuOWPr+WItiB8IOaXoOiuuOWPryB8Cnwg5LqJ6K6u5py65Yi2IHwg5pegIHwg5pegIHwg5pyJIHwKCkxpZG8gT3JhY2xlIOeahOiuvuiuoeaYr+mSiOWvueeJueWumueUqOS+i+S8mOWMlueahO+8jOS4jeiDveeugOWNleWcsOeUqOmAmueUqCBPcmFjbGUg5pu/5Luj44CCCgotLS0KCiMjIOaxh+eOh+eahOe7j+a1juWtpuWQq+S5iQoK55CG6Kej5rGH546H5LiN5LuF5piv5oqA5pyv6Zeu6aKY77yM5Lmf5piv57uP5rWO6Zeu6aKY44CCCgojIyMg5rGH546H5rC46L+c5LiK5rao5ZCXCgrlnKjmraPluLjmg4XlhrXkuIvvvIzmmK/nmoTjgILpqozor4HogIXmjIHnu63ojrflvpfotKjmirzlpZblirHvvIx0b3RhbFBvb2xlZEV0aGVyIOWinuWKoO+8jOavj+S4quS7vemineWvueW6lOeahCBFVEgg5aKe5Yqg44CCCgrkvYbmnInkuKTnp43mg4XlhrXkvJrlr7zoh7TmsYfnjofkuIvot4zjgILkuIDmmK8gKipTbGFzaGluZyoq77yM6aqM6K+B6ICF5Zug6L+d6KeE6KKr572a5rKh5a+86Ie05L2Z6aKd5YeP5bCR77yb5LqM5pivKirotJ/lpZblirHmnJ8qKu+8jOWmguaenOWkp+mHj+mqjOivgeiAheemu+e6v++8jOaVtOS4que9kee7nOeahOWlluWKseWPr+iDveS4uui0n+OAgkxpZG8g55qE5Y6G5Y+y5LiK5LuO5pyq5Y+R55Sf6L+H5rGH546H5LiL6LeM77yM5L2G6L+Z5LiN5oSP5ZGz552A5LiN5Y+v6IO944CC5Y2P6K6u6K6+6K6h5LqG44CMYnVua2VyIOaooeW8j+OAjeadpeW6lOWvueaegeerr+aDheWGteOAggoKIyMjIOaxh+eOh+S4juW4guWcuuS7t+agvAoKc3RFVEgg55qE5rGH546H77yI5Y2P6K6u6K6h566X55qE55CG6K665Lu35YC877yJ5ZKM5biC5Zy65Lu35qC877yI5Lqk5piT5omA55qE5a6e6ZmF5oiQ5Lqk5Lu377yJ5piv5Lik5Zue5LqL44CCCgoyMDIyIOW5tCA2IOaciO+8jHN0RVRIIOWcqOS6jOe6p+W4guWcuuS4gOW6puaKmOS7tyA1JeOAgui/meS4jeaYr+WboOS4uuWNj+iuruWHuuS6humXrumimO+8jOiAjOaYr+WboOS4uuW4guWcuuaBkOaFjOWvvOiHtOaKm+WUruWOi+WKm++8jOWKoOS4iuW9k+aXtui/mOayoeacieaPkOasvuWKn+iDvSBzdEVUSCDml6Dms5XotY7lm57vvIzlpZfliKnogIXml6Dms5XmtojpmaTku7flt67jgILkuIrmtbfljYfnuqflkI7vvIxzdEVUSCDlj6/ku6XotY7lm57kuLogRVRI77yM5biC5Zy65Lu35qC85LiO5rGH546H55qE5YGP56a75aSn5bmF5pS256qE44CC5L2G5Zyo5p6B56uv5biC5Zy65p2h5Lu25LiL77yM55+t5pyf5oqY5Lu35LuN5Y+v6IO95Y+R55Sf44CCCgojIyMg5a+5IERlRmkg55qE5b2x5ZONCgrmsYfnjofnmoTmjIHnu63kuIrmtqjlr7kgRGVGaSDljY/orq7mnInph43opoHlvbHlk43jgILlnKgqKuWAn+i0t+WNj+iurioq5Lit77yM5L2/55SoIHdzdEVUSCDkvZzkuLrmirXmirzlk4Hml7bmirXmirzku7flgLzkvJroh6rliqjlop7liqDjgILlnKggKipBTU0qKiDkuK3vvIxzdEVUSC9FVEgg5rGg5Lya5Lqn55Sf44CM5q2j5ZCR5peg5bi45o2f5aSx44CN4oCU4oCUTFAg55qE6LWE5Lqn5Lu35YC85aKe5Yqg44CC5ZyoKirmnJ/mnYPljY/orq4qKuS4re+8jOmcgOimgeiAg+iZkeaxh+eOh+WPmOWMluWvueihjOadg+S7t+agvOeahOW9seWTjeOAggoKLS0tCgojIyDlrp7njrDnu4boioLvvJrku6PnoIHlsYLpnaLnmoTnkIbop6MKCuacgOWQju+8jOiuqeaIkeS7rOeci+eci+aguOW/g+WHveaVsOeahOWunumZheWunueOsOOAggoKIyMjIOWtmOasvuWHveaVsAoKYGBgc29saWRpdHkKZnVuY3Rpb24gX3N1Ym1pdChhZGRyZXNzIF9yZWZlcnJhbCkgaW50ZXJuYWwgcmV0dXJucyAodWludDI1NikgewogICAgcmVxdWlyZShtc2cudmFsdWUgIT0gMCwgIlpFUk9fREVQT1NJVCIpOwogICAgCiAgICAvLyDmo4Dmn6XotKjmirzpmZDliLYKICAgIFN0YWtlTGltaXRTdGF0ZS5EYXRhIG1lbW9yeSBzdGFrZUxpbWl0RGF0YSA9IFNUQUtJTkdfU1RBVEVfUE9TSVRJT04uZ2V0U3RvcmFnZVN0YWtlTGltaXRTdHJ1Y3QoKTsKICAgIHJlcXVpcmUoIXN0YWtlTGltaXREYXRhLmlzU3Rha2luZ1BhdXNlZCgpLCAiU1RBS0lOR19QQVVTRUQiKTsKICAgIAogICAgaWYgKHN0YWtlTGltaXREYXRhLmlzU3Rha2luZ0xpbWl0U2V0KCkpIHsKICAgICAgICB1aW50MjU2IGN1cnJlbnRTdGFrZUxpbWl0ID0gc3Rha2VMaW1pdERhdGEuY2FsY3VsYXRlQ3VycmVudFN0YWtlTGltaXQoKTsKICAgICAgICByZXF1aXJlKG1zZy52YWx1ZSA8PSBjdXJyZW50U3Rha2VMaW1pdCwgIlNUQUtFX0xJTUlUIik7CiAgICAgICAgU1RBS0lOR19TVEFURV9QT1NJVElPTi5zZXRTdG9yYWdlU3Rha2VMaW1pdFN0cnVjdCgKICAgICAgICAgICAgc3Rha2VMaW1pdERhdGEudXBkYXRlUHJldlN0YWtlTGltaXQoY3VycmVudFN0YWtlTGltaXQgLSBtc2cudmFsdWUpCiAgICAgICAgKTsKICAgIH0KICAgIAogICAgLy8g6K6h566X5Lu96aKd5bm26ZO46YCgCiAgICB1aW50MjU2IHNoYXJlc0Ftb3VudCA9IGdldFNoYXJlc0J5UG9vbGVkRXRoKG1zZy52YWx1ZSk7CiAgICBfbWludFNoYXJlcyhtc2cuc2VuZGVyLCBzaGFyZXNBbW91bnQpOwogICAgCiAgICAvLyDmm7TmlrDnvJPlhrLkvZnpop0KICAgIF9zZXRCdWZmZXJlZEV0aGVyKF9nZXRCdWZmZXJlZEV0aGVyKCkgKyBtc2cudmFsdWUpOwogICAgCiAgICBlbWl0IFN1Ym1pdHRlZChtc2cuc2VuZGVyLCBtc2cudmFsdWUsIF9yZWZlcnJhbCk7CiAgICByZXR1cm4gc2hhcmVzQW1vdW50Owp9CmBgYAoK5rOo5oSP6LSo5oq86ZmQ5Yi25py65Yi277ya5Y2P6K6u5Y+v5Lul6K6+572u5q+P5Liq5Yy65Z2X55qE5pyA5aSn5a2Y5qy+6YeP77yM6Ziy5q2i5Y2P6K6u5aKe6ZW/6L+H5b+r5a+86Ie06aqM6K+B6ICF6Zif5YiX5oul5aC144CCCgojIyMg5L2Z6aKd5p+l6K+i5Ye95pWwCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyBfYWNjb3VudCkgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1NikgewogICAgcmV0dXJuIGdldFBvb2xlZEV0aEJ5U2hhcmVzKF9zaGFyZXNPZihfYWNjb3VudCkpOwp9CgpmdW5jdGlvbiBnZXRQb29sZWRFdGhCeVNoYXJlcyh1aW50MjU2IF9zaGFyZXNBbW91bnQpIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgIHJldHVybiBfc2hhcmVzQW1vdW50ICogX2dldFRvdGFsUG9vbGVkRXRoZXIoKSAvIF9nZXRUb3RhbFNoYXJlcygpOwp9CmBgYAoK5q+P5qyh6LCD55SoIGBiYWxhbmNlT2ZgIOmDveaYr+WunuaXtuiuoeeul+eahO+8jOS4jeaYr+ivu+WPluWtmOWCqOeahOWAvOOAgui/meWwseaYryBSZWJhc2Ug55qE5a6e546w5Y6f55CG44CCCgojIyMg6L2s6LSm5Ye95pWwCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiBfdHJhbnNmZXIoYWRkcmVzcyBfc2VuZGVyLCBhZGRyZXNzIF9yZWNpcGllbnQsIHVpbnQyNTYgX2Ftb3VudCkgaW50ZXJuYWwgewogICAgdWludDI1NiBfc2hhcmVzVG9UcmFuc2ZlciA9IGdldFNoYXJlc0J5UG9vbGVkRXRoKF9hbW91bnQpOwogICAgX3RyYW5zZmVyU2hhcmVzKF9zZW5kZXIsIF9yZWNpcGllbnQsIF9zaGFyZXNUb1RyYW5zZmVyKTsKICAgIGVtaXQgVHJhbnNmZXIoX3NlbmRlciwgX3JlY2lwaWVudCwgX2Ftb3VudCk7Cn0KYGBgCgrovazotKbml7bvvIzljY/orq7lhYjlsIYgRVRIIOaVsOmHj+i9rOaNouS4uuS7vemine+8jOeEtuWQjui9rOenu+S7vemineOAgui/meehruS/neS6hui9rOi0pumHkemineeahOeyvuehruaAp+OAggoKLS0tCgojIyDlsYDpmZDmgKfkuI7mnYPooaEKCuS7vemineaooeWei+iZveeEtuS8mOmbhe+8jOS9huS5n+acieWFtuWxgOmZkOOAgioq57K+5bqm5o2f5aSxKirmmK/nrKzkuIDkuKrpl67popjvvIzku73pop3lkowgRVRIIOS5i+mXtOeahOi9rOaNoua2ieWPiumZpOazle+8jOWPr+iDveS6p+eUn+iIjeWFpeivr+W3ruOAgioqR2FzIOaIkOacrCoq5piv56ys5LqM5Liq6Zeu6aKY77yM5q+P5qyh5L2Z6aKd5p+l6K+i6YO96ZyA6KaB6K6h566X77yM5q+U55u05o6l6K+75Y+W5a2Y5YKo5YC85pu06LS144CCKipFUkMtMjAg5LiN5a6M5YWo5YW85a65KirmmK/nrKzkuInkuKrpl67popjvvIxSZWJhc2Ug5pe25LiN5Y+R5Ye6IFRyYW5zZmVyIOS6i+S7tu+8jOafkOS6m+W3peWFt+WPr+iDveaXoOazleato+ehrui/vei4quS9memineWPmOWMluOAguacgOWQjuaYryAqKk9yYWNsZSDkvp3otZYqKu+8jOaxh+eOh+eahOWHhuehruaAp+WujOWFqOS+nei1liBPcmFjbGUg55qE6K+a5a6e5ZKM5Y+v55So5oCn44CCCgrov5nkupvmmK/orr7orqHkuIrnmoTmnYPooaHvvIzkuI3mmK/nvLrpmbfjgILnkIbop6Pov5nkupvmnYPooaHmnInliqnkuo7lnKjpm4bmiJDml7blgZrlh7rmraPnoa7nmoTlhrPnrZbjgIIKCi0tLQoKIyMg6L+b5LiA5q2l6ZiF6K+7CgotIFtMaWRvIOWumOaWueaWh+aho++8mnN0RVRIXShodHRwczovL2RvY3MubGlkby5maS9jb250cmFjdHMvbGlkby8pIOKAlCDlkIjnuqbmjqXlj6PnmoTlrozmlbTlj4LogIMKLSBbTGlkbyDlrpjmlrnmlofmoaPvvJpBY2NvdW50aW5nT3JhY2xlXShodHRwczovL2RvY3MubGlkby5maS9jb250cmFjdHMvYWNjb3VudGluZy1vcmFjbGUvKSDigJQgT3JhY2xlIOacuuWItueahOivpue7huivtOaYjgotIFtFSVAtNDYyNjogVG9rZW5pemVkIFZhdWx0IFN0YW5kYXJkXShodHRwczovL2VpcHMuZXRoZXJldW0ub3JnL0VJUFMvZWlwLTQ2MjYpIOKAlCB3c3RFVEgg5YW85a6555qE6YeR5bqT5qCH5YeGCi0gW0xpZG8g5Luj56CB5LuT5bqTXShodHRwczovL2dpdGh1Yi5jb20vbGlkb2ZpbmFuY2UvbGlkby1kYW8pIOKAlCDlkIjnuqbmupDnoIEK"}
+---
+title: "流动性质押的份额模型与汇率机制"
+description: "深入解析 Lido 等流动性质押协议的核心设计：为什么 stETH 不是 1:1 锚定 ETH，汇率如何计算，Oracle 扮演什么角色。"
+pubDate: "2026-03-02"
+tags: ["Ethereum", "Staking", "DeFi", "Lido"]
+hexagram: "䷀"
+element: "metal"
+---
+
+**TL;DR:** 流动性质押代币本质是「份额凭证」而非 1:1 锚定资产。用户余额 = 份额 × 总质押ETH / 总份额，汇率随奖励累积自动上涨。Oracle 是整个系统的信任锚点，负责将信标链上的验证者余额同步到执行层。
+
+> **前置知识**：本文假设读者了解以太坊 PoS 质押的基本概念，知道验证者需要 32 ETH。如果不熟悉，建议先阅读以太坊官方的 [质押介绍](https://ethereum.org/en/staking/)。
+
+---
+
+## 核心问题：质押收益如何分配给所有持有者
+
+以太坊 PoS 质押面临一个根本性的用户体验问题：验证者的奖励直接累积在信标链上的验证者余额中，而不是自动分发到每个质押者的钱包。
+
+假设一个流动性质押协议管理着 100 万 ETH，分布在 31,250 个验证者上。每天产生约 100 ETH 的质押奖励。如果协议要把这些奖励「分发」给 10 万个用户，每次 Oracle 报告都需要执行 10 万次转账——这在 Gas 成本上完全不可行。
+
+Lido 的解决方案是**不分发奖励**。用户持有的不是 ETH，而是协议总资产的「份额」。当验证者余额增加时，每个份额对应的 ETH 数量自动增加，用户余额随之上涨。这就是 Rebase 机制的本质。
+
+---
+
+## 两种代币模型：Rebase vs Share
+
+流动性质押代币有两种主流设计，理解它们的区别对于 DeFi 集成至关重要。
+
+![stETH vs wstETH 对比](./steth-vs-wsteth.png)
+
+### Rebase 模型（stETH）
+
+stETH 是一个 Rebase 代币：用户钱包中的代币数量会随时间自动增加。如果你今天持有 100 stETH，明天可能变成 100.01 stETH。
+
+这种设计的优点是直观——用户看到余额增长，心理上感觉「在赚钱」。但它有一个严重的技术问题：大多数 DeFi 协议无法正确处理 Rebase 代币。
+
+考虑一个借贷协议。用户存入 100 stETH 作为抵押品，协议记录「用户存了 100 个代币」。一天后，用户的 stETH 变成了 100.01 个，但协议的记录还是 100。这 0.01 个代币的奖励去哪了？它被「困」在协议合约里，既不属于用户，也不属于协议。
+
+跨链桥的问题更严重。用户在 L1 锁定 100 stETH，桥在 L2 铸造 100 个包装代币。一周后 L1 的 stETH 变成了 100.07 个，但 L2 的包装代币还是 100 个。这 0.07 个代币永久丢失在桥合约中。
+
+### Share 模型（wstETH）
+
+wstETH（wrapped stETH）是 Lido 为解决 DeFi 兼容性问题推出的包装代币。它的余额永远不变，但每个 wstETH 对应的 ETH 数量会增加。
+
+用户用 100 stETH 包装成 wstETH，假设当时汇率是 1 wstETH = 1.1 stETH，用户得到约 90.9 wstETH。一年后，汇率变成 1 wstETH = 1.15 stETH，用户的 90.9 wstETH 可以解包成约 104.5 stETH。
+
+余额没变，但价值增加了。这种模型与 ERC-4626 金库标准完全兼容，可以无缝集成到任何 DeFi 协议中。
+
+### 选择哪种模型
+
+| 场景 | 推荐代币 | 原因 |
+|------|----------|------|
+| 长期持有 | stETH | 直观看到余额增长 |
+| 借贷抵押 | wstETH | 协议能正确计算抵押价值 |
+| 跨链转移 | wstETH | 奖励不会丢失在桥中 |
+| LP 提供流动性 | wstETH | 避免无常损失计算错误 |
+
+实际上，大多数 DeFi 集成都使用 wstETH。stETH 更多是面向普通用户的「展示层」。
+
+---
+
+## 份额计算的数学基础
+
+无论是 stETH 还是 wstETH，底层都使用相同的份额模型。理解这个模型是理解整个协议的关键。
+
+![份额模型核心公式](./share-model-formula.png)
+
+### 核心公式
+
+Lido 不存储用户的 ETH 余额，而是存储用户拥有的「份额」。余额通过以下公式动态计算：
+
+$$\text{balanceOf}(account) = \frac{\text{shares}[account] \times \text{totalPooledEther}}{\text{totalShares}}$$
+
+公式中的三个变量分别是：`shares[account]` 表示用户拥有的份额数量，`totalPooledEther` 是协议控制的全部 ETH，`totalShares` 是所有用户份额的总和。
+
+### 存款时的份额计算
+
+当用户存入 ETH 时，协议需要计算应该给用户多少份额。这由 `getSharesByPooledEth` 函数完成：
+
+```solidity
+function getSharesByPooledEth(uint256 _ethAmount) public view returns (uint256) {
+    return _ethAmount * _getTotalShares() / _getTotalPooledEther();
+}
+```
+
+假设协议当前有 1,000,000 ETH 对应 900,000 份额。用户存入 100 ETH，获得的份额 = 100 × 900,000 / 1,000,000 = 90 份额。
+
+注意这里的汇率：1 ETH 只能换到 0.9 份额。这是因为协议已经累积了奖励，每个份额对应的 ETH 已经超过 1。
+
+### 为什么新用户不会稀释老用户
+
+这是份额模型最精妙的地方。用一个具体例子来推演整个过程。
+
+![新用户不稀释老用户](./no-dilution.png)
+
+假设初始状态下，Alice 持有 100 份额，Bob 持有 400 份额，协议总共有 500 份额对应 500 ETH。此时汇率为 1:1，Alice 的余额是 100 ETH，Bob 的余额是 400 ETH。
+
+当验证者获得 50 ETH 奖励后，totalPooledEther 变成 550 ETH，但 totalShares 保持 500 不变。根据余额公式重新计算：
+
+$$\text{Alice 余额} = \frac{100 \times 550}{500} = 110 \text{ ETH}$$
+
+$$\text{Bob 余额} = \frac{400 \times 550}{500} = 440 \text{ ETH}$$
+
+Alice 增加了 10 ETH，Bob 增加了 40 ETH，奖励按份额比例自动分配，无需任何转账操作。
+
+现在新用户 Carol 想存入 55 ETH。她能获得多少份额？按当前汇率计算：
+
+$$\text{Carol 份额} = \frac{55 \times 500}{550} = 50 \text{ 份额}$$
+
+存款后，totalShares 变成 550，totalPooledEther 变成 605 ETH。验证老用户的余额是否被稀释：
+
+$$\text{Alice 余额} = \frac{100 \times 605}{550} = 110 \text{ ETH（不变）}$$
+
+$$\text{Bob 余额} = \frac{400 \times 605}{550} = 440 \text{ ETH（不变）}$$
+
+$$\text{Carol 余额} = \frac{50 \times 605}{550} = 55 \text{ ETH}$$
+
+Carol 的加入没有稀释 Alice 和 Bob 的收益。这是因为 Carol 按当前汇率购买份额——她用 55 ETH 只换到了 50 份额，而不是 55 份额。这个「溢价」正好补偿了她获得的份额对应的已累积奖励。
+
+---
+
+## totalPooledEther：协议控制的三类资金
+
+汇率计算的分母 `totalPooledEther` 是整个系统最关键的数值。它由三部分组成：
+
+### 缓冲余额（Buffered Ether）
+
+用户存入但尚未发送到信标链的 ETH。这部分资金存储在 Lido 主合约中，可以用于满足提款请求（快速路径），或者批量存入新验证者（每 32 ETH 一个）。
+
+```solidity
+function getBufferedEther() public view returns (uint256) {
+    return BUFFERED_ETHER_POSITION.getStorageUint256();
+}
+```
+
+### 过渡余额（Transient Balance）
+
+已发送到以太坊官方 Deposit Contract，但验证者尚未在信标链激活的 ETH。
+
+```solidity
+function _getTransientBalance() internal view returns (uint256) {
+    uint256 depositedValidators = DEPOSITED_VALIDATORS_POSITION.getStorageUint256();
+    uint256 clValidators = CL_VALIDATORS_POSITION.getStorageUint256();
+    // 已存款但未激活的验证者数量 × 32 ETH
+    return (depositedValidators - clValidators) * DEPOSIT_SIZE;
+}
+```
+
+验证者从存款到激活需要经过信标链的入队等待，这个时间取决于队列长度，可能从几小时到几天不等。
+
+### 共识层余额（Consensus Layer Balance）
+
+验证者在信标链上的实际余额总和。这是唯一会随时间增长（或因 slashing 减少）的部分。
+
+```solidity
+function _getTotalPooledEther() internal view returns (uint256) {
+    return _getBufferedEther()
+        + CL_BALANCE_POSITION.getStorageUint256()  // 共识层余额
+        + _getTransientBalance();
+}
+```
+
+关键问题在于：执行层合约无法直接读取共识层状态。`CL_BALANCE_POSITION` 的值必须由 Oracle 从链下同步上来。
+
+---
+
+## Oracle：连接两个世界的桥梁
+
+以太坊的执行层（EVM）和共识层（信标链）是两个独立的状态机。执行层合约无法直接查询「我们的验证者现在有多少余额」。这个信息必须通过 Oracle 从链下带入。
+
+![Oracle 报告流程](./oracle-flow.png)
+
+### 为什么需要专用 Oracle
+
+你可能会问：为什么不用 Chainlink 这样的通用 Oracle？
+
+原因是数据的特殊性。Lido 需要的不是「ETH 价格」这样的公开市场数据，而是「Lido 管理的 31,250 个特定验证者的余额总和」。这个数据需要遍历大量验证者查询每个余额，需要通过提款凭证（withdrawal credentials）识别哪些是 Lido 的验证者，还需要处理 slashing、退出中、已退出等各种边缘情况。通用 Oracle 不具备这种专业能力，必须由协议自己运营专用 Oracle 网络。
+
+### Lido 的 Oracle 架构
+
+Lido 使用一个由多个节点组成的 Oracle 委员会，采用多签机制确保安全。整个流程分为四个阶段：首先是**数据收集**，每个 Oracle 节点独立查询信标链 API，获取所有 Lido 验证者的余额；然后是**哈希共识**，节点将报告数据哈希提交到 HashConsensus 合约；接着是**法定人数**确认，当超过 50% 的节点提交相同哈希时达成共识；最后是**报告提交**，其中一个节点提交完整报告数据，触发协议状态更新。
+
+```solidity
+struct ReportData {
+    uint256 consensusVersion;      // 共识规则版本
+    uint256 refSlot;               // 参考槽位
+    uint256 numValidators;         // 验证者总数
+    uint256 clBalanceGwei;         // 共识层余额（gwei）
+    uint256 withdrawalVaultBalance;    // 提款金库余额
+    uint256 elRewardsVaultBalance;     // 执行层奖励金库余额
+    // ... 其他字段
+}
+```
+
+### 报告周期
+
+Oracle 报告按固定周期进行。每个报告帧长度为 225 个 epoch（约 1 天），参考槽位设置为每帧第一个 epoch 之前的最后一个槽位，处理窗口从参考槽位确定持续到帧结束。
+
+为什么选择 225 epoch？这是在 Gas 成本和数据新鲜度之间的权衡。更频繁的报告意味着更高的 Gas 消耗，但用户看到的余额更接近实时。对于年化 3-5% 的质押收益，每天更新一次已经足够精确。
+
+### 报告触发的状态变更
+
+当 Oracle 报告被接受时，Lido 合约执行一系列操作：
+
+```solidity
+function handleOracleReport(
+    uint256 _reportTimestamp,
+    uint256 _timeElapsed,
+    uint256 _clValidators,
+    uint256 _clBalance,
+    uint256 _withdrawalVaultBalance,
+    uint256 _elRewardsVaultBalance,
+    // ...
+) external returns (uint256[4] postRebaseAmounts) {
+    // 1. 更新共识层验证者数量和余额
+    // 2. 从金库收集 ETH 到缓冲区
+    // 3. 计算奖励并分配费用
+    // 4. 处理提款请求
+    // 5. 触发 Rebase 事件
+}
+```
+
+这个函数是整个协议的「心跳」，每天执行一次，驱动所有状态更新。
+
+---
+
+## 信任假设与风险分析
+
+Oracle 是流动性质押协议最大的信任假设。理解这些风险对于用户和开发者都很重要。
+
+### Oracle 操纵攻击
+
+如果 Oracle 被攻破，攻击者可以虚报高余额让协议认为验证者余额增加了，触发虚假的 Rebase 稀释所有持有者；或者虚报低余额让协议认为发生了大规模 slashing，触发恐慌性抛售；还可以延迟报告阻止提款请求被处理，造成流动性危机。
+
+Lido 的防御措施包括多签机制（需要 9 个节点中的 5 个达成共识）、健全性检查（`OracleReportSanityChecker` 合约验证报告数据的合理性）、以及变化限制（单次报告的余额变化不能超过阈值）。
+
+```solidity
+// 简化的健全性检查逻辑
+function checkAccountingOracleReport(
+    uint256 _preCLBalance,
+    uint256 _postCLBalance,
+    uint256 _timeElapsed
+) external view {
+    // 检查余额变化是否在合理范围内
+    uint256 maxIncrease = _preCLBalance * maxPositiveRebasePerDay * _timeElapsed / ONE_DAY;
+    require(_postCLBalance <= _preCLBalance + maxIncrease, "Rebase too large");
+}
+```
+
+### 去中心化的演进
+
+Lido 的 Oracle 目前是许可制的——只有被批准的节点才能参与。这是一个中心化的信任点。
+
+社区正在探索更去中心化的方案。**EIP-4788** 将信标链状态根暴露给执行层，允许合约直接验证信标链数据。**ZK 证明**方案使用零知识证明验证验证者余额，无需信任 Oracle。**乐观 Oracle** 允许任何人提交报告，但有挑战期和惩罚机制。这些方案都还在研发中，短期内 Oracle 委员会仍是主流设计。
+
+### 与其他 Oracle 的对比
+
+| 特性 | Lido Oracle | Chainlink | UMA |
+|------|-------------|-----------|-----|
+| 数据类型 | 协议专用 | 通用市场数据 | 任意 |
+| 更新频率 | 每天 | 实时 | 按需 |
+| 节点数量 | 9 | 数百 | 动态 |
+| 许可模式 | 许可制 | 许可制 | 无许可 |
+| 争议机制 | 无 | 无 | 有 |
+
+Lido Oracle 的设计是针对特定用例优化的，不能简单地用通用 Oracle 替代。
+
+---
+
+## 汇率的经济学含义
+
+理解汇率不仅是技术问题，也是经济问题。
+
+### 汇率永远上涨吗
+
+在正常情况下，是的。验证者持续获得质押奖励，totalPooledEther 增加，每个份额对应的 ETH 增加。
+
+但有两种情况会导致汇率下跌。一是 **Slashing**，验证者因违规被罚没导致余额减少；二是**负奖励期**，如果大量验证者离线，整个网络的奖励可能为负。Lido 的历史上从未发生过汇率下跌，但这不意味着不可能。协议设计了「bunker 模式」来应对极端情况。
+
+### 汇率与市场价格
+
+stETH 的汇率（协议计算的理论价值）和市场价格（交易所的实际成交价）是两回事。
+
+2022 年 6 月，stETH 在二级市场一度折价 5%。这不是因为协议出了问题，而是因为市场恐慌导致抛售压力，加上当时还没有提款功能 stETH 无法赎回，套利者无法消除价差。上海升级后，stETH 可以赎回为 ETH，市场价格与汇率的偏离大幅收窄。但在极端市场条件下，短期折价仍可能发生。
+
+### 对 DeFi 的影响
+
+汇率的持续上涨对 DeFi 协议有重要影响。在**借贷协议**中，使用 wstETH 作为抵押品时抵押价值会自动增加。在 **AMM** 中，stETH/ETH 池会产生「正向无常损失」——LP 的资产价值增加。在**期权协议**中，需要考虑汇率变化对行权价格的影响。
+
+---
+
+## 实现细节：代码层面的理解
+
+最后，让我们看看核心函数的实际实现。
+
+### 存款函数
+
+```solidity
+function _submit(address _referral) internal returns (uint256) {
+    require(msg.value != 0, "ZERO_DEPOSIT");
+    
+    // 检查质押限制
+    StakeLimitState.Data memory stakeLimitData = STAKING_STATE_POSITION.getStorageStakeLimitStruct();
+    require(!stakeLimitData.isStakingPaused(), "STAKING_PAUSED");
+    
+    if (stakeLimitData.isStakingLimitSet()) {
+        uint256 currentStakeLimit = stakeLimitData.calculateCurrentStakeLimit();
+        require(msg.value <= currentStakeLimit, "STAKE_LIMIT");
+        STAKING_STATE_POSITION.setStorageStakeLimitStruct(
+            stakeLimitData.updatePrevStakeLimit(currentStakeLimit - msg.value)
+        );
+    }
+    
+    // 计算份额并铸造
+    uint256 sharesAmount = getSharesByPooledEth(msg.value);
+    _mintShares(msg.sender, sharesAmount);
+    
+    // 更新缓冲余额
+    _setBufferedEther(_getBufferedEther() + msg.value);
+    
+    emit Submitted(msg.sender, msg.value, _referral);
+    return sharesAmount;
+}
+```
+
+注意质押限制机制：协议可以设置每个区块的最大存款量，防止协议增长过快导致验证者队列拥堵。
+
+### 余额查询函数
+
+```solidity
+function balanceOf(address _account) public view returns (uint256) {
+    return getPooledEthByShares(_sharesOf(_account));
+}
+
+function getPooledEthByShares(uint256 _sharesAmount) public view returns (uint256) {
+    return _sharesAmount * _getTotalPooledEther() / _getTotalShares();
+}
+```
+
+每次调用 `balanceOf` 都是实时计算的，不是读取存储的值。这就是 Rebase 的实现原理。
+
+### 转账函数
+
+```solidity
+function _transfer(address _sender, address _recipient, uint256 _amount) internal {
+    uint256 _sharesToTransfer = getSharesByPooledEth(_amount);
+    _transferShares(_sender, _recipient, _sharesToTransfer);
+    emit Transfer(_sender, _recipient, _amount);
+}
+```
+
+转账时，协议先将 ETH 数量转换为份额，然后转移份额。这确保了转账金额的精确性。
+
+---
+
+## 局限性与权衡
+
+份额模型虽然优雅，但也有其局限。**精度损失**是第一个问题，份额和 ETH 之间的转换涉及除法，可能产生舍入误差。**Gas 成本**是第二个问题，每次余额查询都需要计算，比直接读取存储值更贵。**ERC-20 不完全兼容**是第三个问题，Rebase 时不发出 Transfer 事件，某些工具可能无法正确追踪余额变化。最后是 **Oracle 依赖**，汇率的准确性完全依赖 Oracle 的诚实和可用性。
+
+这些是设计上的权衡，不是缺陷。理解这些权衡有助于在集成时做出正确的决策。
+
+---
+
+## 进一步阅读
+
+- [Lido 官方文档：stETH](https://docs.lido.fi/contracts/lido/) — 合约接口的完整参考
+- [Lido 官方文档：AccountingOracle](https://docs.lido.fi/contracts/accounting-oracle/) — Oracle 机制的详细说明
+- [EIP-4626: Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626) — wstETH 兼容的金库标准
+- [Lido 代码仓库](https://github.com/lidofinance/lido-dao) — 合约源码

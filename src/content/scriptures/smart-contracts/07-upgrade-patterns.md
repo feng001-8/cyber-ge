@@ -1,1 +1,491 @@
-{"data":"IyDnrKwgNyDnq6DvvJrljYfnuqfmqKHlvI8KCj4g5pm66IO95ZCI57qm5LiA5pem6YOo572y77yM5Luj56CB5bCx5peg5rOV5L+u5pS544CC5L2G6YCa6L+H5Luj55CG5qih5byP77yM5Y+v5Lul5Zyo5L+d55WZ5pWw5o2u55qE5ZCM5pe25pu05paw6YC76L6R44CC55CG6Kej5Y2H57qn5py65Yi255qE5Y6f55CG5ZKM6aOO6Zmp77yM5piv5p6E5bu65Y+v57u05oqkIERlRmkg57O757uf55qE5YWz6ZSu44CCCgotLS0KCiMjIOS4uuS7gOS5iOmcgOimgeWNh+e6pwoK5pm66IO95ZCI57qm55qE5LiN5Y+v5Y+Y5oCn5piv5LiA5oqK5Y+M5YiD5YmR44CC5a6D5L+d6K+B5LqG5Luj56CB55qE5Y+v5L+h5bqm4oCU4oCU55So5oi35Y+v5Lul6aqM6K+B5ZCI57qm55qE6KGM5Li65rC46L+c5LiN5Lya5pS55Y+Y44CC5L2G6L+Z5Lmf5oSP5ZGz552A77yM5aaC5p6c5Y+R546w5ryP5rSe44CB6ZyA6KaB5re75Yqg5Yqf6IO95oiW5LyY5YyWIEdhcyDmtojogJfvvIzlsLHlv4Xpobvpg6jnvbLmlrDlkIjnuqblubbov4Hnp7vmiYDmnInmlbDmja7jgIIKCjIwMTYg5bm055qEIERBTyDmlLvlh7vmmK/kuIDkuKrlhbjlnovmoYjkvovjgILmlLvlh7vogIXliKnnlKjph43lhaXmvI/mtJ7nm5flj5bkuobku7flgLwgNjAwMCDkuIfnvo7lhYPnmoQgRVRI77yM6ICM5ZCI57qm5peg5rOV5L+u5aSN77yM5pyA57uI5a+86Ie05Lul5aSq5Z2K56Gs5YiG5Y+J44CC5aaC5p6c5b2T5pe25pyJ5Y2H57qn5py65Yi277yM5o2f5aSx5Y+v6IO95Lya5bCP5b6X5aSa44CCCgrku6PnkIbmqKHlvI/op6PlhrPkuobov5nkuKrpl67popjjgILlroPlsIblkIjnuqbliIbkuLrkuKTpg6jliIbvvJrlrZjlgqjmlbDmja7nmoTku6PnkIblkIjnuqblkozljIXlkKvkuJrliqHpgLvovpHnmoTlrp7njrDlkIjnuqbjgILljYfnuqfml7blj6rpnIDmm7TmjaLlrp7njrDlkIjnuqbvvIzmlbDmja7kv53mjIHkuI3lj5jjgILov5nnp43mnrbmnoTlnKggRGVGaSDljY/orq7kuK3ooqvlub/ms5vph4fnlKjigJTigJRDb21wb3VuZOOAgUFhdmXjgIFVbmlzd2FwIFYzIOmDveS9v+eUqOS6huafkOenjeW9ouW8j+eahOS7o+eQhuaooeW8j+OAggoKLS0tCgojIyDku6PnkIbmqKHlvI/nmoTmoLjlv4PvvJpkZWxlZ2F0ZWNhbGwKCuS7o+eQhuaooeW8j+eahOWfuuehgOaYryBFVk0g55qEIGBkZWxlZ2F0ZWNhbGxgIOaMh+S7pOOAguS4juaZrumAmueahCBgY2FsbGAg5LiN5ZCM77yMYGRlbGVnYXRlY2FsbGAg5omn6KGM55uu5qCH5ZCI57qm55qE5Luj56CB77yM5L2G5L2/55So6LCD55So6ICF55qE5a2Y5YKo56m66Ze05ZKM5LiK5LiL5paH44CC6L+Z5oSP5ZGz552AIGBtc2cuc2VuZGVyYOOAgWBtc2cudmFsdWVgIOS/neaMgeS4jeWPmO+8jOeKtuaAgeWPmOmHj+eahOS/ruaUueWPkeeUn+WcqOiwg+eUqOiAheeahOWtmOWCqOS4reOAggoKIVvku6PnkIbmqKHlvI/mnrbmnoRdKC9pbWFnZXMvc2NyaXB0dXJlcy9zbWFydC1jb250cmFjdHMvMDctcHJveHktYXJjaGl0ZWN0dXJlLnBuZykKCuW9k+eUqOaIt+iwg+eUqOS7o+eQhuWQiOe6pueahOafkOS4quWHveaVsOaXtu+8jOS7o+eQhuWQiOe6pumAmui/hyBgZGVsZWdhdGVjYWxsYCDlsIbosIPnlKjovazlj5Hnu5nlrp7njrDlkIjnuqbjgILlrp7njrDlkIjnuqbnmoTku6PnoIHooqvmiafooYzvvIzkvYbmiYDmnInlrZjlgqjmk43kvZzpg73lj5HnlJ/lnKjku6PnkIblkIjnuqbnmoTlrZjlgqjnqbrpl7TkuK3jgILku47nlKjmiLfnmoTop5LluqbnnIvvvIzku5bku6zlj6rkuI7ku6PnkIblkIjnuqbkuqTkupLvvIzlrozlhajkuI3nn6XpgZPlrp7njrDlkIjnuqbnmoTlrZjlnKjjgIIKCuS4gOS4quacgOeugOWNleeahOS7o+eQhuWunueOsOWmguS4i++8mgoKYGBgc29saWRpdHkKY29udHJhY3QgU2ltcGxlUHJveHkgewogICAgYWRkcmVzcyBwdWJsaWMgaW1wbGVtZW50YXRpb247CiAgICAKICAgIGNvbnN0cnVjdG9yKGFkZHJlc3MgX2ltcGxlbWVudGF0aW9uKSB7CiAgICAgICAgaW1wbGVtZW50YXRpb24gPSBfaW1wbGVtZW50YXRpb247CiAgICB9CiAgICAKICAgIGZhbGxiYWNrKCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICAgICAgYWRkcmVzcyBpbXBsID0gaW1wbGVtZW50YXRpb247CiAgICAgICAgCiAgICAgICAgYXNzZW1ibHkgewogICAgICAgICAgICBjYWxsZGF0YWNvcHkoMCwgMCwgY2FsbGRhdGFzaXplKCkpCiAgICAgICAgICAgIGxldCByZXN1bHQgOj0gZGVsZWdhdGVjYWxsKGdhcygpLCBpbXBsLCAwLCBjYWxsZGF0YXNpemUoKSwgMCwgMCkKICAgICAgICAgICAgcmV0dXJuZGF0YWNvcHkoMCwgMCwgcmV0dXJuZGF0YXNpemUoKSkKICAgICAgICAgICAgCiAgICAgICAgICAgIHN3aXRjaCByZXN1bHQKICAgICAgICAgICAgY2FzZSAwIHsgcmV2ZXJ0KDAsIHJldHVybmRhdGFzaXplKCkpIH0KICAgICAgICAgICAgZGVmYXVsdCB7IHJldHVybigwLCByZXR1cm5kYXRhc2l6ZSgpKSB9CiAgICAgICAgfQogICAgfQp9CmBgYAoKYGZhbGxiYWNrYCDlh73mlbDmjZXojrfmiYDmnInlr7nku6PnkIblkIjnuqbnmoTosIPnlKjjgILlroPlsIblrozmlbTnmoQgY2FsbGRhdGEg5aSN5Yi25Yiw5YaF5a2Y77yM54S25ZCO6YCa6L+HIGBkZWxlZ2F0ZWNhbGxgIOi9rOWPkee7meWunueOsOWQiOe6puOAgui/lOWbnuaVsOaNruiiq+WkjeWItuWbnuadpe+8jOagueaNruiwg+eUqOe7k+aenOWGs+Wumui/lOWbnui/mOaYr+Wbnua7muOAggoK6L+Z5q615rGH57yW5Luj56CB55yL6LW35p2l5aSN5p2C77yM5L2G6YC76L6R5b6I55u05o6l77ya5aSN5Yi26L6T5YWlIOKGkiDosIPnlKjlrp7njrAg4oaSIOWkjeWItui+k+WHuiDihpIg6L+U5Zue57uT5p6c44CC5L2/55So5rGH57yW5piv5Zug5Li6IFNvbGlkaXR5IOS4jeaUr+aMgeebtOaOpei9rOWPkeS7u+aEj+WHveaVsOiwg+eUqOOAggoKLS0tCgojIyDlrZjlgqjluIPlsYDvvJrku6PnkIbmqKHlvI/nmoToh7Tlkb3pmbfpmLEKCuS7o+eQhuaooeW8j+acgOWNsemZqeeahOmXrumimOaYr+WtmOWCqOW4g+WxgOWGsueqgeOAgueUseS6jiBgZGVsZWdhdGVjYWxsYCDkvb/nlKjosIPnlKjogIXnmoTlrZjlgqjnqbrpl7TvvIzlpoLmnpzku6PnkIblkIjnuqblkozlrp7njrDlkIjnuqbnmoTlrZjlgqjluIPlsYDkuI3kuIDoh7TvvIzlsLHkvJrlj5HnlJ/mlbDmja7opobnm5bjgIIKCiFb5a2Y5YKo5biD5bGA5LiO5Yay56qBXSgvaW1hZ2VzL3NjcmlwdHVyZXMvc21hcnQtY29udHJhY3RzLzA3LXN0b3JhZ2UtbGF5b3V0LnBuZykKCuiAg+iZkei/meS4qumUmeivr+ekuuS+i++8mgoKYGBgc29saWRpdHkKY29udHJhY3QgUHJveHkgewogICAgYWRkcmVzcyBwdWJsaWMgaW1wbGVtZW50YXRpb247ICAvLyBzbG90IDAKICAgIGFkZHJlc3MgcHVibGljIGFkbWluOyAgICAgICAgICAgLy8gc2xvdCAxCn0KCmNvbnRyYWN0IExvZ2ljVjEgewogICAgdWludDI1NiBwdWJsaWMgdmFsdWU7ICAgICAgICAgICAvLyBzbG90IDAKICAgIGFkZHJlc3MgcHVibGljIG93bmVyOyAgICAgICAgICAgLy8gc2xvdCAxCn0KYGBgCgrlvZMgYExvZ2ljVjFgIOeahOS7o+eggemAmui/hyBgZGVsZWdhdGVjYWxsYCDmiafooYzml7bvvIzlroPlhpnlhaUgYHZhbHVlYCDlrp7pmYXkuIrmmK/lhpnlhaUgc2xvdCAw4oCU4oCU6L+Z5Lya6KaG55uW5Luj55CG5ZCI57qm55qEIGBpbXBsZW1lbnRhdGlvbmAg5Zyw5Z2A44CC5YaZ5YWlIGBvd25lcmAg5Lya6KaG55uWIGBhZG1pbmDjgILov5nnp43lhrLnqoHlj6/og73lr7zoh7TlkIjnuqblrozlhajlpLHmjqfjgIIKCiMjIyBFSVAtMTk2N++8muagh+WHhuWtmOWCqOanvQoKRUlQLTE5Njcg5a6a5LmJ5LqG5LiA5aWX5qCH5YeG55qE5a2Y5YKo5qe95L2N572u77yM5LiT6Zeo55So5LqO5Luj55CG5ZCI57qm55qE5YWD5pWw5o2u44CC6L+Z5Lqb5qe95L2N572u5piv6YCa6L+H5a+554m55a6a5a2X56ym5Liy5Y+W5ZOI5biM5YaN5YePIDEg5b6X5Yiw55qE77yM5Yeg5LmO5LiN5Y+v6IO95LiO5q2j5bi455qE5a2Y5YKo5Y+Y6YeP5Yay56qB44CCCgpgYGBzb2xpZGl0eQpieXRlczMyIGNvbnN0YW50IElNUExFTUVOVEFUSU9OX1NMT1QgPSAKICAgIGJ5dGVzMzIodWludDI1NihrZWNjYWsyNTYoImVpcDE5NjcucHJveHkuaW1wbGVtZW50YXRpb24iKSkgLSAxKTsKLy8gPSAweDM2MDg5NGExM2JhMWEzMjEwNjY3YzgyODQ5MmRiOThkY2EzZTIwNzZjYzM3MzVhOTIwYTNjYTUwNWQzODJiYmMKCmJ5dGVzMzIgY29uc3RhbnQgQURNSU5fU0xPVCA9IAogICAgYnl0ZXMzMih1aW50MjU2KGtlY2NhazI1NigiZWlwMTk2Ny5wcm94eS5hZG1pbiIpKSAtIDEpOwovLyA9IDB4YjUzMTI3Njg0YTU2OGIzMTczYWUxM2I5ZjhhNjAxNmUyNDNlNjNiNmU4ZWUxMTc4ZDZhNzE3ODUwYjVkNjEwMwpgYGAKCuS9v+eUqOi/meS6m+agh+WHhuanve+8jOS7o+eQhuWQiOe6pueahOWtmOWCqOW4g+WxgOS7jiBzbG90IDAg5byA5aeL5bCx5piv56m655qE77yM5a6M5YWo55WZ57uZ5a6e546w5ZCI57qm5L2/55So44CC5a6e546w5ZCI57qm5Y+v5Lul6Ieq55Sx5a6a5LmJ6Ieq5bex55qE5a2Y5YKo5Y+Y6YeP77yM5LiN55So5ouF5b+D5LiO5Luj55CG5ZCI57qm5Yay56qB44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBFSVAxOTY3UHJveHkgewogICAgYnl0ZXMzMiBwcml2YXRlIGNvbnN0YW50IElNUExFTUVOVEFUSU9OX1NMT1QgPSAKICAgICAgICAweDM2MDg5NGExM2JhMWEzMjEwNjY3YzgyODQ5MmRiOThkY2EzZTIwNzZjYzM3MzVhOTIwYTNjYTUwNWQzODJiYmM7CiAgICAKICAgIGNvbnN0cnVjdG9yKGFkZHJlc3MgX2ltcGxlbWVudGF0aW9uKSB7CiAgICAgICAgYXNzZW1ibHkgewogICAgICAgICAgICBzc3RvcmUoSU1QTEVNRU5UQVRJT05fU0xPVCwgX2ltcGxlbWVudGF0aW9uKQogICAgICAgIH0KICAgIH0KICAgIAogICAgZnVuY3Rpb24gX2dldEltcGxlbWVudGF0aW9uKCkgaW50ZXJuYWwgdmlldyByZXR1cm5zIChhZGRyZXNzIGltcGwpIHsKICAgICAgICBhc3NlbWJseSB7CiAgICAgICAgICAgIGltcGwgOj0gc2xvYWQoSU1QTEVNRU5UQVRJT05fU0xPVCkKICAgICAgICB9CiAgICB9CiAgICAKICAgIGZhbGxiYWNrKCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICAgICAgYWRkcmVzcyBpbXBsID0gX2dldEltcGxlbWVudGF0aW9uKCk7CiAgICAgICAgYXNzZW1ibHkgewogICAgICAgICAgICBjYWxsZGF0YWNvcHkoMCwgMCwgY2FsbGRhdGFzaXplKCkpCiAgICAgICAgICAgIGxldCByZXN1bHQgOj0gZGVsZWdhdGVjYWxsKGdhcygpLCBpbXBsLCAwLCBjYWxsZGF0YXNpemUoKSwgMCwgMCkKICAgICAgICAgICAgcmV0dXJuZGF0YWNvcHkoMCwgMCwgcmV0dXJuZGF0YXNpemUoKSkKICAgICAgICAgICAgc3dpdGNoIHJlc3VsdAogICAgICAgICAgICBjYXNlIDAgeyByZXZlcnQoMCwgcmV0dXJuZGF0YXNpemUoKSkgfQogICAgICAgICAgICBkZWZhdWx0IHsgcmV0dXJuKDAsIHJldHVybmRhdGFzaXplKCkpIH0KICAgICAgICB9CiAgICB9Cn0KYGBgCgotLS0KCiMjIFRyYW5zcGFyZW50IFByb3h577ya57uP5YW45pa55qGICgpPcGVuWmVwcGVsaW4g55qEIFRyYW5zcGFyZW50IFByb3h5IOaYr+acgOaXqeiiq+W5v+azm+mHh+eUqOeahOS7o+eQhuaooeW8j+OAguWug+eahOaguOW/g+aAneaDs+aYr+mAmui/h+iwg+eUqOiAhei6q+S7veWMuuWIhueuoeeQhuWHveaVsOWSjOS4muWKoeWHveaVsO+8mueuoeeQhuWRmOiwg+eUqOS7o+eQhuWQiOe6pueahOWHveaVsO+8iOWmgiBgdXBncmFkZVRvYO+8ie+8jOaZrumAmueUqOaIt+eahOiwg+eUqOiiq+i9rOWPkeWIsOWunueOsOWQiOe6puOAggoKYGBgc29saWRpdHkKY29udHJhY3QgVHJhbnNwYXJlbnRQcm94eSB7CiAgICBtb2RpZmllciBpZkFkbWluKCkgewogICAgICAgIGlmIChtc2cuc2VuZGVyID09IF9nZXRBZG1pbigpKSB7CiAgICAgICAgICAgIF87CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgX2ZhbGxiYWNrKCk7CiAgICAgICAgfQogICAgfQogICAgCiAgICBmdW5jdGlvbiB1cGdyYWRlVG8oYWRkcmVzcyBuZXdJbXBsZW1lbnRhdGlvbikgZXh0ZXJuYWwgaWZBZG1pbiB7CiAgICAgICAgX3NldEltcGxlbWVudGF0aW9uKG5ld0ltcGxlbWVudGF0aW9uKTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gY2hhbmdlQWRtaW4oYWRkcmVzcyBuZXdBZG1pbikgZXh0ZXJuYWwgaWZBZG1pbiB7CiAgICAgICAgX3NldEFkbWluKG5ld0FkbWluKTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gX2ZhbGxiYWNrKCkgaW50ZXJuYWwgewogICAgICAgIGFkZHJlc3MgaW1wbCA9IF9nZXRJbXBsZW1lbnRhdGlvbigpOwogICAgICAgIGFzc2VtYmx5IHsKICAgICAgICAgICAgY2FsbGRhdGFjb3B5KDAsIDAsIGNhbGxkYXRhc2l6ZSgpKQogICAgICAgICAgICBsZXQgcmVzdWx0IDo9IGRlbGVnYXRlY2FsbChnYXMoKSwgaW1wbCwgMCwgY2FsbGRhdGFzaXplKCksIDAsIDApCiAgICAgICAgICAgIHJldHVybmRhdGFjb3B5KDAsIDAsIHJldHVybmRhdGFzaXplKCkpCiAgICAgICAgICAgIHN3aXRjaCByZXN1bHQKICAgICAgICAgICAgY2FzZSAwIHsgcmV2ZXJ0KDAsIHJldHVybmRhdGFzaXplKCkpIH0KICAgICAgICAgICAgZGVmYXVsdCB7IHJldHVybigwLCByZXR1cm5kYXRhc2l6ZSgpKSB9CiAgICAgICAgfQogICAgfQogICAgCiAgICBmYWxsYmFjaygpIGV4dGVybmFsIHBheWFibGUgewogICAgICAgIF9mYWxsYmFjaygpOwogICAgfQp9CmBgYAoK6L+Z56eN6K6+6K6h6Kej5Yaz5LqG5Ye95pWw6YCJ5oup5Zmo5Yay56qB55qE6Zeu6aKY44CC5aaC5p6c5Luj55CG5ZCI57qm5ZKM5a6e546w5ZCI57qm6YO95pyJ5LiA5Liq5Y+rIGB1cGdyYWRlVG9gIOeahOWHveaVsO+8jOaZrumAmueUqOaIt+iwg+eUqOaXtuS8muaJp+ihjOWunueOsOWQiOe6pueahOeJiOacrO+8jOeuoeeQhuWRmOiwg+eUqOaXtuS8muaJp+ihjOS7o+eQhuWQiOe6pueahOeJiOacrOOAggoK5L2GIFRyYW5zcGFyZW50IFByb3h5IOacieS4gOS4quaYjuaYvueahOe8uueCue+8muavj+asoeiwg+eUqOmDvemcgOimgeajgOafpSBgbXNnLnNlbmRlciA9PSBhZG1pbmDvvIzov5nlop7liqDkuobnuqYgMjEwMCBHYXMg55qE5byA6ZSA77yI6K+75Y+WIGFkbWluIOWcsOWdgOeahCBTTE9BRCDmk43kvZzvvInjgILlr7nkuo7pq5jpopHosIPnlKjnmoTlkIjnuqbvvIzov5nkuKrlvIDplIDkvJrntK/np6/miJDlj6/op4LnmoTmiJDmnKzjgIIKCi0tLQoKIyMgVVVQU++8muabtOmrmOaViOeahOmAieaLqQoKVW5pdmVyc2FsIFVwZ3JhZGVhYmxlIFByb3h5IFN0YW5kYXJk77yIVVVQU++8ieWwhuWNh+e6p+mAu+i+keS7juS7o+eQhuWQiOe6puenu+WIsOWunueOsOWQiOe6puS4reOAguS7o+eQhuWQiOe6puWPmOW+l+aegeWFtueugOWNle+8jOWPqui0n+i0o+i9rOWPkeiwg+eUqOOAguWNh+e6p+WHveaVsCBgdXBncmFkZVRvYCDlrprkuYnlnKjlrp7njrDlkIjnuqbkuK3vvIzpgJrov4cgYGRlbGVnYXRlY2FsbGAg5omn6KGM5pe25Lya5L+u5pS55Luj55CG5ZCI57qm5a2Y5YKo55qE5a6e546w5Zyw5Z2A44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBVVVBTUHJveHkgewogICAgYnl0ZXMzMiBwcml2YXRlIGNvbnN0YW50IElNUExFTUVOVEFUSU9OX1NMT1QgPSAKICAgICAgICAweDM2MDg5NGExM2JhMWEzMjEwNjY3YzgyODQ5MmRiOThkY2EzZTIwNzZjYzM3MzVhOTIwYTNjYTUwNWQzODJiYmM7CiAgICAKICAgIGNvbnN0cnVjdG9yKGFkZHJlc3MgX2ltcGxlbWVudGF0aW9uLCBieXRlcyBtZW1vcnkgX2RhdGEpIHsKICAgICAgICBhc3NlbWJseSB7CiAgICAgICAgICAgIHNzdG9yZShJTVBMRU1FTlRBVElPTl9TTE9ULCBfaW1wbGVtZW50YXRpb24pCiAgICAgICAgfQogICAgICAgIGlmIChfZGF0YS5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIChib29sIHN1Y2Nlc3MsICkgPSBfaW1wbGVtZW50YXRpb24uZGVsZWdhdGVjYWxsKF9kYXRhKTsKICAgICAgICAgICAgcmVxdWlyZShzdWNjZXNzLCAiSW5pdCBmYWlsZWQiKTsKICAgICAgICB9CiAgICB9CiAgICAKICAgIGZhbGxiYWNrKCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICAgICAgYXNzZW1ibHkgewogICAgICAgICAgICBsZXQgaW1wbCA6PSBzbG9hZChJTVBMRU1FTlRBVElPTl9TTE9UKQogICAgICAgICAgICBjYWxsZGF0YWNvcHkoMCwgMCwgY2FsbGRhdGFzaXplKCkpCiAgICAgICAgICAgIGxldCByZXN1bHQgOj0gZGVsZWdhdGVjYWxsKGdhcygpLCBpbXBsLCAwLCBjYWxsZGF0YXNpemUoKSwgMCwgMCkKICAgICAgICAgICAgcmV0dXJuZGF0YWNvcHkoMCwgMCwgcmV0dXJuZGF0YXNpemUoKSkKICAgICAgICAgICAgc3dpdGNoIHJlc3VsdAogICAgICAgICAgICBjYXNlIDAgeyByZXZlcnQoMCwgcmV0dXJuZGF0YXNpemUoKSkgfQogICAgICAgICAgICBkZWZhdWx0IHsgcmV0dXJuKDAsIHJldHVybmRhdGFzaXplKCkpIH0KICAgICAgICB9CiAgICB9Cn0KYGBgCgrlrp7njrDlkIjnuqbpnIDopoHnu6fmib/kuIDkuKrljIXlkKvljYfnuqfpgLvovpHnmoTln7rnsbvvvJoKCmBgYHNvbGlkaXR5CmFic3RyYWN0IGNvbnRyYWN0IFVVUFNVcGdyYWRlYWJsZSB7CiAgICBieXRlczMyIHByaXZhdGUgY29uc3RhbnQgSU1QTEVNRU5UQVRJT05fU0xPVCA9IAogICAgICAgIDB4MzYwODk0YTEzYmExYTMyMTA2NjdjODI4NDkyZGI5OGRjYTNlMjA3NmNjMzczNWE5MjBhM2NhNTA1ZDM4MmJiYzsKICAgIAogICAgZnVuY3Rpb24gdXBncmFkZVRvKGFkZHJlc3MgbmV3SW1wbGVtZW50YXRpb24pIGV4dGVybmFsIHZpcnR1YWwgewogICAgICAgIF9hdXRob3JpemVVcGdyYWRlKG5ld0ltcGxlbWVudGF0aW9uKTsKICAgICAgICBhc3NlbWJseSB7CiAgICAgICAgICAgIHNzdG9yZShJTVBMRU1FTlRBVElPTl9TTE9ULCBuZXdJbXBsZW1lbnRhdGlvbikKICAgICAgICB9CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIF9hdXRob3JpemVVcGdyYWRlKGFkZHJlc3MgbmV3SW1wbGVtZW50YXRpb24pIGludGVybmFsIHZpcnR1YWw7Cn0KCmNvbnRyYWN0IE15Q29udHJhY3RWMSBpcyBVVVBTVXBncmFkZWFibGUgewogICAgYWRkcmVzcyBwdWJsaWMgb3duZXI7CiAgICB1aW50MjU2IHB1YmxpYyB2YWx1ZTsKICAgIAogICAgZnVuY3Rpb24gaW5pdGlhbGl6ZShhZGRyZXNzIF9vd25lcikgZXh0ZXJuYWwgewogICAgICAgIHJlcXVpcmUob3duZXIgPT0gYWRkcmVzcygwKSwgIkFscmVhZHkgaW5pdGlhbGl6ZWQiKTsKICAgICAgICBvd25lciA9IF9vd25lcjsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gc2V0VmFsdWUodWludDI1NiBfdmFsdWUpIGV4dGVybmFsIHsKICAgICAgICB2YWx1ZSA9IF92YWx1ZTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gX2F1dGhvcml6ZVVwZ3JhZGUoYWRkcmVzcykgaW50ZXJuYWwgb3ZlcnJpZGUgewogICAgICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBvd25lciwgIk5vdCBvd25lciIpOwogICAgfQp9CmBgYAoKVVVQUyDnmoTkvJjlir/lnKjkuo7mlYjnjofjgILmma7pgJrosIPnlKjkuI3pnIDopoHku7vkvZXpop3lpJbmo4Dmn6XvvIznm7TmjqXovazlj5HliLDlrp7njrDlkIjnuqbjgILlj6rmnInlnKjosIPnlKggYHVwZ3JhZGVUb2Ag5pe25omN5Lya5omn6KGM5p2D6ZmQ5qOA5p+l44CC6L+Z5L2/5b6XIFVVUFMg5oiQ5Li65aSn5aSa5pWw5Zy65pmv55qE6aaW6YCJ44CCCgrkvYYgVVVQUyDmnInkuIDkuKrkuKXph43nmoTpo47pmanvvJrlpoLmnpzljYfnuqfliLDkuIDkuKrmsqHmnIkgYHVwZ3JhZGVUb2Ag5Ye95pWw55qE5a6e546w5ZCI57qm77yM5ZCI57qm5bCx5rC46L+c5peg5rOV5YaN5Y2H57qn5LqG44CC6L+Z56eNIumUgeatuyLmmK/kuI3lj6/pgIbnmoTjgIIKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IE15Q29udHJhY3RWMkJhZCB7CiAgICAvLyDlv5jorrDnu6fmib8gVVVQU1VwZ3JhZGVhYmxlCiAgICAvLyDmsqHmnIkgdXBncmFkZVRvIOWHveaVsAogICAgLy8g5Y2H57qn5Yiw6L+Z5Liq54mI5pys5ZCO77yM5ZCI57qm5bCG5rC46L+c5peg5rOV5YaN5Y2H57qnCn0KYGBgCgrkuLrkuobpmLLmraLov5nnp43mg4XlhrXvvIxPcGVuWmVwcGVsaW4g55qEIFVVUFMg5a6e546w5Lya5Zyo5Y2H57qn5pe26aqM6K+B5paw5a6e546w5ZCI57qm56Gu5a6e5YyF5ZCr5Y2H57qn5Ye95pWw44CCCgotLS0KCiMjIEJlYWNvbiBQcm94ee+8muaJuemHj+WNh+e6pwoK5b2T6ZyA6KaB6YOo572y5aSn6YeP55u45ZCM6YC76L6R55qE5ZCI57qm5pe277yI5aaC5q+P5Liq55So5oi35LiA5Liq6ZKx5YyF5ZCI57qm77yJ77yMQmVhY29uIFByb3h5IOaYr+abtOWlveeahOmAieaLqeOAguaJgOacieS7o+eQhuWQiOe6puWFseS6q+S4gOS4qiBCZWFjb24g5ZCI57qm77yMQmVhY29uIOWtmOWCqOWunueOsOWQiOe6pueahOWcsOWdgOOAguWNh+e6pyBCZWFjb24g5bCx562J5LqO5ZCM5pe25Y2H57qn5omA5pyJ5Luj55CG44CCCgohW+S4ieenjeS7o+eQhuaooeW8j+WvueavlF0oL2ltYWdlcy9zY3JpcHR1cmVzL3NtYXJ0LWNvbnRyYWN0cy8wNy1wcm94eS1jb21wYXJpc29uLnBuZykKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IEJlYWNvbiB7CiAgICBhZGRyZXNzIHB1YmxpYyBpbXBsZW1lbnRhdGlvbjsKICAgIGFkZHJlc3MgcHVibGljIG93bmVyOwogICAgCiAgICBjb25zdHJ1Y3RvcihhZGRyZXNzIF9pbXBsZW1lbnRhdGlvbikgewogICAgICAgIGltcGxlbWVudGF0aW9uID0gX2ltcGxlbWVudGF0aW9uOwogICAgICAgIG93bmVyID0gbXNnLnNlbmRlcjsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gdXBncmFkZVRvKGFkZHJlc3MgbmV3SW1wbGVtZW50YXRpb24pIGV4dGVybmFsIHsKICAgICAgICByZXF1aXJlKG1zZy5zZW5kZXIgPT0gb3duZXIsICJOb3Qgb3duZXIiKTsKICAgICAgICBpbXBsZW1lbnRhdGlvbiA9IG5ld0ltcGxlbWVudGF0aW9uOwogICAgfQp9Cgpjb250cmFjdCBCZWFjb25Qcm94eSB7CiAgICBhZGRyZXNzIHB1YmxpYyBiZWFjb247CiAgICAKICAgIGNvbnN0cnVjdG9yKGFkZHJlc3MgX2JlYWNvbiwgYnl0ZXMgbWVtb3J5IF9kYXRhKSB7CiAgICAgICAgYmVhY29uID0gX2JlYWNvbjsKICAgICAgICBpZiAoX2RhdGEubGVuZ3RoID4gMCkgewogICAgICAgICAgICBhZGRyZXNzIGltcGwgPSBJQmVhY29uKF9iZWFjb24pLmltcGxlbWVudGF0aW9uKCk7CiAgICAgICAgICAgIChib29sIHN1Y2Nlc3MsICkgPSBpbXBsLmRlbGVnYXRlY2FsbChfZGF0YSk7CiAgICAgICAgICAgIHJlcXVpcmUoc3VjY2VzcywgIkluaXQgZmFpbGVkIik7CiAgICAgICAgfQogICAgfQogICAgCiAgICBmYWxsYmFjaygpIGV4dGVybmFsIHBheWFibGUgewogICAgICAgIGFkZHJlc3MgaW1wbCA9IElCZWFjb24oYmVhY29uKS5pbXBsZW1lbnRhdGlvbigpOwogICAgICAgIGFzc2VtYmx5IHsKICAgICAgICAgICAgY2FsbGRhdGFjb3B5KDAsIDAsIGNhbGxkYXRhc2l6ZSgpKQogICAgICAgICAgICBsZXQgcmVzdWx0IDo9IGRlbGVnYXRlY2FsbChnYXMoKSwgaW1wbCwgMCwgY2FsbGRhdGFzaXplKCksIDAsIDApCiAgICAgICAgICAgIHJldHVybmRhdGFjb3B5KDAsIDAsIHJldHVybmRhdGFzaXplKCkpCiAgICAgICAgICAgIHN3aXRjaCByZXN1bHQKICAgICAgICAgICAgY2FzZSAwIHsgcmV2ZXJ0KDAsIHJldHVybmRhdGFzaXplKCkpIH0KICAgICAgICAgICAgZGVmYXVsdCB7IHJldHVybigwLCByZXR1cm5kYXRhc2l6ZSgpKSB9CiAgICAgICAgfQogICAgfQp9CmBgYAoKQmVhY29uIFByb3h5IOeahOavj+asoeiwg+eUqOmDvemcgOimgeWFiOafpeivoiBCZWFjb24g6I635Y+W5a6e546w5Zyw5Z2A77yM6L+Z5aKe5Yqg5LqG5LiA5qyh5aSW6YOo6LCD55So55qE5byA6ZSA44CC5L2G5a+55LqO6ZyA6KaB5om56YeP5Y2H57qn55qE5Zy65pmv77yM6L+Z5Liq5byA6ZSA5piv5YC85b6X55qE4oCU4oCU5LiA5qyh5Y2H57qn5pON5L2c5bCx6IO95pu05paw5oiQ55m+5LiK5Y2D5Liq5Luj55CG5ZCI57qm44CCCgotLS0KCiMjIOWNh+e6p+WFvOWuueaApwoK5Y2H57qn5a6e546w5ZCI57qm5pe277yM5b+F6aG75L+d5oyB5a2Y5YKo5biD5bGA55qE5YW85a655oCn44CCRVZNIOeahOWtmOWCqOaYr+aMieanveS9je+8iHNsb3TvvInnu4Tnu4fnmoTvvIzmr4/kuKrnirbmgIHlj5jph4/ljaDmja7lm7rlrprnmoTmp73kvY3jgILlpoLmnpzmlrDniYjmnKzmlLnlj5jkuoblj5jph4/nmoTpobrluo/miJbnsbvlnovvvIzlsLHkvJrlr7zoh7TmlbDmja7plJnkubHjgIIKCiMjIyDlrZjlgqjluIPlsYDop4TliJkKCuWNh+e6p+aXtuW/hemhu+mBteWuiOS7peS4i+inhOWIme+8mgoKMS4gKirlj6rog73lnKjmnKvlsL7mt7vliqDmlrDlj5jph48qKgoyLiAqKuS4jeiDveWIoOmZpOeOsOacieWPmOmHjyoqCjMuICoq5LiN6IO95pS55Y+Y5Y+Y6YeP6aG65bqPKioKNC4gKirkuI3og73mlLnlj5jlj5jph4/nsbvlnosqKgo1LiAqKuS4jeiDveWcqOeOsOacieWPmOmHj+S5i+mXtOaPkuWFpeaWsOWPmOmHjyoqCgpgYGBzb2xpZGl0eQpjb250cmFjdCBNeUNvbnRyYWN0VjEgewogICAgdWludDI1NiBwdWJsaWMgdmFsdWU7ICAgICAgLy8gc2xvdCAwCiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsgICAgICAvLyBzbG90IDEKfQoKY29udHJhY3QgTXlDb250cmFjdFYyIHsKICAgIHVpbnQyNTYgcHVibGljIHZhbHVlOyAgICAgIC8vIHNsb3QgMCAtIOS/neaMgeS4jeWPmAogICAgYWRkcmVzcyBwdWJsaWMgb3duZXI7ICAgICAgLy8gc2xvdCAxIC0g5L+d5oyB5LiN5Y+YCiAgICB1aW50MjU2IHB1YmxpYyBuZXdWYWx1ZTsgICAvLyBzbG90IDIgLSDmlrDlop7vvIzlnKjmnKvlsL4KfQoKY29udHJhY3QgTXlDb250cmFjdFYyQmFkIHsKICAgIHVpbnQyNTYgcHVibGljIG5ld1ZhbHVlOyAgIC8vIHNsb3QgMCAtIOmUmeivr++8geimhuebluS6hiB2YWx1ZQogICAgdWludDI1NiBwdWJsaWMgdmFsdWU7ICAgICAgLy8gc2xvdCAxIC0g6ZSZ6K+v77yB6KaG55uW5LqGIG93bmVyCiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsgICAgICAvLyBzbG90IDIKfQpgYGAKCiMjIyDkvb/nlKggR2FwIOmihOeVmeepuumXtAoK5Li65LqG57uZ5pyq5p2l5Y2H57qn6aKE55WZ56m66Ze077yM5Y+v5Lul5Zyo5ZCI57qm5pyr5bC+5a6a5LmJ5LiA5LiqIGdhcCDmlbDnu4TvvJoKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IE15Q29udHJhY3RWMSB7CiAgICB1aW50MjU2IHB1YmxpYyB2YWx1ZTsKICAgIGFkZHJlc3MgcHVibGljIG93bmVyOwogICAgCiAgICB1aW50MjU2WzUwXSBwcml2YXRlIF9fZ2FwOyAgLy8g6aKE55WZIDUwIOS4quanveS9jQp9Cgpjb250cmFjdCBNeUNvbnRyYWN0VjIgewogICAgdWludDI1NiBwdWJsaWMgdmFsdWU7CiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsKICAgIHVpbnQyNTYgcHVibGljIG5ld1ZhbHVlOyAgICAvLyDkvb/nlKjkuIDkuKrpooTnlZnmp70KICAgIAogICAgdWludDI1Nls0OV0gcHJpdmF0ZSBfX2dhcDsgIC8vIOWHj+WwkeS4gOS4qgp9CmBgYAoK6L+Z56eN5qih5byP5Zyo57un5om/6ZO+5Lit54m55Yir5pyJ55So44CC5q+P5Liq5Z+657G76YO96aKE55WZ6Ieq5bex55qEIGdhcO+8jOWtkOexu+WPr+S7peWuieWFqOWcsOa3u+WKoOaWsOWPmOmHj+OAggoKLS0tCgojIyDliJ3lp4vljJbvvJrkuI3og73kvb/nlKggY29uc3RydWN0b3IKCuS7o+eQhuaooeW8j+acieS4gOS4qumHjeimgeeahOmZkOWItu+8muWunueOsOWQiOe6puS4jeiDveS9v+eUqCBgY29uc3RydWN0b3Jg44CC5p6E6YCg5Ye95pWw5Y+q5Zyo5ZCI57qm6YOo572y5pe25omn6KGM5LiA5qyh77yM6ICM5Luj55CG5qih5byP5LiL77yM5a6e546w5ZCI57qm55qE6YOo572y5ZKM5Luj55CG5ZCI57qm55qE6YOo572y5piv5YiG5byA55qE44CC5p6E6YCg5Ye95pWw6K6+572u55qE54q25oCB5Y+Y6YeP5a2Y5YKo5Zyo5a6e546w5ZCI57qm55qE5a2Y5YKo56m66Ze05Lit77yM6ICM5LiN5piv5Luj55CG5ZCI57qm55qE5a2Y5YKo56m66Ze05Lit44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBCYWRJbXBsZW1lbnRhdGlvbiB7CiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsKICAgIAogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgb3duZXIgPSBtc2cuc2VuZGVyOyAgLy8g6L+Z6K6+572u55qE5piv5a6e546w5ZCI57qm55qE5a2Y5YKo77yM5LiN5piv5Luj55CG55qECiAgICB9Cn0KYGBgCgrmraPnoa7nmoTlgZrms5XmmK/kvb/nlKjliJ3lp4vljJblh73mlbDvvJoKCmBgYHNvbGlkaXR5CmltcG9ydCAiQG9wZW56ZXBwZWxpbi9jb250cmFjdHMtdXBncmFkZWFibGUvcHJveHkvdXRpbHMvSW5pdGlhbGl6YWJsZS5zb2wiOwoKY29udHJhY3QgR29vZEltcGxlbWVudGF0aW9uIGlzIEluaXRpYWxpemFibGUgewogICAgYWRkcmVzcyBwdWJsaWMgb3duZXI7CiAgICAKICAgIGZ1bmN0aW9uIGluaXRpYWxpemUoYWRkcmVzcyBfb3duZXIpIGV4dGVybmFsIGluaXRpYWxpemVyIHsKICAgICAgICBvd25lciA9IF9vd25lcjsKICAgIH0KfQpgYGAKCmBpbml0aWFsaXplcmAg5L+u6aWw56ym56Gu5L+d5Yid5aeL5YyW5Ye95pWw5Y+q6IO96KKr6LCD55So5LiA5qyh44CCT3BlblplcHBlbGluIOeahCBgSW5pdGlhbGl6YWJsZWAg5ZCI57qm5o+Q5L6b5LqG6L+Z5Liq5Yqf6IO944CCCgrov5jmnInkuIDkuKrlronlhajpl67popjvvJrlrp7njrDlkIjnuqbmnKzouqvkuZ/lj6/ku6XooqvliJ3lp4vljJbjgILmlLvlh7vogIXlj6/og73nm7TmjqXosIPnlKjlrp7njrDlkIjnuqbnmoQgYGluaXRpYWxpemVgIOWHveaVsO+8jOiOt+WPluWunueOsOWQiOe6pueahOaOp+WItuadg+OAguiZveeEtui/memAmuW4uOS4jeS8muW9seWTjeS7o+eQhuWQiOe6pu+8jOS9huacgOWlveWcqOWunueOsOWQiOe6pueahOaehOmAoOWHveaVsOS4reemgeeUqOWIneWni+WMlu+8mgoKYGBgc29saWRpdHkKY29udHJhY3QgU2VjdXJlSW1wbGVtZW50YXRpb24gaXMgSW5pdGlhbGl6YWJsZSB7CiAgICBhZGRyZXNzIHB1YmxpYyBvd25lcjsKICAgIAogICAgLy8vIEBjdXN0b206b3otdXBncmFkZXMtdW5zYWZlLWFsbG93IGNvbnN0cnVjdG9yCiAgICBjb25zdHJ1Y3RvcigpIHsKICAgICAgICBfZGlzYWJsZUluaXRpYWxpemVycygpOwogICAgfQogICAgCiAgICBmdW5jdGlvbiBpbml0aWFsaXplKGFkZHJlc3MgX293bmVyKSBleHRlcm5hbCBpbml0aWFsaXplciB7CiAgICAgICAgb3duZXIgPSBfb3duZXI7CiAgICB9Cn0KYGBgCgotLS0KCiMjIOS9v+eUqCBPcGVuWmVwcGVsaW4g5bel5YW3CgrmiYvliqjlrp7njrDku6PnkIbmqKHlvI/lrrnmmJPlh7rplJnjgIJPcGVuWmVwcGVsaW4g5o+Q5L6b5LqG57uP6L+H5a6h6K6h55qE5a6e546w5ZKM6YOo572y5bel5YW344CCCgojIyMgSGFyZGhhdCDpg6jnvbIKCmBgYGJhc2gKbnBtIGluc3RhbGwgQG9wZW56ZXBwZWxpbi9oYXJkaGF0LXVwZ3JhZGVzCmBgYAoKYGBgamF2YXNjcmlwdApjb25zdCB7IGV0aGVycywgdXBncmFkZXMgfSA9IHJlcXVpcmUoImhhcmRoYXQiKTsKCmFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7CiAgICBjb25zdCBNeUNvbnRyYWN0ID0gYXdhaXQgZXRoZXJzLmdldENvbnRyYWN0RmFjdG9yeSgiTXlDb250cmFjdFYxIik7CiAgICAKICAgIGNvbnN0IHByb3h5ID0gYXdhaXQgdXBncmFkZXMuZGVwbG95UHJveHkoTXlDb250cmFjdCwgW2luaXRBcmddLCB7CiAgICAgICAgaW5pdGlhbGl6ZXI6ICJpbml0aWFsaXplIiwKICAgICAgICBraW5kOiAidXVwcyIKICAgIH0pOwogICAgCiAgICBjb25zb2xlLmxvZygiUHJveHkgZGVwbG95ZWQgdG86IiwgcHJveHkuYWRkcmVzcyk7Cn0KCmFzeW5jIGZ1bmN0aW9uIHVwZ3JhZGUoKSB7CiAgICBjb25zdCBNeUNvbnRyYWN0VjIgPSBhd2FpdCBldGhlcnMuZ2V0Q29udHJhY3RGYWN0b3J5KCJNeUNvbnRyYWN0VjIiKTsKICAgIAogICAgYXdhaXQgdXBncmFkZXMudXBncmFkZVByb3h5KHByb3h5QWRkcmVzcywgTXlDb250cmFjdFYyKTsKICAgIAogICAgY29uc29sZS5sb2coIlVwZ3JhZGVkISIpOwp9CmBgYAoKIyMjIEZvdW5kcnkg6YOo572yCgpgYGBiYXNoCmZvcmdlIGluc3RhbGwgT3BlblplcHBlbGluL29wZW56ZXBwZWxpbi1mb3VuZHJ5LXVwZ3JhZGVzCmBgYAoKT3BlblplcHBlbGluIOeahOW3peWFt+S8muiHquWKqOajgOafpeWtmOWCqOW4g+WxgOWFvOWuueaAp++8jOWcqOWNh+e6p+WJjemqjOivgeaWsOWunueOsOWQiOe6puaYr+WQpuWuieWFqOOAggoKLS0tCgojIyDpgInmi6nlk6rnp43mqKHlvI8KCuS4ieenjeS7o+eQhuaooeW8j+WQhOaciemAgueUqOWcuuaZr++8mgoKKipUcmFuc3BhcmVudCBQcm94eSoqIOmAguWQiOeugOWNleWcuuaZr++8jOamguW/tea4heaZsO+8jOmjjumZqeacgOS9juOAgue8uueCueaYr+avj+asoeiwg+eUqOmDveaciemineWklueahCBHYXMg5byA6ZSA44CCCgoqKlVVUFMqKiDmmK/lpKflpJrmlbDlnLrmma/nmoTpppbpgInjgIJHYXMg5pWI546H5pyA6auY77yM5L2G6ZyA6KaB5rOo5oSP5LiN6KaB6ZSB5q275Y2H57qn6IO95Yqb44CCT3BlblplcHBlbGluIOeahOWunueOsOW3sue7j+WMheWQq+S6humYsumUgeatu+ajgOafpeOAggoKKipCZWFjb24gUHJveHkqKiDpgILlkIjlt6XljoLmqKHlvI/vvIzlvZPpnIDopoHpg6jnvbLlpKfph4/nm7jlkIzpgLvovpHnmoTlkIjnuqblubbmibnph4/ljYfnuqfml7bkvb/nlKjjgIIKCuaXoOiuuumAieaLqeWTquenjeaooeW8j++8jOmDveimgeiusOS9j++8muWNh+e6p+iDveWKm+aYr+S4gOaKiuWPjOWIg+WJkeOAguWug+aPkOS+m+S6huS/ruWkjea8j+a0nueahOiDveWKm++8jOS9huS5n+W8leWFpeS6huS4reW/g+WMlumjjumZqeKAlOKAlOaOp+WItuWNh+e6p+adg+mZkOeahOS6uuWPr+S7peS7u+aEj+S/ruaUueWQiOe6pumAu+i+keOAguiuuOWkmuWNj+iuruS9v+eUqOaXtumXtOmUgeWSjOWkmuetvuadpee8k+ino+i/meS4qumjjumZqe+8jOe7meeUqOaIt+i2s+Wkn+eahOaXtumXtOWcqOWNh+e6p+eUn+aViOWJjemAgOWHuuOAggoKLS0tCgojIyDmgLvnu5MKCuS7o+eQhuaooeW8j+mAmui/hyBgZGVsZWdhdGVjYWxsYCDlrp7njrDkuobmmbrog73lkIjnuqbnmoTlj6/ljYfnuqfmgKfjgILnkIbop6PlrZjlgqjluIPlsYDjgIHpgInmi6nlkIjpgILnmoTku6PnkIbmqKHlvI/jgIHmraPnoa7kvb/nlKjliJ3lp4vljJblh73mlbDvvIzmmK/lronlhajlrp7njrDljYfnuqfnmoTlhbPplK7jgIIKCuS9huWNh+e6p+iDveWKm+S5n+W4puadpeS6huS/oeS7u+mXrumimOOAgueUqOaIt+mcgOimgeS/oeS7u+WNh+e6p+adg+mZkOeahOaMgeacieiAheS4jeS8muaBtuaEj+S/ruaUueWQiOe6puOAguWcqOiuvuiuoeWNh+e6p+acuuWItuaXtu+8jOW6lOivpeiAg+iZkeS9v+eUqOaXtumXtOmUgeOAgeWkmuetvuOAgeeUmuiHs+acgOe7iOaUvuW8g+WNh+e6p+adg+mZkO+8jOS7peW5s+ihoeeBtea0u+aAp+WSjOWOu+S4reW/g+WMluOAggoK5LiL5LiA56ug5bCG6K6o6K665rWL6K+V5ZKM6YOo572y77yM6L+Z5piv5bCG5ZCI57qm5a6J5YWo5Zyw5o6o5ZCR55Sf5Lqn546v5aKD55qE5pyA5ZCO5LiA5q2l44CCCgotLS0KCiMjIOWPguiAg+aWh+eMrgoKLSBbRUlQLTE5Njc6IFByb3h5IFN0b3JhZ2UgU2xvdHNdKGh0dHBzOi8vZWlwcy5ldGhlcmV1bS5vcmcvRUlQUy9laXAtMTk2NykKLSBbRUlQLTE4MjI6IFVuaXZlcnNhbCBVcGdyYWRlYWJsZSBQcm94eSBTdGFuZGFyZCAoVVVQUyldKGh0dHBzOi8vZWlwcy5ldGhlcmV1bS5vcmcvRUlQUy9laXAtMTgyMikKLSBbT3BlblplcHBlbGluIFVwZ3JhZGVzIFBsdWdpbnNdKGh0dHBzOi8vZG9jcy5vcGVuemVwcGVsaW4uY29tL3VwZ3JhZGVzLXBsdWdpbnMvKQotIFtPcGVuWmVwcGVsaW4gUHJveHkgQ29udHJhY3RzXShodHRwczovL2RvY3Mub3BlbnplcHBlbGluLmNvbS9jb250cmFjdHMvNC54L2FwaS9wcm94eSkKLSBbUHJveHkgVXBncmFkZSBQYXR0ZXJuXShodHRwczovL2RvY3Mub3BlbnplcHBlbGluLmNvbS91cGdyYWRlcy1wbHVnaW5zLzEueC9wcm94aWVzKQo="}
+# 第 7 章：升级模式
+
+> 智能合约一旦部署，代码就无法修改。但通过代理模式，可以在保留数据的同时更新逻辑。理解升级机制的原理和风险，是构建可维护 DeFi 系统的关键。
+
+---
+
+## 为什么需要升级
+
+智能合约的不可变性是一把双刃剑。它保证了代码的可信度——用户可以验证合约的行为永远不会改变。但这也意味着，如果发现漏洞、需要添加功能或优化 Gas 消耗，就必须部署新合约并迁移所有数据。
+
+2016 年的 DAO 攻击是一个典型案例。攻击者利用重入漏洞盗取了价值 6000 万美元的 ETH，而合约无法修复，最终导致以太坊硬分叉。如果当时有升级机制，损失可能会小得多。
+
+代理模式解决了这个问题。它将合约分为两部分：存储数据的代理合约和包含业务逻辑的实现合约。升级时只需更换实现合约，数据保持不变。这种架构在 DeFi 协议中被广泛采用——Compound、Aave、Uniswap V3 都使用了某种形式的代理模式。
+
+---
+
+## 代理模式的核心：delegatecall
+
+代理模式的基础是 EVM 的 `delegatecall` 指令。与普通的 `call` 不同，`delegatecall` 执行目标合约的代码，但使用调用者的存储空间和上下文。这意味着 `msg.sender`、`msg.value` 保持不变，状态变量的修改发生在调用者的存储中。
+
+![代理模式架构](/images/scriptures/smart-contracts/07-proxy-architecture.png)
+
+当用户调用代理合约的某个函数时，代理合约通过 `delegatecall` 将调用转发给实现合约。实现合约的代码被执行，但所有存储操作都发生在代理合约的存储空间中。从用户的角度看，他们只与代理合约交互，完全不知道实现合约的存在。
+
+一个最简单的代理实现如下：
+
+```solidity
+contract SimpleProxy {
+    address public implementation;
+    
+    constructor(address _implementation) {
+        implementation = _implementation;
+    }
+    
+    fallback() external payable {
+        address impl = implementation;
+        
+        assembly {
+            calldatacopy(0, 0, calldatasize())
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            returndatacopy(0, 0, returndatasize())
+            
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+}
+```
+
+`fallback` 函数捕获所有对代理合约的调用。它将完整的 calldata 复制到内存，然后通过 `delegatecall` 转发给实现合约。返回数据被复制回来，根据调用结果决定返回还是回滚。
+
+这段汇编代码看起来复杂，但逻辑很直接：复制输入 → 调用实现 → 复制输出 → 返回结果。使用汇编是因为 Solidity 不支持直接转发任意函数调用。
+
+---
+
+## 存储布局：代理模式的致命陷阱
+
+代理模式最危险的问题是存储布局冲突。由于 `delegatecall` 使用调用者的存储空间，如果代理合约和实现合约的存储布局不一致，就会发生数据覆盖。
+
+![存储布局与冲突](/images/scriptures/smart-contracts/07-storage-layout.png)
+
+考虑这个错误示例：
+
+```solidity
+contract Proxy {
+    address public implementation;  // slot 0
+    address public admin;           // slot 1
+}
+
+contract LogicV1 {
+    uint256 public value;           // slot 0
+    address public owner;           // slot 1
+}
+```
+
+当 `LogicV1` 的代码通过 `delegatecall` 执行时，它写入 `value` 实际上是写入 slot 0——这会覆盖代理合约的 `implementation` 地址。写入 `owner` 会覆盖 `admin`。这种冲突可能导致合约完全失控。
+
+### EIP-1967：标准存储槽
+
+EIP-1967 定义了一套标准的存储槽位置，专门用于代理合约的元数据。这些槽位置是通过对特定字符串取哈希再减 1 得到的，几乎不可能与正常的存储变量冲突。
+
+```solidity
+bytes32 constant IMPLEMENTATION_SLOT = 
+    bytes32(uint256(keccak256("eip1967.proxy.implementation")) - 1);
+// = 0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc
+
+bytes32 constant ADMIN_SLOT = 
+    bytes32(uint256(keccak256("eip1967.proxy.admin")) - 1);
+// = 0xb53127684a568b3173ae13b9f8a6016e243e63b6e8ee1178d6a717850b5d6103
+```
+
+使用这些标准槽，代理合约的存储布局从 slot 0 开始就是空的，完全留给实现合约使用。实现合约可以自由定义自己的存储变量，不用担心与代理合约冲突。
+
+```solidity
+contract EIP1967Proxy {
+    bytes32 private constant IMPLEMENTATION_SLOT = 
+        0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc;
+    
+    constructor(address _implementation) {
+        assembly {
+            sstore(IMPLEMENTATION_SLOT, _implementation)
+        }
+    }
+    
+    function _getImplementation() internal view returns (address impl) {
+        assembly {
+            impl := sload(IMPLEMENTATION_SLOT)
+        }
+    }
+    
+    fallback() external payable {
+        address impl = _getImplementation();
+        assembly {
+            calldatacopy(0, 0, calldatasize())
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            returndatacopy(0, 0, returndatasize())
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+}
+```
+
+---
+
+## Transparent Proxy：经典方案
+
+OpenZeppelin 的 Transparent Proxy 是最早被广泛采用的代理模式。它的核心思想是通过调用者身份区分管理函数和业务函数：管理员调用代理合约的函数（如 `upgradeTo`），普通用户的调用被转发到实现合约。
+
+```solidity
+contract TransparentProxy {
+    modifier ifAdmin() {
+        if (msg.sender == _getAdmin()) {
+            _;
+        } else {
+            _fallback();
+        }
+    }
+    
+    function upgradeTo(address newImplementation) external ifAdmin {
+        _setImplementation(newImplementation);
+    }
+    
+    function changeAdmin(address newAdmin) external ifAdmin {
+        _setAdmin(newAdmin);
+    }
+    
+    function _fallback() internal {
+        address impl = _getImplementation();
+        assembly {
+            calldatacopy(0, 0, calldatasize())
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            returndatacopy(0, 0, returndatasize())
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+    
+    fallback() external payable {
+        _fallback();
+    }
+}
+```
+
+这种设计解决了函数选择器冲突的问题。如果代理合约和实现合约都有一个叫 `upgradeTo` 的函数，普通用户调用时会执行实现合约的版本，管理员调用时会执行代理合约的版本。
+
+但 Transparent Proxy 有一个明显的缺点：每次调用都需要检查 `msg.sender == admin`，这增加了约 2100 Gas 的开销（读取 admin 地址的 SLOAD 操作）。对于高频调用的合约，这个开销会累积成可观的成本。
+
+---
+
+## UUPS：更高效的选择
+
+Universal Upgradeable Proxy Standard（UUPS）将升级逻辑从代理合约移到实现合约中。代理合约变得极其简单，只负责转发调用。升级函数 `upgradeTo` 定义在实现合约中，通过 `delegatecall` 执行时会修改代理合约存储的实现地址。
+
+```solidity
+contract UUPSProxy {
+    bytes32 private constant IMPLEMENTATION_SLOT = 
+        0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc;
+    
+    constructor(address _implementation, bytes memory _data) {
+        assembly {
+            sstore(IMPLEMENTATION_SLOT, _implementation)
+        }
+        if (_data.length > 0) {
+            (bool success, ) = _implementation.delegatecall(_data);
+            require(success, "Init failed");
+        }
+    }
+    
+    fallback() external payable {
+        assembly {
+            let impl := sload(IMPLEMENTATION_SLOT)
+            calldatacopy(0, 0, calldatasize())
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            returndatacopy(0, 0, returndatasize())
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+}
+```
+
+实现合约需要继承一个包含升级逻辑的基类：
+
+```solidity
+abstract contract UUPSUpgradeable {
+    bytes32 private constant IMPLEMENTATION_SLOT = 
+        0x360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc;
+    
+    function upgradeTo(address newImplementation) external virtual {
+        _authorizeUpgrade(newImplementation);
+        assembly {
+            sstore(IMPLEMENTATION_SLOT, newImplementation)
+        }
+    }
+    
+    function _authorizeUpgrade(address newImplementation) internal virtual;
+}
+
+contract MyContractV1 is UUPSUpgradeable {
+    address public owner;
+    uint256 public value;
+    
+    function initialize(address _owner) external {
+        require(owner == address(0), "Already initialized");
+        owner = _owner;
+    }
+    
+    function setValue(uint256 _value) external {
+        value = _value;
+    }
+    
+    function _authorizeUpgrade(address) internal override {
+        require(msg.sender == owner, "Not owner");
+    }
+}
+```
+
+UUPS 的优势在于效率。普通调用不需要任何额外检查，直接转发到实现合约。只有在调用 `upgradeTo` 时才会执行权限检查。这使得 UUPS 成为大多数场景的首选。
+
+但 UUPS 有一个严重的风险：如果升级到一个没有 `upgradeTo` 函数的实现合约，合约就永远无法再升级了。这种"锁死"是不可逆的。
+
+```solidity
+contract MyContractV2Bad {
+    // 忘记继承 UUPSUpgradeable
+    // 没有 upgradeTo 函数
+    // 升级到这个版本后，合约将永远无法再升级
+}
+```
+
+为了防止这种情况，OpenZeppelin 的 UUPS 实现会在升级时验证新实现合约确实包含升级函数。
+
+---
+
+## Beacon Proxy：批量升级
+
+当需要部署大量相同逻辑的合约时（如每个用户一个钱包合约），Beacon Proxy 是更好的选择。所有代理合约共享一个 Beacon 合约，Beacon 存储实现合约的地址。升级 Beacon 就等于同时升级所有代理。
+
+![三种代理模式对比](/images/scriptures/smart-contracts/07-proxy-comparison.png)
+
+```solidity
+contract Beacon {
+    address public implementation;
+    address public owner;
+    
+    constructor(address _implementation) {
+        implementation = _implementation;
+        owner = msg.sender;
+    }
+    
+    function upgradeTo(address newImplementation) external {
+        require(msg.sender == owner, "Not owner");
+        implementation = newImplementation;
+    }
+}
+
+contract BeaconProxy {
+    address public beacon;
+    
+    constructor(address _beacon, bytes memory _data) {
+        beacon = _beacon;
+        if (_data.length > 0) {
+            address impl = IBeacon(_beacon).implementation();
+            (bool success, ) = impl.delegatecall(_data);
+            require(success, "Init failed");
+        }
+    }
+    
+    fallback() external payable {
+        address impl = IBeacon(beacon).implementation();
+        assembly {
+            calldatacopy(0, 0, calldatasize())
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            returndatacopy(0, 0, returndatasize())
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+}
+```
+
+Beacon Proxy 的每次调用都需要先查询 Beacon 获取实现地址，这增加了一次外部调用的开销。但对于需要批量升级的场景，这个开销是值得的——一次升级操作就能更新成百上千个代理合约。
+
+---
+
+## 升级兼容性
+
+升级实现合约时，必须保持存储布局的兼容性。EVM 的存储是按槽位（slot）组织的，每个状态变量占据固定的槽位。如果新版本改变了变量的顺序或类型，就会导致数据错乱。
+
+### 存储布局规则
+
+升级时必须遵守以下规则：
+
+1. **只能在末尾添加新变量**
+2. **不能删除现有变量**
+3. **不能改变变量顺序**
+4. **不能改变变量类型**
+5. **不能在现有变量之间插入新变量**
+
+```solidity
+contract MyContractV1 {
+    uint256 public value;      // slot 0
+    address public owner;      // slot 1
+}
+
+contract MyContractV2 {
+    uint256 public value;      // slot 0 - 保持不变
+    address public owner;      // slot 1 - 保持不变
+    uint256 public newValue;   // slot 2 - 新增，在末尾
+}
+
+contract MyContractV2Bad {
+    uint256 public newValue;   // slot 0 - 错误！覆盖了 value
+    uint256 public value;      // slot 1 - 错误！覆盖了 owner
+    address public owner;      // slot 2
+}
+```
+
+### 使用 Gap 预留空间
+
+为了给未来升级预留空间，可以在合约末尾定义一个 gap 数组：
+
+```solidity
+contract MyContractV1 {
+    uint256 public value;
+    address public owner;
+    
+    uint256[50] private __gap;  // 预留 50 个槽位
+}
+
+contract MyContractV2 {
+    uint256 public value;
+    address public owner;
+    uint256 public newValue;    // 使用一个预留槽
+    
+    uint256[49] private __gap;  // 减少一个
+}
+```
+
+这种模式在继承链中特别有用。每个基类都预留自己的 gap，子类可以安全地添加新变量。
+
+---
+
+## 初始化：不能使用 constructor
+
+代理模式有一个重要的限制：实现合约不能使用 `constructor`。构造函数只在合约部署时执行一次，而代理模式下，实现合约的部署和代理合约的部署是分开的。构造函数设置的状态变量存储在实现合约的存储空间中，而不是代理合约的存储空间中。
+
+```solidity
+contract BadImplementation {
+    address public owner;
+    
+    constructor() {
+        owner = msg.sender;  // 这设置的是实现合约的存储，不是代理的
+    }
+}
+```
+
+正确的做法是使用初始化函数：
+
+```solidity
+import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
+
+contract GoodImplementation is Initializable {
+    address public owner;
+    
+    function initialize(address _owner) external initializer {
+        owner = _owner;
+    }
+}
+```
+
+`initializer` 修饰符确保初始化函数只能被调用一次。OpenZeppelin 的 `Initializable` 合约提供了这个功能。
+
+还有一个安全问题：实现合约本身也可以被初始化。攻击者可能直接调用实现合约的 `initialize` 函数，获取实现合约的控制权。虽然这通常不会影响代理合约，但最好在实现合约的构造函数中禁用初始化：
+
+```solidity
+contract SecureImplementation is Initializable {
+    address public owner;
+    
+    /// @custom:oz-upgrades-unsafe-allow constructor
+    constructor() {
+        _disableInitializers();
+    }
+    
+    function initialize(address _owner) external initializer {
+        owner = _owner;
+    }
+}
+```
+
+---
+
+## 使用 OpenZeppelin 工具
+
+手动实现代理模式容易出错。OpenZeppelin 提供了经过审计的实现和部署工具。
+
+### Hardhat 部署
+
+```bash
+npm install @openzeppelin/hardhat-upgrades
+```
+
+```javascript
+const { ethers, upgrades } = require("hardhat");
+
+async function main() {
+    const MyContract = await ethers.getContractFactory("MyContractV1");
+    
+    const proxy = await upgrades.deployProxy(MyContract, [initArg], {
+        initializer: "initialize",
+        kind: "uups"
+    });
+    
+    console.log("Proxy deployed to:", proxy.address);
+}
+
+async function upgrade() {
+    const MyContractV2 = await ethers.getContractFactory("MyContractV2");
+    
+    await upgrades.upgradeProxy(proxyAddress, MyContractV2);
+    
+    console.log("Upgraded!");
+}
+```
+
+### Foundry 部署
+
+```bash
+forge install OpenZeppelin/openzeppelin-foundry-upgrades
+```
+
+OpenZeppelin 的工具会自动检查存储布局兼容性，在升级前验证新实现合约是否安全。
+
+---
+
+## 选择哪种模式
+
+三种代理模式各有适用场景：
+
+**Transparent Proxy** 适合简单场景，概念清晰，风险最低。缺点是每次调用都有额外的 Gas 开销。
+
+**UUPS** 是大多数场景的首选。Gas 效率最高，但需要注意不要锁死升级能力。OpenZeppelin 的实现已经包含了防锁死检查。
+
+**Beacon Proxy** 适合工厂模式，当需要部署大量相同逻辑的合约并批量升级时使用。
+
+无论选择哪种模式，都要记住：升级能力是一把双刃剑。它提供了修复漏洞的能力，但也引入了中心化风险——控制升级权限的人可以任意修改合约逻辑。许多协议使用时间锁和多签来缓解这个风险，给用户足够的时间在升级生效前退出。
+
+---
+
+## 总结
+
+代理模式通过 `delegatecall` 实现了智能合约的可升级性。理解存储布局、选择合适的代理模式、正确使用初始化函数，是安全实现升级的关键。
+
+但升级能力也带来了信任问题。用户需要信任升级权限的持有者不会恶意修改合约。在设计升级机制时，应该考虑使用时间锁、多签、甚至最终放弃升级权限，以平衡灵活性和去中心化。
+
+下一章将讨论测试和部署，这是将合约安全地推向生产环境的最后一步。
+
+---
+
+## 参考文献
+
+- [EIP-1967: Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967)
+- [EIP-1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
+- [OpenZeppelin Upgrades Plugins](https://docs.openzeppelin.com/upgrades-plugins/)
+- [OpenZeppelin Proxy Contracts](https://docs.openzeppelin.com/contracts/4.x/api/proxy)
+- [Proxy Upgrade Pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies)

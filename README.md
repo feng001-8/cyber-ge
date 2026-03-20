@@ -1,1 +1,43 @@
-{"data":"IyBBc3RybyBTdGFydGVyIEtpdDogTWluaW1hbAoKYGBgc2gKbnBtIGNyZWF0ZSBhc3Ryb0BsYXRlc3QgLS0gLS10ZW1wbGF0ZSBtaW5pbWFsCmBgYAoKPiDwn6eR4oCN8J+agCAqKlNlYXNvbmVkIGFzdHJvbmF1dD8qKiBEZWxldGUgdGhpcyBmaWxlLiBIYXZlIGZ1biEKCiMjIPCfmoAgUHJvamVjdCBTdHJ1Y3R1cmUKCkluc2lkZSBvZiB5b3VyIEFzdHJvIHByb2plY3QsIHlvdSdsbCBzZWUgdGhlIGZvbGxvd2luZyBmb2xkZXJzIGFuZCBmaWxlczoKCmBgYHRleHQKLwrilJzilIDilIAgcHVibGljLwrilJzilIDilIAgc3JjLwrilIIgICDilJTilIDilIAgcGFnZXMvCuKUgiAgICAgICDilJTilIDilIAgaW5kZXguYXN0cm8K4pSU4pSA4pSAIHBhY2thZ2UuanNvbgpgYGAKCkFzdHJvIGxvb2tzIGZvciBgLmFzdHJvYCBvciBgLm1kYCBmaWxlcyBpbiB0aGUgYHNyYy9wYWdlcy9gIGRpcmVjdG9yeS4gRWFjaCBwYWdlIGlzIGV4cG9zZWQgYXMgYSByb3V0ZSBiYXNlZCBvbiBpdHMgZmlsZSBuYW1lLgoKVGhlcmUncyBub3RoaW5nIHNwZWNpYWwgYWJvdXQgYHNyYy9jb21wb25lbnRzL2AsIGJ1dCB0aGF0J3Mgd2hlcmUgd2UgbGlrZSB0byBwdXQgYW55IEFzdHJvL1JlYWN0L1Z1ZS9TdmVsdGUvUHJlYWN0IGNvbXBvbmVudHMuCgpBbnkgc3RhdGljIGFzc2V0cywgbGlrZSBpbWFnZXMsIGNhbiBiZSBwbGFjZWQgaW4gdGhlIGBwdWJsaWMvYCBkaXJlY3RvcnkuCgojIyDwn6eeIENvbW1hbmRzCgpBbGwgY29tbWFuZHMgYXJlIHJ1biBmcm9tIHRoZSByb290IG9mIHRoZSBwcm9qZWN0LCBmcm9tIGEgdGVybWluYWw6Cgp8IENvbW1hbmQgICAgICAgICAgICAgICAgICAgfCBBY3Rpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gfCA6LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gfAp8IGBucG0gaW5zdGFsbGAgICAgICAgICAgICAgfCBJbnN0YWxscyBkZXBlbmRlbmNpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IGBucG0gcnVuIGRldmAgICAgICAgICAgICAgfCBTdGFydHMgbG9jYWwgZGV2IHNlcnZlciBhdCBgbG9jYWxob3N0OjQzMjFgICAgICAgfAp8IGBucG0gcnVuIGJ1aWxkYCAgICAgICAgICAgfCBCdWlsZCB5b3VyIHByb2R1Y3Rpb24gc2l0ZSB0byBgLi9kaXN0L2AgICAgICAgICAgfAp8IGBucG0gcnVuIHByZXZpZXdgICAgICAgICAgfCBQcmV2aWV3IHlvdXIgYnVpbGQgbG9jYWxseSwgYmVmb3JlIGRlcGxveWluZyAgICAgfAp8IGBucG0gcnVuIGFzdHJvIC4uLmAgICAgICAgfCBSdW4gQ0xJIGNvbW1hbmRzIGxpa2UgYGFzdHJvIGFkZGAsIGBhc3RybyBjaGVja2AgfAp8IGBucG0gcnVuIGFzdHJvIC0tIC0taGVscGAgfCBHZXQgaGVscCB1c2luZyB0aGUgQXN0cm8gQ0xJICAgICAgICAgICAgICAgICAgICAgfAoKIyMg8J+RgCBXYW50IHRvIGxlYXJuIG1vcmU/CgpGZWVsIGZyZWUgdG8gY2hlY2sgW291ciBkb2N1bWVudGF0aW9uXShodHRwczovL2RvY3MuYXN0cm8uYnVpbGQpIG9yIGp1bXAgaW50byBvdXIgW0Rpc2NvcmQgc2VydmVyXShodHRwczovL2FzdHJvLmJ1aWxkL2NoYXQpLgo="}
+# Astro Starter Kit: Minimal
+
+```sh
+npm create astro@latest -- --template minimal
+```
+
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+
+## 🚀 Project Structure
+
+Inside of your Astro project, you'll see the following folders and files:
+
+```text
+/
+├── public/
+├── src/
+│   └── pages/
+│       └── index.astro
+└── package.json
+```
+
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+
+Any static assets, like images, can be placed in the `public/` directory.
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more?
+
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).

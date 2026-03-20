@@ -1,1 +1,261 @@
-{"data":"LS0tCnRpdGxlOiAiVW5pc3dhcCBWNCDmnrbmnoTop6PmnpDvvJrljZXkvovlkIjnuqbkuI4gSG9va3Mg5py65Yi2IgpkZXNjcmlwdGlvbjogIua3seWFpeeQhuinoyBVbmlzd2FwIFY0IOeahOaetuaehOmdqeaWsO+8muWNleS+i+WQiOe6puWmguS9lemZjeS9jiBHYXPjgIFIb29rcyDlpoLkvZXlrp7njrDlj6/nvJbnqIvmsaDlrZDjgIFGbGFzaCBBY2NvdW50aW5nIOWmguS9leS8mOWMlui3qOaxoOS6pOaYk+OAgiIKcHViRGF0ZTogIjIwMjYtMDMtMDEiCnRhZ3M6IFsiRGVGaSIsICJVbmlzd2FwIiwgIuaZuuiDveWQiOe6piIsICLmnrbmnoQiXQpoZXhhZ3JhbTogIuS3nCIKZWxlbWVudDogIndhdGVyIgotLS0KCioqVEw7RFI6KiogVW5pc3dhcCBWNCDpgJrov4fkuInpobnmoLjlv4PliJvmlrDph43loZHkuoYgQU1NIOaetuaehO+8migxKSDljZXkvovlkIjnuqblsIbmiYDmnInmsaDlrZDnirbmgIHpm4bkuK3nrqHnkIbvvIzot6jmsaDkuqTmmJMgR2FzIOmZjeS9jiA5OSXvvJsoMikgSG9va3Mg5py65Yi26K6p5q+P5Liq5rGg5a2Q5Y+v5Lul6Ieq5a6a5LmJ6KGM5Li677yM5LuOIFRXQU1NIOWIsOWKqOaAgeaJi+e7rei0uemDveiDveWunueOsO+8mygzKSBGbGFzaCBBY2NvdW50aW5nIOW7tui/n+e7k+eul++8jOS4gOeslOS6pOaYk+WGheeahOWkmuasoeaTjeS9nOWPqumcgOacgOe7iOWHgOminei9rOi0puOAgueQhuino+i/meS6m+iuvuiuoe+8jOaYr+eQhuino+S4i+S4gOS7oyBERVgg55qE5YWz6ZSu44CCCgo+ICoq5YmN572u55+l6K+GKirvvJrmnKzmloflgYforr7or7vogIXnhp/mgokgVW5pc3dhcCBWMyDnmoTpm4bkuK3mtYHliqjmgKfmnLrliLbjgILlpoLmnpzkuI3nhp/mgonvvIzlu7rorq7lhYjpmIXor7sgW1VuaXN3YXAgVjMg55m955qu5LmmXShodHRwczovL3VuaXN3YXAub3JnL3doaXRlcGFwZXItdjMucGRmKeOAggoKLS0tCgojIyDku44gVjMg5YiwIFY077ya5Li65LuA5LmI6ZyA6KaB5p625p6E6Z2p5pawCgoyMDIxIOW5tCBVbmlzd2FwIFYzIOW8leWFpembhuS4rea1geWKqOaAp++8jOiuqSBMUCDlj6/ku6XpgInmi6nku7fmoLzljLrpl7TvvIzotYTmnKzmlYjnjofmj5DljYfkuoYgNDAwMCDlgI3jgILkvYYgVjMg55qE5p625p6E5pyJ5LiA5Liq5qC55pys5oCn6Zeu6aKY77yaKirmr4/kuKrmsaDlrZDpg73mmK/ni6znq4vlkIjnuqYqKuOAggoK6L+Z5oSP5ZGz552A5LuA5LmI77yfCgrlgYforr7kvaDopoHnlKggRVRIIOS5sCBVU0RD77yM5pyA5LyY6Lev5b6E5pivIEVUSCDihpIgV0JUQyDihpIgVVNEQ+OAguWcqCBWMyDkuK3vvIzov5npnIDopoHkuKTmrKHot6jlkIjnuqbosIPnlKjvvJrlhYjosIPnlKggRVRILVdCVEMg5rGg5ZCI57qm77yM5YaN6LCD55SoIFdCVEMtVVNEQyDmsaDlkIjnuqbjgILmr4/mrKHot6jlkIjnuqbosIPnlKjpg73opoHmlK/ku5jpop3lpJbnmoQgR2Fz77yI57qmIDI2MDAgZ2FzIOeahCBDQUxMIOW8gOmUgO+8ie+8jOi/mOimgei/m+ihjOS4pOasoSBFUkMyMCDovazotKbvvIjmr4/mrKHnuqYgNTAwMC0yMDAwMCBnYXPvvInjgIIKCuabtOezn+ezleeahOaYr++8jFYzIOWcqOS7peWkquWdiuS4iumDqOe9suS6hui2hei/hyA1MDAwIOS4quaxoOWtkOWQiOe6puOAguWvueS6jiBERVgg6IGa5ZCI5Zmo5p2l6K+077yM6I635Y+W5omA5pyJ5rGg5a2Q55qE54q25oCB6ZyA6KaB6YGN5Y6G5pWw5Y2D5Liq5ZCI57qm5Zyw5Z2A77yM6L+Z5piv5beo5aSn55qEIFJQQyDlvIDplIDjgIIKClY0IOeahOino+WGs+aWueahiOaYryoq5p625p6E5bGC6Z2i55qE6YeN5p6EKirvvIzogIzkuI3mmK/nrpfms5XlsYLpnaLnmoTkvJjljJbjgIIKCi0tLQoKIyMg5Y2V5L6L5ZCI57qm77ya5LuO5YiG5pWj5Yiw6ZuG5LitCgojIyMg6K6+6K6h55CG5b+1CgpWNCDph4fnlKjkuoYqKuWNleS+i+aooeW8jyoq77yIU2luZ2xldG9uIFBhdHRlcm7vvInjgILmiYDmnInmsaDlrZDnmoTnirbmgIHpg73lrZjlgqjlnKjkuIDkuKogUG9vbE1hbmFnZXIg5ZCI57qm5Lit77yaCgpgYGAKUG9vbE1hbmFnZXIgKFNpbmdsZXRvbikKICAgIOKUnOKUgOKUgCBQb29sIDEgU3RhdGUgKEVUSC1VU0RDKQogICAg4pSc4pSA4pSAIFBvb2wgMiBTdGF0ZSAoV0JUQy1FVEgpCiAgICDilJzilIDilIAgUG9vbCAzIFN0YXRlIChVU0RDLURBSSkKICAgIOKUlOKUgOKUgCAuLi4gKOaJgOacieaxoOWtkCkKYGBgCgrov5nkuKrorr7orqHnmoTlpb3lpITmmK/mmL7ogIzmmJPop4HnmoTvvJoKCioqMS4g6Leo5rGg5Lqk5piT5Y+Y5oiQ5YaF6YOo54q25oCB5Y+Y5pu0KioKClYzIOeahCBFVEgg4oaSIFdCVEMg4oaSIFVTREMg6Lev5b6E6ZyA6KaB5Lik5qyh6Leo5ZCI57qm6LCD55So44CCVjQg5Lit77yM6L+Z5Y+q5pivIFBvb2xNYW5hZ2VyIOWGhemDqOeahOS4pOasoeeKtuaAgeWPmOabtO+8jOayoeaciSBDQUxMIOW8gOmUgOOAggoKKioyLiDmlbDmja7ojrflj5bpm4bkuK3ljJYqKgoK5LiN5YaN6ZyA6KaB6YGN5Y6G5pWw5Y2D5Liq5ZCI57qm5Zyw5Z2A44CC5omA5pyJ5rGg5a2Q54q25oCB6YO95ZyoIFBvb2xNYW5hZ2VyIOS4re+8jOS4gOasoeiwg+eUqOWwseiDveiOt+WPluWkmuS4quaxoOWtkOeahOaVsOaNruOAggoKKiozLiDljp/nlJ8gRVRIIOaUr+aMgSoqCgpWMyDlv4XpobvlhYjlsIYgRVRIIOWMheijheaIkCBXRVRIIOaJjeiDveS6pOaYk+OAglY0IOeahCBQb29sTWFuYWdlciDlj6/ku6Xnm7TmjqXlpITnkIbljp/nlJ8gRVRI77yM55yB5Y675LqG5YyF6KOFL+ino+WMheijheeahCBHYXPjgIIKCiMjIyBHYXMg5a+55q+UCgrmoLnmja4gVW5pc3dhcCDlrpjmlrnmlbDmja7vvIxWNCDnm7jmr5QgVjMg55qEIEdhcyDoioLnnIHvvJoKCnwg5pON5L2cIHwgVjMgR2FzIHwgVjQgR2FzIHwg6IqC55yBIHwKfC0tLS0tLXwtLS0tLS0tLXwtLS0tLS0tLXwtLS0tLS18Cnwg5Y2V5rGg5Lqk5piTIHwgfjEyMEsgfCB+MTAwSyB8IDE3JSB8Cnwg5Y+M5rGg6Lev55SxIHwgfjI0MEsgfCB+MTMwSyB8IDQ2JSB8Cnwg5LiJ5rGg6Lev55SxIHwgfjM2MEsgfCB+MTYwSyB8IDU2JSB8Cnwg5Yib5bu65rGg5a2QIHwgfjQuNU0gfCB+MzBLIHwgKio5OSUqKiB8CgrliJvlu7rmsaDlrZDnmoQgR2FzIOS7jiA0NTAg5LiH6ZmN5YiwIDMg5LiH77yM6L+Z5piv5Zug5Li6IFYzIOmcgOimgemDqOe9suaWsOWQiOe6pu+8jOiAjCBWNCDlj6rpnIDopoHlnKggUG9vbE1hbmFnZXIg5Lit5Yid5aeL5YyW5LiA5Liq5paw55qE54q25oCB57uT5p6E44CCCgotLS0KCiMjIEhvb2tz77ya5Y+v57yW56iL55qE5rGg5a2Q6KGM5Li6CgojIyMg5qC45b+D5qaC5b+1CgpIb29rcyDmmK8gVjQg5pyA5YW35Yib5paw5oCn55qE54m55oCn44CC5q+P5Liq5rGg5a2Q5Y+v5Lul5YWz6IGU5LiA5LiqIEhvb2sg5ZCI57qm77yM5Zyo54m55a6a5pe25py65omn6KGM6Ieq5a6a5LmJ6YC76L6R44CCCgpWNCDlrprkuYnkuoYgOCDkuKogSG9vayDml7bmnLrvvJoKCnwgSG9vayB8IOinpuWPkeaXtuacuiB8IOWFuOWei+eUqOmAlCB8CnwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLS0tfAp8IGJlZm9yZUluaXRpYWxpemUgfCDmsaDlrZDliJvlu7rliY0gfCDmnYPpmZDmo4Dmn6XjgIHlj4LmlbDpqozor4EgfAp8IGFmdGVySW5pdGlhbGl6ZSB8IOaxoOWtkOWIm+W7uuWQjiB8IOWIneWni+WMliBIb29rIOeKtuaAgSB8CnwgYmVmb3JlQWRkTGlxdWlkaXR5IHwg5re75Yqg5rWB5Yqo5oCn5YmNIHwg55m95ZCN5Y2V5qOA5p+l44CB6LS5546H6LCD5pW0IHwKfCBhZnRlckFkZExpcXVpZGl0eSB8IOa3u+WKoOa1geWKqOaAp+WQjiB8IOiusOW9lSBMUCDkv6Hmga8gfAp8IGJlZm9yZVJlbW92ZUxpcXVpZGl0eSB8IOenu+mZpOa1geWKqOaAp+WJjSB8IOmUgeWumuacn+ajgOafpSB8CnwgYWZ0ZXJSZW1vdmVMaXF1aWRpdHkgfCDnp7vpmaTmtYHliqjmgKflkI4gfCDmj5DmrL7otLnmlLblj5YgfAp8IGJlZm9yZVN3YXAgfCDkuqTmmJPliY0gfCDliqjmgIHotLnnjofjgIFNRVYg5L+d5oqkIHwKfCBhZnRlclN3YXAgfCDkuqTmmJPlkI4gfCDpooToqIDmnLrmm7TmlrDjgIHnu5/orqEgfAoKIyMjIEhvb2sg5Zyw5Z2A55qE6a2U5rOVCgpWNCDnlKjkuobkuIDkuKrlt6flppnnmoTorr7orqHvvJoqKkhvb2sg5ZCI57qm55qE5Zyw5Z2A57yW56CB5LqG5a6D5ZCv55So55qE5Yqf6IO9KirjgIIKCuWcsOWdgOeahOacgOWQjiAxNCDkvY3vvIjku47lj7PlvoDlt6bvvInlr7nlupQgMTQg5LiqIEhvb2sg5qCH5b+X5L2N44CC5aaC5p6c5p+Q5LiA5L2N5pivIDHvvIzooajnpLror6UgSG9vayDooqvlkK/nlKjjgILkvovlpoLvvJoKCmBgYArlnLDlnYA6IDB4Li4uMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTIzNAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXl5eXgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSG9vayDmoIflv5fkvY0KYGBgCgrov5nmhI/lkbPnnYDvvJoKLSDpg6jnvbIgSG9vayDlkIjnuqbml7bvvIzpnIDopoHnlKggQ1JFQVRFMiDmib7liLDnrKblkIjopoHmsYLnmoTlnLDlnYAKLSBQb29sTWFuYWdlciDlj6/ku6XpgJrov4fmo4Dmn6XlnLDlnYDnm7TmjqXnn6XpgZPpnIDopoHosIPnlKjlk6rkupsgSG9va++8jOaXoOmcgOmineWkluWtmOWCqAoKIyMjIOWumOaWuSBIb29rIOekuuS+iwoKVW5pc3dhcCDlrpjmlrnlrp7njrDkuoblh6DkuKrlj4LogIMgSG9va++8mgoKKipUV0FNTe+8iOaXtumXtOWKoOadg+W5s+Wdh+WBmuW4gu+8iSoqCgrlhYHorrjnlKjmiLfmj5DkuqTlpKfpop3orqLljZXvvIzns7vnu5/oh6rliqjlnKjmjIflrprml7bpl7TlhoXliIbmibnmiafooYzvvIzlh4/lsJHku7fmoLzlhrLlh7vjgIIKCuW3peS9nOWOn+eQhu+8mgoxLiDnlKjmiLfmj5DkuqTorqLljZXvvJrjgIzlnKjmjqXkuIvmnaUgMSDlsI/ml7blhoXvvIznlKggMTAwIEVUSCDkubAgVVNEQ+OAjQoyLiBIb29rIOWwhuiuouWNleaUvuWFpemYn+WIlwozLiDmr4/mrKHmnInkurrkuI7msaDlrZDkuqTkupLml7bvvIxIb29rIOiHquWKqOe7k+eul+S4gOmDqOWIhuiuouWNlQo0LiAxIOWwj+aXtuWQju+8jOeUqOaIt+WPr+S7peaPkOWPluS5sOWIsOeahCBVU0RDCgoqKumTvuS4iumZkOS7t+WNlSoqCgrnlKjmiLflj6/ku6Xorr7nva7jgIzlvZMgRVRIIOS7t+agvOi+vuWIsCAzMDAwIFVTREMg5pe277yM5Y2W5Ye6IDEwIEVUSOOAjeOAguW9k+S7t+agvOepv+i2iuebruagh+S7t+aXtu+8jEhvb2sg6Ieq5Yqo5omn6KGM6K6i5Y2V44CCCgoqKuWKqOaAgeaJi+e7rei0uSoqCgrmoLnmja7luILlnLrms6LliqjnjofosIPmlbTmiYvnu63otLnjgILms6LliqjlpKfml7bmj5Dpq5jotLnnjofvvIjkv53miqQgTFDvvInvvIzms6LliqjlsI/ml7bpmY3kvY7otLnnjofvvIjlkLjlvJXkuqTmmJPph4/vvInjgIIKCiMjIyBIb29rIOeahOmZkOWItgoKSG9vayDkuI3mmK/kuIfog73nmoTvvJoKCjEuICoqR2FzIOmZkOWItioq77yaSG9vayDpgLvovpHkvJrlop7liqDkuqTmmJMgR2Fz44CC5aSN5p2C55qEIEhvb2sg5Y+v6IO96K6p5Lqk5piT5Y+Y5b6X5piC6LS144CCCgoyLiAqKuWuieWFqOmjjumZqSoq77ya5oG25oSPIEhvb2sg5Y+v5Lul56qD5Y+W55So5oi36LWE6YeR44CC5L2/55So6Z2e5a6Y5pa5IEhvb2sg55qE5rGg5a2Q6ZyA6KaB6LCo5oWO44CCCgozLiAqKuWPr+e7hOWQiOaApyoq77ya5q+P5Liq5rGg5a2Q5Y+q6IO95pyJ5LiA5LiqIEhvb2vjgILlpoLmnpzmg7PlkIzml7bkvb/nlKggVFdBTU0g5ZKM5Yqo5oCB6LS5546H77yM6ZyA6KaB6Ieq5bex5a6e546w5LiA5Liq57uE5ZCIIEhvb2vjgIIKCi0tLQoKIyMgRmxhc2ggQWNjb3VudGluZ++8muW7tui/n+e7k+eulwoKIyMjIOmXrumimOiDjOaZrwoK5Lyg57uf55qEIERFWCDkuqTmmJPmmK/jgIzljbPml7bnu5PnrpfjgI3nmoTvvJrmr4/mrKHmk43kvZzpg73nq4vljbPovaznp7vku6PluIHjgILlpoLmnpzkvaDlgZrkuIDnrJQgRVRIIOKGkiBXQlRDIOKGkiBVU0RDIOeahOS6pOaYk++8jOmcgOimge+8mgoKMS4g6L2s5YWlIEVUSAoyLiDovazlh7ogV0JUQ++8iOS4remXtOS7o+W4ge+8iQozLiDovazlhaUgV0JUQwo0LiDovazlh7ogVVNEQwoK5Lit6Ze055qEIFdCVEMg6L2s6L+b6L2s5Ye65piv5rWq6LS555qE4oCU4oCU5a6D5Y+q5piv6Lev55Sx55qE5Lit6Ze05q2l6aqk77yM5pyA57uI55So5oi35bm25LiN6ZyA6KaB5oyB5pyJIFdCVEPjgIIKCiMjIyBWNCDnmoTop6PlhrPmlrnmoYgKCkZsYXNoIEFjY291bnRpbmcg55qE5qC45b+D5oCd5oOz5piv77yaKirorrDotKbogIzkuI3ovazotKbvvIzmnIDlkI7nu5/kuIDnu5PnrpcqKuOAggoKVjQg5byV5YWl5LqG5LiA5Liq44CMZGVsdGHjgI3nmoTmpoLlv7XjgILmr4/mrKHmk43kvZzkuI3lrp7pmYXovaznp7vku6PluIHvvIzogIzmmK/orrDlvZXkvZnpop3lj5jljJbvvJoKCmBgYArmk43kvZwgMTogc3dhcCBFVEgg4oaSIFdCVEMKICBkZWx0YVtFVEhdID0gLTEgRVRICiAgZGVsdGFbV0JUQ10gPSArMC4wNSBXQlRDCgrmk43kvZwgMjogc3dhcCBXQlRDIOKGkiBVU0RDCiAgZGVsdGFbV0JUQ10gPSArMC4wNSAtIDAuMDUgPSAwICAvLyDmirXmtojkuobvvIEKICBkZWx0YVtVU0RDXSA9ICszMDAwIFVTREMKCuacgOe7iOe7k+eulzoKICDnlKjmiLfovazlhaUgMSBFVEgKICDnlKjmiLfmlLbliLAgMzAwMCBVU0RDCiAgV0JUQyDlrozlhajkuI3pnIDopoHovaznp7sKYGBgCgojIyMgRVJDLTY5MDkg5Luj5biBCgpWNCDov5jmlK/mjIHlsIbku6PluIHjgIzlrZjjgI3lnKggUG9vbE1hbmFnZXIg5Lit77yM55SoIEVSQy02OTA577yI5LiA56eN5aSa5Luj5biB5qCH5YeG77yJ6KGo56S644CCCgrlr7nkuo7popHnuYHkuqTmmJPnmoTnlKjmiLfvvIjlpoLlpZfliKnmnLrlmajkurrvvInvvIzlj6/ku6XvvJoKMS4g5LiA5qyh5oCn5a2Y5YWl5aSn6YeP5Luj5biB5YiwIFBvb2xNYW5hZ2VyCjIuIOWkmuasoeS6pOaYk+WPquabtOaWsOWGhemDqOS9memine+8jOS4jeWunumZhei9rOi0pgozLiDpnIDopoHml7blho3mj5Dlj5YKCui/mei/m+S4gOatpeWHj+WwkeS6hiBFUkMyMCDovazotKbnmoQgR2FzIOW8gOmUgOOAggoKLS0tCgojIyBQb29sS2V5IOS4jiBQb29sSWQKCiMjIyDmsaDlrZDnmoTllK/kuIDmoIfor4YKClY0IOeUqCBQb29sS2V5IOe7k+aehOS9k+WUr+S4gOagh+ivhuS4gOS4quaxoOWtkO+8mgoKYGBgc29saWRpdHkKc3RydWN0IFBvb2xLZXkgewogICAgQ3VycmVuY3kgY3VycmVuY3kwOyAgICAvLyDovoPlsI/lnLDlnYDnmoTku6PluIEKICAgIEN1cnJlbmN5IGN1cnJlbmN5MTsgICAgLy8g6L6D5aSn5Zyw5Z2A55qE5Luj5biBCiAgICB1aW50MjQgZmVlOyAgICAgICAgICAgLy8gTFAg5omL57ut6LS577yI55m+5LiH5YiG5LmL5LiA77yJCiAgICBpbnQyNCB0aWNrU3BhY2luZzsgICAgLy8gdGljayDpl7TpmpQKICAgIElIb29rcyBob29rczsgICAgICAgICAvLyBIb29rIOWQiOe6puWcsOWdgAp9CmBgYAoK5rOo5oSPIFY0IOavlCBWMyDlpJrkuobkuIDkuKogYGhvb2tzYCDlrZfmrrXjgILov5nmhI/lkbPnnYDvvJoqKuWQjOagt+eahOS7o+W4geWvueOAgeWQjOagt+eahOaJi+e7rei0ue+8jOWmguaenCBIb29rIOS4jeWQjO+8jOWwseaYr+S4jeWQjOeahOaxoOWtkCoq44CCCgpQb29sSWQg5pivIFBvb2xLZXkg55qEIGtlY2NhazI1NiDlk4jluIzvvIznlKjkuo7lnKggbWFwcGluZyDkuK3ntKLlvJXmsaDlrZDnirbmgIHjgIIKCiMjIyBTbG90MCDnmoTkvY3miZPljIUKCuS4uuS6huiKguecgeWtmOWCqOaIkOacrO+8jFY0IOWwhuWkmuS4quWtl+auteaJk+WMheWIsOS4gOS4qiBieXRlczMyIOS4re+8mgoKYGBgCnwgMjQgYml0cyB8IDI0IGJpdHMgfCAxMiBiaXRzIHwgMTIgYml0cyB8IDI0IGJpdHMgfCAxNjAgYml0cyB8CnwgZW1wdHkgICB8IGxwRmVlICAgfCBmZWUgMeKGkjAgfCBmZWUgMOKGkjEgfCB0aWNrICAgIHwgc3FydFByaWNlWDk2IHwKYGBgCgrov5nnp43miZPljIXmlrnlvI/orqnor7vlj5bmsaDlrZDnirbmgIHlj6rpnIDopoHkuIDmrKEgU0xPQUTvvIjnuqYgMjEwMCBnYXPvvInvvIzogIzkuI3mmK/lpJrmrKHjgIIKCi0tLQoKIyMg5LiOIFYzIOeahOWvueavlAoKfCDnibnmgKcgfCBWMyB8IFY0IHwKfC0tLS0tLXwtLS0tfC0tLS18Cnwg5ZCI57qm5p625p6EIHwg5q+P5rGg5LiA5Liq5ZCI57qmIHwg5Y2V5L6L5ZCI57qmIHwKfCDliJvlu7rmsaDlrZAgR2FzIHwgfjQuNU0gfCB+MzBLIHwKfCDot6jmsaDot6/nlLEgfCDot6jlkIjnuqbosIPnlKggfCDlhoXpg6jnirbmgIHlj5jmm7QgfAp8IOWOn+eUnyBFVEggfCDkuI3mlK/mjIHvvIjpnIAgV0VUSO+8iSB8IOaUr+aMgSB8Cnwg6Ieq5a6a5LmJ6YC76L6RIHwg5LiN5pSv5oyBIHwgSG9va3MgfAp8IOe7k+eul+aWueW8jyB8IOWNs+aXtui9rOi0piB8IEZsYXNoIEFjY291bnRpbmcgfAp8IOmihOiogOacuiB8IOWGhee9riBUV0FQIHwg6YCa6L+HIEhvb2sg5a6e546wIHwKCi0tLQoKIyMg5bGA6ZmQ5oCn5LiO5p2D6KGhCgojIyMgMS4g5aSN5p2C5oCn5aKe5YqgCgrljZXkvovlkIjnuqbmhI/lkbPnnYDmiYDmnInmsaDlrZDlhbHkuqvkuIDkuKrlkIjnuqbjgILlpoLmnpwgUG9vbE1hbmFnZXIg5pyJ5ryP5rSe77yM5omA5pyJ5rGg5a2Q6YO95Lya5Y+X5b2x5ZON44CCVjMg55qE5YiG5pWj5p625p6E6Jm954S25pWI546H5L2O77yM5L2G6aOO6Zmp5Lmf5piv5YiG5pWj55qE44CCCgojIyMgMi4gSG9vayDnmoTkv6Hku7vpl67popgKCuS9v+eUqOesrOS4ieaWuSBIb29rIOeahOaxoOWtkO+8jOeUqOaIt+mcgOimgeS/oeS7uyBIb29rIOW8gOWPkeiAheOAguaBtuaEjyBIb29rIOWPr+S7peWcqCBiZWZvcmVTd2FwIOS4reaLkue7neS6pOaYk+OAgeWcqCBhZnRlclN3YXAg5Lit56qD5Y+W6LWE6YeR44CCCgojIyMgMy4g5Y2H57qn5Zuw6Zq+CgpWNCDnmoQgUG9vbE1hbmFnZXIg5piv5LiN5Y+v5Y2H57qn55qE44CC5aaC5p6c5Y+R546w6K6+6K6h57y66Zm377yM5Y+q6IO96YOo572y5paw54mI5pys5bm26L+B56e75rWB5Yqo5oCn44CCCgojIyMgNC4g55Sf5oCB56KO54mH5YyWCgrkuI3lkIznmoQgSG9vayDliJvpgKDkuobkuI3lkIznmoTmsaDlrZDnsbvlnovjgILlkIzkuIDkuKrku6PluIHlr7nlj6/og73mnInmlbDljYHkuKrmsaDlrZDvvIjkuI3lkIwgSG9va++8ie+8jOa1geWKqOaAp+iiq+WIhuaVo+OAggoKLS0tCgojIyDov5vkuIDmraXpmIXor7sKCi0gW1VuaXN3YXAgVjQg55m955qu5LmmXShodHRwczovL3VuaXN3YXAub3JnL3doaXRlcGFwZXItdjQucGRmKSDigJQg5a6Y5pa56K6+6K6h5paH5qGjCi0gW3Y0LWNvcmUgR2l0SHViXShodHRwczovL2dpdGh1Yi5jb20vVW5pc3dhcC92NC1jb3JlKSDigJQg5qC45b+D5ZCI57qm5rqQ56CBCi0gW0F3ZXNvbWUgVW5pc3dhcCBWNCBIb29rc10oaHR0cHM6Ly9naXRodWIuY29tL29yYS1pby9hd2Vzb21lLXVuaXN3YXAtaG9va3MpIOKAlCDnpL7ljLogSG9vayDpm4blkIgKLSBbVW5pc3dhcCBWNCDmlbDmja7ojrflj5blrp7miJhdKC9ibG9nL3VuaXN3YXAtdjQtZGF0YS1pbnRlZ3JhdGlvbikg4oCUIOacrOaWh+eahOWniuWmueevh++8jOWMheWQq+WPr+i/kOihjOeahOS7o+eggQo="}
+---
+title: "Uniswap V4 架构解析：单例合约与 Hooks 机制"
+description: "深入理解 Uniswap V4 的架构革新：单例合约如何降低 Gas、Hooks 如何实现可编程池子、Flash Accounting 如何优化跨池交易。"
+pubDate: "2026-03-01"
+tags: ["DeFi", "Uniswap", "智能合约", "架构"]
+hexagram: "䷜"
+element: "water"
+---
+
+**TL;DR:** Uniswap V4 通过三项核心创新重塑了 AMM 架构：(1) 单例合约将所有池子状态集中管理，跨池交易 Gas 降低 99%；(2) Hooks 机制让每个池子可以自定义行为，从 TWAMM 到动态手续费都能实现；(3) Flash Accounting 延迟结算，一笔交易内的多次操作只需最终净额转账。理解这些设计，是理解下一代 DEX 的关键。
+
+> **前置知识**：本文假设读者熟悉 Uniswap V3 的集中流动性机制。如果不熟悉，建议先阅读 [Uniswap V3 白皮书](https://uniswap.org/whitepaper-v3.pdf)。
+
+---
+
+## 从 V3 到 V4：为什么需要架构革新
+
+2021 年 Uniswap V3 引入集中流动性，让 LP 可以选择价格区间，资本效率提升了 4000 倍。但 V3 的架构有一个根本性问题：**每个池子都是独立合约**。
+
+这意味着什么？
+
+假设你要用 ETH 买 USDC，最优路径是 ETH → WBTC → USDC。在 V3 中，这需要两次跨合约调用：先调用 ETH-WBTC 池合约，再调用 WBTC-USDC 池合约。每次跨合约调用都要支付额外的 Gas（约 2600 gas 的 CALL 开销），还要进行两次 ERC20 转账（每次约 5000-20000 gas）。
+
+更糟糕的是，V3 在以太坊上部署了超过 5000 个池子合约。对于 DEX 聚合器来说，获取所有池子的状态需要遍历数千个合约地址，这是巨大的 RPC 开销。
+
+V4 的解决方案是**架构层面的重构**，而不是算法层面的优化。
+
+---
+
+## 单例合约：从分散到集中
+
+### 设计理念
+
+V4 采用了**单例模式**（Singleton Pattern）。所有池子的状态都存储在一个 PoolManager 合约中：
+
+```
+PoolManager (Singleton)
+    ├── Pool 1 State (ETH-USDC)
+    ├── Pool 2 State (WBTC-ETH)
+    ├── Pool 3 State (USDC-DAI)
+    └── ... (所有池子)
+```
+
+这个设计的好处是显而易见的：
+
+**1. 跨池交易变成内部状态变更**
+
+V3 的 ETH → WBTC → USDC 路径需要两次跨合约调用。V4 中，这只是 PoolManager 内部的两次状态变更，没有 CALL 开销。
+
+**2. 数据获取集中化**
+
+不再需要遍历数千个合约地址。所有池子状态都在 PoolManager 中，一次调用就能获取多个池子的数据。
+
+**3. 原生 ETH 支持**
+
+V3 必须先将 ETH 包装成 WETH 才能交易。V4 的 PoolManager 可以直接处理原生 ETH，省去了包装/解包装的 Gas。
+
+### Gas 对比
+
+根据 Uniswap 官方数据，V4 相比 V3 的 Gas 节省：
+
+| 操作 | V3 Gas | V4 Gas | 节省 |
+|------|--------|--------|------|
+| 单池交易 | ~120K | ~100K | 17% |
+| 双池路由 | ~240K | ~130K | 46% |
+| 三池路由 | ~360K | ~160K | 56% |
+| 创建池子 | ~4.5M | ~30K | **99%** |
+
+创建池子的 Gas 从 450 万降到 3 万，这是因为 V3 需要部署新合约，而 V4 只需要在 PoolManager 中初始化一个新的状态结构。
+
+---
+
+## Hooks：可编程的池子行为
+
+### 核心概念
+
+Hooks 是 V4 最具创新性的特性。每个池子可以关联一个 Hook 合约，在特定时机执行自定义逻辑。
+
+V4 定义了 8 个 Hook 时机：
+
+| Hook | 触发时机 | 典型用途 |
+|------|----------|----------|
+| beforeInitialize | 池子创建前 | 权限检查、参数验证 |
+| afterInitialize | 池子创建后 | 初始化 Hook 状态 |
+| beforeAddLiquidity | 添加流动性前 | 白名单检查、费率调整 |
+| afterAddLiquidity | 添加流动性后 | 记录 LP 信息 |
+| beforeRemoveLiquidity | 移除流动性前 | 锁定期检查 |
+| afterRemoveLiquidity | 移除流动性后 | 提款费收取 |
+| beforeSwap | 交易前 | 动态费率、MEV 保护 |
+| afterSwap | 交易后 | 预言机更新、统计 |
+
+### Hook 地址的魔法
+
+V4 用了一个巧妙的设计：**Hook 合约的地址编码了它启用的功能**。
+
+地址的最后 14 位（从右往左）对应 14 个 Hook 标志位。如果某一位是 1，表示该 Hook 被启用。例如：
+
+```
+地址: 0x...0000000000000000000000000000000000001234
+                                              ^^^^
+                                              Hook 标志位
+```
+
+这意味着：
+- 部署 Hook 合约时，需要用 CREATE2 找到符合要求的地址
+- PoolManager 可以通过检查地址直接知道需要调用哪些 Hook，无需额外存储
+
+### 官方 Hook 示例
+
+Uniswap 官方实现了几个参考 Hook：
+
+**TWAMM（时间加权平均做市）**
+
+允许用户提交大额订单，系统自动在指定时间内分批执行，减少价格冲击。
+
+工作原理：
+1. 用户提交订单：「在接下来 1 小时内，用 100 ETH 买 USDC」
+2. Hook 将订单放入队列
+3. 每次有人与池子交互时，Hook 自动结算一部分订单
+4. 1 小时后，用户可以提取买到的 USDC
+
+**链上限价单**
+
+用户可以设置「当 ETH 价格达到 3000 USDC 时，卖出 10 ETH」。当价格穿越目标价时，Hook 自动执行订单。
+
+**动态手续费**
+
+根据市场波动率调整手续费。波动大时提高费率（保护 LP），波动小时降低费率（吸引交易量）。
+
+### Hook 的限制
+
+Hook 不是万能的：
+
+1. **Gas 限制**：Hook 逻辑会增加交易 Gas。复杂的 Hook 可能让交易变得昂贵。
+
+2. **安全风险**：恶意 Hook 可以窃取用户资金。使用非官方 Hook 的池子需要谨慎。
+
+3. **可组合性**：每个池子只能有一个 Hook。如果想同时使用 TWAMM 和动态费率，需要自己实现一个组合 Hook。
+
+---
+
+## Flash Accounting：延迟结算
+
+### 问题背景
+
+传统的 DEX 交易是「即时结算」的：每次操作都立即转移代币。如果你做一笔 ETH → WBTC → USDC 的交易，需要：
+
+1. 转入 ETH
+2. 转出 WBTC（中间代币）
+3. 转入 WBTC
+4. 转出 USDC
+
+中间的 WBTC 转进转出是浪费的——它只是路由的中间步骤，最终用户并不需要持有 WBTC。
+
+### V4 的解决方案
+
+Flash Accounting 的核心思想是：**记账而不转账，最后统一结算**。
+
+V4 引入了一个「delta」的概念。每次操作不实际转移代币，而是记录余额变化：
+
+```
+操作 1: swap ETH → WBTC
+  delta[ETH] = -1 ETH
+  delta[WBTC] = +0.05 WBTC
+
+操作 2: swap WBTC → USDC
+  delta[WBTC] = +0.05 - 0.05 = 0  // 抵消了！
+  delta[USDC] = +3000 USDC
+
+最终结算:
+  用户转入 1 ETH
+  用户收到 3000 USDC
+  WBTC 完全不需要转移
+```
+
+### ERC-6909 代币
+
+V4 还支持将代币「存」在 PoolManager 中，用 ERC-6909（一种多代币标准）表示。
+
+对于频繁交易的用户（如套利机器人），可以：
+1. 一次性存入大量代币到 PoolManager
+2. 多次交易只更新内部余额，不实际转账
+3. 需要时再提取
+
+这进一步减少了 ERC20 转账的 Gas 开销。
+
+---
+
+## PoolKey 与 PoolId
+
+### 池子的唯一标识
+
+V4 用 PoolKey 结构体唯一标识一个池子：
+
+```solidity
+struct PoolKey {
+    Currency currency0;    // 较小地址的代币
+    Currency currency1;    // 较大地址的代币
+    uint24 fee;           // LP 手续费（百万分之一）
+    int24 tickSpacing;    // tick 间隔
+    IHooks hooks;         // Hook 合约地址
+}
+```
+
+注意 V4 比 V3 多了一个 `hooks` 字段。这意味着：**同样的代币对、同样的手续费，如果 Hook 不同，就是不同的池子**。
+
+PoolId 是 PoolKey 的 keccak256 哈希，用于在 mapping 中索引池子状态。
+
+### Slot0 的位打包
+
+为了节省存储成本，V4 将多个字段打包到一个 bytes32 中：
+
+```
+| 24 bits | 24 bits | 12 bits | 12 bits | 24 bits | 160 bits |
+| empty   | lpFee   | fee 1→0 | fee 0→1 | tick    | sqrtPriceX96 |
+```
+
+这种打包方式让读取池子状态只需要一次 SLOAD（约 2100 gas），而不是多次。
+
+---
+
+## 与 V3 的对比
+
+| 特性 | V3 | V4 |
+|------|----|----|
+| 合约架构 | 每池一个合约 | 单例合约 |
+| 创建池子 Gas | ~4.5M | ~30K |
+| 跨池路由 | 跨合约调用 | 内部状态变更 |
+| 原生 ETH | 不支持（需 WETH） | 支持 |
+| 自定义逻辑 | 不支持 | Hooks |
+| 结算方式 | 即时转账 | Flash Accounting |
+| 预言机 | 内置 TWAP | 通过 Hook 实现 |
+
+---
+
+## 局限性与权衡
+
+### 1. 复杂性增加
+
+单例合约意味着所有池子共享一个合约。如果 PoolManager 有漏洞，所有池子都会受影响。V3 的分散架构虽然效率低，但风险也是分散的。
+
+### 2. Hook 的信任问题
+
+使用第三方 Hook 的池子，用户需要信任 Hook 开发者。恶意 Hook 可以在 beforeSwap 中拒绝交易、在 afterSwap 中窃取资金。
+
+### 3. 升级困难
+
+V4 的 PoolManager 是不可升级的。如果发现设计缺陷，只能部署新版本并迁移流动性。
+
+### 4. 生态碎片化
+
+不同的 Hook 创造了不同的池子类型。同一个代币对可能有数十个池子（不同 Hook），流动性被分散。
+
+---
+
+## 进一步阅读
+
+- [Uniswap V4 白皮书](https://uniswap.org/whitepaper-v4.pdf) — 官方设计文档
+- [v4-core GitHub](https://github.com/Uniswap/v4-core) — 核心合约源码
+- [Awesome Uniswap V4 Hooks](https://github.com/ora-io/awesome-uniswap-hooks) — 社区 Hook 集合
+- [Uniswap V4 数据获取实战](/blog/uniswap-v4-data-integration) — 本文的姊妹篇，包含可运行的代码

@@ -1,1 +1,297 @@
-{"data":"IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKR2VuZXJhdGUgU1ZHIGN1cnZlcyBmb3IgQ3VydmUgU3RhYmxlU3dhcCBmb3JtdWxhIGFydGljbGUuCiIiIgoKaW1wb3J0IG1hdGgKCiMgQ3liZXItWmVuIGNvbG9yIHBhbGV0dGUKTEVBRF9HUkFZID0gIiM0NzQ3NDciCkpBREVfR1JFRU4gPSAiIzRBOEI3MSIKQ0lOTkFCQVJfUkVEID0gIiNEMTM0MjkiCkxJR0hUX0dSQVkgPSAiIzlDQTNBRiIKQkxVRSA9ICIjM0I4MkY2IgoKZGVmIGNyZWF0ZV9zdmcod2lkdGgsIGhlaWdodCwgY29udGVudCk6CiAgICByZXR1cm4gZicnJzxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAge3dpZHRofSB7aGVpZ2h0fSI+CiAgICA8c3R5bGU+CiAgICAgICAgdGV4dCB7eyBmb250LWZhbWlseTogJ0ludGVyJywgLWFwcGxlLXN5c3RlbSwgc2Fucy1zZXJpZjsgZmlsbDoge0xFQURfR1JBWX07IH19CiAgICAgICAgLm1vbm8ge3sgZm9udC1mYW1pbHk6ICdKZXRCcmFpbnMgTW9ubycsICdTRiBNb25vJywgbW9ub3NwYWNlOyB9fQogICAgICAgIC5sYWJlbCB7eyBmb250LXNpemU6IDE0cHg7IH19CiAgICAgICAgLnRpdGxlIHt7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDYwMDsgfX0KICAgICAgICAuc21hbGwge3sgZm9udC1zaXplOiAxMnB4OyB9fQogICAgPC9zdHlsZT4KICAgIHtjb250ZW50fQo8L3N2Zz4nJycKCmRlZiBjdXJ2ZV9wYXRoKHBvaW50cywgY29sb3IsIHdpZHRoPTIuNSwgZGFzaGVkPUZhbHNlKToKICAgIGQgPSBmIk0ge3BvaW50c1swXVswXTouMWZ9IHtwb2ludHNbMF1bMV06LjFmfSIKICAgIGZvciB4LCB5IGluIHBvaW50c1sxOl06CiAgICAgICAgZCArPSBmIiBMIHt4Oi4xZn0ge3k6LjFmfSIKICAgIGRhc2ggPSAnIHN0cm9rZS1kYXNoYXJyYXk9IjgsNCInIGlmIGRhc2hlZCBlbHNlICcnCiAgICByZXR1cm4gZic8cGF0aCBkPSJ7ZH0iIHN0cm9rZT0ie2NvbG9yfSIgc3Ryb2tlLXdpZHRoPSJ7d2lkdGh9IiBmaWxsPSJub25lIntkYXNofS8+JwoKZGVmIGRyYXdfYXhlcyhveCwgb3ksIHdpZHRoLCBoZWlnaHQsIHhfbGFiZWw9IngiLCB5X2xhYmVsPSJ5Iik6CiAgICAiIiJEcmF3IGNvb3JkaW5hdGUgYXhlcyB3aXRoIGxhYmVscy4iIiIKICAgIHJldHVybiBmJycnCiAgICA8bGluZSB4MT0ie294fSIgeTE9IntveX0iIHgyPSJ7b3ggKyB3aWR0aH0iIHkyPSJ7b3l9IiBzdHJva2U9IntMRUFEX0dSQVl9IiBzdHJva2Utd2lkdGg9IjEuNSIgbWFya2VyLWVuZD0idXJsKCNhcnJvdykiLz4KICAgIDxsaW5lIHgxPSJ7b3h9IiB5MT0ie295fSIgeDI9IntveH0iIHkyPSJ7b3kgLSBoZWlnaHR9IiBzdHJva2U9IntMRUFEX0dSQVl9IiBzdHJva2Utd2lkdGg9IjEuNSIgbWFya2VyLWVuZD0idXJsKCNhcnJvdykiLz4KICAgIDx0ZXh0IHg9IntveCArIHdpZHRoICsgMTB9IiB5PSJ7b3kgKyA1fSIgY2xhc3M9ImxhYmVsIG1vbm8iPnt4X2xhYmVsfTwvdGV4dD4KICAgIDx0ZXh0IHg9IntveCAtIDV9IiB5PSJ7b3kgLSBoZWlnaHQgLSAxMH0iIGNsYXNzPSJsYWJlbCBtb25vIj57eV9sYWJlbH08L3RleHQ+CiAgICA8ZGVmcz4KICAgICAgICA8bWFya2VyIGlkPSJhcnJvdyIgbWFya2VyV2lkdGg9IjEwIiBtYXJrZXJIZWlnaHQ9IjEwIiByZWZYPSI5IiByZWZZPSIzIiBvcmllbnQ9ImF1dG8iPgogICAgICAgICAgICA8cGF0aCBkPSJNMCwwIEwwLDYgTDksMyB6IiBmaWxsPSJ7TEVBRF9HUkFZfSIvPgogICAgICAgIDwvbWFya2VyPgogICAgPC9kZWZzPgogICAgJycnCgpkZWYgZ2VuZXJhdGVfbW9kZWxfZGVzaWduKCk6CiAgICAiIiIKICAgIEZpZ3VyZSAxOiBDb25zdGFudCBQcm9kdWN0IHZzIENvbnN0YW50IFN1bSBjdXJ2ZXMgd2l0aCBpbnRlcnNlY3Rpb24gcG9pbnQgUC4KICAgICIiIgogICAgd2lkdGgsIGhlaWdodCA9IDUwMCwgNDAwCiAgICBveCwgb3kgPSA2MCwgMzQwICAjIG9yaWdpbgogICAgYXhfdywgYXhfaCA9IDM4MCwgMjgwICAjIGF4ZXMgZGltZW5zaW9ucwogICAgCiAgICAjIFNjYWxlOiBEID0gMjAwIChzbyBELzIgPSAxMDAgaW4gZ3JhcGggdW5pdHMpCiAgICBEID0gMjAwCiAgICBzY2FsZSA9IDEuOCAgIyBwaXhlbHMgcGVyIHVuaXQKICAgIAogICAgIyBDb25zdGFudCBQcm9kdWN0OiB4eSA9IETCsi80CiAgICBrID0gKEQvMikgKiogMgogICAgY3BfcG9pbnRzID0gW10KICAgIGZvciB4IGluIHJhbmdlKDIwLCAxODEsIDIpOgogICAgICAgIHkgPSBrIC8geAogICAgICAgIGlmIHkgPD0gMTgwOgogICAgICAgICAgICBweCA9IG94ICsgeCAqIHNjYWxlCiAgICAgICAgICAgIHB5ID0gb3kgLSB5ICogc2NhbGUKICAgICAgICAgICAgY3BfcG9pbnRzLmFwcGVuZCgocHgsIHB5KSkKICAgIAogICAgIyBDb25zdGFudCBTdW06IHggKyB5ID0gRAogICAgY3NfcG9pbnRzID0gW10KICAgIGZvciB4IGluIHJhbmdlKDAsIDIwMSwgNSk6CiAgICAgICAgeSA9IEQgLSB4CiAgICAgICAgaWYgeSA+PSAwOgogICAgICAgICAgICBweCA9IG94ICsgeCAqIHNjYWxlCiAgICAgICAgICAgIHB5ID0gb3kgLSB5ICogc2NhbGUKICAgICAgICAgICAgY3NfcG9pbnRzLmFwcGVuZCgocHgsIHB5KSkKICAgIAogICAgIyBJbnRlcnNlY3Rpb24gcG9pbnQgUCAoRC8yLCBELzIpCiAgICBweF9wID0gb3ggKyAoRC8yKSAqIHNjYWxlCiAgICBweV9wID0gb3kgLSAoRC8yKSAqIHNjYWxlCiAgICAKICAgIGNvbnRlbnQgPSBmJycnCiAgICB7ZHJhd19heGVzKG94LCBveSwgYXhfdywgYXhfaCwgIngiLCAieSIpfQogICAgCiAgICA8IS0tIENvbnN0YW50IFByb2R1Y3QgY3VydmUgKGJsdWUpIC0tPgogICAge2N1cnZlX3BhdGgoY3BfcG9pbnRzLCBCTFVFLCAyLjUpfQogICAgCiAgICA8IS0tIENvbnN0YW50IFN1bSBsaW5lIChncmVlbikgLS0+CiAgICB7Y3VydmVfcGF0aChjc19wb2ludHMsIEpBREVfR1JFRU4sIDIuNSl9CiAgICAKICAgIDwhLS0gSW50ZXJzZWN0aW9uIHBvaW50IFAgLS0+CiAgICA8Y2lyY2xlIGN4PSJ7cHhfcH0iIGN5PSJ7cHlfcH0iIHI9IjYiIGZpbGw9IntDSU5OQUJBUl9SRUR9Ii8+CiAgICA8dGV4dCB4PSJ7cHhfcCArIDEyfSIgeT0ie3B5X3AgLSA4fSIgY2xhc3M9ImxhYmVsIiBmaWxsPSJ7Q0lOTkFCQVJfUkVEfSI+UCAoRC8yLCBELzIpPC90ZXh0PgogICAgCiAgICA8IS0tIERhc2hlZCBsaW5lcyB0byBheGVzIC0tPgogICAgPGxpbmUgeDE9IntweF9wfSIgeTE9IntweV9wfSIgeDI9IntweF9wfSIgeTI9IntveX0iIHN0cm9rZT0ie0xJR0hUX0dSQVl9IiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsNCIvPgogICAgPGxpbmUgeDE9IntweF9wfSIgeTE9IntweV9wfSIgeDI9IntveH0iIHkyPSJ7cHlfcH0iIHN0cm9rZT0ie0xJR0hUX0dSQVl9IiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsNCIvPgogICAgCiAgICA8IS0tIEF4aXMgbGFiZWxzIC0tPgogICAgPHRleHQgeD0ie3B4X3B9IiB5PSJ7b3kgKyAyMH0iIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5ELzI8L3RleHQ+CiAgICA8dGV4dCB4PSJ7b3ggLSAyNX0iIHk9IntweV9wICsgNX0iIGNsYXNzPSJzbWFsbCBtb25vIj5ELzI8L3RleHQ+CiAgICAKICAgIDwhLS0gTGVnZW5kIC0tPgogICAgPGxpbmUgeDE9IjMyMCIgeTE9IjQwIiB4Mj0iMzYwIiB5Mj0iNDAiIHN0cm9rZT0ie0JMVUV9IiBzdHJva2Utd2lkdGg9IjIuNSIvPgogICAgPHRleHQgeD0iMzcwIiB5PSI0NSIgY2xhc3M9InNtYWxsIG1vbm8iPnh5ID0gazwvdGV4dD4KICAgIAogICAgPGxpbmUgeDE9IjMyMCIgeTE9IjY1IiB4Mj0iMzYwIiB5Mj0iNjUiIHN0cm9rZT0ie0pBREVfR1JFRU59IiBzdHJva2Utd2lkdGg9IjIuNSIvPgogICAgPHRleHQgeD0iMzcwIiB5PSI3MCIgY2xhc3M9InNtYWxsIG1vbm8iPnggKyB5ID0gRDwvdGV4dD4KICAgIAogICAgPCEtLSBBbm5vdGF0aW9ucyAtLT4KICAgIDx0ZXh0IHg9IjE1MCIgeT0iMTAwIiBjbGFzcz0ic21hbGwiIGZpbGw9IntCTFVFfSI+5puy546H5aSn77yM5rC45LiN5p6v56utPC90ZXh0PgogICAgPHRleHQgeD0iMjgwIiB5PSIyNTAiIGNsYXNzPSJzbWFsbCIgZmlsbD0ie0pBREVfR1JFRU59Ij7lrozlhajlubPlnabvvIzkvJrooqvmjo/nqbo8L3RleHQ+CiAgICAnJycKICAgIAogICAgcmV0dXJuIGNyZWF0ZV9zdmcod2lkdGgsIGhlaWdodCwgY29udGVudCkKCmRlZiBnZW5lcmF0ZV94eV9wb3NpdGlvbigpOgogICAgIiIiCiAgICBGaWd1cmUgMjogeHkgdmFsdWUgYXMgYSBmdW5jdGlvbiBvZiB4IHVuZGVyIENvbnN0YW50IFN1bSBjb25zdHJhaW50LgogICAgU2hvd3MgdGhhdCB4eSBpcyBtYXhpbWl6ZWQgYXQgdGhlIGJhbGFuY2UgcG9pbnQuCiAgICAiIiIKICAgIHdpZHRoLCBoZWlnaHQgPSA1MDAsIDM1MAogICAgb3gsIG95ID0gNjAsIDI5MAogICAgYXhfdywgYXhfaCA9IDM4MCwgMjMwCiAgICAKICAgIEQgPSAyMDAKICAgIHNjYWxlX3ggPSAxLjgKICAgIHNjYWxlX3kgPSAwLjAxMiAgIyB4eSB2YWx1ZXMgYXJlIGxhcmdlLCBuZWVkIHNtYWxsZXIgc2NhbGUKICAgIAogICAgIyB4eSA9IHgoRC14KSA9IER4IC0geMKyIChwYXJhYm9sYSkKICAgIHBvaW50cyA9IFtdCiAgICBmb3IgeCBpbiByYW5nZSg1LCAxOTYsIDIpOgogICAgICAgIHkgPSB4ICogKEQgLSB4KQogICAgICAgIHB4ID0gb3ggKyB4ICogc2NhbGVfeAogICAgICAgIHB5ID0gb3kgLSB5ICogc2NhbGVfeQogICAgICAgIHBvaW50cy5hcHBlbmQoKHB4LCBweSkpCiAgICAKICAgICMgTWF4aW11bSBwb2ludCBhdCB4ID0gRC8yCiAgICBtYXhfeCA9IEQgLyAyCiAgICBtYXhfeSA9IG1heF94ICogKEQgLSBtYXhfeCkgICMgPSBEwrIvNAogICAgcHhfbWF4ID0gb3ggKyBtYXhfeCAqIHNjYWxlX3gKICAgIHB5X21heCA9IG95IC0gbWF4X3kgKiBzY2FsZV95CiAgICAKICAgIGNvbnRlbnQgPSBmJycnCiAgICB7ZHJhd19heGVzKG94LCBveSwgYXhfdywgYXhfaCwgIngiLCAieHkiKX0KICAgIAogICAgPCEtLSBQYXJhYm9sYSAtLT4KICAgIHtjdXJ2ZV9wYXRoKHBvaW50cywgSkFERV9HUkVFTiwgMi41KX0KICAgIAogICAgPCEtLSBNYXhpbXVtIHBvaW50IC0tPgogICAgPGNpcmNsZSBjeD0ie3B4X21heH0iIGN5PSJ7cHlfbWF4fSIgcj0iNiIgZmlsbD0ie0NJTk5BQkFSX1JFRH0iLz4KICAgIDx0ZXh0IHg9IntweF9tYXggKyAxMH0iIHk9IntweV9tYXggLSAxMH0iIGNsYXNzPSJsYWJlbCIgZmlsbD0ie0NJTk5BQkFSX1JFRH0iPuacgOWkp+WAvCBEwrIvNDwvdGV4dD4KICAgIAogICAgPCEtLSBEYXNoZWQgbGluZSB0byB4LWF4aXMgLS0+CiAgICA8bGluZSB4MT0ie3B4X21heH0iIHkxPSJ7cHlfbWF4fSIgeDI9IntweF9tYXh9IiB5Mj0ie295fSIgc3Ryb2tlPSJ7TElHSFRfR1JBWX0iIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWRhc2hhcnJheT0iNCw0Ii8+CiAgICAKICAgIDwhLS0gWC1heGlzIGxhYmVscyAtLT4KICAgIDx0ZXh0IHg9IntveH0iIHk9IntveSArIDIwfSIgY2xhc3M9InNtYWxsIG1vbm8iPjA8L3RleHQ+CiAgICA8dGV4dCB4PSJ7cHhfbWF4fSIgeT0ie295ICsgMjB9IiBjbGFzcz0ic21hbGwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RC8yPC90ZXh0PgogICAgPHRleHQgeD0ie294ICsgRCAqIHNjYWxlX3h9IiB5PSJ7b3kgKyAyMH0iIGNsYXNzPSJzbWFsbCBtb25vIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5EPC90ZXh0PgogICAgCiAgICA8IS0tIEFubm90YXRpb25zIC0tPgogICAgPHRleHQgeD0iMTAwIiB5PSIyMDAiIGNsYXNzPSJzbWFsbCIgZmlsbD0ie0xFQURfR1JBWX0iPuWBj+emu+W5s+ihoTwvdGV4dD4KICAgIDx0ZXh0IHg9IjEwMCIgeT0iMjIwIiBjbGFzcz0ic21hbGwiIGZpbGw9IntMRUFEX0dSQVl9Ij54eSDlj5jlsI88L3RleHQ+CiAgICAKICAgIDx0ZXh0IHg9IjMyMCIgeT0iMjAwIiBjbGFzcz0ic21hbGwiIGZpbGw9IntMRUFEX0dSQVl9Ij7lgY/nprvlubPooaE8L3RleHQ+CiAgICA8dGV4dCB4PSIzMjAiIHk9IjIyMCIgY2xhc3M9InNtYWxsIiBmaWxsPSJ7TEVBRF9HUkFZfSI+eHkg5Y+Y5bCPPC90ZXh0PgogICAgCiAgICA8IS0tIFRpdGxlIC0tPgogICAgPHRleHQgeD0ie3dpZHRoLzJ9IiB5PSIzMCIgY2xhc3M9InRpdGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7lnKggeCArIHkgPSBEIOe6puadn+S4i++8jHh5IOWcqOW5s+ihoeeCuei+vuWIsOacgOWkpzwvdGV4dD4KICAgICcnJwogICAgCiAgICByZXR1cm4gY3JlYXRlX3N2Zyh3aWR0aCwgaGVpZ2h0LCBjb250ZW50KQoKZGVmIGdlbmVyYXRlX2FtcGxpZmljYXRpb24oKToKICAgICIiIgogICAgRmlndXJlIDM6IEVmZmVjdCBvZiBhbXBsaWZpY2F0aW9uIGNvZWZmaWNpZW50IEEgb24gY3VydmUgc2hhcGUuCiAgICBTaG93cyBjdXJ2ZXMgZm9yIGRpZmZlcmVudCBBIHZhbHVlcy4KICAgICIiIgogICAgd2lkdGgsIGhlaWdodCA9IDU1MCwgNDAwCiAgICBveCwgb3kgPSA3MCwgMzQwCiAgICBheF93LCBheF9oID0gNDIwLCAyODAKICAgIAogICAgRCA9IDIwMAogICAgc2NhbGUgPSAxLjkKICAgIAogICAgZGVmIHN0YWJsZXN3YXBfeSh4LCBBLCBEKToKICAgICAgICAiIiIKICAgICAgICBTb2x2ZSBmb3IgeSBnaXZlbiB4IHVzaW5nIE5ld3RvbidzIG1ldGhvZC4KICAgICAgICA0QSh4K3kpICsgRCA9IDRBRCArIETCsy8oNHh5KQogICAgICAgICIiIgogICAgICAgIHkgPSBEIC8gMiAgIyBpbml0aWFsIGd1ZXNzCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNTApOgogICAgICAgICAgICAjIGYoeSkgPSA0QSh4K3kpICsgRCAtIDRBRCAtIETCsy8oNHh5KQogICAgICAgICAgICBmID0gNCpBKih4ICsgeSkgKyBEIC0gNCpBKkQgLSAoRCoqMykvKDQqeCp5KQogICAgICAgICAgICAjIGYnKHkpID0gNEEgKyBEwrMvKDR4ecKyKQogICAgICAgICAgICBkZiA9IDQqQSArIChEKiozKS8oNCp4KnkqKjIpCiAgICAgICAgICAgIHlfbmV3ID0geSAtIGYvZGYKICAgICAgICAgICAgaWYgYWJzKHlfbmV3IC0geSkgPCAwLjAwMDE6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB5ID0geV9uZXcKICAgICAgICByZXR1cm4geSBpZiB5ID4gMCBlbHNlIE5vbmUKICAgIAogICAgIyBHZW5lcmF0ZSBjdXJ2ZXMgZm9yIGRpZmZlcmVudCBBIHZhbHVlcwogICAgY3VydmVzID0gWwogICAgICAgICgxMCwgTElHSFRfR1JBWSwgIkEgPSAxMCIpLAogICAgICAgICgxMDAsIEJMVUUsICJBID0gMTAwIiksCiAgICAgICAgKDUwMCwgSkFERV9HUkVFTiwgIkEgPSA1MDAiKSwKICAgIF0KICAgIAogICAgY3VydmVfcGF0aHMgPSBbXQogICAgZm9yIEEsIGNvbG9yLCBsYWJlbCBpbiBjdXJ2ZXM6CiAgICAgICAgcG9pbnRzID0gW10KICAgICAgICBmb3IgeCBpbiByYW5nZSgxNSwgMTg2LCAyKToKICAgICAgICAgICAgeSA9IHN0YWJsZXN3YXBfeSh4LCBBLCBEKQogICAgICAgICAgICBpZiB5IGFuZCAxMCA8IHkgPCAxOTA6CiAgICAgICAgICAgICAgICBweCA9IG94ICsgeCAqIHNjYWxlCiAgICAgICAgICAgICAgICBweSA9IG95IC0geSAqIHNjYWxlCiAgICAgICAgICAgICAgICBwb2ludHMuYXBwZW5kKChweCwgcHkpKQogICAgICAgIGlmIHBvaW50czoKICAgICAgICAgICAgY3VydmVfcGF0aHMuYXBwZW5kKChjdXJ2ZV9wYXRoKHBvaW50cywgY29sb3IsIDIuNSksIGNvbG9yLCBsYWJlbCkpCiAgICAKICAgICMgQWxzbyBkcmF3IHJlZmVyZW5jZSBjdXJ2ZXMKICAgICMgQ29uc3RhbnQgUHJvZHVjdAogICAgayA9IChELzIpICoqIDIKICAgIGNwX3BvaW50cyA9IFtdCiAgICBmb3IgeCBpbiByYW5nZSgyMCwgMTgxLCAyKToKICAgICAgICB5ID0gayAvIHgKICAgICAgICBpZiB5IDw9IDE4MDoKICAgICAgICAgICAgcHggPSBveCArIHggKiBzY2FsZQogICAgICAgICAgICBweSA9IG95IC0geSAqIHNjYWxlCiAgICAgICAgICAgIGNwX3BvaW50cy5hcHBlbmQoKHB4LCBweSkpCiAgICAKICAgICMgQ29uc3RhbnQgU3VtCiAgICBjc19wb2ludHMgPSBbKG94LCBveSAtIEQgKiBzY2FsZSksIChveCArIEQgKiBzY2FsZSwgb3kpXQogICAgCiAgICBjb250ZW50ID0gZicnJwogICAge2RyYXdfYXhlcyhveCwgb3ksIGF4X3csIGF4X2gsICJ4IiwgInkiKX0KICAgIAogICAgPCEtLSBSZWZlcmVuY2U6IENvbnN0YW50IFByb2R1Y3QgKGRhc2hlZCkgLS0+CiAgICB7Y3VydmVfcGF0aChjcF9wb2ludHMsIExJR0hUX0dSQVksIDEuNSwgZGFzaGVkPVRydWUpfQogICAgCiAgICA8IS0tIFJlZmVyZW5jZTogQ29uc3RhbnQgU3VtIChkYXNoZWQpIC0tPgogICAge2N1cnZlX3BhdGgoY3NfcG9pbnRzLCBMSUdIVF9HUkFZLCAxLjUsIGRhc2hlZD1UcnVlKX0KICAgIAogICAgPCEtLSBTdGFibGVTd2FwIGN1cnZlcyAtLT4KICAgIHtjdXJ2ZV9wYXRoc1swXVswXX0KICAgIHtjdXJ2ZV9wYXRoc1sxXVswXX0KICAgIHtjdXJ2ZV9wYXRoc1syXVswXX0KICAgIAogICAgPCEtLSBCYWxhbmNlIHBvaW50IC0tPgogICAgPGNpcmNsZSBjeD0ie294ICsgKEQvMikgKiBzY2FsZX0iIGN5PSJ7b3kgLSAoRC8yKSAqIHNjYWxlfSIgcj0iNSIgZmlsbD0ie0NJTk5BQkFSX1JFRH0iLz4KICAgIAogICAgPCEtLSBMZWdlbmQgLS0+CiAgICA8bGluZSB4MT0iMzgwIiB5MT0iNDAiIHgyPSI0MjAiIHkyPSI0MCIgc3Ryb2tlPSJ7TElHSFRfR1JBWX0iIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtZGFzaGFycmF5PSI4LDQiLz4KICAgIDx0ZXh0IHg9IjQzMCIgeT0iNDUiIGNsYXNzPSJzbWFsbCI+eHkgPSBrPC90ZXh0PgogICAgCiAgICA8bGluZSB4MT0iMzgwIiB5MT0iNjAiIHgyPSI0MjAiIHkyPSI2MCIgc3Ryb2tlPSJ7TElHSFRfR1JBWX0iIHN0cm9rZS13aWR0aD0iMi41Ii8+CiAgICA8dGV4dCB4PSI0MzAiIHk9IjY1IiBjbGFzcz0ic21hbGwiPntjdXJ2ZXNbMF1bMl19PC90ZXh0PgogICAgCiAgICA8bGluZSB4MT0iMzgwIiB5MT0iODAiIHgyPSI0MjAiIHkyPSI4MCIgc3Ryb2tlPSJ7QkxVRX0iIHN0cm9rZS13aWR0aD0iMi41Ii8+CiAgICA8dGV4dCB4PSI0MzAiIHk9Ijg1IiBjbGFzcz0ic21hbGwiPntjdXJ2ZXNbMV1bMl19PC90ZXh0PgogICAgCiAgICA8bGluZSB4MT0iMzgwIiB5MT0iMTAwIiB4Mj0iNDIwIiB5Mj0iMTAwIiBzdHJva2U9IntKQURFX0dSRUVOfSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KICAgIDx0ZXh0IHg9IjQzMCIgeT0iMTA1IiBjbGFzcz0ic21hbGwiPntjdXJ2ZXNbMl1bMl19PC90ZXh0PgogICAgCiAgICA8IS0tIEFubm90YXRpb25zIC0tPgogICAgPHRleHQgeD0iMTUwIiB5PSI4MCIgY2xhc3M9InNtYWxsIiBmaWxsPSJ7SkFERV9HUkVFTn0iPkEg6LaK5aSnPC90ZXh0PgogICAgPHRleHQgeD0iMTUwIiB5PSIxMDAiIGNsYXNzPSJzbWFsbCIgZmlsbD0ie0pBREVfR1JFRU59Ij7otormjqXov5Hnm7Tnur88L3RleHQ+CiAgICAKICAgIDx0ZXh0IHg9IjEyMCIgeT0iMjgwIiBjbGFzcz0ic21hbGwiIGZpbGw9IntMSUdIVF9HUkFZfSI+QSDotorlsI88L3RleHQ+CiAgICA8dGV4dCB4PSIxMjAiIHk9IjMwMCIgY2xhc3M9InNtYWxsIiBmaWxsPSJ7TElHSFRfR1JBWX0iPui2iuaOpei/keabsue6vzwvdGV4dD4KICAgICcnJwogICAgCiAgICByZXR1cm4gY3JlYXRlX3N2Zyh3aWR0aCwgaGVpZ2h0LCBjb250ZW50KQoKZGVmIG1haW4oKToKICAgIGltcG9ydCBvcwogICAgCiAgICBvdXRwdXRfZGlyID0gIi9Vc2Vycy9mZW5nL0RvY3VtZW50cy9wZXJzb24vY3liZXItemVuL3NyYy9jb250ZW50L2Jsb2ciCiAgICAKICAgICMgR2VuZXJhdGUgYWxsIFNWR3MKICAgIHN2Z3MgPSBbCiAgICAgICAgKCJjdXJ2ZV9tb2RlbF9kZXNpZ24uc3ZnIiwgZ2VuZXJhdGVfbW9kZWxfZGVzaWduKCkpLAogICAgICAgICgiY3VydmVfeHlfcG9zaXRpb24uc3ZnIiwgZ2VuZXJhdGVfeHlfcG9zaXRpb24oKSksCiAgICAgICAgKCJjdXJ2ZV9hbXBsaWZpY2F0aW9uLnN2ZyIsIGdlbmVyYXRlX2FtcGxpZmljYXRpb24oKSksCiAgICBdCiAgICAKICAgIGZvciBmaWxlbmFtZSwgY29udGVudCBpbiBzdmdzOgogICAgICAgIGZpbGVwYXRoID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIGZpbGVuYW1lKQogICAgICAgIHdpdGggb3BlbihmaWxlcGF0aCwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKGNvbnRlbnQpCiAgICAgICAgcHJpbnQoZiJHZW5lcmF0ZWQ6IHtmaWxlcGF0aH0iKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo="}
+#!/usr/bin/env python3
+"""
+Generate SVG curves for Curve StableSwap formula article.
+"""
+
+import math
+
+# Cyber-Zen color palette
+LEAD_GRAY = "#474747"
+JADE_GREEN = "#4A8B71"
+CINNABAR_RED = "#D13429"
+LIGHT_GRAY = "#9CA3AF"
+BLUE = "#3B82F6"
+
+def create_svg(width, height, content):
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}">
+    <style>
+        text {{ font-family: 'Inter', -apple-system, sans-serif; fill: {LEAD_GRAY}; }}
+        .mono {{ font-family: 'JetBrains Mono', 'SF Mono', monospace; }}
+        .label {{ font-size: 14px; }}
+        .title {{ font-size: 16px; font-weight: 600; }}
+        .small {{ font-size: 12px; }}
+    </style>
+    {content}
+</svg>'''
+
+def curve_path(points, color, width=2.5, dashed=False):
+    d = f"M {points[0][0]:.1f} {points[0][1]:.1f}"
+    for x, y in points[1:]:
+        d += f" L {x:.1f} {y:.1f}"
+    dash = ' stroke-dasharray="8,4"' if dashed else ''
+    return f'<path d="{d}" stroke="{color}" stroke-width="{width}" fill="none"{dash}/>'
+
+def draw_axes(ox, oy, width, height, x_label="x", y_label="y"):
+    """Draw coordinate axes with labels."""
+    return f'''
+    <line x1="{ox}" y1="{oy}" x2="{ox + width}" y2="{oy}" stroke="{LEAD_GRAY}" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <line x1="{ox}" y1="{oy}" x2="{ox}" y2="{oy - height}" stroke="{LEAD_GRAY}" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="{ox + width + 10}" y="{oy + 5}" class="label mono">{x_label}</text>
+    <text x="{ox - 5}" y="{oy - height - 10}" class="label mono">{y_label}</text>
+    <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="{LEAD_GRAY}"/>
+        </marker>
+    </defs>
+    '''
+
+def generate_model_design():
+    """
+    Figure 1: Constant Product vs Constant Sum curves with intersection point P.
+    """
+    width, height = 500, 400
+    ox, oy = 60, 340  # origin
+    ax_w, ax_h = 380, 280  # axes dimensions
+    
+    # Scale: D = 200 (so D/2 = 100 in graph units)
+    D = 200
+    scale = 1.8  # pixels per unit
+    
+    # Constant Product: xy = D²/4
+    k = (D/2) ** 2
+    cp_points = []
+    for x in range(20, 181, 2):
+        y = k / x
+        if y <= 180:
+            px = ox + x * scale
+            py = oy - y * scale
+            cp_points.append((px, py))
+    
+    # Constant Sum: x + y = D
+    cs_points = []
+    for x in range(0, 201, 5):
+        y = D - x
+        if y >= 0:
+            px = ox + x * scale
+            py = oy - y * scale
+            cs_points.append((px, py))
+    
+    # Intersection point P (D/2, D/2)
+    px_p = ox + (D/2) * scale
+    py_p = oy - (D/2) * scale
+    
+    content = f'''
+    {draw_axes(ox, oy, ax_w, ax_h, "x", "y")}
+    
+    <!-- Constant Product curve (blue) -->
+    {curve_path(cp_points, BLUE, 2.5)}
+    
+    <!-- Constant Sum line (green) -->
+    {curve_path(cs_points, JADE_GREEN, 2.5)}
+    
+    <!-- Intersection point P -->
+    <circle cx="{px_p}" cy="{py_p}" r="6" fill="{CINNABAR_RED}"/>
+    <text x="{px_p + 12}" y="{py_p - 8}" class="label" fill="{CINNABAR_RED}">P (D/2, D/2)</text>
+    
+    <!-- Dashed lines to axes -->
+    <line x1="{px_p}" y1="{py_p}" x2="{px_p}" y2="{oy}" stroke="{LIGHT_GRAY}" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="{px_p}" y1="{py_p}" x2="{ox}" y2="{py_p}" stroke="{LIGHT_GRAY}" stroke-width="1" stroke-dasharray="4,4"/>
+    
+    <!-- Axis labels -->
+    <text x="{px_p}" y="{oy + 20}" class="small mono" text-anchor="middle">D/2</text>
+    <text x="{ox - 25}" y="{py_p + 5}" class="small mono">D/2</text>
+    
+    <!-- Legend -->
+    <line x1="320" y1="40" x2="360" y2="40" stroke="{BLUE}" stroke-width="2.5"/>
+    <text x="370" y="45" class="small mono">xy = k</text>
+    
+    <line x1="320" y1="65" x2="360" y2="65" stroke="{JADE_GREEN}" stroke-width="2.5"/>
+    <text x="370" y="70" class="small mono">x + y = D</text>
+    
+    <!-- Annotations -->
+    <text x="150" y="100" class="small" fill="{BLUE}">曲率大，永不枯竭</text>
+    <text x="280" y="250" class="small" fill="{JADE_GREEN}">完全平坦，会被掏空</text>
+    '''
+    
+    return create_svg(width, height, content)
+
+def generate_xy_position():
+    """
+    Figure 2: xy value as a function of x under Constant Sum constraint.
+    Shows that xy is maximized at the balance point.
+    """
+    width, height = 500, 350
+    ox, oy = 60, 290
+    ax_w, ax_h = 380, 230
+    
+    D = 200
+    scale_x = 1.8
+    scale_y = 0.012  # xy values are large, need smaller scale
+    
+    # xy = x(D-x) = Dx - x² (parabola)
+    points = []
+    for x in range(5, 196, 2):
+        y = x * (D - x)
+        px = ox + x * scale_x
+        py = oy - y * scale_y
+        points.append((px, py))
+    
+    # Maximum point at x = D/2
+    max_x = D / 2
+    max_y = max_x * (D - max_x)  # = D²/4
+    px_max = ox + max_x * scale_x
+    py_max = oy - max_y * scale_y
+    
+    content = f'''
+    {draw_axes(ox, oy, ax_w, ax_h, "x", "xy")}
+    
+    <!-- Parabola -->
+    {curve_path(points, JADE_GREEN, 2.5)}
+    
+    <!-- Maximum point -->
+    <circle cx="{px_max}" cy="{py_max}" r="6" fill="{CINNABAR_RED}"/>
+    <text x="{px_max + 10}" y="{py_max - 10}" class="label" fill="{CINNABAR_RED}">最大值 D²/4</text>
+    
+    <!-- Dashed line to x-axis -->
+    <line x1="{px_max}" y1="{py_max}" x2="{px_max}" y2="{oy}" stroke="{LIGHT_GRAY}" stroke-width="1" stroke-dasharray="4,4"/>
+    
+    <!-- X-axis labels -->
+    <text x="{ox}" y="{oy + 20}" class="small mono">0</text>
+    <text x="{px_max}" y="{oy + 20}" class="small mono" text-anchor="middle">D/2</text>
+    <text x="{ox + D * scale_x}" y="{oy + 20}" class="small mono" text-anchor="middle">D</text>
+    
+    <!-- Annotations -->
+    <text x="100" y="200" class="small" fill="{LEAD_GRAY}">偏离平衡</text>
+    <text x="100" y="220" class="small" fill="{LEAD_GRAY}">xy 变小</text>
+    
+    <text x="320" y="200" class="small" fill="{LEAD_GRAY}">偏离平衡</text>
+    <text x="320" y="220" class="small" fill="{LEAD_GRAY}">xy 变小</text>
+    
+    <!-- Title -->
+    <text x="{width/2}" y="30" class="title" text-anchor="middle">在 x + y = D 约束下，xy 在平衡点达到最大</text>
+    '''
+    
+    return create_svg(width, height, content)
+
+def generate_amplification():
+    """
+    Figure 3: Effect of amplification coefficient A on curve shape.
+    Shows curves for different A values.
+    """
+    width, height = 550, 400
+    ox, oy = 70, 340
+    ax_w, ax_h = 420, 280
+    
+    D = 200
+    scale = 1.9
+    
+    def stableswap_y(x, A, D):
+        """
+        Solve for y given x using Newton's method.
+        4A(x+y) + D = 4AD + D³/(4xy)
+        """
+        y = D / 2  # initial guess
+        for _ in range(50):
+            # f(y) = 4A(x+y) + D - 4AD - D³/(4xy)
+            f = 4*A*(x + y) + D - 4*A*D - (D**3)/(4*x*y)
+            # f'(y) = 4A + D³/(4xy²)
+            df = 4*A + (D**3)/(4*x*y**2)
+            y_new = y - f/df
+            if abs(y_new - y) < 0.0001:
+                break
+            y = y_new
+        return y if y > 0 else None
+    
+    # Generate curves for different A values
+    curves = [
+        (10, LIGHT_GRAY, "A = 10"),
+        (100, BLUE, "A = 100"),
+        (500, JADE_GREEN, "A = 500"),
+    ]
+    
+    curve_paths = []
+    for A, color, label in curves:
+        points = []
+        for x in range(15, 186, 2):
+            y = stableswap_y(x, A, D)
+            if y and 10 < y < 190:
+                px = ox + x * scale
+                py = oy - y * scale
+                points.append((px, py))
+        if points:
+            curve_paths.append((curve_path(points, color, 2.5), color, label))
+    
+    # Also draw reference curves
+    # Constant Product
+    k = (D/2) ** 2
+    cp_points = []
+    for x in range(20, 181, 2):
+        y = k / x
+        if y <= 180:
+            px = ox + x * scale
+            py = oy - y * scale
+            cp_points.append((px, py))
+    
+    # Constant Sum
+    cs_points = [(ox, oy - D * scale), (ox + D * scale, oy)]
+    
+    content = f'''
+    {draw_axes(ox, oy, ax_w, ax_h, "x", "y")}
+    
+    <!-- Reference: Constant Product (dashed) -->
+    {curve_path(cp_points, LIGHT_GRAY, 1.5, dashed=True)}
+    
+    <!-- Reference: Constant Sum (dashed) -->
+    {curve_path(cs_points, LIGHT_GRAY, 1.5, dashed=True)}
+    
+    <!-- StableSwap curves -->
+    {curve_paths[0][0]}
+    {curve_paths[1][0]}
+    {curve_paths[2][0]}
+    
+    <!-- Balance point -->
+    <circle cx="{ox + (D/2) * scale}" cy="{oy - (D/2) * scale}" r="5" fill="{CINNABAR_RED}"/>
+    
+    <!-- Legend -->
+    <line x1="380" y1="40" x2="420" y2="40" stroke="{LIGHT_GRAY}" stroke-width="1.5" stroke-dasharray="8,4"/>
+    <text x="430" y="45" class="small">xy = k</text>
+    
+    <line x1="380" y1="60" x2="420" y2="60" stroke="{LIGHT_GRAY}" stroke-width="2.5"/>
+    <text x="430" y="65" class="small">{curves[0][2]}</text>
+    
+    <line x1="380" y1="80" x2="420" y2="80" stroke="{BLUE}" stroke-width="2.5"/>
+    <text x="430" y="85" class="small">{curves[1][2]}</text>
+    
+    <line x1="380" y1="100" x2="420" y2="100" stroke="{JADE_GREEN}" stroke-width="2.5"/>
+    <text x="430" y="105" class="small">{curves[2][2]}</text>
+    
+    <!-- Annotations -->
+    <text x="150" y="80" class="small" fill="{JADE_GREEN}">A 越大</text>
+    <text x="150" y="100" class="small" fill="{JADE_GREEN}">越接近直线</text>
+    
+    <text x="120" y="280" class="small" fill="{LIGHT_GRAY}">A 越小</text>
+    <text x="120" y="300" class="small" fill="{LIGHT_GRAY}">越接近曲线</text>
+    '''
+    
+    return create_svg(width, height, content)
+
+def main():
+    import os
+    
+    output_dir = "/Users/feng/Documents/person/cyber-zen/src/content/blog"
+    
+    # Generate all SVGs
+    svgs = [
+        ("curve_model_design.svg", generate_model_design()),
+        ("curve_xy_position.svg", generate_xy_position()),
+        ("curve_amplification.svg", generate_amplification()),
+    ]
+    
+    for filename, content in svgs:
+        filepath = os.path.join(output_dir, filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"Generated: {filepath}")
+
+if __name__ == "__main__":
+    main()

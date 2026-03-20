@@ -1,1 +1,484 @@
-{"data":"IyDnrKwgOCDnq6DvvJrmtYvor5XkuI7pg6jnvbIKCj4g5Luj56CB5YaZ5a6M5Y+q5piv5byA5aeL44CC5rKh5pyJ57uP6L+H5YWF5YiG5rWL6K+V55qE5ZCI57qm5bCx5YOP5rKh5pyJ57uP6L+H5qOA6aqM55qE5qGl5qKB4oCU4oCU55yL6LW35p2l6IO955So77yM5L2G6ZqP5pe25Y+v6IO95bSp5aGM44CC5pys56ug5LuL57uN5aaC5L2V55SoIEZvdW5kcnkg5p6E5bu65Y+v6Z2g55qE5rWL6K+V5L2T57O777yM5Lul5Y+K5aaC5L2V5a6J5YWo5Zyw5bCG5ZCI57qm6YOo572y5Yiw55Sf5Lqn546v5aKD44CCCgotLS0KCiMjIOS4uuS7gOS5iOa1i+ivleWmguatpOmHjeimgQoK5pm66IO95ZCI57qm5LiO5Lyg57uf6L2v5Lu25pyJ5LiA5Liq5qC55pys5Yy65Yir77ya6YOo572y5ZCO5peg5rOV5L+u5pS544CC5LiA5LiqIGJ1ZyDlnKjkvKDnu5/lupTnlKjkuK3lj6/og73lj6rmmK/kuIDmrKHng63kv67lpI3vvIzkvYblnKjmmbrog73lkIjnuqbkuK3lj6/og73mhI/lkbPnnYDmlbDnmb7kuIfnvo7lhYPnmoTmjZ/lpLHjgIIyMDE2IOW5tOeahCBEQU8g5pS75Ye744CBMjAyMiDlubTnmoQgV29ybWhvbGUg5ryP5rSe44CBMjAyMyDlubTnmoQgRXVsZXIgRmluYW5jZSDkuovku7bvvIzmr4/kuIDmrKHpg73mmK/ooYDmt4vmt4vnmoTmlZnorq3jgIIKCua1i+ivleS4jeaYr+WPr+mAieeahO+8jOiAjOaYr+W/hemhu+eahOOAguWlveeahOa1i+ivleS4jeS7heiDveWPkeeOsCBidWfvvIzov5jog73kvZzkuLrlkIjnuqbooYzkuLrnmoTmlofmoaPvvIzluK7liqnlhbbku5blvIDlj5HogIXnkIbop6Pku6PnoIHnmoTpooTmnJ/ooYzkuLrjgILlvZPkvaDkv67mlLnku6PnoIHml7bvvIzmtYvor5XkvJrlkYror4nkvaDmmK/lkKbnoLTlnY/kuobnjrDmnInlip/og73jgIIKCkZvdW5kcnkg5piv55uu5YmN5pyA5rWB6KGM55qEIFNvbGlkaXR5IOa1i+ivleahhuaetuOAguWug+eUqCBTb2xpZGl0eSDnvJblhpnmtYvor5XvvIjogIzkuI3mmK8gSmF2YVNjcmlwdO+8ie+8jOaJp+ihjOmAn+W6puaegeW/q++8jOW5tuaPkOS+m+S6huW8uuWkp+eahOS9nOW8iuegge+8iGNoZWF0Y29kZXPvvInmnaXmqKHmi5/lkITnp43lnLrmma/jgIIKCi0tLQoKIyMgRm91bmRyeSDmtYvor5Xln7rnoYAKCuS4gOS4qiBGb3VuZHJ5IOa1i+ivleaWh+S7tueahOWfuuacrOe7k+aehOWmguS4i++8mgoKYGBgc29saWRpdHkKLy8gdGVzdC9Db3VudGVyLnQuc29sCi8vIFNQRFgtTGljZW5zZS1JZGVudGlmaWVyOiBNSVQKcHJhZ21hIHNvbGlkaXR5IF4wLjguMjA7CgppbXBvcnQge1Rlc3QsIGNvbnNvbGV9IGZyb20gImZvcmdlLXN0ZC9UZXN0LnNvbCI7CmltcG9ydCB7Q291bnRlcn0gZnJvbSAiLi4vc3JjL0NvdW50ZXIuc29sIjsKCmNvbnRyYWN0IENvdW50ZXJUZXN0IGlzIFRlc3QgewogICAgQ291bnRlciBwdWJsaWMgY291bnRlcjsKICAgIAogICAgZnVuY3Rpb24gc2V0VXAoKSBwdWJsaWMgewogICAgICAgIGNvdW50ZXIgPSBuZXcgQ291bnRlcigpOwogICAgfQogICAgCiAgICBmdW5jdGlvbiB0ZXN0X0luY3JlbWVudCgpIHB1YmxpYyB7CiAgICAgICAgY291bnRlci5pbmNyZW1lbnQoKTsKICAgICAgICBhc3NlcnRFcShjb3VudGVyLmNvdW50KCksIDEpOwogICAgfQogICAgCiAgICBmdW5jdGlvbiB0ZXN0X1JldmVydFdoZW5fRGVjcmVtZW50QmVsb3daZXJvKCkgcHVibGljIHsKICAgICAgICB2bS5leHBlY3RSZXZlcnQoIkNvdW50IGlzIHplcm8iKTsKICAgICAgICBjb3VudGVyLmRlY3JlbWVudCgpOwogICAgfQp9CmBgYAoK5rWL6K+V5ZCI57qm57un5om/6IeqIGBUZXN0YO+8jOi/meaPkOS+m+S6huaWreiogOWHveaVsOWSjOS9nOW8iueggeOAgmBzZXRVcGAg5Ye95pWw5Zyo5q+P5Liq5rWL6K+V5LmL5YmN5omn6KGM77yM55So5LqO5Yid5aeL5YyW5rWL6K+V546v5aKD44CC5rWL6K+V5Ye95pWw5b+F6aG75LulIGB0ZXN0YCDlvIDlpLTvvIxGb3VuZHJ5IOS8muiHquWKqOWPkeeOsOW5tuaJp+ihjOWug+S7rOOAggoK6L+Q6KGM5rWL6K+V5b6I566A5Y2V77yaCgpgYGBiYXNoCmZvcmdlIHRlc3QgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOi/kOihjOaJgOaciea1i+ivlQpmb3JnZSB0ZXN0IC0tbWF0Y2gtdGVzdCB0ZXN0X0luY3JlbWVudCAgIyDov5DooYznibnlrprmtYvor5UKZm9yZ2UgdGVzdCAtdnZ2diAgICAgICAgICAgICAgICAgICAgICMg5pi+56S66K+m57uG6L6T5Ye6CmZvcmdlIHRlc3QgLS1nYXMtcmVwb3J0ICAgICAgICAgICAgICAjIOeUn+aIkCBHYXMg5oql5ZGKCmBgYAoKYC12YCDlj4LmlbDmjqfliLbovpPlh7ror6bnu4bnqIvluqbjgIJgLXZ2dnZgIOS8muaYvuekuuavj+S4gOatpeeahOaJp+ihjOe7huiKgu+8jOWMheaLrOiwg+eUqOagiOWSjOWtmOWCqOWPmOWMlu+8jOi/meWcqOiwg+ivleWksei0peeahOa1i+ivleaXtumdnuW4uOacieeUqOOAggoKLS0tCgojIyDmlq3oqIDvvJrpqozor4HpooTmnJ/ooYzkuLoKCuaWreiogOaYr+a1i+ivleeahOaguOW/g+OAgkZvdW5kcnkg5o+Q5L6b5LqG5Liw5a+M55qE5pat6KiA5Ye95pWw77yaCgpgYGBzb2xpZGl0eQovLyDnm7jnrYnmgKfmo4Dmn6UKYXNzZXJ0RXEoYSwgYik7ICAgICAgICAgICAgICAgICAgICAgIC8vIGEgPT0gYgphc3NlcnRFcShhLCBiLCAiRXJyb3IgbWVzc2FnZSIpOyAgICAgLy8g5bim6ZSZ6K+v5L+h5oGvCmFzc2VydE5vdEVxKGEsIGIpOyAgICAgICAgICAgICAgICAgICAvLyBhICE9IGIKCi8vIOavlOi+gwphc3NlcnRHdChhLCBiKTsgICAgICAgICAgICAgICAgICAgICAgLy8gYSA+IGIKYXNzZXJ0R2UoYSwgYik7ICAgICAgICAgICAgICAgICAgICAgIC8vIGEgPj0gYgphc3NlcnRMdChhLCBiKTsgICAgICAgICAgICAgICAgICAgICAgLy8gYSA8IGIKYXNzZXJ0TGUoYSwgYik7ICAgICAgICAgICAgICAgICAgICAgIC8vIGEgPD0gYgoKLy8g5biD5bCUCmFzc2VydFRydWUoY29uZGl0aW9uKTsKYXNzZXJ0RmFsc2UoY29uZGl0aW9uKTsKCi8vIOi/keS8vOebuOetie+8iOWkhOeQhueyvuW6pumXrumimO+8iQphc3NlcnRBcHByb3hFcUFicyhhLCBiLCBtYXhEZWx0YSk7ICAgLy8gfGEgLSBifCA8PSBtYXhEZWx0YQphc3NlcnRBcHByb3hFcVJlbChhLCBiLCBtYXhQZXJjZW50KTsgLy8gfGEgLSBifCAvIGIgPD0gbWF4UGVyY2VudApgYGAKCui/keS8vOebuOetieaWreiogOWcqOWkhOeQhumZpOazleaIlueZvuWIhuavlOiuoeeul+aXtueJueWIq+acieeUqOOAgueUseS6jiBTb2xpZGl0eSDmsqHmnInmta7ngrnmlbDvvIzpmaTms5XkvJrkuqfnlJ/oiI3lhaXor6/lt67vvIzkvb/nlKggYGFzc2VydEFwcHJveEVxQWJzYCDlj6/ku6Xlrrnlv43lsI/ojIPlm7TnmoTor6/lt67jgIIKCi0tLQoKIyMg5L2c5byK56CB77ya5qih5ouf5Lu75L2V5Zy65pmvCgrkvZzlvIrnoIHmmK8gRm91bmRyeSDmnIDlvLrlpKfnmoTlip/og73jgILlroPku6zlhYHorrjkvaDmk43nurUgRVZNIOeKtuaAge+8jOaooeaLn+WQhOenjemavuS7peWcqOecn+WunueOr+Wig+S4remHjeeOsOeahOWcuuaZr+OAggoKIyMjIOi6q+S7veaooeaLnwoKYGBgc29saWRpdHkKZnVuY3Rpb24gdGVzdF9Pbmx5T3duZXIoKSBwdWJsaWMgewogICAgYWRkcmVzcyBhbGljZSA9IG1ha2VBZGRyKCJhbGljZSIpOwogICAgYWRkcmVzcyBib2IgPSBtYWtlQWRkcigiYm9iIik7CiAgICAKICAgIC8vIOS7pSBhbGljZSDouqvku73miafooYzkuIvkuIDmrKHosIPnlKgKICAgIHZtLnByYW5rKGFsaWNlKTsKICAgIGNvbnRyYWN0Lm93bmVyRnVuY3Rpb24oKTsKICAgIAogICAgLy8g5LulIGJvYiDouqvku73miafooYzlpJrmrKHosIPnlKgKICAgIHZtLnN0YXJ0UHJhbmsoYm9iKTsKICAgIGNvbnRyYWN0LmZ1bmN0aW9uMSgpOwogICAgY29udHJhY3QuZnVuY3Rpb24yKCk7CiAgICB2bS5zdG9wUHJhbmsoKTsKfQpgYGAKCmBtYWtlQWRkcmAg5Yib5bu65LiA5Liq5bim5qCH562+55qE5Zyw5Z2A77yM5Zyo6LCD6K+V6L6T5Ye65Lit5Lya5pi+56S6ICJhbGljZSIg6ICM5LiN5piv5LiA5Liy5Y2B5YWt6L+b5Yi25pWw5a2X44CCYHByYW5rYCDlj6rlvbHlk43kuIvkuIDmrKHosIPnlKjvvIxgc3RhcnRQcmFuay9zdG9wUHJhbmtgIOW9seWTjeS4gOS4quiMg+WbtOWGheeahOaJgOacieiwg+eUqOOAggoKIyMjIOS9memineaTjeS9nAoKYGBgc29saWRpdHkKZnVuY3Rpb24gdGVzdF9EZXBvc2l0KCkgcHVibGljIHsKICAgIGFkZHJlc3MgdXNlciA9IG1ha2VBZGRyKCJ1c2VyIik7CiAgICAKICAgIC8vIOiuvue9riBFVEgg5L2Z6aKdCiAgICB2bS5kZWFsKHVzZXIsIDEwMCBldGhlcik7CiAgICBhc3NlcnRFcSh1c2VyLmJhbGFuY2UsIDEwMCBldGhlcik7CiAgICAKICAgIC8vIOiuvue9riBFUkMyMCDkvZnpop0KICAgIGRlYWwoYWRkcmVzcyh0b2tlbiksIHVzZXIsIDEwMDBlMTgpOwogICAgYXNzZXJ0RXEodG9rZW4uYmFsYW5jZU9mKHVzZXIpLCAxMDAwZTE4KTsKfQpgYGAKCmB2bS5kZWFsYCDorr7nva4gRVRIIOS9memine+8jGBkZWFsYO+8iOS4jeW4piB2bSDliY3nvIDvvInorr7nva4gRVJDMjAg5L2Z6aKd44CC5ZCO6ICF5Lya6Ieq5Yqo5aSE55CG5a2Y5YKo5qe955qE6K6h566X77yM6Z2e5bi45pa55L6/44CCCgojIyMg5pe26Ze05pON5L2cCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiB0ZXN0X1RpbWVMb2NrKCkgcHVibGljIHsKICAgIC8vIOiuvue9ruWMuuWdl+aXtumXtAogICAgdm0ud2FycCgxMDAwKTsKICAgIGFzc2VydEVxKGJsb2NrLnRpbWVzdGFtcCwgMTAwMCk7CiAgICAKICAgIC8vIOWinuWKoOaXtumXtAogICAgc2tpcCgxIGRheXMpOwogICAgYXNzZXJ0RXEoYmxvY2sudGltZXN0YW1wLCAxMDAwICsgMSBkYXlzKTsKICAgIAogICAgLy8g6K6+572u5Yy65Z2X5Y+3CiAgICB2bS5yb2xsKDEwMCk7CiAgICBhc3NlcnRFcShibG9jay5udW1iZXIsIDEwMCk7Cn0KYGBgCgrml7bpl7Tmk43kvZzlr7nkuo7mtYvor5Xml7bpl7TplIHjgIF2ZXN0aW5nIOWQiOe6puOAgeWIqeaBr+iuoeeul+etieWcuuaZr+iHs+WFs+mHjeimgeOAggoKIyMjIOmihOacnyBSZXZlcnQKCmBgYHNvbGlkaXR5CmZ1bmN0aW9uIHRlc3RfUmV2ZXJ0KCkgcHVibGljIHsKICAgIC8vIOmihOacn+mUmeivr+a2iOaBrwogICAgdm0uZXhwZWN0UmV2ZXJ0KCJJbnN1ZmZpY2llbnQgYmFsYW5jZSIpOwogICAgY29udHJhY3Qud2l0aGRyYXcoMTAwMCk7CiAgICAKICAgIC8vIOmihOacn+iHquWumuS5iemUmeivrwogICAgdm0uZXhwZWN0UmV2ZXJ0KEluc3VmZmljaWVudEJhbGFuY2Uuc2VsZWN0b3IpOwogICAgY29udHJhY3Qud2l0aGRyYXcoMTAwMCk7CiAgICAKICAgIC8vIOmihOacn+W4puWPguaVsOeahOiHquWumuS5iemUmeivrwogICAgdm0uZXhwZWN0UmV2ZXJ0KGFiaS5lbmNvZGVXaXRoU2VsZWN0b3IoCiAgICAgICAgSW5zdWZmaWNpZW50QmFsYW5jZS5zZWxlY3RvciwKICAgICAgICAxMDAsICAvLyBhdmFpbGFibGUKICAgICAgICAxMDAwICAvLyByZXF1ZXN0ZWQKICAgICkpOwogICAgY29udHJhY3Qud2l0aGRyYXcoMTAwMCk7Cn0KYGBgCgpgZXhwZWN0UmV2ZXJ0YCDlv4XpobvlnKjkvJogcmV2ZXJ0IOeahOiwg+eUqOS5i+WJjeiwg+eUqOOAguWmguaenOS4i+S4gOasoeiwg+eUqOayoeaciSByZXZlcnTvvIzmiJbogIUgcmV2ZXJ0IOeahOWOn+WboOS4jeWMuemFje+8jOa1i+ivleWwseS8muWksei0peOAggoKIyMjIOmihOacn+S6i+S7tgoKYGBgc29saWRpdHkKZnVuY3Rpb24gdGVzdF9FbWl0RXZlbnQoKSBwdWJsaWMgewogICAgLy8g5Y+C5pWw77yaY2hlY2tUb3BpYzEsIGNoZWNrVG9waWMyLCBjaGVja1RvcGljMywgY2hlY2tEYXRhCiAgICB2bS5leHBlY3RFbWl0KHRydWUsIHRydWUsIGZhbHNlLCB0cnVlKTsKICAgIGVtaXQgVHJhbnNmZXIoYWxpY2UsIGJvYiwgMTAwKTsKICAgIAogICAgdG9rZW4udHJhbnNmZXIoYm9iLCAxMDApOwp9CmBgYAoKYGV4cGVjdEVtaXRgIOeahOWbm+S4quW4g+WwlOWPguaVsOaOp+WItuajgOafpeWTquS6m+mDqOWIhuOAguWJjeS4ieS4quWvueW6lCBpbmRleGVkIOWPguaVsO+8iHRvcGlj77yJ77yM5pyA5ZCO5LiA5Liq5a+55bqU6Z2eIGluZGV4ZWQg5pWw5o2u44CCCgotLS0KCiMjIEZ1enog5rWL6K+V77ya6K6p5py65Zmo5om+IEJ1ZwoK5omL5Yqo57yW5YaZ5rWL6K+V55So5L6L5Y+q6IO96KaG55uW5L2g5oOz5Yiw55qE5Zy65pmv44CCRnV6eiDmtYvor5XorqkgRm91bmRyeSDoh6rliqjnlJ/miJDpmo/mnLrovpPlhaXvvIzlj6/og73lj5HnjrDkvaDku47mnKrmg7PliLDnmoTovrnnlYzmg4XlhrXjgIIKCmBgYHNvbGlkaXR5CmZ1bmN0aW9uIHRlc3RGdXp6X0RlcG9zaXQodWludDI1NiBhbW91bnQpIHB1YmxpYyB7CiAgICAvLyDpmZDliLbovpPlhaXojIPlm7QKICAgIHZtLmFzc3VtZShhbW91bnQgPiAwICYmIGFtb3VudCA8PSAxMDAwIGV0aGVyKTsKICAgIAogICAgdm0uZGVhbChhZGRyZXNzKHRoaXMpLCBhbW91bnQpOwogICAgdmF1bHQuZGVwb3NpdHt2YWx1ZTogYW1vdW50fSgpOwogICAgCiAgICBhc3NlcnRFcSh2YXVsdC5iYWxhbmNlT2YoYWRkcmVzcyh0aGlzKSksIGFtb3VudCk7Cn0KYGBgCgpgdm0uYXNzdW1lYCDov4fmu6TmjonkuI3mu6HotrPmnaHku7bnmoTovpPlhaXjgIJGb3VuZHJ5IOS8muiHquWKqOi/kOihjOaVsOeZvuasoea1i+ivle+8jOavj+asoeS9v+eUqOS4jeWQjOeahOmaj+acuuWAvOOAggoK5a+55LqO5Zyw5Z2A57G75Z6L55qEIGZ1enog5rWL6K+V77yM6ZyA6KaB5o6S6Zmk5LiA5Lqb54m55q6K5Zyw5Z2A77yaCgpgYGBzb2xpZGl0eQpmdW5jdGlvbiB0ZXN0RnV6el9UcmFuc2ZlcihhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCkgcHVibGljIHsKICAgIHZtLmFzc3VtZSh0byAhPSBhZGRyZXNzKDApKTsgICAgICAgICAgIC8vIOaOkumZpOmbtuWcsOWdgAogICAgdm0uYXNzdW1lKHRvICE9IGFkZHJlc3ModG9rZW4pKTsgICAgICAgLy8g5o6S6Zmk5ZCI57qm6Ieq6LqrCiAgICB2bS5hc3N1bWUodG8uY29kZS5sZW5ndGggPT0gMCk7ICAgICAgICAvLyDmjpLpmaTlkIjnuqblnLDlnYAKICAgIAogICAgLy8gLi4uIOa1i+ivlemAu+i+kQp9CmBgYAoK5Y+v5Lul5ZyoIGBmb3VuZHJ5LnRvbWxgIOS4remFjee9riBmdXp6IOa1i+ivleeahOi/kOihjOasoeaVsO+8mgoKYGBgdG9tbApbZnV6el0KcnVucyA9IDEwMDAKbWF4X3Rlc3RfcmVqZWN0cyA9IDY1NTM2CmBgYAoKLS0tCgojIyDkuI3lj5jph4/mtYvor5XvvJrpqozor4Hns7vnu5/lsZ7mgKcKCkZ1enog5rWL6K+V6aqM6K+B5Y2V5Liq5Ye95pWw55qE6KGM5Li677yM5LiN5Y+Y6YeP5rWL6K+V6aqM6K+B5pW05Liq57O757uf5Zyo5Lu75oSP5pON5L2c5bqP5YiX5ZCO6YO95L+d5oyB5p+Q5Lqb5bGe5oCn44CCCgohW+a1i+ivlemHkeWtl+WhlF0oL2ltYWdlcy9zY3JpcHR1cmVzL3NtYXJ0LWNvbnRyYWN0cy8wOC10ZXN0aW5nLXB5cmFtaWQucG5nKQoK5L6L5aaC77yM5LiA5Liq6YeR5bqT5ZCI57qm5bqU6K+l5aeL57uI5ruh6Laz77ya55So5oi35L2Z6aKd5LmL5ZKM562J5LqO5ZCI57qm5oyB5pyJ55qEIEVUSOOAggoKYGBgc29saWRpdHkKY29udHJhY3QgVmF1bHRJbnZhcmlhbnRUZXN0IGlzIFRlc3QgewogICAgVmF1bHQgcHVibGljIHZhdWx0OwogICAgVmF1bHRIYW5kbGVyIHB1YmxpYyBoYW5kbGVyOwogICAgCiAgICBmdW5jdGlvbiBzZXRVcCgpIHB1YmxpYyB7CiAgICAgICAgdmF1bHQgPSBuZXcgVmF1bHQoKTsKICAgICAgICBoYW5kbGVyID0gbmV3IFZhdWx0SGFuZGxlcih2YXVsdCk7CiAgICAgICAgdGFyZ2V0Q29udHJhY3QoYWRkcmVzcyhoYW5kbGVyKSk7CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIGludmFyaWFudF9Tb2x2ZW5jeUNoZWNrKCkgcHVibGljIHsKICAgICAgICBhc3NlcnRFcSh2YXVsdC50b3RhbERlcG9zaXRzKCksIGFkZHJlc3ModmF1bHQpLmJhbGFuY2UpOwogICAgfQp9CmBgYAoKSGFuZGxlciDlkIjnuqblrprkuYnkuoblj6/ku6XmiafooYznmoTmk43kvZzvvJoKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IFZhdWx0SGFuZGxlciBpcyBUZXN0IHsKICAgIFZhdWx0IHB1YmxpYyB2YXVsdDsKICAgIGFkZHJlc3NbXSBwdWJsaWMgYWN0b3JzOwogICAgCiAgICBjb25zdHJ1Y3RvcihWYXVsdCBfdmF1bHQpIHsKICAgICAgICB2YXVsdCA9IF92YXVsdDsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gZGVwb3NpdCh1aW50MjU2IGFtb3VudCkgcHVibGljIHsKICAgICAgICBhbW91bnQgPSBib3VuZChhbW91bnQsIDAuMDEgZXRoZXIsIDEwIGV0aGVyKTsKICAgICAgICBhZGRyZXNzIGFjdG9yID0gbXNnLnNlbmRlcjsKICAgICAgICAKICAgICAgICB2bS5kZWFsKGFjdG9yLCBhbW91bnQpOwogICAgICAgIHZtLnByYW5rKGFjdG9yKTsKICAgICAgICB2YXVsdC5kZXBvc2l0e3ZhbHVlOiBhbW91bnR9KCk7CiAgICAgICAgCiAgICAgICAgYWN0b3JzLnB1c2goYWN0b3IpOwogICAgfQogICAgCiAgICBmdW5jdGlvbiB3aXRoZHJhdyh1aW50MjU2IGFtb3VudCkgcHVibGljIHsKICAgICAgICBhZGRyZXNzIGFjdG9yID0gbXNnLnNlbmRlcjsKICAgICAgICB1aW50MjU2IGJhbGFuY2UgPSB2YXVsdC5iYWxhbmNlT2YoYWN0b3IpOwogICAgICAgIGFtb3VudCA9IGJvdW5kKGFtb3VudCwgMCwgYmFsYW5jZSk7CiAgICAgICAgCiAgICAgICAgdm0ucHJhbmsoYWN0b3IpOwogICAgICAgIHZhdWx0LndpdGhkcmF3KGFtb3VudCk7CiAgICB9Cn0KYGBgCgpgYm91bmRgIOWHveaVsOWwhumaj+acuuWAvOmZkOWItuWcqOaMh+WumuiMg+WbtOWGhe+8jOavlCBgdm0uYXNzdW1lYCDmm7Tpq5jmlYjvvIzlm6DkuLrlroPkuI3kvJrkuKLlvIPovpPlhaXjgIIKCkZvdW5kcnkg5Lya6ZqP5py66LCD55SoIGhhbmRsZXIg55qE5Ye95pWw77yM5p6E5bu65ZCE56eN5pON5L2c5bqP5YiX77yM54S25ZCO5qOA5p+l5LiN5Y+Y6YeP5piv5ZCm6KKr56C05Z2P44CC6L+Z56eN5rWL6K+V5pa55rOV54m55Yir6YCC5ZCI5Y+R546w5aSN5p2C55qE54q25oCB6L2s5o2iIGJ1Z+OAggoKLS0tCgojIyBGb3JrIOa1i+ivle+8muWcqOecn+WunueOr+Wig+S4remqjOivgQoK5pyJ5Lqb5Yqf6IO96ZyA6KaB5LiO5bey6YOo572y55qE5ZCI57qm5Lqk5LqS77yM5q+U5aaCIERFWCDpm4bmiJDjgIHpooToqIDmnLrosIPnlKjnrYnjgIJGb3JrIOa1i+ivleWFgeiuuOS9oOWcqOS4u+e9keeKtuaAgeeahOWJr+acrOS4iui/kOihjOa1i+ivleOAggoKYGBgc29saWRpdHkKY29udHJhY3QgRm9ya1Rlc3QgaXMgVGVzdCB7CiAgICB1aW50MjU2IG1haW5uZXRGb3JrOwogICAgCiAgICBmdW5jdGlvbiBzZXRVcCgpIHB1YmxpYyB7CiAgICAgICAgbWFpbm5ldEZvcmsgPSB2bS5jcmVhdGVGb3JrKHZtLmVudlN0cmluZygiTUFJTk5FVF9SUENfVVJMIikpOwogICAgICAgIHZtLnNlbGVjdEZvcmsobWFpbm5ldEZvcmspOwogICAgfQogICAgCiAgICBmdW5jdGlvbiB0ZXN0X1N3YXBPblVuaXN3YXAoKSBwdWJsaWMgewogICAgICAgIGFkZHJlc3MgV0VUSCA9IDB4QzAyYWFBMzliMjIzRkU4RDBBMGU1QzRGMjdlQUQ5MDgzQzc1NkNjMjsKICAgICAgICBhZGRyZXNzIFVTREMgPSAweEEwYjg2OTkxYzYyMThiMzZjMWQxOUQ0YTJlOUViMGNFMzYwNmVCNDg7CiAgICAgICAgCiAgICAgICAgZGVhbChXRVRILCBhZGRyZXNzKHRoaXMpLCAxIGV0aGVyKTsKICAgICAgICAKICAgICAgICAvLyDlnKjnnJ/lrp7nmoQgVW5pc3dhcCDlkIjnuqbkuIrmtYvor5UKICAgICAgICAvLyAuLi4KICAgIH0KfQpgYGAKCuS9oOeUmuiHs+WPr+S7peWcqOeJueWumuWMuuWdl+mrmOW6puWIm+W7uiBmb3Jr77yM6YeN546w5Y6G5Y+y54q25oCB77yaCgpgYGBzb2xpZGl0eQp2bS5jcmVhdGVTZWxlY3RGb3JrKHZtLmVudlN0cmluZygiTUFJTk5FVF9SUENfVVJMIiksIDE4MDAwMDAwKTsKYGBgCgrov5nlr7nkuo7lpI3njrDlkozliIbmnpDljoblj7LmvI/mtJ7pnZ7luLjmnInnlKjjgIIKCi0tLQoKIyMg6YOo572y6ISa5pysCgpGb3VuZHJ5IOS9v+eUqCBTb2xpZGl0eSDnvJblhpnpg6jnvbLohJrmnKzvvIzov5nmr5QgSmF2YVNjcmlwdCDohJrmnKzmm7TnsbvlnovlronlhajvvIzkuZ/mm7TlrrnmmJPkuI7lkIjnuqbku6PnoIHkv53mjIHkuIDoh7TjgIIKCmBgYHNvbGlkaXR5Ci8vIHNjcmlwdC9EZXBsb3kucy5zb2wKY29udHJhY3QgRGVwbG95U2NyaXB0IGlzIFNjcmlwdCB7CiAgICBmdW5jdGlvbiBydW4oKSBwdWJsaWMgewogICAgICAgIHVpbnQyNTYgZGVwbG95ZXJQcml2YXRlS2V5ID0gdm0uZW52VWludCgiUFJJVkFURV9LRVkiKTsKICAgICAgICAKICAgICAgICB2bS5zdGFydEJyb2FkY2FzdChkZXBsb3llclByaXZhdGVLZXkpOwogICAgICAgIAogICAgICAgIC8vIOmDqOe9suWunueOsOWQiOe6pgogICAgICAgIE15Q29udHJhY3QgaW1wbGVtZW50YXRpb24gPSBuZXcgTXlDb250cmFjdCgpOwogICAgICAgIGNvbnNvbGUubG9nKCJJbXBsZW1lbnRhdGlvbjoiLCBhZGRyZXNzKGltcGxlbWVudGF0aW9uKSk7CiAgICAgICAgCiAgICAgICAgLy8g6YOo572y5Luj55CGCiAgICAgICAgYnl0ZXMgbWVtb3J5IGluaXREYXRhID0gYWJpLmVuY29kZUNhbGwoCiAgICAgICAgICAgIE15Q29udHJhY3QuaW5pdGlhbGl6ZSwKICAgICAgICAgICAgKG1zZy5zZW5kZXIpCiAgICAgICAgKTsKICAgICAgICBFUkMxOTY3UHJveHkgcHJveHkgPSBuZXcgRVJDMTk2N1Byb3h5KAogICAgICAgICAgICBhZGRyZXNzKGltcGxlbWVudGF0aW9uKSwKICAgICAgICAgICAgaW5pdERhdGEKICAgICAgICApOwogICAgICAgIGNvbnNvbGUubG9nKCJQcm94eToiLCBhZGRyZXNzKHByb3h5KSk7CiAgICAgICAgCiAgICAgICAgdm0uc3RvcEJyb2FkY2FzdCgpOwogICAgfQp9CmBgYAoKYHZtLnN0YXJ0QnJvYWRjYXN0YCDlkowgYHZtLnN0b3BCcm9hZGNhc3RgIOS5i+mXtOeahOaJgOacieS6pOaYk+S8muiiq+iusOW9leW5tuW5v+aSreWIsOe9kee7nOOAggoK6L+Q6KGM6YOo572y6ISa5pys77yaCgpgYGBiYXNoCiMg5qih5ouf6YOo572y77yI5LiN5a6e6ZmF5Y+R6YCB5Lqk5piT77yJCmZvcmdlIHNjcmlwdCBzY3JpcHQvRGVwbG95LnMuc29sIC0tZm9yay11cmwgJFJQQ19VUkwKCiMg5a6e6ZmF6YOo572yCmZvcmdlIHNjcmlwdCBzY3JpcHQvRGVwbG95LnMuc29sIFwKICAgIC0tcnBjLXVybCAkU0VQT0xJQV9SUENfVVJMIFwKICAgIC0tYnJvYWRjYXN0IFwKICAgIC0tdmVyaWZ5IFwKICAgIC0tZXRoZXJzY2FuLWFwaS1rZXkgJEVUSEVSU0NBTl9BUElfS0VZIFwKICAgIC12dnZ2CmBgYAoKYC0tYnJvYWRjYXN0YCDlrp7pmYXlj5HpgIHkuqTmmJPvvIxgLS12ZXJpZnlgIOiHquWKqOWcqCBFdGhlcnNjYW4g5LiK6aqM6K+B5ZCI57qm5rqQ56CB44CCCgotLS0KCiMjIOWQiOe6pumqjOivgQoK6aqM6K+B5ZCI57qm5rqQ56CB6K6p55So5oi35Y+v5Lul5ZyoIEV0aGVyc2NhbiDkuIrpmIXor7vlkozpqozor4HlkIjnuqbpgLvovpHvvIzov5nmmK/lu7rnq4vkv6Hku7vnmoTph43opoHmraXpqqTjgIIKCuWmguaenOmDqOe9suaXtuayoeacieiHquWKqOmqjOivge+8jOWPr+S7peaJi+WKqOmqjOivge+8mgoKYGBgYmFzaApmb3JnZSB2ZXJpZnktY29udHJhY3QgXAogICAgLS1jaGFpbi1pZCAxIFwKICAgIC0tbnVtLW9mLW9wdGltaXphdGlvbnMgMjAwIFwKICAgIC0tY29tcGlsZXItdmVyc2lvbiB2MC44LjIwK2NvbW1pdC5hMWI3OWRlNiBcCiAgICAtLWV0aGVyc2Nhbi1hcGkta2V5ICRFVEhFUlNDQU5fQVBJX0tFWSBcCiAgICAkQ09OVFJBQ1RfQUREUkVTUyBcCiAgICBzcmMvTXlDb250cmFjdC5zb2w6TXlDb250cmFjdApgYGAKCuWvueS6juacieaehOmAoOWHveaVsOWPguaVsOeahOWQiOe6pu+8mgoKYGBgYmFzaApmb3JnZSB2ZXJpZnktY29udHJhY3QgXAogICAgLS1jb25zdHJ1Y3Rvci1hcmdzICQoY2FzdCBhYmktZW5jb2RlICJjb25zdHJ1Y3RvcihhZGRyZXNzLHVpbnQyNTYpIiAweC4uLiAxMDApIFwKICAgIC4uLgpgYGAKCi0tLQoKIyMgR2FzIOS8mOWMluWIhuaekAoK6YOo572y5YmN5bqU6K+l5YiG5p6QIEdhcyDmtojogJfvvIznoa7kv53miJDmnKzlnKjlj6/mjqXlj5fojIPlm7TlhoXjgIIKCmBgYGJhc2gKZm9yZ2UgdGVzdCAtLWdhcy1yZXBvcnQKYGBgCgrovpPlh7rkvJrmmL7npLrmr4/kuKrlh73mlbDnmoQgR2FzIOa2iOiAl+e7n+iuoe+8mgoKYGBgCnwgRnVuY3Rpb24gTmFtZSB8IG1pbiAgIHwgYXZnICAgfCBtZWRpYW4gfCBtYXggICB8ICMgY2FsbHMgfAp8LS0tLS0tLS0tLS0tLS0tfC0tLS0tLS18LS0tLS0tLXwtLS0tLS0tLXwtLS0tLS0tfC0tLS0tLS0tLXwKfCBkZXBvc2l0ICAgICAgIHwgMjIzMzggfCA0NTY3MiB8IDQ1NjcyICB8IDY5MDA2IHwgMTAwICAgICB8Cnwgd2l0aGRyYXcgICAgICB8IDg0NjIgIHwgMTI0NjIgfCAxMjQ2MiAgfCAxNjQ2MiB8IDUwICAgICAgfApgYGAKCkdhcyDlv6vnhaflj6/ku6Xov73ouKogR2FzIOa2iOiAl+eahOWPmOWMlu+8mgoKYGBgYmFzaApmb3JnZSBzbmFwc2hvdCAgICAgICAgICAgIyDnlJ/miJDlv6vnhacKZm9yZ2Ugc25hcHNob3QgLS1kaWZmICAgICMg5a+55q+U5Y+Y5YyWCmZvcmdlIHNuYXBzaG90IC0tY2hlY2sgICAjIENJIOS4reajgOafpeaYr+WQpui2heWHuumYiOWAvApgYGAKCi0tLQoKIyMg5a6J5YWo5qOA5p+l5riF5Y2VCgrpg6jnvbLliLDkuLvnvZHliY3vvIzlupTor6XlrozmiJDku6XkuIvmo4Dmn6XvvJoKCioq5Luj56CB6LSo6YePKioKLSDmiYDmnInlhbPplK7ot6/lvoTpg73mnInmtYvor5Xopobnm5YKLSBGdXp6IOa1i+ivlei/kOihjOS6hui2s+Wkn+WkmueahOasoeaVsAotIOS4jeWPmOmHj+a1i+ivlemqjOivgeS6huaguOW/g+WxnuaApwotIOWcqCBmb3JrIOeOr+Wig+S4rea1i+ivleS6huWklumDqOmbhuaIkAoKKirlronlhajlrqHorqEqKgotIOi/kOihjOS6hiBTbGl0aGVyIOmdmeaAgeWIhuaekAotIOajgOafpeS6huW4uOingea8j+a0nuaooeW8j++8iOmHjeWFpeOAgea6ouWHuuOAgeiuv+mXruaOp+WItu+8iQotIOWmguaenOmHkeminei+g+Wkp++8jOi/m+ihjOS6huS4k+S4muWuoeiuoQoKKirpg6jnvbLphY3nva4qKgotIOaehOmAoOWHveaVsC/liJ3lp4vljJblj4LmlbDmraPnoa4KLSDmnYPpmZDlnLDlnYDvvIhvd25lcuOAgWFkbWlu77yJ6K6+572u5q2j56GuCi0g5aSW6YOo5ZCI57qm5Zyw5Z2A77yI6aKE6KiA5py644CBREVY77yJ5q2j56GuCi0g5L2/55So5aSa562+6ZKx5YyF6YOo572yCgoqKuW6lOaApeWHhuWkhyoqCi0g5pyJ5pqC5YGc5py65Yi2Ci0g5pyJ5Y2H57qn6Lev5b6E77yI5aaC5p6c6ZyA6KaB77yJCi0g5pyJ55uR5o6n5ZKM5ZGK6K2mCgotLS0KCiMjIOaAu+e7kwoK5rWL6K+V5ZKM6YOo572y5piv5bCG5ZCI57qm5o6o5ZCR55Sf5Lqn546v5aKD55qE5pyA5ZCO5LiA5q2l77yM5Lmf5piv5pyA5YWz6ZSu55qE5LiA5q2l44CCRm91bmRyeSDmj5DkvpvkuoblvLrlpKfnmoTlt6Xlhbfpk77vvJrljZXlhYPmtYvor5Xpqozor4Hln7rmnKzlip/og73vvIxmdXp6IOa1i+ivleWPkeeOsOi+ueeVjOaDheWGte+8jOS4jeWPmOmHj+a1i+ivlemqjOivgeezu+e7n+WxnuaAp++8jGZvcmsg5rWL6K+V5Zyo55yf5a6e546v5aKD5Lit6aqM6K+B6ZuG5oiQ44CCCgrkvYblt6Xlhbflj6rmmK/miYvmrrXvvIznnJ/mraPph43opoHnmoTmmK/mtYvor5XmgJ3nu7TvvJrmgJ3ogIPlkIjnuqblj6/og73lh7rplJnnmoTmlrnlvI/vvIznhLblkI7nvJblhpnmtYvor5XmnaXpqozor4HlroPkuI3kvJrlh7rplJnjgILmr4/kuIDkuKogYGFzc2VydEVxYCDpg73mmK/lr7nlkIjnuqbooYzkuLrnmoTkuIDkuKrmib/or7rvvIzmr4/kuIDkuKogYGV4cGVjdFJldmVydGAg6YO95piv5a+56ZSZ6K+v5aSE55CG55qE5LiA5Liq5L+d6K+B44CCCgrpg6jnvbLkuI3mmK/nu4jngrnvvIzogIzmmK/mlrDnmoTlvIDlp4vjgILlkIjnuqbkuIrnur/lkI7pnIDopoHmjIHnu63nm5HmjqfvvIzlh4blpIflpb3lupTlr7nlj6/og73lh7rnjrDnmoTpl67popjjgILlnKggV2ViMyDnmoTkuJbnlYzph4zvvIwibW92ZSBmYXN0IGFuZCBicmVhayB0aGluZ3MiIOeahOS7o+S7t+WkqumrmOS6huKAlOKAlOaIkeS7rOmcgOimgeeahOaYryAibW92ZSBjYXJlZnVsbHkgYW5kIGJ1aWxkIHRoaW5ncyB0aGF0IGxhc3Qi44CCCgotLS0KCiMjIOWPguiAg+aWh+eMrgoKLSBbRm91bmRyeSBCb29rXShodHRwczovL2Jvb2suZ2V0Zm91bmRyeS5zaC8pCi0gW0ZvdW5kcnkgQ2hlYXRjb2RlcyBSZWZlcmVuY2VdKGh0dHBzOi8vYm9vay5nZXRmb3VuZHJ5LnNoL2NoZWF0Y29kZXMvKQotIFtTbGl0aGVyIERvY3VtZW50YXRpb25dKGh0dHBzOi8vZ2l0aHViLmNvbS9jcnl0aWMvc2xpdGhlcikKLSBbU21hcnQgQ29udHJhY3QgU2VjdXJpdHkgQmVzdCBQcmFjdGljZXNdKGh0dHBzOi8vY29uc2Vuc3lzLmdpdGh1Yi5pby9zbWFydC1jb250cmFjdC1iZXN0LXByYWN0aWNlcy8pCi0gW1RyYWlsIG9mIEJpdHMgVGVzdGluZyBIYW5kYm9va10oaHR0cHM6Ly9hcHBzZWMuZ3VpZGUvKQo="}
+# 第 8 章：测试与部署
+
+> 代码写完只是开始。没有经过充分测试的合约就像没有经过检验的桥梁——看起来能用，但随时可能崩塌。本章介绍如何用 Foundry 构建可靠的测试体系，以及如何安全地将合约部署到生产环境。
+
+---
+
+## 为什么测试如此重要
+
+智能合约与传统软件有一个根本区别：部署后无法修改。一个 bug 在传统应用中可能只是一次热修复，但在智能合约中可能意味着数百万美元的损失。2016 年的 DAO 攻击、2022 年的 Wormhole 漏洞、2023 年的 Euler Finance 事件，每一次都是血淋淋的教训。
+
+测试不是可选的，而是必须的。好的测试不仅能发现 bug，还能作为合约行为的文档，帮助其他开发者理解代码的预期行为。当你修改代码时，测试会告诉你是否破坏了现有功能。
+
+Foundry 是目前最流行的 Solidity 测试框架。它用 Solidity 编写测试（而不是 JavaScript），执行速度极快，并提供了强大的作弊码（cheatcodes）来模拟各种场景。
+
+---
+
+## Foundry 测试基础
+
+一个 Foundry 测试文件的基本结构如下：
+
+```solidity
+// test/Counter.t.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import {Test, console} from "forge-std/Test.sol";
+import {Counter} from "../src/Counter.sol";
+
+contract CounterTest is Test {
+    Counter public counter;
+    
+    function setUp() public {
+        counter = new Counter();
+    }
+    
+    function test_Increment() public {
+        counter.increment();
+        assertEq(counter.count(), 1);
+    }
+    
+    function test_RevertWhen_DecrementBelowZero() public {
+        vm.expectRevert("Count is zero");
+        counter.decrement();
+    }
+}
+```
+
+测试合约继承自 `Test`，这提供了断言函数和作弊码。`setUp` 函数在每个测试之前执行，用于初始化测试环境。测试函数必须以 `test` 开头，Foundry 会自动发现并执行它们。
+
+运行测试很简单：
+
+```bash
+forge test                           # 运行所有测试
+forge test --match-test test_Increment  # 运行特定测试
+forge test -vvvv                     # 显示详细输出
+forge test --gas-report              # 生成 Gas 报告
+```
+
+`-v` 参数控制输出详细程度。`-vvvv` 会显示每一步的执行细节，包括调用栈和存储变化，这在调试失败的测试时非常有用。
+
+---
+
+## 断言：验证预期行为
+
+断言是测试的核心。Foundry 提供了丰富的断言函数：
+
+```solidity
+// 相等性检查
+assertEq(a, b);                      // a == b
+assertEq(a, b, "Error message");     // 带错误信息
+assertNotEq(a, b);                   // a != b
+
+// 比较
+assertGt(a, b);                      // a > b
+assertGe(a, b);                      // a >= b
+assertLt(a, b);                      // a < b
+assertLe(a, b);                      // a <= b
+
+// 布尔
+assertTrue(condition);
+assertFalse(condition);
+
+// 近似相等（处理精度问题）
+assertApproxEqAbs(a, b, maxDelta);   // |a - b| <= maxDelta
+assertApproxEqRel(a, b, maxPercent); // |a - b| / b <= maxPercent
+```
+
+近似相等断言在处理除法或百分比计算时特别有用。由于 Solidity 没有浮点数，除法会产生舍入误差，使用 `assertApproxEqAbs` 可以容忍小范围的误差。
+
+---
+
+## 作弊码：模拟任何场景
+
+作弊码是 Foundry 最强大的功能。它们允许你操纵 EVM 状态，模拟各种难以在真实环境中重现的场景。
+
+### 身份模拟
+
+```solidity
+function test_OnlyOwner() public {
+    address alice = makeAddr("alice");
+    address bob = makeAddr("bob");
+    
+    // 以 alice 身份执行下一次调用
+    vm.prank(alice);
+    contract.ownerFunction();
+    
+    // 以 bob 身份执行多次调用
+    vm.startPrank(bob);
+    contract.function1();
+    contract.function2();
+    vm.stopPrank();
+}
+```
+
+`makeAddr` 创建一个带标签的地址，在调试输出中会显示 "alice" 而不是一串十六进制数字。`prank` 只影响下一次调用，`startPrank/stopPrank` 影响一个范围内的所有调用。
+
+### 余额操作
+
+```solidity
+function test_Deposit() public {
+    address user = makeAddr("user");
+    
+    // 设置 ETH 余额
+    vm.deal(user, 100 ether);
+    assertEq(user.balance, 100 ether);
+    
+    // 设置 ERC20 余额
+    deal(address(token), user, 1000e18);
+    assertEq(token.balanceOf(user), 1000e18);
+}
+```
+
+`vm.deal` 设置 ETH 余额，`deal`（不带 vm 前缀）设置 ERC20 余额。后者会自动处理存储槽的计算，非常方便。
+
+### 时间操作
+
+```solidity
+function test_TimeLock() public {
+    // 设置区块时间
+    vm.warp(1000);
+    assertEq(block.timestamp, 1000);
+    
+    // 增加时间
+    skip(1 days);
+    assertEq(block.timestamp, 1000 + 1 days);
+    
+    // 设置区块号
+    vm.roll(100);
+    assertEq(block.number, 100);
+}
+```
+
+时间操作对于测试时间锁、vesting 合约、利息计算等场景至关重要。
+
+### 预期 Revert
+
+```solidity
+function test_Revert() public {
+    // 预期错误消息
+    vm.expectRevert("Insufficient balance");
+    contract.withdraw(1000);
+    
+    // 预期自定义错误
+    vm.expectRevert(InsufficientBalance.selector);
+    contract.withdraw(1000);
+    
+    // 预期带参数的自定义错误
+    vm.expectRevert(abi.encodeWithSelector(
+        InsufficientBalance.selector,
+        100,  // available
+        1000  // requested
+    ));
+    contract.withdraw(1000);
+}
+```
+
+`expectRevert` 必须在会 revert 的调用之前调用。如果下一次调用没有 revert，或者 revert 的原因不匹配，测试就会失败。
+
+### 预期事件
+
+```solidity
+function test_EmitEvent() public {
+    // 参数：checkTopic1, checkTopic2, checkTopic3, checkData
+    vm.expectEmit(true, true, false, true);
+    emit Transfer(alice, bob, 100);
+    
+    token.transfer(bob, 100);
+}
+```
+
+`expectEmit` 的四个布尔参数控制检查哪些部分。前三个对应 indexed 参数（topic），最后一个对应非 indexed 数据。
+
+---
+
+## Fuzz 测试：让机器找 Bug
+
+手动编写测试用例只能覆盖你想到的场景。Fuzz 测试让 Foundry 自动生成随机输入，可能发现你从未想到的边界情况。
+
+```solidity
+function testFuzz_Deposit(uint256 amount) public {
+    // 限制输入范围
+    vm.assume(amount > 0 && amount <= 1000 ether);
+    
+    vm.deal(address(this), amount);
+    vault.deposit{value: amount}();
+    
+    assertEq(vault.balanceOf(address(this)), amount);
+}
+```
+
+`vm.assume` 过滤掉不满足条件的输入。Foundry 会自动运行数百次测试，每次使用不同的随机值。
+
+对于地址类型的 fuzz 测试，需要排除一些特殊地址：
+
+```solidity
+function testFuzz_Transfer(address to, uint256 amount) public {
+    vm.assume(to != address(0));           // 排除零地址
+    vm.assume(to != address(token));       // 排除合约自身
+    vm.assume(to.code.length == 0);        // 排除合约地址
+    
+    // ... 测试逻辑
+}
+```
+
+可以在 `foundry.toml` 中配置 fuzz 测试的运行次数：
+
+```toml
+[fuzz]
+runs = 1000
+max_test_rejects = 65536
+```
+
+---
+
+## 不变量测试：验证系统属性
+
+Fuzz 测试验证单个函数的行为，不变量测试验证整个系统在任意操作序列后都保持某些属性。
+
+![测试金字塔](/images/scriptures/smart-contracts/08-testing-pyramid.png)
+
+例如，一个金库合约应该始终满足：用户余额之和等于合约持有的 ETH。
+
+```solidity
+contract VaultInvariantTest is Test {
+    Vault public vault;
+    VaultHandler public handler;
+    
+    function setUp() public {
+        vault = new Vault();
+        handler = new VaultHandler(vault);
+        targetContract(address(handler));
+    }
+    
+    function invariant_SolvencyCheck() public {
+        assertEq(vault.totalDeposits(), address(vault).balance);
+    }
+}
+```
+
+Handler 合约定义了可以执行的操作：
+
+```solidity
+contract VaultHandler is Test {
+    Vault public vault;
+    address[] public actors;
+    
+    constructor(Vault _vault) {
+        vault = _vault;
+    }
+    
+    function deposit(uint256 amount) public {
+        amount = bound(amount, 0.01 ether, 10 ether);
+        address actor = msg.sender;
+        
+        vm.deal(actor, amount);
+        vm.prank(actor);
+        vault.deposit{value: amount}();
+        
+        actors.push(actor);
+    }
+    
+    function withdraw(uint256 amount) public {
+        address actor = msg.sender;
+        uint256 balance = vault.balanceOf(actor);
+        amount = bound(amount, 0, balance);
+        
+        vm.prank(actor);
+        vault.withdraw(amount);
+    }
+}
+```
+
+`bound` 函数将随机值限制在指定范围内，比 `vm.assume` 更高效，因为它不会丢弃输入。
+
+Foundry 会随机调用 handler 的函数，构建各种操作序列，然后检查不变量是否被破坏。这种测试方法特别适合发现复杂的状态转换 bug。
+
+---
+
+## Fork 测试：在真实环境中验证
+
+有些功能需要与已部署的合约交互，比如 DEX 集成、预言机调用等。Fork 测试允许你在主网状态的副本上运行测试。
+
+```solidity
+contract ForkTest is Test {
+    uint256 mainnetFork;
+    
+    function setUp() public {
+        mainnetFork = vm.createFork(vm.envString("MAINNET_RPC_URL"));
+        vm.selectFork(mainnetFork);
+    }
+    
+    function test_SwapOnUniswap() public {
+        address WETH = 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2;
+        address USDC = 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48;
+        
+        deal(WETH, address(this), 1 ether);
+        
+        // 在真实的 Uniswap 合约上测试
+        // ...
+    }
+}
+```
+
+你甚至可以在特定区块高度创建 fork，重现历史状态：
+
+```solidity
+vm.createSelectFork(vm.envString("MAINNET_RPC_URL"), 18000000);
+```
+
+这对于复现和分析历史漏洞非常有用。
+
+---
+
+## 部署脚本
+
+Foundry 使用 Solidity 编写部署脚本，这比 JavaScript 脚本更类型安全，也更容易与合约代码保持一致。
+
+```solidity
+// script/Deploy.s.sol
+contract DeployScript is Script {
+    function run() public {
+        uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
+        
+        vm.startBroadcast(deployerPrivateKey);
+        
+        // 部署实现合约
+        MyContract implementation = new MyContract();
+        console.log("Implementation:", address(implementation));
+        
+        // 部署代理
+        bytes memory initData = abi.encodeCall(
+            MyContract.initialize,
+            (msg.sender)
+        );
+        ERC1967Proxy proxy = new ERC1967Proxy(
+            address(implementation),
+            initData
+        );
+        console.log("Proxy:", address(proxy));
+        
+        vm.stopBroadcast();
+    }
+}
+```
+
+`vm.startBroadcast` 和 `vm.stopBroadcast` 之间的所有交易会被记录并广播到网络。
+
+运行部署脚本：
+
+```bash
+# 模拟部署（不实际发送交易）
+forge script script/Deploy.s.sol --fork-url $RPC_URL
+
+# 实际部署
+forge script script/Deploy.s.sol \
+    --rpc-url $SEPOLIA_RPC_URL \
+    --broadcast \
+    --verify \
+    --etherscan-api-key $ETHERSCAN_API_KEY \
+    -vvvv
+```
+
+`--broadcast` 实际发送交易，`--verify` 自动在 Etherscan 上验证合约源码。
+
+---
+
+## 合约验证
+
+验证合约源码让用户可以在 Etherscan 上阅读和验证合约逻辑，这是建立信任的重要步骤。
+
+如果部署时没有自动验证，可以手动验证：
+
+```bash
+forge verify-contract \
+    --chain-id 1 \
+    --num-of-optimizations 200 \
+    --compiler-version v0.8.20+commit.a1b79de6 \
+    --etherscan-api-key $ETHERSCAN_API_KEY \
+    $CONTRACT_ADDRESS \
+    src/MyContract.sol:MyContract
+```
+
+对于有构造函数参数的合约：
+
+```bash
+forge verify-contract \
+    --constructor-args $(cast abi-encode "constructor(address,uint256)" 0x... 100) \
+    ...
+```
+
+---
+
+## Gas 优化分析
+
+部署前应该分析 Gas 消耗，确保成本在可接受范围内。
+
+```bash
+forge test --gas-report
+```
+
+输出会显示每个函数的 Gas 消耗统计：
+
+```
+| Function Name | min   | avg   | median | max   | # calls |
+|---------------|-------|-------|--------|-------|---------|
+| deposit       | 22338 | 45672 | 45672  | 69006 | 100     |
+| withdraw      | 8462  | 12462 | 12462  | 16462 | 50      |
+```
+
+Gas 快照可以追踪 Gas 消耗的变化：
+
+```bash
+forge snapshot           # 生成快照
+forge snapshot --diff    # 对比变化
+forge snapshot --check   # CI 中检查是否超出阈值
+```
+
+---
+
+## 安全检查清单
+
+部署到主网前，应该完成以下检查：
+
+**代码质量**
+- 所有关键路径都有测试覆盖
+- Fuzz 测试运行了足够多的次数
+- 不变量测试验证了核心属性
+- 在 fork 环境中测试了外部集成
+
+**安全审计**
+- 运行了 Slither 静态分析
+- 检查了常见漏洞模式（重入、溢出、访问控制）
+- 如果金额较大，进行了专业审计
+
+**部署配置**
+- 构造函数/初始化参数正确
+- 权限地址（owner、admin）设置正确
+- 外部合约地址（预言机、DEX）正确
+- 使用多签钱包部署
+
+**应急准备**
+- 有暂停机制
+- 有升级路径（如果需要）
+- 有监控和告警
+
+---
+
+## 总结
+
+测试和部署是将合约推向生产环境的最后一步，也是最关键的一步。Foundry 提供了强大的工具链：单元测试验证基本功能，fuzz 测试发现边界情况，不变量测试验证系统属性，fork 测试在真实环境中验证集成。
+
+但工具只是手段，真正重要的是测试思维：思考合约可能出错的方式，然后编写测试来验证它不会出错。每一个 `assertEq` 都是对合约行为的一个承诺，每一个 `expectRevert` 都是对错误处理的一个保证。
+
+部署不是终点，而是新的开始。合约上线后需要持续监控，准备好应对可能出现的问题。在 Web3 的世界里，"move fast and break things" 的代价太高了——我们需要的是 "move carefully and build things that last"。
+
+---
+
+## 参考文献
+
+- [Foundry Book](https://book.getfoundry.sh/)
+- [Foundry Cheatcodes Reference](https://book.getfoundry.sh/cheatcodes/)
+- [Slither Documentation](https://github.com/crytic/slither)
+- [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [Trail of Bits Testing Handbook](https://appsec.guide/)

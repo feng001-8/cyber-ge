@@ -1,1 +1,46 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NTAgNDIwIiB3aWR0aD0iNzUwIiBoZWlnaHQ9IjQyMCI+CiAgPGRlZnM+CiAgICA8bWFya2VyIGlkPSJhcnJvd2hlYWQiIG1hcmtlcldpZHRoPSIxMCIgbWFya2VySGVpZ2h0PSI3IiByZWZYPSI5IiByZWZZPSIzLjUiIG9yaWVudD0iYXV0byI+CiAgICAgIDxwb2x5Z29uIHBvaW50cz0iMCAwLCAxMCAzLjUsIDAgNyIgZmlsbD0iIzhDOTI4RiIvPgogICAgPC9tYXJrZXI+CiAgPC9kZWZzPgogIDxzdHlsZT4KICAgIHRleHQgeyBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAnU0YgUHJvIFRleHQnLCBzYW5zLXNlcmlmOyB9CiAgICAudGl0bGUgeyBmb250LXNpemU6IDIwcHg7IGZvbnQtd2VpZ2h0OiA2MDA7IGZpbGw6ICM0NzQ3NDc7IH0KICAgIC5zdWJ0aXRsZSB7IGZvbnQtc2l6ZTogMTNweDsgZmlsbDogIzhDOTI4RjsgfQogICAgLmxhYmVsIHsgZm9udC1zaXplOiAxM3B4OyBmaWxsOiAjNDc0NzQ3OyB9CiAgICAuYXhpcy1sYWJlbCB7IGZvbnQtc2l6ZTogMTJweDsgZmlsbDogIzhDOTI4RjsgfQogICAgLnNtYWxsIHsgZm9udC1zaXplOiAxMXB4OyBmaWxsOiAjOEM5MjhGOyB9CiAgICAuZm9ybXVsYSB7IGZvbnQtc2l6ZTogMTRweDsgZm9udC1mYW1pbHk6ICdTRiBNb25vJywgTW9uYWNvLCBtb25vc3BhY2U7IH0KICA8L3N0eWxlPgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IndoaXRlIi8+CiAgPHRleHQgeD0iMzc1LjAiIHk9IjM1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0idGl0bGUiPumbhuS4rea1geWKqOaApyB2cyDlhajojIPlm7TmtYHliqjmgKc8L3RleHQ+CiAgPHRleHQgeD0iMzc1LjAiIHk9IjU4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ic3VidGl0bGUiPlVuaXN3YXAgVjIg4oaSIFYzIOi1hOacrOaViOeOh+mdqeWRvTwvdGV4dD4KICA8IS0tIFYyIC0tPgogIDx0ZXh0IHg9IjE5MC4wIiB5PSIxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJsYWJlbCIgZmlsbD0iIzhDOTI4RiI+VW5pc3dhcCBWMjwvdGV4dD4KICA8cmVjdCB4PSI1MCIgeT0iMTIwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhDOTI4RiIgc3Ryb2tlLWRhc2hhcnJheT0iNCwyIi8+CiAgPHJlY3QgeD0iNjAiIHk9IjE4MCIgd2lkdGg9IjI2MCIgaGVpZ2h0PSI2MCIgcng9IjQiIGZpbGw9IiM4QzkyOEYiIG9wYWNpdHk9IjAuMTUiLz4KICA8bGluZSB4MT0iMTkwLjAiIHkxPSIxMzAiIHgyPSIxOTAuMCIgeTI9IjI5MCIgc3Ryb2tlPSIjNEE4QjcxIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjUsMyIvPgogIDx0ZXh0IHg9IjE5MC4wIiB5PSIzMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJzbWFsbCIgZmlsbD0iIzRBOEI3MSI+5b2T5YmN5Lu35qC8PC90ZXh0PgogIDx0ZXh0IHg9IjU1IiB5PSIzMjAiIGNsYXNzPSJzbWFsbCI+JDA8L3RleHQ+CiAgPHRleHQgeD0iMzIwIiB5PSIzMjAiIGNsYXNzPSJzbWFsbCI+JOKInjwvdGV4dD4KICA8dGV4dCB4PSIxOTAuMCIgeT0iMzU1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ibGFiZWwiIGZpbGw9IiNEMTM0MjkiPui1hOacrOaViOeOhyB+MXg8L3RleHQ+CiAgPHRleHQgeD0iMTkwLjAiIHk9IjM3NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InNtYWxsIj7lpKfpg6jliIbmtYHliqjmgKfmnKrkvb/nlKg8L3RleHQ+CiAgPHRleHQgeD0iMzc1IiB5PSIyMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJ0aXRsZSIgZmlsbD0iIzRBOEI3MSI+4oaSPC90ZXh0PgogIDwhLS0gVjMgLS0+CiAgPHRleHQgeD0iNTYwLjAiIHk9IjEwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImxhYmVsIiBmaWxsPSIjNEE4QjcxIj5Vbmlzd2FwIFYzPC90ZXh0PgogIDxyZWN0IHg9IjQyMCIgeT0iMTIwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjE4MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhDOTI4RiIgc3Ryb2tlLWRhc2hhcnJheT0iNCwyIi8+CiAgPHJlY3QgeD0iNTIwIiB5PSIxNDAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIxNDAiIHJ4PSI0IiBmaWxsPSIjNEE4QjcxIiBvcGFjaXR5PSIwLjI1IiBzdHJva2U9IiM0QThCNzEiIHN0cm9rZS13aWR0aD0iMiIvPgogIDxsaW5lIHgxPSI1NjAuMCIgeTE9IjEzMCIgeDI9IjU2MC4wIiB5Mj0iMjkwIiBzdHJva2U9IiM0QThCNzEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iNSwzIi8+CiAgPHRleHQgeD0iNTYwLjAiIHk9IjMyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InNtYWxsIiBmaWxsPSIjNEE4QjcxIj7lvZPliY3ku7fmoLw8L3RleHQ+CiAgPHRleHQgeD0iNDI1IiB5PSIzMjAiIGNsYXNzPSJzbWFsbCI+JDA8L3RleHQ+CiAgPHRleHQgeD0iNjkwIiB5PSIzMjAiIGNsYXNzPSJzbWFsbCI+JOKInjwvdGV4dD4KICA8dGV4dCB4PSI1MjAiIHk9IjMyMCIgY2xhc3M9InNtYWxsIiBmaWxsPSIjNEE4QjcxIj4kMTgwMDwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjMyMCIgY2xhc3M9InNtYWxsIiBmaWxsPSIjNEE4QjcxIj4kMjIwMDwvdGV4dD4KICA8dGV4dCB4PSI1NjAuMCIgeT0iMzU1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ibGFiZWwiIGZpbGw9IiM0QThCNzEiPui1hOacrOaViOeOhyDmnIDpq5g0MDAweDwvdGV4dD4KICA8dGV4dCB4PSI1NjAuMCIgeT0iMzc1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ic21hbGwiPuWQjOetiei1hOmHke+8jOa1geWKqOaAp+a3seW6puaPkOWNhzQw5YCNPC90ZXh0PgogIDwhLS0gQ29tcGFyaXNvbiAtLT4KICA8cmVjdCB4PSIyMjAiIHk9IjM2MCIgd2lkdGg9IjMxMCIgaGVpZ2h0PSI0NSIgcng9IjgiIGZpbGw9IiNFNUU3RUIiIG9wYWNpdHk9IjAuNSIvPgogIDx0ZXh0IHg9IjM3NSIgeT0iMzgyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ibGFiZWwiPiQxODAwLSQyMjAwIOWMuumXtOaPkOS+m+a1geWKqOaApzwvdGV4dD4KICA8dGV4dCB4PSIzNzUiIHk9IjQwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InNtYWxsIj5WMiDpnIDopoEgJDEwMCwwMDAg4oaSIFYzIOWPqumcgCAkMiw1MDA8L3RleHQ+Cjwvc3ZnPgo="}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 420" width="750" height="420">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8C928F"/>
+    </marker>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; }
+    .title { font-size: 20px; font-weight: 600; fill: #474747; }
+    .subtitle { font-size: 13px; fill: #8C928F; }
+    .label { font-size: 13px; fill: #474747; }
+    .axis-label { font-size: 12px; fill: #8C928F; }
+    .small { font-size: 11px; fill: #8C928F; }
+    .formula { font-size: 14px; font-family: 'SF Mono', Monaco, monospace; }
+  </style>
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="375.0" y="35" text-anchor="middle" class="title">集中流动性 vs 全范围流动性</text>
+  <text x="375.0" y="58" text-anchor="middle" class="subtitle">Uniswap V2 → V3 资本效率革命</text>
+  <!-- V2 -->
+  <text x="190.0" y="100" text-anchor="middle" class="label" fill="#8C928F">Uniswap V2</text>
+  <rect x="50" y="120" width="280" height="180" rx="4" fill="none" stroke="#8C928F" stroke-dasharray="4,2"/>
+  <rect x="60" y="180" width="260" height="60" rx="4" fill="#8C928F" opacity="0.15"/>
+  <line x1="190.0" y1="130" x2="190.0" y2="290" stroke="#4A8B71" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="190.0" y="320" text-anchor="middle" class="small" fill="#4A8B71">当前价格</text>
+  <text x="55" y="320" class="small">$0</text>
+  <text x="320" y="320" class="small">$∞</text>
+  <text x="190.0" y="355" text-anchor="middle" class="label" fill="#D13429">资本效率 ~1x</text>
+  <text x="190.0" y="375" text-anchor="middle" class="small">大部分流动性未使用</text>
+  <text x="375" y="210" text-anchor="middle" class="title" fill="#4A8B71">→</text>
+  <!-- V3 -->
+  <text x="560.0" y="100" text-anchor="middle" class="label" fill="#4A8B71">Uniswap V3</text>
+  <rect x="420" y="120" width="280" height="180" rx="4" fill="none" stroke="#8C928F" stroke-dasharray="4,2"/>
+  <rect x="520" y="140" width="80" height="140" rx="4" fill="#4A8B71" opacity="0.25" stroke="#4A8B71" stroke-width="2"/>
+  <line x1="560.0" y1="130" x2="560.0" y2="290" stroke="#4A8B71" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="560.0" y="320" text-anchor="middle" class="small" fill="#4A8B71">当前价格</text>
+  <text x="425" y="320" class="small">$0</text>
+  <text x="690" y="320" class="small">$∞</text>
+  <text x="520" y="320" class="small" fill="#4A8B71">$1800</text>
+  <text x="600" y="320" class="small" fill="#4A8B71">$2200</text>
+  <text x="560.0" y="355" text-anchor="middle" class="label" fill="#4A8B71">资本效率 最高4000x</text>
+  <text x="560.0" y="375" text-anchor="middle" class="small">同等资金，流动性深度提升40倍</text>
+  <!-- Comparison -->
+  <rect x="220" y="360" width="310" height="45" rx="8" fill="#E5E7EB" opacity="0.5"/>
+  <text x="375" y="382" text-anchor="middle" class="label">$1800-$2200 区间提供流动性</text>
+  <text x="375" y="400" text-anchor="middle" class="small">V2 需要 $100,000 → V3 只需 $2,500</text>
+</svg>

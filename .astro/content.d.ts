@@ -1,1 +1,215 @@
-{"data":"ZGVjbGFyZSBtb2R1bGUgJ2FzdHJvOmNvbnRlbnQnIHsKCWV4cG9ydCBpbnRlcmZhY2UgUmVuZGVyUmVzdWx0IHsKCQlDb250ZW50OiBpbXBvcnQoJ2FzdHJvL3J1bnRpbWUvc2VydmVyL2luZGV4LmpzJykuQXN0cm9Db21wb25lbnRGYWN0b3J5OwoJCWhlYWRpbmdzOiBpbXBvcnQoJ2FzdHJvJykuTWFya2Rvd25IZWFkaW5nW107CgkJcmVtYXJrUGx1Z2luRnJvbnRtYXR0ZXI6IFJlY29yZDxzdHJpbmcsIGFueT47Cgl9CglpbnRlcmZhY2UgUmVuZGVyIHsKCQknLm1kJzogUHJvbWlzZTxSZW5kZXJSZXN1bHQ+OwoJfQoKCWV4cG9ydCBpbnRlcmZhY2UgUmVuZGVyZWRDb250ZW50IHsKCQlodG1sOiBzdHJpbmc7CgkJbWV0YWRhdGE/OiB7CgkJCWltYWdlUGF0aHM6IEFycmF5PHN0cmluZz47CgkJCVtrZXk6IHN0cmluZ106IHVua25vd247CgkJfTsKCX0KfQoKZGVjbGFyZSBtb2R1bGUgJ2FzdHJvOmNvbnRlbnQnIHsKCXR5cGUgRmxhdHRlbjxUPiA9IFQgZXh0ZW5kcyB7IFtLOiBzdHJpbmddOiBpbmZlciBVIH0gPyBVIDogbmV2ZXI7CgoJZXhwb3J0IHR5cGUgQ29sbGVjdGlvbktleSA9IGtleW9mIEFueUVudHJ5TWFwOwoJZXhwb3J0IHR5cGUgQ29sbGVjdGlvbkVudHJ5PEMgZXh0ZW5kcyBDb2xsZWN0aW9uS2V5PiA9IEZsYXR0ZW48QW55RW50cnlNYXBbQ10+OwoKCWV4cG9ydCB0eXBlIENvbnRlbnRDb2xsZWN0aW9uS2V5ID0ga2V5b2YgQ29udGVudEVudHJ5TWFwOwoJZXhwb3J0IHR5cGUgRGF0YUNvbGxlY3Rpb25LZXkgPSBrZXlvZiBEYXRhRW50cnlNYXA7CgoJdHlwZSBBbGxWYWx1ZXNPZjxUPiA9IFQgZXh0ZW5kcyBhbnkgPyBUW2tleW9mIFRdIDogbmV2ZXI7Cgl0eXBlIFZhbGlkQ29udGVudEVudHJ5U2x1ZzxDIGV4dGVuZHMga2V5b2YgQ29udGVudEVudHJ5TWFwPiA9IEFsbFZhbHVlc09mPAoJCUNvbnRlbnRFbnRyeU1hcFtDXQoJPlsnc2x1ZyddOwoKCWV4cG9ydCB0eXBlIFJlZmVyZW5jZURhdGFFbnRyeTwKCQlDIGV4dGVuZHMgQ29sbGVjdGlvbktleSwKCQlFIGV4dGVuZHMga2V5b2YgRGF0YUVudHJ5TWFwW0NdID0gc3RyaW5nLAoJPiA9IHsKCQljb2xsZWN0aW9uOiBDOwoJCWlkOiBFOwoJfTsKCWV4cG9ydCB0eXBlIFJlZmVyZW5jZUNvbnRlbnRFbnRyeTwKCQlDIGV4dGVuZHMga2V5b2YgQ29udGVudEVudHJ5TWFwLAoJCUUgZXh0ZW5kcyBWYWxpZENvbnRlbnRFbnRyeVNsdWc8Qz4gfCAoc3RyaW5nICYge30pID0gc3RyaW5nLAoJPiA9IHsKCQljb2xsZWN0aW9uOiBDOwoJCXNsdWc6IEU7Cgl9OwoJZXhwb3J0IHR5cGUgUmVmZXJlbmNlTGl2ZUVudHJ5PEMgZXh0ZW5kcyBrZXlvZiBMaXZlQ29udGVudENvbmZpZ1snY29sbGVjdGlvbnMnXT4gPSB7CgkJY29sbGVjdGlvbjogQzsKCQlpZDogc3RyaW5nOwoJfTsKCgkvKiogQGRlcHJlY2F0ZWQgVXNlIGBnZXRFbnRyeWAgaW5zdGVhZC4gKi8KCWV4cG9ydCBmdW5jdGlvbiBnZXRFbnRyeUJ5U2x1ZzwKCQlDIGV4dGVuZHMga2V5b2YgQ29udGVudEVudHJ5TWFwLAoJCUUgZXh0ZW5kcyBWYWxpZENvbnRlbnRFbnRyeVNsdWc8Qz4gfCAoc3RyaW5nICYge30pLAoJPigKCQljb2xsZWN0aW9uOiBDLAoJCS8vIE5vdGUgdGhhdCB0aGlzIGhhcyB0byBhY2NlcHQgYSByZWd1bGFyIHN0cmluZyB0b28sIGZvciBTU1IKCQllbnRyeVNsdWc6IEUsCgkpOiBFIGV4dGVuZHMgVmFsaWRDb250ZW50RW50cnlTbHVnPEM+CgkJPyBQcm9taXNlPENvbGxlY3Rpb25FbnRyeTxDPj4KCQk6IFByb21pc2U8Q29sbGVjdGlvbkVudHJ5PEM+IHwgdW5kZWZpbmVkPjsKCgkvKiogQGRlcHJlY2F0ZWQgVXNlIGBnZXRFbnRyeWAgaW5zdGVhZC4gKi8KCWV4cG9ydCBmdW5jdGlvbiBnZXREYXRhRW50cnlCeUlkPEMgZXh0ZW5kcyBrZXlvZiBEYXRhRW50cnlNYXAsIEUgZXh0ZW5kcyBrZXlvZiBEYXRhRW50cnlNYXBbQ10+KAoJCWNvbGxlY3Rpb246IEMsCgkJZW50cnlJZDogRSwKCSk6IFByb21pc2U8Q29sbGVjdGlvbkVudHJ5PEM+PjsKCglleHBvcnQgZnVuY3Rpb24gZ2V0Q29sbGVjdGlvbjxDIGV4dGVuZHMga2V5b2YgQW55RW50cnlNYXAsIEUgZXh0ZW5kcyBDb2xsZWN0aW9uRW50cnk8Qz4+KAoJCWNvbGxlY3Rpb246IEMsCgkJZmlsdGVyPzogKGVudHJ5OiBDb2xsZWN0aW9uRW50cnk8Qz4pID0+IGVudHJ5IGlzIEUsCgkpOiBQcm9taXNlPEVbXT47CglleHBvcnQgZnVuY3Rpb24gZ2V0Q29sbGVjdGlvbjxDIGV4dGVuZHMga2V5b2YgQW55RW50cnlNYXA+KAoJCWNvbGxlY3Rpb246IEMsCgkJZmlsdGVyPzogKGVudHJ5OiBDb2xsZWN0aW9uRW50cnk8Qz4pID0+IHVua25vd24sCgkpOiBQcm9taXNlPENvbGxlY3Rpb25FbnRyeTxDPltdPjsKCglleHBvcnQgZnVuY3Rpb24gZ2V0TGl2ZUNvbGxlY3Rpb248QyBleHRlbmRzIGtleW9mIExpdmVDb250ZW50Q29uZmlnWydjb2xsZWN0aW9ucyddPigKCQljb2xsZWN0aW9uOiBDLAoJCWZpbHRlcj86IExpdmVMb2FkZXJDb2xsZWN0aW9uRmlsdGVyVHlwZTxDPiwKCSk6IFByb21pc2U8CgkJaW1wb3J0KCdhc3RybycpLkxpdmVEYXRhQ29sbGVjdGlvblJlc3VsdDxMaXZlTG9hZGVyRGF0YVR5cGU8Qz4sIExpdmVMb2FkZXJFcnJvclR5cGU8Qz4+Cgk+OwoKCWV4cG9ydCBmdW5jdGlvbiBnZXRFbnRyeTwKCQlDIGV4dGVuZHMga2V5b2YgQ29udGVudEVudHJ5TWFwLAoJCUUgZXh0ZW5kcyBWYWxpZENvbnRlbnRFbnRyeVNsdWc8Qz4gfCAoc3RyaW5nICYge30pLAoJPigKCQllbnRyeTogUmVmZXJlbmNlQ29udGVudEVudHJ5PEMsIEU+LAoJKTogRSBleHRlbmRzIFZhbGlkQ29udGVudEVudHJ5U2x1ZzxDPgoJCT8gUHJvbWlzZTxDb2xsZWN0aW9uRW50cnk8Qz4+CgkJOiBQcm9taXNlPENvbGxlY3Rpb25FbnRyeTxDPiB8IHVuZGVmaW5lZD47CglleHBvcnQgZnVuY3Rpb24gZ2V0RW50cnk8CgkJQyBleHRlbmRzIGtleW9mIERhdGFFbnRyeU1hcCwKCQlFIGV4dGVuZHMga2V5b2YgRGF0YUVudHJ5TWFwW0NdIHwgKHN0cmluZyAmIHt9KSwKCT4oCgkJZW50cnk6IFJlZmVyZW5jZURhdGFFbnRyeTxDLCBFPiwKCSk6IEUgZXh0ZW5kcyBrZXlvZiBEYXRhRW50cnlNYXBbQ10KCQk/IFByb21pc2U8RGF0YUVudHJ5TWFwW0NdW0VdPgoJCTogUHJvbWlzZTxDb2xsZWN0aW9uRW50cnk8Qz4gfCB1bmRlZmluZWQ+OwoJZXhwb3J0IGZ1bmN0aW9uIGdldEVudHJ5PAoJCUMgZXh0ZW5kcyBrZXlvZiBDb250ZW50RW50cnlNYXAsCgkJRSBleHRlbmRzIFZhbGlkQ29udGVudEVudHJ5U2x1ZzxDPiB8IChzdHJpbmcgJiB7fSksCgk+KAoJCWNvbGxlY3Rpb246IEMsCgkJc2x1ZzogRSwKCSk6IEUgZXh0ZW5kcyBWYWxpZENvbnRlbnRFbnRyeVNsdWc8Qz4KCQk/IFByb21pc2U8Q29sbGVjdGlvbkVudHJ5PEM+PgoJCTogUHJvbWlzZTxDb2xsZWN0aW9uRW50cnk8Qz4gfCB1bmRlZmluZWQ+OwoJZXhwb3J0IGZ1bmN0aW9uIGdldEVudHJ5PAoJCUMgZXh0ZW5kcyBrZXlvZiBEYXRhRW50cnlNYXAsCgkJRSBleHRlbmRzIGtleW9mIERhdGFFbnRyeU1hcFtDXSB8IChzdHJpbmcgJiB7fSksCgk+KAoJCWNvbGxlY3Rpb246IEMsCgkJaWQ6IEUsCgkpOiBFIGV4dGVuZHMga2V5b2YgRGF0YUVudHJ5TWFwW0NdCgkJPyBzdHJpbmcgZXh0ZW5kcyBrZXlvZiBEYXRhRW50cnlNYXBbQ10KCQkJPyBQcm9taXNlPERhdGFFbnRyeU1hcFtDXVtFXT4gfCB1bmRlZmluZWQKCQkJOiBQcm9taXNlPERhdGFFbnRyeU1hcFtDXVtFXT4KCQk6IFByb21pc2U8Q29sbGVjdGlvbkVudHJ5PEM+IHwgdW5kZWZpbmVkPjsKCWV4cG9ydCBmdW5jdGlvbiBnZXRMaXZlRW50cnk8QyBleHRlbmRzIGtleW9mIExpdmVDb250ZW50Q29uZmlnWydjb2xsZWN0aW9ucyddPigKCQljb2xsZWN0aW9uOiBDLAoJCWZpbHRlcjogc3RyaW5nIHwgTGl2ZUxvYWRlckVudHJ5RmlsdGVyVHlwZTxDPiwKCSk6IFByb21pc2U8aW1wb3J0KCdhc3RybycpLkxpdmVEYXRhRW50cnlSZXN1bHQ8TGl2ZUxvYWRlckRhdGFUeXBlPEM+LCBMaXZlTG9hZGVyRXJyb3JUeXBlPEM+Pj47CgoJLyoqIFJlc29sdmUgYW4gYXJyYXkgb2YgZW50cnkgcmVmZXJlbmNlcyBmcm9tIHRoZSBzYW1lIGNvbGxlY3Rpb24gKi8KCWV4cG9ydCBmdW5jdGlvbiBnZXRFbnRyaWVzPEMgZXh0ZW5kcyBrZXlvZiBDb250ZW50RW50cnlNYXA+KAoJCWVudHJpZXM6IFJlZmVyZW5jZUNvbnRlbnRFbnRyeTxDLCBWYWxpZENvbnRlbnRFbnRyeVNsdWc8Qz4+W10sCgkpOiBQcm9taXNlPENvbGxlY3Rpb25FbnRyeTxDPltdPjsKCWV4cG9ydCBmdW5jdGlvbiBnZXRFbnRyaWVzPEMgZXh0ZW5kcyBrZXlvZiBEYXRhRW50cnlNYXA+KAoJCWVudHJpZXM6IFJlZmVyZW5jZURhdGFFbnRyeTxDLCBrZXlvZiBEYXRhRW50cnlNYXBbQ10+W10sCgkpOiBQcm9taXNlPENvbGxlY3Rpb25FbnRyeTxDPltdPjsKCglleHBvcnQgZnVuY3Rpb24gcmVuZGVyPEMgZXh0ZW5kcyBrZXlvZiBBbnlFbnRyeU1hcD4oCgkJZW50cnk6IEFueUVudHJ5TWFwW0NdW3N0cmluZ10sCgkpOiBQcm9taXNlPFJlbmRlclJlc3VsdD47CgoJZXhwb3J0IGZ1bmN0aW9uIHJlZmVyZW5jZTxDIGV4dGVuZHMga2V5b2YgQW55RW50cnlNYXA+KAoJCWNvbGxlY3Rpb246IEMsCgkpOiBpbXBvcnQoJ2FzdHJvL3pvZCcpLlpvZEVmZmVjdHM8CgkJaW1wb3J0KCdhc3Ryby96b2QnKS5ab2RTdHJpbmcsCgkJQyBleHRlbmRzIGtleW9mIENvbnRlbnRFbnRyeU1hcAoJCQk/IFJlZmVyZW5jZUNvbnRlbnRFbnRyeTxDLCBWYWxpZENvbnRlbnRFbnRyeVNsdWc8Qz4+CgkJCTogUmVmZXJlbmNlRGF0YUVudHJ5PEMsIGtleW9mIERhdGFFbnRyeU1hcFtDXT4KCT47CgkvLyBBbGxvdyBnZW5lcmljIGBzdHJpbmdgIHRvIGF2b2lkIGV4Y2Vzc2l2ZSB0eXBlIGVycm9ycyBpbiB0aGUgY29uZmlnCgkvLyBpZiBgZGV2YCBpcyBub3QgcnVubmluZyB0byB1cGRhdGUgYXMgeW91IGVkaXQuCgkvLyBJbnZhbGlkIGNvbGxlY3Rpb24gbmFtZXMgd2lsbCBiZSBjYXVnaHQgYXQgYnVpbGQgdGltZS4KCWV4cG9ydCBmdW5jdGlvbiByZWZlcmVuY2U8QyBleHRlbmRzIHN0cmluZz4oCgkJY29sbGVjdGlvbjogQywKCSk6IGltcG9ydCgnYXN0cm8vem9kJykuWm9kRWZmZWN0czxpbXBvcnQoJ2FzdHJvL3pvZCcpLlpvZFN0cmluZywgbmV2ZXI+OwoKCXR5cGUgUmV0dXJuVHlwZU9yT3JpZ2luYWw8VD4gPSBUIGV4dGVuZHMgKC4uLmFyZ3M6IGFueVtdKSA9PiBpbmZlciBSID8gUiA6IFQ7Cgl0eXBlIEluZmVyRW50cnlTY2hlbWE8QyBleHRlbmRzIGtleW9mIEFueUVudHJ5TWFwPiA9IGltcG9ydCgnYXN0cm8vem9kJykuaW5mZXI8CgkJUmV0dXJuVHlwZU9yT3JpZ2luYWw8UmVxdWlyZWQ8Q29udGVudENvbmZpZ1snY29sbGVjdGlvbnMnXVtDXT5bJ3NjaGVtYSddPgoJPjsKCgl0eXBlIENvbnRlbnRFbnRyeU1hcCA9IHsKCQkKCX07CgoJdHlwZSBEYXRhRW50cnlNYXAgPSB7CgkJImJsb2ciOiBSZWNvcmQ8c3RyaW5nLCB7CiAgaWQ6IHN0cmluZzsKICBib2R5Pzogc3RyaW5nOwogIGNvbGxlY3Rpb246ICJibG9nIjsKICBkYXRhOiBJbmZlckVudHJ5U2NoZW1hPCJibG9nIj47CiAgcmVuZGVyZWQ/OiBSZW5kZXJlZENvbnRlbnQ7CiAgZmlsZVBhdGg/OiBzdHJpbmc7Cn0+Owoic2NyaXB0dXJlcyI6IFJlY29yZDxzdHJpbmcsIHsKICBpZDogc3RyaW5nOwogIGJvZHk/OiBzdHJpbmc7CiAgY29sbGVjdGlvbjogInNjcmlwdHVyZXMiOwogIGRhdGE6IEluZmVyRW50cnlTY2hlbWE8InNjcmlwdHVyZXMiPjsKICByZW5kZXJlZD86IFJlbmRlcmVkQ29udGVudDsKICBmaWxlUGF0aD86IHN0cmluZzsKfT47CgoJfTsKCgl0eXBlIEFueUVudHJ5TWFwID0gQ29udGVudEVudHJ5TWFwICYgRGF0YUVudHJ5TWFwOwoKCXR5cGUgRXh0cmFjdExvYWRlclR5cGVzPFQ+ID0gVCBleHRlbmRzIGltcG9ydCgnYXN0cm8vbG9hZGVycycpLkxpdmVMb2FkZXI8CgkJaW5mZXIgVERhdGEsCgkJaW5mZXIgVEVudHJ5RmlsdGVyLAoJCWluZmVyIFRDb2xsZWN0aW9uRmlsdGVyLAoJCWluZmVyIFRFcnJvcgoJPgoJCT8geyBkYXRhOiBURGF0YTsgZW50cnlGaWx0ZXI6IFRFbnRyeUZpbHRlcjsgY29sbGVjdGlvbkZpbHRlcjogVENvbGxlY3Rpb25GaWx0ZXI7IGVycm9yOiBURXJyb3IgfQoJCTogeyBkYXRhOiBuZXZlcjsgZW50cnlGaWx0ZXI6IG5ldmVyOyBjb2xsZWN0aW9uRmlsdGVyOiBuZXZlcjsgZXJyb3I6IG5ldmVyIH07Cgl0eXBlIEV4dHJhY3REYXRhVHlwZTxUPiA9IEV4dHJhY3RMb2FkZXJUeXBlczxUPlsnZGF0YSddOwoJdHlwZSBFeHRyYWN0RW50cnlGaWx0ZXJUeXBlPFQ+ID0gRXh0cmFjdExvYWRlclR5cGVzPFQ+WydlbnRyeUZpbHRlciddOwoJdHlwZSBFeHRyYWN0Q29sbGVjdGlvbkZpbHRlclR5cGU8VD4gPSBFeHRyYWN0TG9hZGVyVHlwZXM8VD5bJ2NvbGxlY3Rpb25GaWx0ZXInXTsKCXR5cGUgRXh0cmFjdEVycm9yVHlwZTxUPiA9IEV4dHJhY3RMb2FkZXJUeXBlczxUPlsnZXJyb3InXTsKCgl0eXBlIExpdmVMb2FkZXJEYXRhVHlwZTxDIGV4dGVuZHMga2V5b2YgTGl2ZUNvbnRlbnRDb25maWdbJ2NvbGxlY3Rpb25zJ10+ID0KCQlMaXZlQ29udGVudENvbmZpZ1snY29sbGVjdGlvbnMnXVtDXVsnc2NoZW1hJ10gZXh0ZW5kcyB1bmRlZmluZWQKCQkJPyBFeHRyYWN0RGF0YVR5cGU8TGl2ZUNvbnRlbnRDb25maWdbJ2NvbGxlY3Rpb25zJ11bQ11bJ2xvYWRlciddPgoJCQk6IGltcG9ydCgnYXN0cm8vem9kJykuaW5mZXI8CgkJCQkJRXhjbHVkZTxMaXZlQ29udGVudENvbmZpZ1snY29sbGVjdGlvbnMnXVtDXVsnc2NoZW1hJ10sIHVuZGVmaW5lZD4KCQkJCT47Cgl0eXBlIExpdmVMb2FkZXJFbnRyeUZpbHRlclR5cGU8QyBleHRlbmRzIGtleW9mIExpdmVDb250ZW50Q29uZmlnWydjb2xsZWN0aW9ucyddPiA9CgkJRXh0cmFjdEVudHJ5RmlsdGVyVHlwZTxMaXZlQ29udGVudENvbmZpZ1snY29sbGVjdGlvbnMnXVtDXVsnbG9hZGVyJ10+OwoJdHlwZSBMaXZlTG9hZGVyQ29sbGVjdGlvbkZpbHRlclR5cGU8QyBleHRlbmRzIGtleW9mIExpdmVDb250ZW50Q29uZmlnWydjb2xsZWN0aW9ucyddPiA9CgkJRXh0cmFjdENvbGxlY3Rpb25GaWx0ZXJUeXBlPExpdmVDb250ZW50Q29uZmlnWydjb2xsZWN0aW9ucyddW0NdWydsb2FkZXInXT47Cgl0eXBlIExpdmVMb2FkZXJFcnJvclR5cGU8QyBleHRlbmRzIGtleW9mIExpdmVDb250ZW50Q29uZmlnWydjb2xsZWN0aW9ucyddPiA9IEV4dHJhY3RFcnJvclR5cGU8CgkJTGl2ZUNvbnRlbnRDb25maWdbJ2NvbGxlY3Rpb25zJ11bQ11bJ2xvYWRlciddCgk+OwoKCWV4cG9ydCB0eXBlIENvbnRlbnRDb25maWcgPSB0eXBlb2YgaW1wb3J0KCIuLi9zcmMvY29udGVudC5jb25maWcuanMiKTsKCWV4cG9ydCB0eXBlIExpdmVDb250ZW50Q29uZmlnID0gbmV2ZXI7Cn0K"}
+declare module 'astro:content' {
+	export interface RenderResult {
+		Content: import('astro/runtime/server/index.js').AstroComponentFactory;
+		headings: import('astro').MarkdownHeading[];
+		remarkPluginFrontmatter: Record<string, any>;
+	}
+	interface Render {
+		'.md': Promise<RenderResult>;
+	}
+
+	export interface RenderedContent {
+		html: string;
+		metadata?: {
+			imagePaths: Array<string>;
+			[key: string]: unknown;
+		};
+	}
+}
+
+declare module 'astro:content' {
+	type Flatten<T> = T extends { [K: string]: infer U } ? U : never;
+
+	export type CollectionKey = keyof AnyEntryMap;
+	export type CollectionEntry<C extends CollectionKey> = Flatten<AnyEntryMap[C]>;
+
+	export type ContentCollectionKey = keyof ContentEntryMap;
+	export type DataCollectionKey = keyof DataEntryMap;
+
+	type AllValuesOf<T> = T extends any ? T[keyof T] : never;
+	type ValidContentEntrySlug<C extends keyof ContentEntryMap> = AllValuesOf<
+		ContentEntryMap[C]
+	>['slug'];
+
+	export type ReferenceDataEntry<
+		C extends CollectionKey,
+		E extends keyof DataEntryMap[C] = string,
+	> = {
+		collection: C;
+		id: E;
+	};
+	export type ReferenceContentEntry<
+		C extends keyof ContentEntryMap,
+		E extends ValidContentEntrySlug<C> | (string & {}) = string,
+	> = {
+		collection: C;
+		slug: E;
+	};
+	export type ReferenceLiveEntry<C extends keyof LiveContentConfig['collections']> = {
+		collection: C;
+		id: string;
+	};
+
+	/** @deprecated Use `getEntry` instead. */
+	export function getEntryBySlug<
+		C extends keyof ContentEntryMap,
+		E extends ValidContentEntrySlug<C> | (string & {}),
+	>(
+		collection: C,
+		// Note that this has to accept a regular string too, for SSR
+		entrySlug: E,
+	): E extends ValidContentEntrySlug<C>
+		? Promise<CollectionEntry<C>>
+		: Promise<CollectionEntry<C> | undefined>;
+
+	/** @deprecated Use `getEntry` instead. */
+	export function getDataEntryById<C extends keyof DataEntryMap, E extends keyof DataEntryMap[C]>(
+		collection: C,
+		entryId: E,
+	): Promise<CollectionEntry<C>>;
+
+	export function getCollection<C extends keyof AnyEntryMap, E extends CollectionEntry<C>>(
+		collection: C,
+		filter?: (entry: CollectionEntry<C>) => entry is E,
+	): Promise<E[]>;
+	export function getCollection<C extends keyof AnyEntryMap>(
+		collection: C,
+		filter?: (entry: CollectionEntry<C>) => unknown,
+	): Promise<CollectionEntry<C>[]>;
+
+	export function getLiveCollection<C extends keyof LiveContentConfig['collections']>(
+		collection: C,
+		filter?: LiveLoaderCollectionFilterType<C>,
+	): Promise<
+		import('astro').LiveDataCollectionResult<LiveLoaderDataType<C>, LiveLoaderErrorType<C>>
+	>;
+
+	export function getEntry<
+		C extends keyof ContentEntryMap,
+		E extends ValidContentEntrySlug<C> | (string & {}),
+	>(
+		entry: ReferenceContentEntry<C, E>,
+	): E extends ValidContentEntrySlug<C>
+		? Promise<CollectionEntry<C>>
+		: Promise<CollectionEntry<C> | undefined>;
+	export function getEntry<
+		C extends keyof DataEntryMap,
+		E extends keyof DataEntryMap[C] | (string & {}),
+	>(
+		entry: ReferenceDataEntry<C, E>,
+	): E extends keyof DataEntryMap[C]
+		? Promise<DataEntryMap[C][E]>
+		: Promise<CollectionEntry<C> | undefined>;
+	export function getEntry<
+		C extends keyof ContentEntryMap,
+		E extends ValidContentEntrySlug<C> | (string & {}),
+	>(
+		collection: C,
+		slug: E,
+	): E extends ValidContentEntrySlug<C>
+		? Promise<CollectionEntry<C>>
+		: Promise<CollectionEntry<C> | undefined>;
+	export function getEntry<
+		C extends keyof DataEntryMap,
+		E extends keyof DataEntryMap[C] | (string & {}),
+	>(
+		collection: C,
+		id: E,
+	): E extends keyof DataEntryMap[C]
+		? string extends keyof DataEntryMap[C]
+			? Promise<DataEntryMap[C][E]> | undefined
+			: Promise<DataEntryMap[C][E]>
+		: Promise<CollectionEntry<C> | undefined>;
+	export function getLiveEntry<C extends keyof LiveContentConfig['collections']>(
+		collection: C,
+		filter: string | LiveLoaderEntryFilterType<C>,
+	): Promise<import('astro').LiveDataEntryResult<LiveLoaderDataType<C>, LiveLoaderErrorType<C>>>;
+
+	/** Resolve an array of entry references from the same collection */
+	export function getEntries<C extends keyof ContentEntryMap>(
+		entries: ReferenceContentEntry<C, ValidContentEntrySlug<C>>[],
+	): Promise<CollectionEntry<C>[]>;
+	export function getEntries<C extends keyof DataEntryMap>(
+		entries: ReferenceDataEntry<C, keyof DataEntryMap[C]>[],
+	): Promise<CollectionEntry<C>[]>;
+
+	export function render<C extends keyof AnyEntryMap>(
+		entry: AnyEntryMap[C][string],
+	): Promise<RenderResult>;
+
+	export function reference<C extends keyof AnyEntryMap>(
+		collection: C,
+	): import('astro/zod').ZodEffects<
+		import('astro/zod').ZodString,
+		C extends keyof ContentEntryMap
+			? ReferenceContentEntry<C, ValidContentEntrySlug<C>>
+			: ReferenceDataEntry<C, keyof DataEntryMap[C]>
+	>;
+	// Allow generic `string` to avoid excessive type errors in the config
+	// if `dev` is not running to update as you edit.
+	// Invalid collection names will be caught at build time.
+	export function reference<C extends string>(
+		collection: C,
+	): import('astro/zod').ZodEffects<import('astro/zod').ZodString, never>;
+
+	type ReturnTypeOrOriginal<T> = T extends (...args: any[]) => infer R ? R : T;
+	type InferEntrySchema<C extends keyof AnyEntryMap> = import('astro/zod').infer<
+		ReturnTypeOrOriginal<Required<ContentConfig['collections'][C]>['schema']>
+	>;
+
+	type ContentEntryMap = {
+		
+	};
+
+	type DataEntryMap = {
+		"blog": Record<string, {
+  id: string;
+  body?: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">;
+  rendered?: RenderedContent;
+  filePath?: string;
+}>;
+"scriptures": Record<string, {
+  id: string;
+  body?: string;
+  collection: "scriptures";
+  data: InferEntrySchema<"scriptures">;
+  rendered?: RenderedContent;
+  filePath?: string;
+}>;
+
+	};
+
+	type AnyEntryMap = ContentEntryMap & DataEntryMap;
+
+	type ExtractLoaderTypes<T> = T extends import('astro/loaders').LiveLoader<
+		infer TData,
+		infer TEntryFilter,
+		infer TCollectionFilter,
+		infer TError
+	>
+		? { data: TData; entryFilter: TEntryFilter; collectionFilter: TCollectionFilter; error: TError }
+		: { data: never; entryFilter: never; collectionFilter: never; error: never };
+	type ExtractDataType<T> = ExtractLoaderTypes<T>['data'];
+	type ExtractEntryFilterType<T> = ExtractLoaderTypes<T>['entryFilter'];
+	type ExtractCollectionFilterType<T> = ExtractLoaderTypes<T>['collectionFilter'];
+	type ExtractErrorType<T> = ExtractLoaderTypes<T>['error'];
+
+	type LiveLoaderDataType<C extends keyof LiveContentConfig['collections']> =
+		LiveContentConfig['collections'][C]['schema'] extends undefined
+			? ExtractDataType<LiveContentConfig['collections'][C]['loader']>
+			: import('astro/zod').infer<
+					Exclude<LiveContentConfig['collections'][C]['schema'], undefined>
+				>;
+	type LiveLoaderEntryFilterType<C extends keyof LiveContentConfig['collections']> =
+		ExtractEntryFilterType<LiveContentConfig['collections'][C]['loader']>;
+	type LiveLoaderCollectionFilterType<C extends keyof LiveContentConfig['collections']> =
+		ExtractCollectionFilterType<LiveContentConfig['collections'][C]['loader']>;
+	type LiveLoaderErrorType<C extends keyof LiveContentConfig['collections']> = ExtractErrorType<
+		LiveContentConfig['collections'][C]['loader']
+	>;
+
+	export type ContentConfig = typeof import("../src/content.config.js");
+	export type LiveContentConfig = never;
+}

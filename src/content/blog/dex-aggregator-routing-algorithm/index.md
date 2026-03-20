@@ -1,1 +1,201 @@
-{"data":"LS0tCnRpdGxlOiAiREVYIOiBmuWQiOi3r+eUseeul+azle+8muS7jiA1MDAg5LiH5rWB5Yqo5oCn5rGg5Yiw5pyA5LyY5Lqk5piT6Lev5b6EIgpkZXNjcmlwdGlvbjogIua3seWFpeino+aekCBERVgg6IGa5ZCI5Zmo55qE5qC45b+D566X5rOV4oCU4oCU5aaC5L2V5LuO5rW36YeP5rWB5Yqo5oCn5rGg5Lit55Sf5oiQ5pyA5LyY5Lqk5piT6Lev5b6E77yM5Lul5Y+K5aaC5L2V6YCa6L+H5pm66IO95ouG5Y2V5pyA5aSn5YyW55So5oi35pS255uK44CCIgpwdWJEYXRlOiAiMjAyNi0wMy0wMSIKdGFnczogWyJEZUZpIiwgIkRFWCIsICJBbGdvcml0aG0iLCAiV2ViMyJdCmhleGFncmFtOiAi5LecIgplbGVtZW50OiAid2F0ZXIiCi0tLQoKKipUTDtEUjoqKiBERVgg6IGa5ZCI6Lev55Sx566X5rOV5YiG5Lik5Liq6Zi25q6177ya6aaW5YWI5LuOIDUwMCDkuIfmtYHliqjmgKfmsaDkuK3nrZvpgInlh7rnuqYgMTAwMCDmnaHlj6/ooYzot6/lvoTvvIznhLblkI7pgJrov4fku7fmoLzlubPooaHnrpfms5XlsIbkuqTmmJPph5Hpop3mmbrog73liIbphY3liLDlpJrmnaHot6/nlLHvvIzkvb/miYDmnInot6/nlLHnmoTmnIDnu4jku7fmoLzotovkuo7kuIDoh7TvvIzku47ogIzmnIDlpKfljJbmgLvmlLbnm4rjgILlr7nkuo4gMTAwIEVUSCDnmoTlpKfpop3kuqTmmJPvvIzmi4bljZXkvJjljJblj6/ku6Xmr5TljZXkuIDot6/nlLHlpJrojrflvpcgMTUwMCsgVVNEVOOAggoKPiAqKuWJjee9ruefpeivhioq77ya5pys5paH5YGH6K6+6K+76ICF54af5oKJIEFNTSDnmoTln7rmnKzljp/nkIblkozmu5HngrnmpoLlv7XjgILlpoLmnpzkuI3nhp/mgonvvIzlu7rorq7lhYjpmIXor7sgW0RFWCDkuqTmmJPmnLrliLZdKC9ibG9nL2RleC10cmFkaW5nLW1lY2hhbmlzbXMp44CCCgotLS0KCiMjIOmXrumimOeahOacrOi0qO+8muWcqOa1t+mHj+WPr+iDveaAp+S4reWvu+aJvuacgOS8mOinowoK5b2T55So5oi35oOz55SoIEVUSCDmjaIgVVNEVCDml7bvvIzpnaLkuLTnmoTkuI3mmK/kuIDkuKrnroDljZXnmoTmn6Xor6Lpl67popjvvIzogIzmmK/kuIDkuKrnu4TlkIjkvJjljJbpl67popjjgIIKCuW4guWcuuS4iuaciee6piA1MDAg5LiH5Liq5rWB5Yqo5oCn5rGg77yM5q+P5Liq5rGg55qE5Lu35qC844CB5rex5bqm44CB5omL57ut6LS56YO95LiN5ZCM44CC55CG6K665LiK77yM5LuOIEVUSCDliLAgVVNEVCDnmoTot6/lvoTlj6/ku6XmmK/nm7TmjqXlhZHmjaLvvIzkuZ/lj6/ku6Xnu4/ov4fkuIDkuKrmiJblpJrkuKrkuK3pl7Tku6PluIHjgILlpoLmnpzogIPomZHmiYDmnInlj6/og73nmoTnu4TlkIjvvIzot6/lvoTmlbDph4/mmK/lpKnmlofmlbDlrZfigJTigJTljZXmmK/kuInot7Pot6/nlLHlsLHmnInmlbDljYHkur/np43lj6/og73jgIIKCuabtOWkjeadgueahOaYr++8jOWkp+mineS6pOaYk+S8muaYvuiRl+aUueWPmOaxoOWtkOeahOeKtuaAgeOAguWcqOS4gOS4quaxoOWtkOmHjOS6pOaYkyAxMDAgRVRI77yM5ruR54K55Y+v6IO96auY6L6+IDUl77yb5L2G5aaC5p6c5oqK6L+ZIDEwMCBFVEgg5YiG5pWj5YiwIDEwIOS4quaxoOWtkO+8jOavj+S4quaxoOWtkOWPquaJv+WPlyAxMCBFVEgg55qE5Yay5Ye777yM5oC75ruR54K55Y+v6IO96ZmN5YiwIDElIOS7peS4i+OAgui/meaEj+WRs+edgOacgOS8mOino+S4jeS7heimgeaJvuWIsOWlveeahOi3r+W+hO+8jOi/mOimgeWGs+Wumuavj+adoei3r+W+hOWIhumFjeWkmuWwkei1hOmHkeOAggoK6L+Z5bCx5pivIERFWCDogZrlkIjot6/nlLHnrpfms5XopoHop6PlhrPnmoTmoLjlv4Ppl67popjvvJrlnKjmtbfph4/nmoTot6/lvoTnqbrpl7TkuK3vvIzmib7liLDmlLbnm4rmnIDlpKfljJbnmoTkuqTmmJPmlrnmoYjjgIIKCi0tLQoKIyMg566X5rOV5p625p6E77ya5Lik6Zi25q615LyY5YyWCgrmlbTkuKrnrpfms5XliIbkuLrkuKTkuKrpmLbmrrXvvIzmr4/kuKrpmLbmrrXop6PlhrPkuIDkuKrlrZDpl67popjjgIIKCioq56ys5LiA6Zi25q6177ya5aSa6Lez6Lev55Sx55Sf5oiQKirjgILku44gNTAwIOS4h+S4quaxoOWtkOS4re+8jOeUn+aIkOaJgOacieWPr+ihjOeahOS6pOaYk+i3r+W+hO+8jOW5tuetm+mAieWHuue6piAxMDAwIOadoeS8mOi0qOWAmemAiei3r+eUseOAgui/meS4qumYtuauteeahOebruagh+aYr+OAjOS4jemBl+a8j+Wlvei3r+W+hOOAje+8jOWQjOaXtuOAjOi/h+a7pOaOieaYjuaYvuW3rueahOi3r+W+hOOAjeOAggoKKirnrKzkuozpmLbmrrXvvJrmi4bljZXkuI7ku7fmoLzkvJjljJYqKuOAguWcqOWAmemAiei3r+eUseS4re+8jOWGs+Wumuavj+adoei3r+eUseWIhumFjeWkmuWwkei1hOmHke+8jOS9v+aAu+aUtuebiuacgOWkp+WMluOAgui/meS4qumYtuauteeahOebruagh+aYr+OAjOiuqeaJgOacieiiq+mAieS4rei3r+eUseeahOacgOe7iOS7t+agvOi2i+S6juS4gOiHtOOAjeKAlOKAlOi/meaYr+aVsOWtpuS4iuWPr+ivgeaYjueahOacgOS8mOadoeS7tuOAggoKIVtERVgg6IGa5ZCI6Lev55Sx566X5rOV5p625p6EXSgvaW1hZ2VzL2Jsb2cvZGV4LWFnZ3JlZ2F0b3Itcm91dGluZy1hbGdvcml0aG0vYWxnb3JpdGhtX2FyY2hpdGVjdHVyZS5wbmcpCgrkuKTkuKrpmLbmrrXnmoTliIbnprvmmK/mnInmhI/kuLrkuYvnmoTjgILot6/nlLHnlJ/miJDmmK/kuIDkuKrnprvmlaPnmoTnu4TlkIjpl67popjvvIzpgILlkIjnlKjov4fmu6Tlkozliarmnp3mnaXlpITnkIbvvJvku7fmoLzkvJjljJbmmK/kuIDkuKrov57nu63nmoTmlbDlgLzpl67popjvvIzpgILlkIjnlKjkuozliIbmkJzntKLmnaXpgLzov5HjgILmiorlroPku6zliIblvIDvvIzlj6/ku6Xorqnmr4/kuKrpmLbmrrXkvb/nlKjmnIDpgILlkIjnmoTnrpfms5XjgIIKCi0tLQoKIyMg56ys5LiA6Zi25q6177ya5aSa6Lez6Lev55Sx55Sf5oiQCgojIyMg5pWw5o2u6aKE5aSE55CG77ya5LuOIDUwMCDkuIfliLAgNTAg5LiHCgrljp/lp4vmlbDmja7kuK3lhYXmlqXnnYDml6DmlYjmsaDlrZDjgILmnInkupvmmK/jgIzospTosoXluIHjgI3igJTigJTlj6rog73kubDlhaXkuI3og73ljZblh7rnmoTor4jpqpfku6PluIHvvJvmnInkupvmmK/pkpPpsbzmsaDvvIznlKjomZrlgYfnmoTpq5jmlLbnm4rlkLjlvJXnlKjmiLfvvJvov5jmnInlpKfph4/mtYHliqjmgKfmnoHkvY7nmoTmsaDlrZDvvIzkuqTmmJPmiYvnu63otLnpg73ml6Dms5Xopobnm5bjgIIKCuesrOS4gOatpeaYr+a4hea0l+aVsOaNruOAgui/h+a7pOinhOWImeWMheaLrO+8mgoKLSDnp7vpmaTlt7Lnn6XnmoTor4jpqpfku6PluIHlkozpkpPpsbzmsaDvvIjln7rkuo7pu5HlkI3ljZXvvIkKLSDnp7vpmaTmtYHliqjmgKfkvY7kuo4gMSDnvo7lhYPnmoTmsaDlrZDvvIjml6Dms5Xopobnm5YgR2FzIOi0ue+8iQotIOenu+mZpOmVv+acn+aXoOS6pOaYk+eahOatu+axoAoK57uP6L+H6L+H5ruk77yMNTAwIOS4h+S4quaxoOWtkOWHj+WwkeWIsOe6piA1MCDkuIfkuKrmnInmlYjmsaDlrZDjgILov5nkuIDmraXlsIbmlbDmja7ph4/lh4/lsJHkuoYgOTAl77yM5Li65ZCO57ut6K6h566X5aWg5a6a5Z+656GA44CCCgojIyMg5pm66IO95YiG57uE77ya5oyJ5Lqk5piT5a+554m55b6B5YiG57G7Cgo1MCDkuIfkuKrmsaDlrZDku43nhLblpKrlpJrvvIzkuI3og73mmrTlipvmnprkuL7miYDmnInnu4TlkIjjgILlhbPplK7mtJ7lr5/mmK/vvJrlpKflpJrmlbDnu4TlkIjmmK/ml6DmlYjnmoTjgIIKCuS7pSBFVEgg4oaSIFVTRFQg5Lqk5piT5Li65L6L77yM5pyJ5pWI55qE6Lev5b6E5b+F6aG75ruh6Laz44CM5Luj5biB6L+e57ut5oCn44CN4oCU4oCU5YmN5LiA6Lez55qE6L6T5Ye65b+F6aG75piv5ZCO5LiA6Lez55qE6L6T5YWl44CC6L+Z5oSP5ZGz552A5oiR5Lus5Y+v5Lul5oyJ5Lqk5piT5a+554m55b6B5bCG5rGg5a2Q5YiG57uE77yaCgp8IOWIhue7hCB8IOaPj+i/sCB8IOaVsOmHjyB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLXwKfCBFVEgtVVNEVCDmsaAgfCDnm7Tovr7ot6/nlLEgfCB+MjAwIHwKfCBFVEgtVG9rZW5BIOaxoCB8IOS6jOi3s+i3r+eUsei1t+eCuSB8IH4xLDUwMCB8CnwgVG9rZW5CLVVTRFQg5rGgIHwg5LqM6Lez6Lev55Sx57uI54K5IHwgfjUsMDAwIHwKfCBUb2tlbkItVG9rZW5DIOaxoCB8IOS4iei3s+i3r+eUseS4remXtOautSB8IH4zMDAsMDAwIHwKCuWIhue7hOS5i+WQju+8jOi3r+eUseeUn+aIkOWPmOaIkOS6huWcqOWIhue7hOS5i+mXtOWBmuesm+WNoeWwlOenr+OAguWNlei3s+i3r+eUseebtOaOpeS7jiBFVEgtVVNEVCDmsaDkuK3pgInlj5bvvJvkuozot7Pot6/nlLHmmK8gRVRILVRva2VuQSDmsaDlkowgVG9rZW5BLVVTRFQg5rGg55qE57uE5ZCI77yb5LiJ6Lez6Lev55Sx5YiZ6ZyA6KaB5LiJ5Liq5YiG57uE55qE57uE5ZCI44CCCgojIyMg6Lev5b6E55Sf5oiQ5LiO562b6YCJCgrljbPkvb/liIbnu4TlkI7vvIznu4TlkIjmlbDph4/ku43nhLblup7lpKfjgILkuozot7Pot6/nlLHmnIkgMSw1MDAgw5cgNSwwMDAgPSA3NTAg5LiH56eN5Y+v6IO977yb5LiJ6Lez6Lev55Sx5pu05piv6L6+5Yiw5pWw5Y2B5Lq/57qn5Yir44CCCgrnrZvpgInnrZbnlaXmmK/lpJrlsYLov4fmu6TvvIzpgJDmraXmlLbntKfmnaHku7bvvJoKCioq56ys5LiA5bGC77ya5rWB5Yqo5oCn5rex5bqm6L+H5rukKirjgILorqHnrpfmr4/mnaHot6/nlLHnmoTnkIborrrmnIDlpKfkuqTmmJPph4/vvIjlj5fpmZDkuo7ot6/lvoTkuK3mtYHliqjmgKfmnIDlsI/nmoTmsaDlrZDvvInvvIznp7vpmaTkvY7kuo7pmIjlgLzvvIjlpoIgMTAwIOe+juWFg++8ieeahOi3r+eUseOAggoKKirnrKzkuozlsYLvvJrku6PluIHljLnphY3pqozor4EqKuOAguehruS/nei3r+W+hOeahOi/nui0r+aAp+KAlOKAlOWJjeS4gOi3s+i+k+WHuueahOS7o+W4geW/hemhu+S4juWQjuS4gOi3s+i+k+WFpeeahOS7o+W4geWujOWFqOWMuemFjeOAgui/meWQrOi1t+adpeaYvuiAjOaYk+inge+8jOS9huWcqOWunumZheaVsOaNruS4re+8jOWQjOWQjeS7o+W4geWPr+iDveacieS4jeWQjOeahOWQiOe6puWcsOWdgOOAggoKKirnrKzkuInlsYLvvJrot6/nlLHljrvph40qKuOAguenu+mZpOWcqOWQjOS4gOadoei3r+eUseS4remHjeWkjeS9v+eUqOWQjOS4gOS4quaxoOWtkOeahOaDheWGteOAgui/meenjei3r+eUseWcqOaVsOWtpuS4iuaYr+aXoOaViOeahOKAlOKAlOS9oOS4jeiDveWcqOWQjOS4gOS4quaxoOWtkOmHjOWQjOaXtuS5sOWFpeWSjOWNluWHuuWQjOS4gOenjeS7o+W4geOAggoKKirnrKzlm5vlsYLvvJrmiJDmnKzkvLDnrpcqKuOAguWvueavj+adoei3r+eUsei/m+ihjOeyl+eVpeeahOaIkOacrOS8sOeul++8jOWMheaLrOmihOacn+a7keeCueWSjCBHYXMg6LS555So44CC56e76Zmk5oiQ5pys5piO5pi+6L+H6auY55qE6Lev55Sx44CCCgoqKuesrOS6lOWxgu+8muaVsOmHj+mZkOWItioq44CC5Li65LqG5L+d6K+B5ZCO57ut6K6h566X55qE5oCn6IO977yM5pyA57uI5L+d55WZ57qmIDEwMDAg5p2h5LyY6LSo6Lev55Sx44CC5aaC5p6c562b6YCJ5ZCO5pWw6YeP5LuN54S26L+H5aSa77yM6YCS5b2S5Zyw5pS257Sn562b6YCJ5p2h5Lu277yM55u05Yiw5ruh6Laz6ZmQ5Yi244CCCgrnu4/ov4fkupTlsYLnrZvpgInvvIzku47mlbDljYHkur/mnaHnkIborrrot6/lvoTmlLbmlZvliLAgMTAwMCDmnaHlrp7nlKjot6/nlLHjgIIKCi0tLQoKIyMg56ys5LqM6Zi25q6177ya5ouG5Y2V5LiO5Lu35qC85LyY5YyWCgojIyMg5Li65LuA5LmI6KaB5ouG5Y2VCgrlhYjnnIvkuIDkuKrlhbfkvZPnmoTlr7nmr5TjgIIKCioq5LiN5ouG5Y2VKirvvJoxMDAgRVRIIOWFqOmDqOi1sCBVbmlzd2FwIFYzIOeahCBFVEgtVVNEVCDmsaDjgILnlLHkuo7kuqTmmJPph4/lpKfvvIzmu5Hngrnovr7liLAgNSXvvIzmnIDnu4jojrflvpcgMTk5LDUwMCBVU0RU44CCCgoqKuaLhuWNlSoq77ya5bCGIDEwMCBFVEgg5YiG6YWN5Yiw5aSa5p2h6Lev55Sx44CCCgp8IOi3r+eUsSB8IOWIhumFjSB8IOa7keeCuSB8IOiOt+W+lyB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLXwtLS0tLS18CnwgVW5pc3dhcCBWMyB8IDM1IEVUSCB8IDIlIHwgNzEsNTQwIFVTRFQgfAp8IFN1c2hpU3dhcCB8IDMwIEVUSCB8IDEuNSUgfCA2MSw3MTAgVVNEVCB8CnwgQ3VydmUgfCAyMCBFVEggfCAxJSB8IDQxLDU4MCBVU0RUIHwKfCBCYWxhbmNlciB8IDE1IEVUSCB8IDAuOCUgfCAzMSwyNDggVVNEVCB8CnwgKirlkIjorqEqKiB8IDEwMCBFVEggfCDigJQgfCAqKjIwNiwwNzggVVNEVCoqIHwKCuaLhuWNleWQjuWkmuiOt+W+lyA2LDU3OCBVU0RU77yM5pS255uK5o+Q5Y2HIDMuMyXjgILlr7nkuo7lpKfpop3kuqTmmJPvvIzov5nkuKrlt67lvILpnZ7luLjlj6/op4LjgIIKCuaLhuWNleacieaViOeahOWOn+WboOaYryBBTU0g55qE5ruR54K55piv6Z2e57q/5oCn55qE44CC5Zyo5oGS5a6a5LmY56ev5YWs5byP5LiL77yM5ruR54K55LiO5Lqk5piT6YeP55qE5bmz5pa55oiQ5q2j5q+U44CC5oqK5LiA56yU5aSn5Lqk5piT5ouG5oiQ5aSa56yU5bCP5Lqk5piT77yM5oC75ruR54K55Lya5pi+6JGX6ZmN5L2O44CCCgojIyMg5pyA5LyY5YiG6YWN55qE5pWw5a2m5Y6f55CGCgrku4DkuYjmoLfnmoTliIbphY3mmK/mnIDkvJjnmoTvvJ/nrZTmoYjmmK/vvJoqKuiuqeaJgOacieiiq+mAieS4rei3r+eUseeahOacgOe7iOS7t+agvOi2i+S6juS4gOiHtCoq44CCCgrov5nkuKrnu5Porrrlj6/ku6XnlKjlj43or4Hms5Xor4HmmI7jgILlgYforr7mnIDkvJjliIbphY3kuIvvvIzot6/nlLEgQSDnmoTmnIDnu4jku7fmoLzmmK8gMiwxMDAgVVNEVC9FVEjvvIzot6/nlLEgQiDnmoTmnIDnu4jku7fmoLzmmK8gMiwwMDAgVVNEVC9FVEjjgILpgqPkuYjmiJHku6zlj6/ku6Xku47ot6/nlLEgQSDnp7vkuIDngrnotYTph5HliLDot6/nlLEgQuKAlOKAlOi3r+eUsSBBIOeahOS7t+agvOS8muS4iuWNh++8iOWboOS4uuS6pOaYk+mHj+WHj+Wwke+8ie+8jOi3r+eUsSBCIOeahOS7t+agvOS8muS4i+mZje+8iOWboOS4uuS6pOaYk+mHj+WinuWKoO+8ieOAguWPquimgeS4pOiAheS7t+agvOS4jeebuOetie+8jOi/meenjeiwg+aVtOWwseiDveWinuWKoOaAu+aUtuebiuOAguWboOatpO+8jOacgOS8mOino+W/heeEtuaYr+aJgOaciei3r+eUseS7t+agvOebuOetieOAggoK6L+Z5Liq5Y6f55CG57G75Ly85LqO6L+e6YCa5Zmo5Lit55qE5rC05L2N5bmz6KGh44CC5q+P5p2h6Lev55Sx5bCx5YOP5LiA5Liq5rC05rGg77yM5Yid5aeL5rC05L2N77yI5Lu35qC877yJ5LiN5ZCM44CC5oiR5Lus6KaB5b6A6L+Z5Lqb5rC05rGg6YeM5rOo5rC077yI5YiG6YWN6LWE6YeR77yJ77yM5L2/5pyA57uI5rC05L2N6LaL5LqO5LiA6Ie044CCCgohW+S7t+agvOW5s+ihoeWOn+eQhl0oL2ltYWdlcy9ibG9nL2RleC1hZ2dyZWdhdG9yLXJvdXRpbmctYWxnb3JpdGhtL3ByaWNlX2JhbGFuY2UucG5nKQoKIyMjIOS4pOatpeaQnOe0oueul+azlQoK55+l6YGT5LqG5pyA5LyY5p2h5Lu277yM6Zeu6aKY5Y+Y5oiQ5LqG77ya5aaC5L2V5om+5Yiw6YKj5Liq44CM5bmz6KGh5Lu35qC844CN77yfCgrmiJHku6zkvb/nlKjkuKTmraXmkJzntKLms5XvvJoKCioq56ys5LiA5q2l77ya56Gu5a6a5Lu35qC85Yy66Ze0KirjgIIKCi0g5Lu35qC85LiL6ZmQ77ya55So5YWo6YOo6LWE6YeR6LWw5Y2V5LiA5pyA5LyY6Lev55Sx5pe255qE5oiQ5Lqk5Lu3Ci0g5Lu35qC85LiK6ZmQ77ya55So5p6B5bCP6YeR6aKd77yI5aaCIDAuMSBFVEjvvInmtYvor5XmiYDmnInot6/nlLHvvIzlj5bmnIDpq5jku7cKCui/meS4gOatpeehruWumuS6huaQnOe0ouiMg+WbtOOAguacgOS8mOS7t+agvOS4gOWumuWcqOi/meS4quWMuumXtOWGheOAggoKKirnrKzkuozmraXvvJrkuozliIbmkJzntKLpgLzov5EqKuOAggoK57uZ5a6a5LiA5Liq55uu5qCH5Lu35qC8IFDvvIzmiJHku6zlj6/ku6XorqHnrpfmr4/mnaHot6/nlLHpnIDopoHliIbphY3lpJrlsJHotYTph5HmiY3og73kvb/lhbbmnIDnu4jku7fmoLznrYnkuo4gUOOAguWmguaenOaJgOaciei3r+eUseeahOWIhumFjeaAu+WSjOWkp+S6juWunumZheS6pOaYk+mHj++8jOivtOaYjiBQIOWkqumrmO+8jOmcgOimgemZjeS9ju+8m+WPjeS5i+WImemcgOimgeaPkOmrmOOAggoKYGBgCndoaWxlIChwcmljZV9oaWdoIC0gcHJpY2VfbG93ID4gMWUtNyk6CiAgICBwcmljZV9taWQgPSAocHJpY2VfaGlnaCArIHByaWNlX2xvdykgLyAyCiAgICB0b3RhbF9hbGxvY2F0aW9uID0gc3VtKGNhbGN1bGF0ZV9hbGxvY2F0aW9uKHJvdXRlLCBwcmljZV9taWQpIGZvciByb3V0ZSBpbiByb3V0ZXMpCiAgICAKICAgIGlmIHRvdGFsX2FsbG9jYXRpb24gPiB0YXJnZXRfYW1vdW50OgogICAgICAgIHByaWNlX2hpZ2ggPSBwcmljZV9taWQKICAgIGVsc2U6CiAgICAgICAgcHJpY2VfbG93ID0gcHJpY2VfbWlkCmBgYAoK5LqM5YiG5pCc57Si55qE5pS25pWb6YCf5bqm5piv5a+55pWw57qn55qE44CC6YCa5bi4IDIwLTMwIOasoei/reS7o+WwseiDvei+vuWIsOi2s+Wkn+eahOeyvuW6puOAggoKIyMjIOi3r+eUseaVsOmHj+mZkOWItgoK5a6e6ZmF57O757uf5Lit77yM6Lev55Sx5pWw6YeP5LiN6IO95peg6ZmQ5aSa44CC5q+P5aKe5Yqg5LiA5p2h6Lev55Sx77yM5bCx5aKe5Yqg5LiA5qyh6ZO+5LiK5Lqk5piT77yMR2FzIOi0ueeUqOS8mue0r+WKoOOAgumAmuW4uOmZkOWItuWcqCAxNiDmnaHku6XlhoXjgIIKCuWmguaenOWIneatpeiuoeeul+W+l+WIsOeahOi3r+eUseaVsOmHj+i2hei/h+mZkOWItu+8jOmcgOimgei/m+S4gOatpeetm+mAieOAguetlueVpeaYr+mAkOatpeaPkOmrmOacgOWwj+WIhumFjemHkeminemYiOWAvO+8jOenu+mZpOWIhumFjemHj+i/h+Wwj+eahOi3r+eUse+8jOebtOWIsOaVsOmHj+a7oei2s+mZkOWItuOAggoKLS0tCgojIyDlrp7pmYXmlYjmnpwKCuWcqOeUn+S6p+eOr+Wig+S4re+8jOeul+azleeahOaViOaenOS4juS6pOaYk+inhOaooeebuOWFs++8mgoKfCDkuqTmmJPop4TmqKEgfCDmlLbnm4rmj5DljYcgfCDlhbjlnovot6/nlLHmlbAgfAp8LS0tLS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLS0tLS0tLXwKfCA8IDEgRVRIIHwgMC4xLTAuMyUgfCAxLTMgfAp8IDEtMTAgRVRIIHwgMC4zLTAuOCUgfCAzLTggfAp8IDEwLTEwMCBFVEggfCAwLjgtMiUgfCA4LTE2IHwKfCA+IDEwMCBFVEggfCAxLTMlIHwgMTYgfAoK5bCP6aKd5Lqk5piT55qE5LyY5YyW56m66Ze05pyJ6ZmQ77yM5Zug5Li6IEdhcyDotLnnlKjljaDmr5TovoPpq5jjgILlpKfpop3kuqTmmJPnmoTkvJjljJbnqbrpl7TmmL7okZfvvIzmi4bljZXluKbmnaXnmoTmlLbnm4rov5zotoXpop3lpJbnmoQgR2FzIOaIkOacrOOAggoKLS0tCgojIyDlsYDpmZDmgKfkuI7mnYPooaEKCiMjIyDlu7bov5/kuI7lh4bnoa7mgKfnmoTmnYPooaEKCui3r+eUseiuoeeul+mcgOimgeaXtumXtOOAguetm+mAiSA1MDAg5LiH5Liq5rGg5a2Q44CB55Sf5oiQ6Lev5b6E44CB5LyY5YyW5YiG6YWN77yM5pW05Liq6L+H56iL5Y+v6IO96ZyA6KaB5pWw55m+5q+r56eS44CC5Zyo6L+Z5q615pe26Ze05YaF77yM5biC5Zy65Lu35qC85Y+v6IO95bey57uP5Y+Y5YyW44CCCgrlrp7pmYXns7vnu5/pgJrluLjph4fnlKjnvJPlrZjnrZbnlaXvvJrpooTlhYjorqHnrpfluLjop4HkuqTmmJPlr7nnmoTot6/nlLHvvIzlrprmnJ/mm7TmlrDjgILnlKjmiLfor7fmsYLml7bnm7TmjqXov5Tlm57nvJPlrZjnu5PmnpzvvIznibrnibLkuIDlrprnmoTlh4bnoa7mgKfmjaLlj5blk43lupTpgJ/luqbjgIIKCiMjIyBNRVYg6aOO6ZmpCgrogZrlkIjlmajnmoTkuqTmmJPpgJrluLjmmK/lhazlvIDnmoTjgILkuJPkuJrnmoQgTUVWIOacuuWZqOS6uuWPr+S7peebkeaOp+WGheWtmOaxoO+8jOWcqOeUqOaIt+S6pOaYk+S5i+WJjeaPkuWFpeiHquW3seeahOS6pOaYk++8iGZyb250LXJ1bm5pbmfvvInvvIzmiJbogIXlnKjnlKjmiLfkuqTmmJPkuYvlkI7lpZfliKnvvIhiYWNrLXJ1bm5pbmfvvInjgIIKCumDqOWIhuiBmuWQiOWZqOmAmui/h+engeacieS6pOaYk+axoO+8iOWmgiBGbGFzaGJvdHPvvInmnaXop4Tpgb/ov5nkuKrpl67popjvvIzkvYbov5nlop7liqDkuobns7vnu5/lpI3mnYLmgKfjgIIKCiMjIyBHYXMg6LS555So55qE5LiN56Gu5a6a5oCnCgrot6/nlLHorqHnrpfml7bkvLDnrpfnmoQgR2FzIOi0ueeUqOWPr+iDveS4juWunumZheaJp+ihjOaXtuS4jeWQjOOAgue9kee7nOaLpeWgteaXtu+8jEdhcyDku7fmoLzlj6/og73po5nljYfvvIzlr7zoh7Tljp/mnKzmnInliKnlj6/lm77nmoTmi4bljZXlj5jlvpfkuI3liJLnrpfjgIIKCi0tLQoKIyMg6L+b5LiA5q2l6ZiF6K+7CgotIFsxaW5jaCBQYXRoZmluZGVyXShodHRwczovL2RvY3MuMWluY2guaW8vZG9jcy9hZ2dyZWdhdGlvbi1wcm90b2NvbC9pbnRyb2R1Y3Rpb24pIOKAlCAxaW5jaCDogZrlkIjljY/orq7nmoTmioDmnK/mlofmoaMKLSBbVW5pc3dhcCBBdXRvIFJvdXRlcl0oaHR0cHM6Ly9kb2NzLnVuaXN3YXAub3JnL2NvbnRyYWN0cy92My9ndWlkZXMvc3dhcHMvbXVsdGlob3Atc3dhcHMpIOKAlCBVbmlzd2FwIOeahOWkmui3s+i3r+eUseWunueOsAotIFtDb1cgUHJvdG9jb2wgU29sdmVyXShodHRwczovL2RvY3MuY293LmZpL2Nvdy1wcm90b2NvbC9jb25jZXB0cy9ob3ctaXQtd29ya3Mvc29sdmVycykg4oCUIOaJuemHj+aLjeWNluS4reeahOaxguino+WZqOacuuWItgotIFtDb252ZXggT3B0aW1pemF0aW9uXShodHRwczovL3dlYi5zdGFuZm9yZC5lZHUvfmJveWQvY3Z4Ym9vay8pIOKAlCDlh7jkvJjljJbnkIborrrvvIzku7fmoLzlubPooaHnrpfms5XnmoTmlbDlrabln7rnoYAK"}
+---
+title: "DEX 聚合路由算法：从 500 万流动性池到最优交易路径"
+description: "深入解析 DEX 聚合器的核心算法——如何从海量流动性池中生成最优交易路径，以及如何通过智能拆单最大化用户收益。"
+pubDate: "2026-03-01"
+tags: ["DeFi", "DEX", "Algorithm", "Web3"]
+hexagram: "䷜"
+element: "water"
+---
+
+**TL;DR:** DEX 聚合路由算法分两个阶段：首先从 500 万流动性池中筛选出约 1000 条可行路径，然后通过价格平衡算法将交易金额智能分配到多条路由，使所有路由的最终价格趋于一致，从而最大化总收益。对于 100 ETH 的大额交易，拆单优化可以比单一路由多获得 1500+ USDT。
+
+> **前置知识**：本文假设读者熟悉 AMM 的基本原理和滑点概念。如果不熟悉，建议先阅读 [DEX 交易机制](/blog/dex-trading-mechanisms)。
+
+---
+
+## 问题的本质：在海量可能性中寻找最优解
+
+当用户想用 ETH 换 USDT 时，面临的不是一个简单的查询问题，而是一个组合优化问题。
+
+市场上有约 500 万个流动性池，每个池的价格、深度、手续费都不同。理论上，从 ETH 到 USDT 的路径可以是直接兑换，也可以经过一个或多个中间代币。如果考虑所有可能的组合，路径数量是天文数字——单是三跳路由就有数十亿种可能。
+
+更复杂的是，大额交易会显著改变池子的状态。在一个池子里交易 100 ETH，滑点可能高达 5%；但如果把这 100 ETH 分散到 10 个池子，每个池子只承受 10 ETH 的冲击，总滑点可能降到 1% 以下。这意味着最优解不仅要找到好的路径，还要决定每条路径分配多少资金。
+
+这就是 DEX 聚合路由算法要解决的核心问题：在海量的路径空间中，找到收益最大化的交易方案。
+
+---
+
+## 算法架构：两阶段优化
+
+整个算法分为两个阶段，每个阶段解决一个子问题。
+
+**第一阶段：多跳路由生成**。从 500 万个池子中，生成所有可行的交易路径，并筛选出约 1000 条优质候选路由。这个阶段的目标是「不遗漏好路径」，同时「过滤掉明显差的路径」。
+
+**第二阶段：拆单与价格优化**。在候选路由中，决定每条路由分配多少资金，使总收益最大化。这个阶段的目标是「让所有被选中路由的最终价格趋于一致」——这是数学上可证明的最优条件。
+
+![DEX 聚合路由算法架构](/images/blog/dex-aggregator-routing-algorithm/algorithm_architecture.png)
+
+两个阶段的分离是有意为之的。路由生成是一个离散的组合问题，适合用过滤和剪枝来处理；价格优化是一个连续的数值问题，适合用二分搜索来逼近。把它们分开，可以让每个阶段使用最适合的算法。
+
+---
+
+## 第一阶段：多跳路由生成
+
+### 数据预处理：从 500 万到 50 万
+
+原始数据中充斥着无效池子。有些是「貔貅币」——只能买入不能卖出的诈骗代币；有些是钓鱼池，用虚假的高收益吸引用户；还有大量流动性极低的池子，交易手续费都无法覆盖。
+
+第一步是清洗数据。过滤规则包括：
+
+- 移除已知的诈骗代币和钓鱼池（基于黑名单）
+- 移除流动性低于 1 美元的池子（无法覆盖 Gas 费）
+- 移除长期无交易的死池
+
+经过过滤，500 万个池子减少到约 50 万个有效池子。这一步将数据量减少了 90%，为后续计算奠定基础。
+
+### 智能分组：按交易对特征分类
+
+50 万个池子仍然太多，不能暴力枚举所有组合。关键洞察是：大多数组合是无效的。
+
+以 ETH → USDT 交易为例，有效的路径必须满足「代币连续性」——前一跳的输出必须是后一跳的输入。这意味着我们可以按交易对特征将池子分组：
+
+| 分组 | 描述 | 数量 |
+|------|------|------|
+| ETH-USDT 池 | 直达路由 | ~200 |
+| ETH-TokenA 池 | 二跳路由起点 | ~1,500 |
+| TokenB-USDT 池 | 二跳路由终点 | ~5,000 |
+| TokenB-TokenC 池 | 三跳路由中间段 | ~300,000 |
+
+分组之后，路由生成变成了在分组之间做笛卡尔积。单跳路由直接从 ETH-USDT 池中选取；二跳路由是 ETH-TokenA 池和 TokenA-USDT 池的组合；三跳路由则需要三个分组的组合。
+
+### 路径生成与筛选
+
+即使分组后，组合数量仍然庞大。二跳路由有 1,500 × 5,000 = 750 万种可能；三跳路由更是达到数十亿级别。
+
+筛选策略是多层过滤，逐步收紧条件：
+
+**第一层：流动性深度过滤**。计算每条路由的理论最大交易量（受限于路径中流动性最小的池子），移除低于阈值（如 100 美元）的路由。
+
+**第二层：代币匹配验证**。确保路径的连贯性——前一跳输出的代币必须与后一跳输入的代币完全匹配。这听起来显而易见，但在实际数据中，同名代币可能有不同的合约地址。
+
+**第三层：路由去重**。移除在同一条路由中重复使用同一个池子的情况。这种路由在数学上是无效的——你不能在同一个池子里同时买入和卖出同一种代币。
+
+**第四层：成本估算**。对每条路由进行粗略的成本估算，包括预期滑点和 Gas 费用。移除成本明显过高的路由。
+
+**第五层：数量限制**。为了保证后续计算的性能，最终保留约 1000 条优质路由。如果筛选后数量仍然过多，递归地收紧筛选条件，直到满足限制。
+
+经过五层筛选，从数十亿条理论路径收敛到 1000 条实用路由。
+
+---
+
+## 第二阶段：拆单与价格优化
+
+### 为什么要拆单
+
+先看一个具体的对比。
+
+**不拆单**：100 ETH 全部走 Uniswap V3 的 ETH-USDT 池。由于交易量大，滑点达到 5%，最终获得 199,500 USDT。
+
+**拆单**：将 100 ETH 分配到多条路由。
+
+| 路由 | 分配 | 滑点 | 获得 |
+|------|------|------|------|
+| Uniswap V3 | 35 ETH | 2% | 71,540 USDT |
+| SushiSwap | 30 ETH | 1.5% | 61,710 USDT |
+| Curve | 20 ETH | 1% | 41,580 USDT |
+| Balancer | 15 ETH | 0.8% | 31,248 USDT |
+| **合计** | 100 ETH | — | **206,078 USDT** |
+
+拆单后多获得 6,578 USDT，收益提升 3.3%。对于大额交易，这个差异非常可观。
+
+拆单有效的原因是 AMM 的滑点是非线性的。在恒定乘积公式下，滑点与交易量的平方成正比。把一笔大交易拆成多笔小交易，总滑点会显著降低。
+
+### 最优分配的数学原理
+
+什么样的分配是最优的？答案是：**让所有被选中路由的最终价格趋于一致**。
+
+这个结论可以用反证法证明。假设最优分配下，路由 A 的最终价格是 2,100 USDT/ETH，路由 B 的最终价格是 2,000 USDT/ETH。那么我们可以从路由 A 移一点资金到路由 B——路由 A 的价格会上升（因为交易量减少），路由 B 的价格会下降（因为交易量增加）。只要两者价格不相等，这种调整就能增加总收益。因此，最优解必然是所有路由价格相等。
+
+这个原理类似于连通器中的水位平衡。每条路由就像一个水池，初始水位（价格）不同。我们要往这些水池里注水（分配资金），使最终水位趋于一致。
+
+![价格平衡原理](/images/blog/dex-aggregator-routing-algorithm/price_balance.png)
+
+### 两步搜索算法
+
+知道了最优条件，问题变成了：如何找到那个「平衡价格」？
+
+我们使用两步搜索法：
+
+**第一步：确定价格区间**。
+
+- 价格下限：用全部资金走单一最优路由时的成交价
+- 价格上限：用极小金额（如 0.1 ETH）测试所有路由，取最高价
+
+这一步确定了搜索范围。最优价格一定在这个区间内。
+
+**第二步：二分搜索逼近**。
+
+给定一个目标价格 P，我们可以计算每条路由需要分配多少资金才能使其最终价格等于 P。如果所有路由的分配总和大于实际交易量，说明 P 太高，需要降低；反之则需要提高。
+
+```
+while (price_high - price_low > 1e-7):
+    price_mid = (price_high + price_low) / 2
+    total_allocation = sum(calculate_allocation(route, price_mid) for route in routes)
+    
+    if total_allocation > target_amount:
+        price_high = price_mid
+    else:
+        price_low = price_mid
+```
+
+二分搜索的收敛速度是对数级的。通常 20-30 次迭代就能达到足够的精度。
+
+### 路由数量限制
+
+实际系统中，路由数量不能无限多。每增加一条路由，就增加一次链上交易，Gas 费用会累加。通常限制在 16 条以内。
+
+如果初步计算得到的路由数量超过限制，需要进一步筛选。策略是逐步提高最小分配金额阈值，移除分配量过小的路由，直到数量满足限制。
+
+---
+
+## 实际效果
+
+在生产环境中，算法的效果与交易规模相关：
+
+| 交易规模 | 收益提升 | 典型路由数 |
+|----------|----------|------------|
+| < 1 ETH | 0.1-0.3% | 1-3 |
+| 1-10 ETH | 0.3-0.8% | 3-8 |
+| 10-100 ETH | 0.8-2% | 8-16 |
+| > 100 ETH | 1-3% | 16 |
+
+小额交易的优化空间有限，因为 Gas 费用占比较高。大额交易的优化空间显著，拆单带来的收益远超额外的 Gas 成本。
+
+---
+
+## 局限性与权衡
+
+### 延迟与准确性的权衡
+
+路由计算需要时间。筛选 500 万个池子、生成路径、优化分配，整个过程可能需要数百毫秒。在这段时间内，市场价格可能已经变化。
+
+实际系统通常采用缓存策略：预先计算常见交易对的路由，定期更新。用户请求时直接返回缓存结果，牺牲一定的准确性换取响应速度。
+
+### MEV 风险
+
+聚合器的交易通常是公开的。专业的 MEV 机器人可以监控内存池，在用户交易之前插入自己的交易（front-running），或者在用户交易之后套利（back-running）。
+
+部分聚合器通过私有交易池（如 Flashbots）来规避这个问题，但这增加了系统复杂性。
+
+### Gas 费用的不确定性
+
+路由计算时估算的 Gas 费用可能与实际执行时不同。网络拥堵时，Gas 价格可能飙升，导致原本有利可图的拆单变得不划算。
+
+---
+
+## 进一步阅读
+
+- [1inch Pathfinder](https://docs.1inch.io/docs/aggregation-protocol/introduction) — 1inch 聚合协议的技术文档
+- [Uniswap Auto Router](https://docs.uniswap.org/contracts/v3/guides/swaps/multihop-swaps) — Uniswap 的多跳路由实现
+- [CoW Protocol Solver](https://docs.cow.fi/cow-protocol/concepts/how-it-works/solvers) — 批量拍卖中的求解器机制
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) — 凸优化理论，价格平衡算法的数学基础

@@ -1,1 +1,104 @@
-{"data":"LS0tCnRpdGxlOiAiVGhlIEdlbnRsZSBBcnQgb2YgR2FyYmFnZSBDb2xsZWN0aW9uIGluIEdvIgpkZXNjcmlwdGlvbjogIkV4YW1pbmluZyBob3cgR28ncyBtZW1vcnkgbWFuYWdlbWVudCBtaXJyb3JzIHRoZSBUYW9pc3QgcHJpbmNpcGxlIG9mICdXdSBXZWkn4oCUYWN0aW9uIHRocm91Z2ggbm9uLWFjdGlvbi4gT3B0aW1pemluZyBoaWdoLXRocm91Z2hwdXQgc3lzdGVtcyBieSBsZXR0aW5nIGdvLiIKcHViRGF0ZTogIjIwMjQtMDItMjgiCnRhZ3M6IFsiR28iLCAiU3lzdGVtIERlc2lnbiIsICJPcHRpbWl6YXRpb24iXQpoZXhhZ3JhbTogIuS3gCIKZWxlbWVudDogIndvb2QiCi0tLQoKSW4gdGhlIHJlYWxtIG9mIHN5c3RlbXMgcHJvZ3JhbW1pbmcsIGZldyB0b3BpY3MgZ2VuZXJhdGUgYXMgbXVjaCBkaXNjdXNzaW9uIGFzIG1lbW9yeSBtYW5hZ2VtZW50LiBHbydzIGdhcmJhZ2UgY29sbGVjdG9yIHJlcHJlc2VudHMgYSBmYXNjaW5hdGluZyBjYXNlIHN0dWR5IGluIHRoZSBhcnQgb2YgZG9pbmcgbGVzcyB0byBhY2hpZXZlIG1vcmXigJRhIHByaW5jaXBsZSB0aGF0IHJlc29uYXRlcyBkZWVwbHkgd2l0aCB0aGUgVGFvaXN0IGNvbmNlcHQgb2YgKipXdSBXZWkqKiAo5peg5Li6KS4KCiMjIFRoZSBQaGlsb3NvcGh5IG9mIE5vbi1BY3Rpb24KCld1IFdlaSBkb2Vzbid0IG1lYW4gZG9pbmcgbm90aGluZy4gUmF0aGVyLCBpdCBzdWdnZXN0cyBhY3RpbmcgaW4gaGFybW9ueSB3aXRoIHRoZSBuYXR1cmFsIGZsb3cgb2YgdGhpbmdzLCB3aXRob3V0IGZvcmNpbmcgb3Igc3RydWdnbGluZyBhZ2FpbnN0IHRoZSBjdXJyZW50LiBHbydzIEdDIGVtYm9kaWVzIHRoaXMgcHJpbmNpcGxlIHRocm91Z2ggaXRzIGNvbmN1cnJlbnQsIHRyaS1jb2xvciBtYXJrLWFuZC1zd2VlcCBhbGdvcml0aG0uCgpgYGBnbwovLyBUaGUgR0Mgd29ya3Mgc2lsZW50bHkgaW4gdGhlIGJhY2tncm91bmQKLy8gbGlrZSB3YXRlciBmaW5kaW5nIGl0cyBvd24gbGV2ZWwKZnVuYyBwcm9jZXNzU3RyZWFtKGNoIDwtY2hhbiBEYXRhUG9pbnQpIHsKICAgIGZvciBkYXRhIDo9IHJhbmdlIGNoIHsKICAgICAgICAvLyBBbGxvY2F0ZSBmcmVlbHksIHRydXN0IHRoZSBzeXN0ZW0KICAgICAgICByZXN1bHQgOj0gdHJhbnNmb3JtKGRhdGEpCiAgICAgICAgZW1pdChyZXN1bHQpCiAgICAgICAgLy8gTm8gbWFudWFsIGNsZWFudXAgbmVlZGVkCiAgICB9Cn0KYGBgCgojIyBUdW5pbmcgV2l0aG91dCBGb3JjaW5nCgpUaGUga2V5IGluc2lnaHQgaXMgdGhhdCBhZ2dyZXNzaXZlIG9wdGltaXphdGlvbiBvZnRlbiBiYWNrZmlyZXMuIEluc3RlYWQgb2YgZmlnaHRpbmcgdGhlIEdDLCB3ZSB3b3JrIHdpdGggaXQ6CgojIyMgMS4gUmVkdWNlIEFsbG9jYXRpb24gUHJlc3N1cmUKClJhdGhlciB0aGFuIGVsaW1pbmF0aW5nIGFsbG9jYXRpb25zIGVudGlyZWx5ICh3aGljaCB3b3VsZCBiZSBmb3JjaW5nKSwgd2UgcmVkdWNlIHVubmVjZXNzYXJ5IG9uZXM6CgpgYGBnbwovLyBCZWZvcmU6IENyZWF0ZXMgbmV3IHNsaWNlIGVhY2ggaXRlcmF0aW9uCmZvciBpIDo9IDA7IGkgPCBuOyBpKysgewogICAgZGF0YSA6PSBtYWtlKFtdYnl0ZSwgMTAyNCkKICAgIHByb2Nlc3MoZGF0YSkKfQoKLy8gQWZ0ZXI6IFJldXNlIHdoZW4gbmF0dXJhbApidWZmZXIgOj0gbWFrZShbXWJ5dGUsIDEwMjQpCmZvciBpIDo9IDA7IGkgPCBuOyBpKysgewogICAgcHJvY2VzcyhidWZmZXIpCn0KYGBgCgojIyMgMi4gTGV0IHRoZSBTY2hlZHVsZXIgQnJlYXRoZQoKR28ncyBydW50aW1lIHNjaGVkdWxlciBhbmQgR0Mgd29yayB0b2dldGhlci4gQmxvY2tpbmcgb3BlcmF0aW9ucyBjcmVhdGUgbmF0dXJhbCBHQyBvcHBvcnR1bml0aWVzOgoKYGBgZ28KZnVuYyB3b3JrZXIoam9icyA8LWNoYW4gSm9iKSB7CiAgICBmb3Igam9iIDo9IHJhbmdlIGpvYnMgewogICAgICAgIHJlc3VsdCA6PSBjb21wdXRlKGpvYikKICAgICAgICAKICAgICAgICAvLyBUaGlzIEkvTyBwYXVzZSBpcyBhIGdpZnQgdG8gdGhlIEdDCiAgICAgICAgc2VuZFJlc3VsdChyZXN1bHQpCiAgICB9Cn0KYGBgCgojIyBUaGUgR09HQyBEaWFsCgpUaGUgYEdPR0NgIGVudmlyb25tZW50IHZhcmlhYmxlIGNvbnRyb2xzIHRoZSBHQydzIGFnZ3Jlc3NpdmVuZXNzLiBUaGUgZGVmYXVsdCBvZiAxMDAgbWVhbnMgdGhlIEdDIHRyaWdnZXJzIHdoZW4gaGVhcCBzaXplIGRvdWJsZXMuIEJ1dCByZW1lbWJlcjoKCj4gIlRoZSBUYW8gdGhhdCBjYW4gYmUgdG9sZCBpcyBub3QgdGhlIGV0ZXJuYWwgVGFvLiIKClNpbWlsYXJseSwgdGhlIG9wdGltYWwgR09HQyB2YWx1ZSBjYW5ub3QgYmUgcHJlc2NyaWJlZOKAlGl0IGVtZXJnZXMgZnJvbSB5b3VyIHNwZWNpZmljIHdvcmtsb2FkLgoKYGBgYmFzaAojIE1vcmUgYWdncmVzc2l2ZSBHQyAobG93ZXIgbGF0ZW5jeSwgbW9yZSBDUFUpCkdPR0M9NTAgLi9teXNlcnZpY2UKCiMgTGVzcyBhZ2dyZXNzaXZlIEdDIChoaWdoZXIgdGhyb3VnaHB1dCwgbW9yZSBtZW1vcnkpCkdPR0M9MjAwIC4vbXlzZXJ2aWNlCmBgYAoKIyMgTWVhc3VyaW5nIFdpdGhvdXQgT2JzZXNzaW5nCgpVc2UgYHJ1bnRpbWUuUmVhZE1lbVN0YXRzKClgIHRvIG9ic2VydmUsIG5vdCB0byBjb250cm9sOgoKYGBgZ28KdmFyIHN0YXRzIHJ1bnRpbWUuTWVtU3RhdHMKcnVudGltZS5SZWFkTWVtU3RhdHMoJnN0YXRzKQoKbG9nLlByaW50ZigiSGVhcEFsbG9jOiAlZCBNQiIsIHN0YXRzLkhlYXBBbGxvYy8xMDI0LzEwMjQpCmxvZy5QcmludGYoIk51bUdDOiAlZCIsIHN0YXRzLk51bUdDKQpsb2cuUHJpbnRmKCJQYXVzZVRvdGFsTnM6ICVkIG1zIiwgc3RhdHMuUGF1c2VUb3RhbE5zLzFlNikKYGBgCgojIyBDb25jbHVzaW9uCgpUaGUgbW9zdCBwZXJmb3JtYW50IEdvIHByb2dyYW1zIEkndmUgd3JpdHRlbiB3ZXJlbid0IHRoZSBvbmVzIHdoZXJlIEkgZm91Z2h0IGhhcmRlc3QgYWdhaW5zdCB0aGUgR0MuIFRoZXkgd2VyZSB0aGUgb25lcyB3aGVyZSBJIHVuZGVyc3Rvb2QgaXRzIG5hdHVyZSBhbmQgZGVzaWduZWQgbXkgZGF0YSBmbG93IHRvIGNvbXBsZW1lbnQgaXQuCgpMaWtlIHdhdGVyLCB0aGUgR0Mgc2Vla3MgdGhlIHBhdGggb2YgbGVhc3QgcmVzaXN0YW5jZS4gT3VyIGpvYiBpcyBub3QgdG8gZGFtIGl0LCBidXQgdG8gc2hhcGUgdGhlIGxhbmRzY2FwZSB0aHJvdWdoIHdoaWNoIGl0IGZsb3dzLgoKLS0tCgoqIlRoZSBoaWdoZXN0IGdvb2QgaXMgbGlrZSB3YXRlci4gV2F0ZXIgYmVuZWZpdHMgYWxsIHRoaW5ncyBhbmQgZG9lcyBub3QgY29tcGV0ZS4iKgrigJQgVGFvIFRlIENoaW5nLCBDaGFwdGVyIDgK"}
+---
+title: "The Gentle Art of Garbage Collection in Go"
+description: "Examining how Go's memory management mirrors the Taoist principle of 'Wu Wei'—action through non-action. Optimizing high-throughput systems by letting go."
+pubDate: "2024-02-28"
+tags: ["Go", "System Design", "Optimization"]
+hexagram: "䷀"
+element: "wood"
+---
+
+In the realm of systems programming, few topics generate as much discussion as memory management. Go's garbage collector represents a fascinating case study in the art of doing less to achieve more—a principle that resonates deeply with the Taoist concept of **Wu Wei** (无为).
+
+## The Philosophy of Non-Action
+
+Wu Wei doesn't mean doing nothing. Rather, it suggests acting in harmony with the natural flow of things, without forcing or struggling against the current. Go's GC embodies this principle through its concurrent, tri-color mark-and-sweep algorithm.
+
+```go
+// The GC works silently in the background
+// like water finding its own level
+func processStream(ch <-chan DataPoint) {
+    for data := range ch {
+        // Allocate freely, trust the system
+        result := transform(data)
+        emit(result)
+        // No manual cleanup needed
+    }
+}
+```
+
+## Tuning Without Forcing
+
+The key insight is that aggressive optimization often backfires. Instead of fighting the GC, we work with it:
+
+### 1. Reduce Allocation Pressure
+
+Rather than eliminating allocations entirely (which would be forcing), we reduce unnecessary ones:
+
+```go
+// Before: Creates new slice each iteration
+for i := 0; i < n; i++ {
+    data := make([]byte, 1024)
+    process(data)
+}
+
+// After: Reuse when natural
+buffer := make([]byte, 1024)
+for i := 0; i < n; i++ {
+    process(buffer)
+}
+```
+
+### 2. Let the Scheduler Breathe
+
+Go's runtime scheduler and GC work together. Blocking operations create natural GC opportunities:
+
+```go
+func worker(jobs <-chan Job) {
+    for job := range jobs {
+        result := compute(job)
+        
+        // This I/O pause is a gift to the GC
+        sendResult(result)
+    }
+}
+```
+
+## The GOGC Dial
+
+The `GOGC` environment variable controls the GC's aggressiveness. The default of 100 means the GC triggers when heap size doubles. But remember:
+
+> "The Tao that can be told is not the eternal Tao."
+
+Similarly, the optimal GOGC value cannot be prescribed—it emerges from your specific workload.
+
+```bash
+# More aggressive GC (lower latency, more CPU)
+GOGC=50 ./myservice
+
+# Less aggressive GC (higher throughput, more memory)
+GOGC=200 ./myservice
+```
+
+## Measuring Without Obsessing
+
+Use `runtime.ReadMemStats()` to observe, not to control:
+
+```go
+var stats runtime.MemStats
+runtime.ReadMemStats(&stats)
+
+log.Printf("HeapAlloc: %d MB", stats.HeapAlloc/1024/1024)
+log.Printf("NumGC: %d", stats.NumGC)
+log.Printf("PauseTotalNs: %d ms", stats.PauseTotalNs/1e6)
+```
+
+## Conclusion
+
+The most performant Go programs I've written weren't the ones where I fought hardest against the GC. They were the ones where I understood its nature and designed my data flow to complement it.
+
+Like water, the GC seeks the path of least resistance. Our job is not to dam it, but to shape the landscape through which it flows.
+
+---
+
+*"The highest good is like water. Water benefits all things and does not compete."*
+— Tao Te Ching, Chapter 8

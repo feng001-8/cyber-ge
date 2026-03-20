@@ -1,1 +1,71 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMzUwIj4KCiAgICA8c3R5bGU+CiAgICAgICAgdGV4dCB7IGZvbnQtZmFtaWx5OiAnSW50ZXInLCAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOyBmaWxsOiAjNDc0NzQ3OyB9CiAgICAgICAgLm1vbm8geyBmb250LWZhbWlseTogJ0pldEJyYWlucyBNb25vJywgJ1NGIE1vbm8nLCBtb25vc3BhY2U7IH0KICAgICAgICAubGFiZWwgeyBmb250LXNpemU6IDE0cHg7IH0KICAgICAgICAudGl0bGUgeyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiA2MDA7IH0KICAgICAgICAuc21hbGwgeyBmb250LXNpemU6IDEycHg7IH0KICAgICAgICAuc3VidGl0bGUgeyBmb250LXNpemU6IDEzcHg7IGZpbGw6ICM4QzkyOEY7IH0KICAgIDwvc3R5bGU+CgoKICAgIDxkZWZzPgogICAgICAgIDxtYXJrZXIgaWQ9ImFycm93IiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iMTAiIHJlZlg9IjkiIHJlZlk9IjMiIG9yaWVudD0iYXV0byI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDAgTDAsNiBMOSwzIHoiIGZpbGw9IiM0NzQ3NDciLz4KICAgICAgICA8L21hcmtlcj4KICAgICAgICA8bWFya2VyIGlkPSJhcnJvdy1qYWRlIiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iMTAiIHJlZlg9IjkiIHJlZlk9IjMiIG9yaWVudD0iYXV0byI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDAgTDAsNiBMOSwzIHoiIGZpbGw9IiM0QThCNzEiLz4KICAgICAgICA8L21hcmtlcj4KICAgICAgICA8bWFya2VyIGlkPSJhcnJvdy1ncmF5IiBtYXJrZXJXaWR0aD0iMTAiIG1hcmtlckhlaWdodD0iMTAiIHJlZlg9IjkiIHJlZlk9IjMiIG9yaWVudD0iYXV0byI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDAgTDAsNiBMOSwzIHoiIGZpbGw9IiM4QzkyOEYiLz4KICAgICAgICA8L21hcmtlcj4KICAgIDwvZGVmcz4KCiAgICAKICAgIDwhLS0gVGl0bGUgLS0+CiAgICA8dGV4dCB4PSIzMDAuMCIgeT0iMzAiIGNsYXNzPSJ0aXRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5Lu35YC86L2s5o2i77ya5LuO5pWw6YeP5Yiw5Lu35YC8PC90ZXh0PgogICAgCiAgICA8IS0tIExlZnQgc2lkZTogUXVhbnRpdHkgLS0+CiAgICA8cmVjdCB4PSI0MCIgeT0iNzAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiByeD0iOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOEM5MjhGIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsNCIvPgogICAgPHRleHQgeD0iMTQwIiB5PSI5NSIgY2xhc3M9ImxhYmVsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOEM5MjhGIj7mlbDph48gKGJhbGFuY2UpPC90ZXh0PgogICAgCiAgICA8cmVjdCB4PSI2MCIgeT0iMTE1IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjE0MCIgeT0iMTQwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTAwLDAwMCBVU0RUPC90ZXh0PgogICAgCiAgICA8cmVjdCB4PSI2MCIgeT0iMTY1IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjE0MCIgeT0iMTkwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MiBXQlRDPC90ZXh0PgogICAgCiAgICA8cmVjdCB4PSI2MCIgeT0iMjE1IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjE0MCIgeT0iMjQwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MzAgV0VUSDwvdGV4dD4KICAgIAogICAgPCEtLSBBcnJvdyAtLT4KICAgIDxsaW5lIHgxPSIyNjAiIHkxPSIxNzAiIHgyPSIzNDAiIHkyPSIxNzAiIHN0cm9rZT0iIzRBOEI3MSIgc3Ryb2tlLXdpZHRoPSIyIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93LWphZGUpIi8+CiAgICA8dGV4dCB4PSIzMDAiIHk9IjE1NSIgY2xhc3M9InNtYWxsIG1vbm8iIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM0QThCNzEiPsOXIHDhtaI8L3RleHQ+CiAgICAKICAgIDwhLS0gUmlnaHQgc2lkZTogVmFsdWUgLS0+CiAgICA8cmVjdCB4PSIzNjAiIHk9IjcwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgcng9IjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhDOTI4RiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDQiLz4KICAgIDx0ZXh0IHg9IjQ2MCIgeT0iOTUiIGNsYXNzPSJsYWJlbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+5Lu35YC8ICh2YWx1ZSk8L3RleHQ+CiAgICAKICAgIDxyZWN0IHg9IjM4MCIgeT0iMTE1IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjQwIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjQ2MCIgeT0iMTQwIiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTAwLDAwMCBVU0RUPC90ZXh0PgogICAgCiAgICA8cmVjdCB4PSIzODAiIHk9IjE2NSIgd2lkdGg9IjE2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8dGV4dCB4PSI0NjAiIHk9IjE5MCIgY2xhc3M9Im1vbm8gc21hbGwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjgwLDAwMCBVU0RUPC90ZXh0PgogICAgCiAgICA8cmVjdCB4PSIzODAiIHk9IjIxNSIgd2lkdGg9IjE2MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8dGV4dCB4PSI0NjAiIHk9IjI0MCIgY2xhc3M9Im1vbm8gc21hbGwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjkwLDAwMCBVU0RUPC90ZXh0PgogICAgCiAgICA8IS0tIFByaWNlIGFubm90YXRpb25zIC0tPgogICAgPHRleHQgeD0iMzAwIiB5PSIxMzUiIGNsYXNzPSJzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+cOKCgCA9IDE8L3RleHQ+CiAgICA8dGV4dCB4PSIzMDAiIHk9IjE4NSIgY2xhc3M9InNtYWxsIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOEM5MjhGIj5w4oKBID0gNDAsMDAwPC90ZXh0PgogICAgPHRleHQgeD0iMzAwIiB5PSIyMzUiIGNsYXNzPSJzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+cOKCgiA9IDMsMDAwPC90ZXh0PgogICAgCiAgICA8IS0tIFRvdGFsIC0tPgogICAgPGxpbmUgeDE9IjM4MCIgeTE9IjI3NSIgeDI9IjU0MCIgeTI9IjI3NSIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjQ2MCIgeT0iMzAwIiBjbGFzcz0ibGFiZWwgbW9ubyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5oC75Lu35YC8ID0gMjcwLDAwMCBVU0RUPC90ZXh0PgogICAgCiAgICA8IS0tIEZvcm11bGEgLS0+CiAgICA8dGV4dCB4PSIzMDAuMCIgeT0iMzM1IiBjbGFzcz0ibW9ubyBzbWFsbCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzhDOTI4RiI+YifhtaIgPSBi4bWiIMOXIHDhtaI8L3RleHQ+CiAgICAKPC9zdmc+"}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350">
+
+    <style>
+        text { font-family: 'Inter', -apple-system, sans-serif; fill: #474747; }
+        .mono { font-family: 'JetBrains Mono', 'SF Mono', monospace; }
+        .label { font-size: 14px; }
+        .title { font-size: 16px; font-weight: 600; }
+        .small { font-size: 12px; }
+        .subtitle { font-size: 13px; fill: #8C928F; }
+    </style>
+
+
+    <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#474747"/>
+        </marker>
+        <marker id="arrow-jade" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#4A8B71"/>
+        </marker>
+        <marker id="arrow-gray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L9,3 z" fill="#8C928F"/>
+        </marker>
+    </defs>
+
+    
+    <!-- Title -->
+    <text x="300.0" y="30" class="title" text-anchor="middle">价值转换：从数量到价值</text>
+    
+    <!-- Left side: Quantity -->
+    <rect x="40" y="70" width="200" height="200" rx="8" fill="none" stroke="#8C928F" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="140" y="95" class="label" text-anchor="middle" fill="#8C928F">数量 (balance)</text>
+    
+    <rect x="60" y="115" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="140" y="140" class="mono small" text-anchor="middle">100,000 USDT</text>
+    
+    <rect x="60" y="165" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="140" y="190" class="mono small" text-anchor="middle">2 WBTC</text>
+    
+    <rect x="60" y="215" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="140" y="240" class="mono small" text-anchor="middle">30 WETH</text>
+    
+    <!-- Arrow -->
+    <line x1="260" y1="170" x2="340" y2="170" stroke="#4A8B71" stroke-width="2" marker-end="url(#arrow-jade)"/>
+    <text x="300" y="155" class="small mono" text-anchor="middle" fill="#4A8B71">× pᵢ</text>
+    
+    <!-- Right side: Value -->
+    <rect x="360" y="70" width="200" height="200" rx="8" fill="none" stroke="#8C928F" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="460" y="95" class="label" text-anchor="middle" fill="#8C928F">价值 (value)</text>
+    
+    <rect x="380" y="115" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="140" class="mono small" text-anchor="middle">100,000 USDT</text>
+    
+    <rect x="380" y="165" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="190" class="mono small" text-anchor="middle">80,000 USDT</text>
+    
+    <rect x="380" y="215" width="160" height="40" rx="4" fill="none" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="240" class="mono small" text-anchor="middle">90,000 USDT</text>
+    
+    <!-- Price annotations -->
+    <text x="300" y="135" class="small" text-anchor="middle" fill="#8C928F">p₀ = 1</text>
+    <text x="300" y="185" class="small" text-anchor="middle" fill="#8C928F">p₁ = 40,000</text>
+    <text x="300" y="235" class="small" text-anchor="middle" fill="#8C928F">p₂ = 3,000</text>
+    
+    <!-- Total -->
+    <line x1="380" y1="275" x2="540" y2="275" stroke="#474747" stroke-width="1"/>
+    <text x="460" y="300" class="label mono" text-anchor="middle">总价值 = 270,000 USDT</text>
+    
+    <!-- Formula -->
+    <text x="300.0" y="335" class="mono small" text-anchor="middle" fill="#8C928F">b'ᵢ = bᵢ × pᵢ</text>
+    
+</svg>

@@ -1,1 +1,24 @@
-{"data":"aW1wb3J0IHsgZGVmaW5lQ29sbGVjdGlvbiwgeiB9IGZyb20gJ2FzdHJvOmNvbnRlbnQnOwppbXBvcnQgeyBnbG9iIH0gZnJvbSAnYXN0cm8vbG9hZGVycyc7Cgpjb25zdCBibG9nID0gZGVmaW5lQ29sbGVjdGlvbih7CiAgbG9hZGVyOiBnbG9iKHsgcGF0dGVybjogIioqLyoubWQiLCBiYXNlOiAiLi9zcmMvY29udGVudC9ibG9nIiB9KSwKICBzY2hlbWE6IHoub2JqZWN0KHsKICAgIHRpdGxlOiB6LnN0cmluZygpLAogICAgZGVzY3JpcHRpb246IHouc3RyaW5nKCksCiAgICBwdWJEYXRlOiB6LnN0cmluZygpLAogICAgdGFnczogei5hcnJheSh6LnN0cmluZygpKSwKICAgIGhleGFncmFtOiB6LnN0cmluZygpLm9wdGlvbmFsKCksCiAgICBlbGVtZW50OiB6LnN0cmluZygpLm9wdGlvbmFsKCksCiAgfSksCn0pOwoKY29uc3Qgc2NyaXB0dXJlcyA9IGRlZmluZUNvbGxlY3Rpb24oewogIGxvYWRlcjogZ2xvYih7IHBhdHRlcm46ICIqKi8qLm1kIiwgYmFzZTogIi4vc3JjL2NvbnRlbnQvc2NyaXB0dXJlcyIgfSksCiAgc2NoZW1hOiB6Lm9iamVjdCh7CiAgICB0aXRsZTogei5zdHJpbmcoKS5vcHRpb25hbCgpLAogICAgZGVzY3JpcHRpb246IHouc3RyaW5nKCkub3B0aW9uYWwoKSwKICB9KSwKfSk7CgpleHBvcnQgY29uc3QgY29sbGVjdGlvbnMgPSB7IGJsb2csIHNjcmlwdHVyZXMgfTsK"}
+import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
+
+const blog = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/blog" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.string(),
+    tags: z.array(z.string()),
+    hexagram: z.string().optional(),
+    element: z.string().optional(),
+  }),
+});
+
+const scriptures = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/scriptures" }),
+  schema: z.object({
+    title: z.string().optional(),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, scriptures };

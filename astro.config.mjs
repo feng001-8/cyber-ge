@@ -1,1 +1,16 @@
-{"data":"Ly8gQHRzLWNoZWNrCmltcG9ydCB7IGRlZmluZUNvbmZpZyB9IGZyb20gJ2FzdHJvL2NvbmZpZyc7CmltcG9ydCB0YWlsd2luZGNzcyBmcm9tICdAdGFpbHdpbmRjc3Mvdml0ZSc7CmltcG9ydCByZW1hcmtNYXRoIGZyb20gJ3JlbWFyay1tYXRoJzsKaW1wb3J0IHJlaHlwZUthdGV4IGZyb20gJ3JlaHlwZS1rYXRleCc7CgovLyBodHRwczovL2FzdHJvLmJ1aWxkL2NvbmZpZwpleHBvcnQgZGVmYXVsdCBkZWZpbmVDb25maWcoewogIHZpdGU6IHsKICAgIHBsdWdpbnM6IFt0YWlsd2luZGNzcygpXQogIH0sCiAgbWFya2Rvd246IHsKICAgIHJlbWFya1BsdWdpbnM6IFtyZW1hcmtNYXRoXSwKICAgIHJlaHlwZVBsdWdpbnM6IFtyZWh5cGVLYXRleF0KICB9Cn0pOw=="}
+// @ts-check
+import { defineConfig } from 'astro/config';
+import tailwindcss from '@tailwindcss/vite';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+
+// https://astro.build/config
+export default defineConfig({
+  vite: {
+    plugins: [tailwindcss()]
+  },
+  markdown: {
+    remarkPlugins: [remarkMath],
+    rehypePlugins: [rehypeKatex]
+  }
+});

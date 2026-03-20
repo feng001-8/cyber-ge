@@ -1,1 +1,625 @@
-{"data":"IyDnrKwgNSDnq6DvvJrlronlhajkuI7luLjop4HmvI/mtJ4KCj4g5pm66IO95ZCI57qm5LiA5pem6YOo572y5bCx5peg5rOV5L+u5pS577yM5ryP5rSe5Y+v6IO95a+86Ie05pWw55m+5LiH576O5YWD55qE5o2f5aSx44CC55CG6Kej5pS75Ye75qih5byP5piv57yW5YaZ5a6J5YWo5Luj56CB55qE5YmN5o+Q44CCCgotLS0KCiMjIOmHjeWFpeaUu+WHuwoK6YeN5YWl5pS75Ye75piv5pm66IO95ZCI57qm5Y6G5Y+y5LiK5pyA6JGX5ZCN55qE5ryP5rSe57G75Z6L44CCMjAxNiDlubTnmoQgREFPIOaUu+WHu+WIqeeUqOi/meS4qua8j+a0nuebl+WPluS6huS7t+WAvCA2MDAwIOS4h+e+juWFg+eahCBFVEjvvIznm7TmjqXlr7zoh7Tkuobku6XlpKrlnYrnmoTnoazliIblj4njgIIKCuaUu+WHu+eahOaguOW/g+WcqOS6ju+8muW9k+WQiOe6piBBIOiwg+eUqOWQiOe6piBCIOaXtu+8jOaOp+WItuadg+i9rOenu+WIsCBC44CC5aaC5p6cIEIg5piv5oG25oSP5ZCI57qm77yM5a6D5Y+v5Lul5ZyoIEEg5a6M5oiQ54q25oCB5pu05paw5LmL5YmN5YaN5qyh6LCD55SoIEHvvIzliKnnlKggQSDnmoTml6fnirbmgIHmiafooYzmk43kvZzjgIIKCiFb6YeN5YWl5pS75Ye75rWB56iLXSgvaW1hZ2VzL3NjcmlwdHVyZXMvc21hcnQtY29udHJhY3RzLzA1LXJlZW50cmFuY3kucG5nKQoK5LiL6Z2i5piv5LiA5Liq5a2Y5Zyo6YeN5YWl5ryP5rSe55qE5o+Q5qy+5ZCI57qm77yaCgpgYGBzb2xpZGl0eQpjb250cmFjdCBWdWxuZXJhYmxlQmFuayB7CiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gdWludDI1NikgcHVibGljIGJhbGFuY2VzOwogICAgCiAgICBmdW5jdGlvbiBkZXBvc2l0KCkgZXh0ZXJuYWwgcGF5YWJsZSB7CiAgICAgICAgYmFsYW5jZXNbbXNnLnNlbmRlcl0gKz0gbXNnLnZhbHVlOwogICAgfQogICAgCiAgICBmdW5jdGlvbiB3aXRoZHJhdygpIGV4dGVybmFsIHsKICAgICAgICB1aW50MjU2IGJhbGFuY2UgPSBiYWxhbmNlc1ttc2cuc2VuZGVyXTsKICAgICAgICByZXF1aXJlKGJhbGFuY2UgPiAwLCAiTm8gYmFsYW5jZSIpOwogICAgICAgIAogICAgICAgIC8vIOWNsemZqe+8muWFiOi9rOi0pu+8jOWQjuabtOaWsOeKtuaAgQogICAgICAgIChib29sIHN1Y2Nlc3MsICkgPSBtc2cuc2VuZGVyLmNhbGx7dmFsdWU6IGJhbGFuY2V9KCIiKTsKICAgICAgICByZXF1aXJlKHN1Y2Nlc3MsICJUcmFuc2ZlciBmYWlsZWQiKTsKICAgICAgICAKICAgICAgICBiYWxhbmNlc1ttc2cuc2VuZGVyXSA9IDA7ICAvLyDnirbmgIHmm7TmlrDlnKjovazotKbkuYvlkI4KICAgIH0KfQpgYGAKCuaUu+WHu+WQiOe6puWPr+S7pei/meagt+WIqeeUqOi/meS4qua8j+a0nu+8mgoKYGBgc29saWRpdHkKY29udHJhY3QgQXR0YWNrZXIgewogICAgVnVsbmVyYWJsZUJhbmsgcHVibGljIGJhbms7CiAgICAKICAgIGNvbnN0cnVjdG9yKGFkZHJlc3MgX2JhbmspIHsKICAgICAgICBiYW5rID0gVnVsbmVyYWJsZUJhbmsoX2JhbmspOwogICAgfQogICAgCiAgICBmdW5jdGlvbiBhdHRhY2soKSBleHRlcm5hbCBwYXlhYmxlIHsKICAgICAgICBiYW5rLmRlcG9zaXR7dmFsdWU6IG1zZy52YWx1ZX0oKTsKICAgICAgICBiYW5rLndpdGhkcmF3KCk7CiAgICB9CiAgICAKICAgIHJlY2VpdmUoKSBleHRlcm5hbCBwYXlhYmxlIHsKICAgICAgICAvLyDlnKjmlLbliLAgRVRIIOaXtuWGjeasoeiwg+eUqCB3aXRoZHJhdwogICAgICAgIGlmIChhZGRyZXNzKGJhbmspLmJhbGFuY2UgPj0gMSBldGhlcikgewogICAgICAgICAgICBiYW5rLndpdGhkcmF3KCk7CiAgICAgICAgfQogICAgfQp9CmBgYAoK5pS75Ye75rWB56iL5piv77ya5pS75Ye76ICF6LCD55SoIGBhdHRhY2soKWDvvIzlrZjlhaUgMSBFVEgg5ZCO6LCD55SoIGB3aXRoZHJhdygpYOOAgumTtuihjOWQiOe6puajgOafpeS9memine+8iDEgRVRI77yJ77yM54S25ZCO5ZCR5pS75Ye76ICF6L2s6LSm44CC5pS75Ye76ICF55qEIGByZWNlaXZlKClgIOWHveaVsOiiq+inpuWPke+8jOeri+WNs+WGjeasoeiwg+eUqCBgd2l0aGRyYXcoKWDjgILmraTml7bpk7booYzlkIjnuqbnmoQgYGJhbGFuY2VzW2F0dGFja2VyXWAg6L+Y5rKh5pyJ6KKr5riF6Zu277yM5omA5Lul5qOA5p+l6YCa6L+H77yM5YaN5qyh6L2s6LSm44CC6L+Z5Liq5b6q546v5oyB57ut5Yiw6ZO26KGM5ZCI57qm55qE5L2Z6aKd6ICX5bC944CCCgojIyMg6Ziy5b6h5pa55rOVCgrmnIDmnInmlYjnmoTpmLLlvqHmmK8gQ2hlY2tzLUVmZmVjdHMtSW50ZXJhY3Rpb25zIOaooeW8j++8muWFiOajgOafpeadoeS7tu+8jOWGjeabtOaWsOeKtuaAge+8jOacgOWQjui/m+ihjOWklumDqOiwg+eUqOOAggoKYGBgc29saWRpdHkKY29udHJhY3QgU2VjdXJlQmFuayB7CiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gdWludDI1NikgcHVibGljIGJhbGFuY2VzOwogICAgCiAgICBmdW5jdGlvbiB3aXRoZHJhdygpIGV4dGVybmFsIHsKICAgICAgICB1aW50MjU2IGJhbGFuY2UgPSBiYWxhbmNlc1ttc2cuc2VuZGVyXTsKICAgICAgICByZXF1aXJlKGJhbGFuY2UgPiAwLCAiTm8gYmFsYW5jZSIpOwogICAgICAgIAogICAgICAgIC8vIOWFiOabtOaWsOeKtuaAgQogICAgICAgIGJhbGFuY2VzW21zZy5zZW5kZXJdID0gMDsKICAgICAgICAKICAgICAgICAvLyDmnIDlkI7ov5vooYzlpJbpg6josIPnlKgKICAgICAgICAoYm9vbCBzdWNjZXNzLCApID0gbXNnLnNlbmRlci5jYWxse3ZhbHVlOiBiYWxhbmNlfSgiIik7CiAgICAgICAgcmVxdWlyZShzdWNjZXNzLCAiVHJhbnNmZXIgZmFpbGVkIik7CiAgICB9Cn0KYGBgCgrlj6bkuIDnp43mlrnms5XmmK/kvb/nlKjph43lhaXplIHvvJoKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IFJlZW50cmFuY3lHdWFyZCB7CiAgICB1aW50MjU2IHByaXZhdGUgX3N0YXR1czsKICAgIHVpbnQyNTYgcHJpdmF0ZSBjb25zdGFudCBOT1RfRU5URVJFRCA9IDE7CiAgICB1aW50MjU2IHByaXZhdGUgY29uc3RhbnQgRU5URVJFRCA9IDI7CiAgICAKICAgIG1vZGlmaWVyIG5vblJlZW50cmFudCgpIHsKICAgICAgICByZXF1aXJlKF9zdGF0dXMgIT0gRU5URVJFRCwgIlJlZW50cmFuY3lHdWFyZDogcmVlbnRyYW50IGNhbGwiKTsKICAgICAgICBfc3RhdHVzID0gRU5URVJFRDsKICAgICAgICBfOwogICAgICAgIF9zdGF0dXMgPSBOT1RfRU5URVJFRDsKICAgIH0KfQoKY29udHJhY3QgU2VjdXJlQmFua1dpdGhHdWFyZCBpcyBSZWVudHJhbmN5R3VhcmQgewogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyBiYWxhbmNlczsKICAgIAogICAgZnVuY3Rpb24gd2l0aGRyYXcoKSBleHRlcm5hbCBub25SZWVudHJhbnQgewogICAgICAgIHVpbnQyNTYgYmFsYW5jZSA9IGJhbGFuY2VzW21zZy5zZW5kZXJdOwogICAgICAgIHJlcXVpcmUoYmFsYW5jZSA+IDAsICJObyBiYWxhbmNlIik7CiAgICAgICAgCiAgICAgICAgYmFsYW5jZXNbbXNnLnNlbmRlcl0gPSAwOwogICAgICAgIAogICAgICAgIChib29sIHN1Y2Nlc3MsICkgPSBtc2cuc2VuZGVyLmNhbGx7dmFsdWU6IGJhbGFuY2V9KCIiKTsKICAgICAgICByZXF1aXJlKHN1Y2Nlc3MsICJUcmFuc2ZlciBmYWlsZWQiKTsKICAgIH0KfQpgYGAKCk9wZW5aZXBwZWxpbiDmj5Dkvpvkuobnu4/ov4flrqHorqHnmoQgYFJlZW50cmFuY3lHdWFyZGAg5ZCI57qm77yM55Sf5Lqn546v5aKD5bqU6K+l55u05o6l5L2/55So5a6D44CCCgotLS0KCiMjIOaVtOaVsOa6ouWHugoK5ZyoIFNvbGlkaXR5IDAuOC4wIOS5i+WJje+8jOaVtOaVsOi/kOeul+S4jeS8muiHquWKqOajgOafpea6ouWHuuOAgmB1aW50MjU2YCDnmoTmnIDlpKflgLzmmK8gYDJeMjU2IC0gMWDvvIzliqAgMSDkvJrlm57nu5XliLAgMOOAggoKYGBgc29saWRpdHkKLy8gU29saWRpdHkgPCAwLjguMApjb250cmFjdCBPdmVyZmxvdyB7CiAgICB1aW50OCBwdWJsaWMgY291bnQgPSAyNTU7CiAgICAKICAgIGZ1bmN0aW9uIGluY3JlbWVudCgpIGV4dGVybmFsIHsKICAgICAgICBjb3VudCArPSAxOyAgLy8gY291bnQg5Y+Y5oiQIDDvvIzogIzkuI3mmK8gMjU2CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIGRlY3JlbWVudCgpIGV4dGVybmFsIHsKICAgICAgICBjb3VudCAtPSAxOyAgLy8g5aaC5p6cIGNvdW50IOaYryAw77yM5Lya5Y+Y5oiQIDI1NQogICAgfQp9CmBgYAoK6L+Z5Liq5ryP5rSe5pu+6KKr55So5LqO5pS75Ye75aSa5Liq5Luj5biB5ZCI57qm44CC5pS75Ye76ICF5Y+v5Lul6YCa6L+H5LiL5rqi6K6p6Ieq5bex55qE5L2Z6aKd5LuOIDAg5Y+Y5oiQ5LiA5Liq5beo5aSn55qE5pWw5a2X44CCCgpTb2xpZGl0eSAwLjguMCDkuYvlkI7vvIznrpfmnK/ov5Dnrpfpu5jorqTkvJrmo4Dmn6XmuqLlh7rvvIzmuqLlh7rml7bkuqTmmJPlm57mu5rjgILlpoLmnpznoa7lrprkuI3kvJrmuqLlh7rkuJTpnIDopoHoioLnnIEgR2Fz77yM5Y+v5Lul5L2/55SoIGB1bmNoZWNrZWRgIOWdl++8mgoKYGBgc29saWRpdHkKLy8gU29saWRpdHkgPj0gMC44LjAKY29udHJhY3QgU2FmZU1hdGggewogICAgZnVuY3Rpb24gc2FmZUluY3JlbWVudCh1aW50MjU2IHgpIGV4dGVybmFsIHB1cmUgcmV0dXJucyAodWludDI1NikgewogICAgICAgIHJldHVybiB4ICsgMTsgIC8vIOa6ouWHuuaXtuiHquWKqOWbnua7mgogICAgfQogICAgCiAgICBmdW5jdGlvbiB1bnNhZmVJbmNyZW1lbnQodWludDI1NiB4KSBleHRlcm5hbCBwdXJlIHJldHVybnMgKHVpbnQyNTYpIHsKICAgICAgICB1bmNoZWNrZWQgewogICAgICAgICAgICByZXR1cm4geCArIDE7ICAvLyDkuI3mo4Dmn6XmuqLlh7rvvIzoioLnnIHnuqYgMTAwIEdhcwogICAgICAgIH0KICAgIH0KfQpgYGAKCj4g5Y2z5L2/5ZyoIDAuOC4wIOS5i+WQju+8jOexu+Wei+i9rOaNouS7jeeEtuS4jeajgOafpea6ouWHuuOAgmB1aW50OCgyNTYpYCDkvJrlvpfliLAgMO+8jOiAjOS4jeaYr+Wbnua7muOAggoKLS0tCgojIyDorr/pl67mjqfliLbmvI/mtJ4KCuiuv+mXruaOp+WItumUmeivr+aYr+acgOW4uOingeeahOa8j+a0nuexu+Wei+S5i+S4gOOAguW/mOiusOa3u+WKoOadg+mZkOajgOafpe+8jOaIluiAheadg+mZkOajgOafpemAu+i+keacieivr++8jOmDveWPr+iDveiuqeaUu+WHu+iAheaJp+ihjOacquaOiOadg+eahOaTjeS9nOOAggoKYGBgc29saWRpdHkKLy8g5Y2x6Zmp77ya5Lu75L2V5Lq66YO95Y+v5Lul6LCD55SoCmNvbnRyYWN0IFZ1bG5lcmFibGVUb2tlbiB7CiAgICBtYXBwaW5nKGFkZHJlc3MgPT4gdWludDI1NikgcHVibGljIGJhbGFuY2VzOwogICAgCiAgICBmdW5jdGlvbiBtaW50KGFkZHJlc3MgdG8sIHVpbnQyNTYgYW1vdW50KSBleHRlcm5hbCB7CiAgICAgICAgLy8g57y65bCR5p2D6ZmQ5qOA5p+l77yBCiAgICAgICAgYmFsYW5jZXNbdG9dICs9IGFtb3VudDsKICAgIH0KfQpgYGAKCuato+ehrueahOWBmuazleaYr+WunueOsOS4peagvOeahOiuv+mXruaOp+WItu+8mgoKYGBgc29saWRpdHkKY29udHJhY3QgU2VjdXJlVG9rZW4gewogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyBiYWxhbmNlczsKICAgIGFkZHJlc3MgcHVibGljIG93bmVyOwogICAgbWFwcGluZyhhZGRyZXNzID0+IGJvb2wpIHB1YmxpYyBtaW50ZXJzOwogICAgCiAgICBtb2RpZmllciBvbmx5T3duZXIoKSB7CiAgICAgICAgcmVxdWlyZShtc2cuc2VuZGVyID09IG93bmVyLCAiTm90IG93bmVyIik7CiAgICAgICAgXzsKICAgIH0KICAgIAogICAgbW9kaWZpZXIgb25seU1pbnRlcigpIHsKICAgICAgICByZXF1aXJlKG1pbnRlcnNbbXNnLnNlbmRlcl0sICJOb3QgbWludGVyIik7CiAgICAgICAgXzsKICAgIH0KICAgIAogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgb3duZXIgPSBtc2cuc2VuZGVyOwogICAgfQogICAgCiAgICBmdW5jdGlvbiBzZXRNaW50ZXIoYWRkcmVzcyBtaW50ZXIsIGJvb2wgc3RhdHVzKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIG1pbnRlcnNbbWludGVyXSA9IHN0YXR1czsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gbWludChhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCkgZXh0ZXJuYWwgb25seU1pbnRlciB7CiAgICAgICAgYmFsYW5jZXNbdG9dICs9IGFtb3VudDsKICAgIH0KfQpgYGAKCuWvueS6juWkjeadgueahOadg+mZkOezu+e7n++8jOaOqOiNkOS9v+eUqCBPcGVuWmVwcGVsaW4g55qEIGBBY2Nlc3NDb250cm9sYCDlkIjnuqbvvIzlroPmlK/mjIHln7rkuo7op5LoibLnmoTmnYPpmZDnrqHnkIbjgIIKCiMjIyB0eC5vcmlnaW4g6Zm36ZixCgpgdHgub3JpZ2luYCDov5Tlm57kuqTmmJPnmoTljp/lp4vlj5HotbfogIXvvIhFT0HvvInvvIzogIwgYG1zZy5zZW5kZXJgIOi/lOWbnuebtOaOpeiwg+eUqOiAheOAguS9v+eUqCBgdHgub3JpZ2luYCDov5vooYzmnYPpmZDmo4Dmn6XmmK/ljbHpmannmoTvvJoKCmBgYHNvbGlkaXR5Ci8vIOWNsemZqe+8muS9v+eUqCB0eC5vcmlnaW4g6L+b6KGM5p2D6ZmQ5qOA5p+lCmNvbnRyYWN0IFZ1bG5lcmFibGVXYWxsZXQgewogICAgYWRkcmVzcyBwdWJsaWMgb3duZXI7CiAgICAKICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIG93bmVyID0gbXNnLnNlbmRlcjsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gdHJhbnNmZXIoYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHsKICAgICAgICByZXF1aXJlKHR4Lm9yaWdpbiA9PSBvd25lciwgIk5vdCBvd25lciIpOyAgLy8g5Y2x6Zmp77yBCiAgICAgICAgcGF5YWJsZSh0bykudHJhbnNmZXIoYW1vdW50KTsKICAgIH0KfQpgYGAKCuaUu+WHu+iAheWPr+S7peivsemqlyBvd25lciDosIPnlKjkuIDkuKrmgbbmhI/lkIjnuqbvvIzmgbbmhI/lkIjnuqblho3osIPnlKggYFZ1bG5lcmFibGVXYWxsZXQudHJhbnNmZXIoKWDjgILmraTml7YgYHR4Lm9yaWdpbmAg5pivIG93bmVy77yM5qOA5p+l6YCa6L+H77yM6LWE6YeR6KKr6L2s6LWw44CCCgpgYGBzb2xpZGl0eQpjb250cmFjdCBUeE9yaWdpbkF0dGFja2VyIHsKICAgIFZ1bG5lcmFibGVXYWxsZXQgcHVibGljIHdhbGxldDsKICAgIGFkZHJlc3MgcHVibGljIGF0dGFja2VyOwogICAgCiAgICBjb25zdHJ1Y3RvcihhZGRyZXNzIF93YWxsZXQpIHsKICAgICAgICB3YWxsZXQgPSBWdWxuZXJhYmxlV2FsbGV0KF93YWxsZXQpOwogICAgICAgIGF0dGFja2VyID0gbXNnLnNlbmRlcjsKICAgIH0KICAgIAogICAgLy8g6K+x6aqXIG93bmVyIOiwg+eUqOi/meS4quWHveaVsAogICAgZnVuY3Rpb24gYXR0YWNrKCkgZXh0ZXJuYWwgewogICAgICAgIHdhbGxldC50cmFuc2ZlcihhdHRhY2tlciwgYWRkcmVzcyh3YWxsZXQpLmJhbGFuY2UpOwogICAgfQp9CmBgYAoK5rC46L+c5L2/55SoIGBtc2cuc2VuZGVyYCDogIzkuI3mmK8gYHR4Lm9yaWdpbmAg6L+b6KGM5p2D6ZmQ5qOA5p+l44CCCgotLS0KCiMjIOmihOiogOacuuaTjee6tQoKRGVGaSDljY/orq7pgJrluLjkvp3otZbpooToqIDmnLrojrflj5botYTkuqfku7fmoLzjgILlpoLmnpzpooToqIDmnLrlj6/ku6Xooqvmk43nurXvvIzmlLvlh7vogIXlj6/ku6XlnKjmk43nurXku7fmoLzlkI7miafooYzmnInliKnkuo7oh6rlt7HnmoTmk43kvZzjgIIKCuacgOW4uOingeeahOaUu+WHu+aYr+mXqueUtei0t+aTjee6teOAguaUu+WHu+iAheWAn+WFpeWkp+mHj+i1hOmHke+8jOWcqOWNleS4quS6pOaYk+WGheaTjee6tSBBTU0g55qE5Lu35qC877yM5Yip55So6KKr5pON57q155qE5Lu35qC85Zyo55uu5qCH5Y2P6K6u5Lit6I635Yip77yM54S25ZCO5b2S6L+Y6Zeq55S16LS344CCCgpgYGBzb2xpZGl0eQovLyDljbHpmanvvJrnm7TmjqXkvb/nlKggQU1NIOeOsOi0p+S7t+agvApjb250cmFjdCBWdWxuZXJhYmxlTGVuZGluZyB7CiAgICBJVW5pc3dhcFYyUGFpciBwdWJsaWMgcGFpcjsKICAgIAogICAgZnVuY3Rpb24gZ2V0UHJpY2UoKSBwdWJsaWMgdmlldyByZXR1cm5zICh1aW50MjU2KSB7CiAgICAgICAgKHVpbnQxMTIgcmVzZXJ2ZTAsIHVpbnQxMTIgcmVzZXJ2ZTEsICkgPSBwYWlyLmdldFJlc2VydmVzKCk7CiAgICAgICAgcmV0dXJuIHVpbnQyNTYocmVzZXJ2ZTEpICogMWUxOCAvIHVpbnQyNTYocmVzZXJ2ZTApOyAgLy8g5Y+v6KKr5pON57q1CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIGJvcnJvdyh1aW50MjU2IGNvbGxhdGVyYWxBbW91bnQpIGV4dGVybmFsIHsKICAgICAgICB1aW50MjU2IHByaWNlID0gZ2V0UHJpY2UoKTsKICAgICAgICB1aW50MjU2IGJvcnJvd0xpbWl0ID0gY29sbGF0ZXJhbEFtb3VudCAqIHByaWNlIC8gMWUxODsKICAgICAgICAvLyDln7rkuo7lj6/mk43nurXnmoTku7fmoLzorqHnrpflgJ/mrL7pop3luqYKICAgIH0KfQpgYGAKCiMjIyDpmLLlvqHmlrnms5UKCuS9v+eUqOaXtumXtOWKoOadg+W5s+Wdh+S7t+agvO+8iFRXQVDvvInogIzkuI3mmK/njrDotKfku7fmoLzvvJoKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IFNlY3VyZUxlbmRpbmcgewogICAgSVVuaXN3YXBWM1Bvb2wgcHVibGljIHBvb2w7CiAgICB1aW50MzIgcHVibGljIHR3YXBJbnRlcnZhbCA9IDE4MDA7ICAvLyAzMCDliIbpkp8KICAgIAogICAgZnVuY3Rpb24gZ2V0VFdBUCgpIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgICAgICB1aW50MzJbXSBtZW1vcnkgc2Vjb25kc0Fnb3MgPSBuZXcgdWludDMyW10oMik7CiAgICAgICAgc2Vjb25kc0Fnb3NbMF0gPSB0d2FwSW50ZXJ2YWw7CiAgICAgICAgc2Vjb25kc0Fnb3NbMV0gPSAwOwogICAgICAgIAogICAgICAgIChpbnQ1NltdIG1lbW9yeSB0aWNrQ3VtdWxhdGl2ZXMsICkgPSBwb29sLm9ic2VydmUoc2Vjb25kc0Fnb3MpOwogICAgICAgIAogICAgICAgIGludDU2IHRpY2tDdW11bGF0aXZlc0RlbHRhID0gdGlja0N1bXVsYXRpdmVzWzFdIC0gdGlja0N1bXVsYXRpdmVzWzBdOwogICAgICAgIGludDI0IGF2ZXJhZ2VUaWNrID0gaW50MjQodGlja0N1bXVsYXRpdmVzRGVsdGEgLyBpbnQ1Nih1aW50NTYodHdhcEludGVydmFsKSkpOwogICAgICAgIAogICAgICAgIC8vIOS7jiB0aWNrIOiuoeeul+S7t+agvAogICAgICAgIHJldHVybiBPcmFjbGVMaWJyYXJ5LmdldFF1b3RlQXRUaWNrKGF2ZXJhZ2VUaWNrLCAxZTE4LCB0b2tlbjAsIHRva2VuMSk7CiAgICB9Cn0KYGBgCgrmm7Tlpb3nmoTpgInmi6nmmK/kvb/nlKggQ2hhaW5saW5rIOetieWOu+S4reW/g+WMlumihOiogOacuue9kee7nO+8mgoKYGBgc29saWRpdHkKaW1wb3J0ICJAY2hhaW5saW5rL2NvbnRyYWN0cy9zcmMvdjAuOC9pbnRlcmZhY2VzL0FnZ3JlZ2F0b3JWM0ludGVyZmFjZS5zb2wiOwoKY29udHJhY3QgQ2hhaW5saW5rUHJpY2VGZWVkIHsKICAgIEFnZ3JlZ2F0b3JWM0ludGVyZmFjZSBwdWJsaWMgcHJpY2VGZWVkOwogICAgCiAgICBjb25zdHJ1Y3RvcihhZGRyZXNzIF9wcmljZUZlZWQpIHsKICAgICAgICBwcmljZUZlZWQgPSBBZ2dyZWdhdG9yVjNJbnRlcmZhY2UoX3ByaWNlRmVlZCk7CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIGdldExhdGVzdFByaWNlKCkgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1NikgewogICAgICAgICgKICAgICAgICAgICAgdWludDgwIHJvdW5kSWQsCiAgICAgICAgICAgIGludDI1NiBwcmljZSwKICAgICAgICAgICAgdWludDI1NiBzdGFydGVkQXQsCiAgICAgICAgICAgIHVpbnQyNTYgdXBkYXRlZEF0LAogICAgICAgICAgICB1aW50ODAgYW5zd2VyZWRJblJvdW5kCiAgICAgICAgKSA9IHByaWNlRmVlZC5sYXRlc3RSb3VuZERhdGEoKTsKICAgICAgICAKICAgICAgICAvLyDmo4Dmn6XmlbDmja7mlrDpspzluqYKICAgICAgICByZXF1aXJlKHVwZGF0ZWRBdCA+IGJsb2NrLnRpbWVzdGFtcCAtIDM2MDAsICJTdGFsZSBwcmljZSIpOwogICAgICAgIHJlcXVpcmUocHJpY2UgPiAwLCAiSW52YWxpZCBwcmljZSIpOwogICAgICAgIHJlcXVpcmUoYW5zd2VyZWRJblJvdW5kID49IHJvdW5kSWQsICJTdGFsZSByb3VuZCIpOwogICAgICAgIAogICAgICAgIHJldHVybiB1aW50MjU2KHByaWNlKTsKICAgIH0KfQpgYGAKCi0tLQoKIyMg5YmN56uv6L+Q6KGM5LiOIE1FVgoK5Lul5aSq5Z2K55qE5Lqk5piT5Zyo6KKr5omT5YyF6L+b5Yy65Z2X5LmL5YmN77yM5Lya5Zyo5YWs5byA55qE5YaF5a2Y5rGg5Lit562J5b6F44CC5Lu75L2V5Lq66YO95Y+v5Lul55yL5Yiw5b6F5aSE55CG55qE5Lqk5piT77yM5bm25bCd6K+V5Zyo5a6D5LmL5YmN5oiW5LmL5ZCO5o+S5YWl6Ieq5bex55qE5Lqk5piT5p2l6I635Yip44CCCgrluLjop4HnmoQgTUVWIOaUu+WHu+WMheaLrO+8mgoKKirkuInmmI7msrvmlLvlh7sqKu+8muaUu+WHu+iAheeci+WIsOS4gOeslOWkp+minSBERVgg5Lqk5piT77yM5Zyo5a6D5LmL5YmN5Lmw5YWl77yI5o6o6auY5Lu35qC877yJ77yM5Zyo5a6D5LmL5ZCO5Y2W5Ye677yI6I635Yip77yJ44CC5Y+X5a6z6ICF5Lul5pu05beu55qE5Lu35qC85oiQ5Lqk44CCCgoqKua4heeul+aKoui3kSoq77ya5pS75Ye76ICF55uR5o6n5YCf6LS35Y2P6K6u77yM5b2T5Y+R546w5Y+v5riF566X55qE5aS05a+45pe277yM5oqi5Zyo5YW25LuW5riF566X5Lq65LmL5YmN5omn6KGM5riF566X6I635Y+W5aWW5Yqx44CCCgoqKuWll+WIqeaKoui3kSoq77ya5pS75Ye76ICF5aSN5Yi25YW25LuW5Lq65Y+R546w55qE5aWX5Yip5Lqk5piT77yM55So5pu06auY55qEIEdhcyDotLnmiqLlhYjmiafooYzjgIIKCiMjIyDpmLLlvqHmlrnms5UKCuWvueS6juaZrumAmueUqOaIt++8jOS9v+eUqOengeacieS6pOaYk+axoO+8iOWmgiBGbGFzaGJvdHMgUHJvdGVjdO+8ieWPr+S7pemBv+WFjeS6pOaYk+iiq+aKoui3keOAguS6pOaYk+ebtOaOpeWPkemAgee7meWMuuWdl+aehOW7uuiAhe+8jOS4jee7j+i/h+WFrOW8gOWGheWtmOaxoOOAggoK5a+55LqO5Y2P6K6u5byA5Y+R6ICF77yM5Y+v5Lul5L2/55SoIGNvbW1pdC1yZXZlYWwg5qih5byP77yaCgpgYGBzb2xpZGl0eQpjb250cmFjdCBDb21taXRSZXZlYWwgewogICAgbWFwcGluZyhhZGRyZXNzID0+IGJ5dGVzMzIpIHB1YmxpYyBjb21taXRzOwogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyBjb21taXRCbG9jazsKICAgIAogICAgdWludDI1NiBwdWJsaWMgY29uc3RhbnQgUkVWRUFMX0RFTEFZID0gMjsgIC8vIOetieW+hSAyIOS4quWMuuWdlwogICAgCiAgICBmdW5jdGlvbiBjb21taXQoYnl0ZXMzMiBoYXNoKSBleHRlcm5hbCB7CiAgICAgICAgY29tbWl0c1ttc2cuc2VuZGVyXSA9IGhhc2g7CiAgICAgICAgY29tbWl0QmxvY2tbbXNnLnNlbmRlcl0gPSBibG9jay5udW1iZXI7CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIHJldmVhbCh1aW50MjU2IHZhbHVlLCBieXRlczMyIHNhbHQpIGV4dGVybmFsIHsKICAgICAgICByZXF1aXJlKGJsb2NrLm51bWJlciA+PSBjb21taXRCbG9ja1ttc2cuc2VuZGVyXSArIFJFVkVBTF9ERUxBWSwgIlRvbyBlYXJseSIpOwogICAgICAgIHJlcXVpcmUoa2VjY2FrMjU2KGFiaS5lbmNvZGVQYWNrZWQodmFsdWUsIHNhbHQpKSA9PSBjb21taXRzW21zZy5zZW5kZXJdLCAiSW52YWxpZCByZXZlYWwiKTsKICAgICAgICAKICAgICAgICAvLyDmiafooYzmk43kvZwKICAgICAgICBkZWxldGUgY29tbWl0c1ttc2cuc2VuZGVyXTsKICAgIH0KfQpgYGAKCuWPpuS4gOenjeaWueazleaYr+S9v+eUqOaJuemHj+aLjeWNlu+8jOaJgOacieiuouWNleS7pee7n+S4gOS7t+agvOe7k+eul++8jOa2iOmZpOaKoui3keeahOa/gOWKseOAggoKLS0tCgojIyDmi5Lnu53mnI3liqEKCuaLkue7neacjeWKoe+8iERvU++8ieaUu+WHu+iuqeWQiOe6puaXoOazleato+W4uOi/kOihjOOAguW4uOingeeahOaooeW8j+WMheaLrO+8mgoKKipHYXMg6ICX5bC9KirvvJrlpoLmnpzlkIjnuqbpnIDopoHpgY3ljobkuIDkuKrml6DpmZDlop7plb/nmoTmlbDnu4TvvIzmlLvlh7vogIXlj6/ku6XpgJrov4fmt7vliqDlpKfph4/lhYPntKDorqnpgY3ljobotoXlh7ogR2FzIOmZkOWItuOAggoKYGBgc29saWRpdHkKLy8g5Y2x6Zmp77ya5peg6ZmQ5b6q546vCmNvbnRyYWN0IFZ1bG5lcmFibGVBaXJkcm9wIHsKICAgIGFkZHJlc3NbXSBwdWJsaWMgcmVjaXBpZW50czsKICAgIAogICAgZnVuY3Rpb24gYWRkUmVjaXBpZW50KGFkZHJlc3MgcmVjaXBpZW50KSBleHRlcm5hbCB7CiAgICAgICAgcmVjaXBpZW50cy5wdXNoKHJlY2lwaWVudCk7CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIGRpc3RyaWJ1dGUoKSBleHRlcm5hbCB7CiAgICAgICAgLy8g5aaC5p6cIHJlY2lwaWVudHMg5aSq5aSa77yM5Lya6LaF5Ye6IEdhcyDpmZDliLYKICAgICAgICBmb3IgKHVpbnQyNTYgaSA9IDA7IGkgPCByZWNpcGllbnRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIHBheWFibGUocmVjaXBpZW50c1tpXSkudHJhbnNmZXIoMSBldGhlcik7CiAgICAgICAgfQogICAgfQp9CmBgYAoK6Kej5Yaz5pa55qGI5piv5L2/55So5ouJ5Y+W5qih5byP77yIcHVsbCBvdmVyIHB1c2jvvInvvJoKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IFNlY3VyZUFpcmRyb3AgewogICAgbWFwcGluZyhhZGRyZXNzID0+IHVpbnQyNTYpIHB1YmxpYyBjbGFpbWFibGU7CiAgICAKICAgIGZ1bmN0aW9uIHNldENsYWltYWJsZShhZGRyZXNzW10gY2FsbGRhdGEgcmVjaXBpZW50cywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIHsKICAgICAgICBmb3IgKHVpbnQyNTYgaSA9IDA7IGkgPCByZWNpcGllbnRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGNsYWltYWJsZVtyZWNpcGllbnRzW2ldXSA9IGFtb3VudDsKICAgICAgICB9CiAgICB9CiAgICAKICAgIGZ1bmN0aW9uIGNsYWltKCkgZXh0ZXJuYWwgewogICAgICAgIHVpbnQyNTYgYW1vdW50ID0gY2xhaW1hYmxlW21zZy5zZW5kZXJdOwogICAgICAgIHJlcXVpcmUoYW1vdW50ID4gMCwgIk5vdGhpbmcgdG8gY2xhaW0iKTsKICAgICAgICAKICAgICAgICBjbGFpbWFibGVbbXNnLnNlbmRlcl0gPSAwOwogICAgICAgIHBheWFibGUobXNnLnNlbmRlcikudHJhbnNmZXIoYW1vdW50KTsKICAgIH0KfQpgYGAKCioq5Zue5rua5pS75Ye7KirvvJrlpoLmnpzlkIjnuqblkJHlpJrkuKrlnLDlnYDovazotKbvvIzlhbbkuK3kuIDkuKrlnLDlnYDnmoQgYHJlY2VpdmUoKWAg5Ye95pWw5pWF5oSP5Zue5rua77yM5pW05Liq5Lqk5piT5aSx6LSl44CCCgpgYGBzb2xpZGl0eQovLyDljbHpmanvvJrkuIDkuKrlpLHotKXlr7zoh7Tlhajpg6jlpLHotKUKY29udHJhY3QgVnVsbmVyYWJsZVBheW1lbnQgewogICAgZnVuY3Rpb24gcGF5QWxsKGFkZHJlc3NbXSBjYWxsZGF0YSByZWNpcGllbnRzLCB1aW50MjU2W10gY2FsbGRhdGEgYW1vdW50cykgZXh0ZXJuYWwgewogICAgICAgIGZvciAodWludDI1NiBpID0gMDsgaSA8IHJlY2lwaWVudHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgLy8g5aaC5p6c5Lu75L2V5LiA5Liq6L2s6LSm5aSx6LSl77yM5pW05Liq5Lqk5piT5Zue5ruaCiAgICAgICAgICAgIHBheWFibGUocmVjaXBpZW50c1tpXSkudHJhbnNmZXIoYW1vdW50c1tpXSk7CiAgICAgICAgfQogICAgfQp9CmBgYAoK6Kej5Yaz5pa55qGI5piv5L2/55SoIGBjYWxsYCDlubblv73nlaXlpLHotKXvvJoKCmBgYHNvbGlkaXR5CmNvbnRyYWN0IFNlY3VyZVBheW1lbnQgewogICAgZnVuY3Rpb24gcGF5QWxsKGFkZHJlc3NbXSBjYWxsZGF0YSByZWNpcGllbnRzLCB1aW50MjU2W10gY2FsbGRhdGEgYW1vdW50cykgZXh0ZXJuYWwgewogICAgICAgIGZvciAodWludDI1NiBpID0gMDsgaSA8IHJlY2lwaWVudHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgLy8g5b+955Wl5Y2V5Liq5aSx6LSl77yM57un57ut5omn6KGMCiAgICAgICAgICAgIChib29sIHN1Y2Nlc3MsICkgPSByZWNpcGllbnRzW2ldLmNhbGx7dmFsdWU6IGFtb3VudHNbaV19KCIiKTsKICAgICAgICAgICAgLy8g5Y+v5Lul6K6w5b2V5aSx6LSl55qE5Zyw5Z2A77yM6K6p5LuW5Lus56iN5ZCO5omL5Yqo6aKG5Y+WCiAgICAgICAgfQogICAgfQp9CmBgYAoKLS0tCgojIyDnrb7lkI3nm7jlhbPmvI/mtJ4KCumTvuS4i+etvuWQjeWcqCBEZUZpIOS4reW5v+azm+S9v+eUqO+8jOS9huWunueOsOS4jeW9k+S8muWvvOiHtOS4pemHjea8j+a0nuOAggoKKirnrb7lkI3ph43mlL4qKu+8muWQjOS4gOS4quetvuWQjeiiq+WkmuasoeS9v+eUqOOAggoKYGBgc29saWRpdHkKLy8g5Y2x6Zmp77ya5rKh5pyJ6Ziy6YeN5pS+5py65Yi2CmNvbnRyYWN0IFZ1bG5lcmFibGVQZXJtaXQgewogICAgZnVuY3Rpb24gZXhlY3V0ZVdpdGhTaWduYXR1cmUoCiAgICAgICAgYWRkcmVzcyB0bywKICAgICAgICB1aW50MjU2IGFtb3VudCwKICAgICAgICBieXRlcyBjYWxsZGF0YSBzaWduYXR1cmUKICAgICkgZXh0ZXJuYWwgewogICAgICAgIGJ5dGVzMzIgaGFzaCA9IGtlY2NhazI1NihhYmkuZW5jb2RlUGFja2VkKHRvLCBhbW91bnQpKTsKICAgICAgICBhZGRyZXNzIHNpZ25lciA9IHJlY292ZXJTaWduZXIoaGFzaCwgc2lnbmF0dXJlKTsKICAgICAgICByZXF1aXJlKHNpZ25lciA9PSBvd25lciwgIkludmFsaWQgc2lnbmF0dXJlIik7CiAgICAgICAgCiAgICAgICAgLy8g5ZCM5LiA5Liq562+5ZCN5Y+v5Lul6KKr5aSa5qyh5L2/55So77yBCiAgICAgICAgcGF5YWJsZSh0bykudHJhbnNmZXIoYW1vdW50KTsKICAgIH0KfQpgYGAKCuino+WGs+aWueahiOaYr+S9v+eUqCBub25jZe+8mgoKYGBgc29saWRpdHkKY29udHJhY3QgU2VjdXJlUGVybWl0IHsKICAgIG1hcHBpbmcoYWRkcmVzcyA9PiB1aW50MjU2KSBwdWJsaWMgbm9uY2VzOwogICAgCiAgICBmdW5jdGlvbiBleGVjdXRlV2l0aFNpZ25hdHVyZSgKICAgICAgICBhZGRyZXNzIHRvLAogICAgICAgIHVpbnQyNTYgYW1vdW50LAogICAgICAgIHVpbnQyNTYgbm9uY2UsCiAgICAgICAgYnl0ZXMgY2FsbGRhdGEgc2lnbmF0dXJlCiAgICApIGV4dGVybmFsIHsKICAgICAgICByZXF1aXJlKG5vbmNlID09IG5vbmNlc1ttc2cuc2VuZGVyXSwgIkludmFsaWQgbm9uY2UiKTsKICAgICAgICAKICAgICAgICBieXRlczMyIGhhc2ggPSBrZWNjYWsyNTYoYWJpLmVuY29kZVBhY2tlZCh0bywgYW1vdW50LCBub25jZSkpOwogICAgICAgIGFkZHJlc3Mgc2lnbmVyID0gcmVjb3ZlclNpZ25lcihoYXNoLCBzaWduYXR1cmUpOwogICAgICAgIHJlcXVpcmUoc2lnbmVyID09IG93bmVyLCAiSW52YWxpZCBzaWduYXR1cmUiKTsKICAgICAgICAKICAgICAgICBub25jZXNbbXNnLnNlbmRlcl0rKzsKICAgICAgICBwYXlhYmxlKHRvKS50cmFuc2ZlcihhbW91bnQpOwogICAgfQp9CmBgYAoKKirot6jpk77ph43mlL4qKu+8muetvuWQjeWcqOS4gOadoemTvuS4iuacieaViO+8jOiiq+aUu+WHu+iAheWcqOWPpuS4gOadoemTvuS4iumHjeaUvuOAguino+WGs+aWueahiOaYr+WcqOetvuWQjeS4reWMheWQqyBgY2hhaW5JZGDjgIIKCioq562+5ZCN5bu25bGV5oCnKirvvJpFQ0RTQSDnrb7lkI3nmoQgYHNgIOWAvOWPr+S7peiiq+S/ruaUueS4uiBgbiAtIHNg77yIbiDmmK/mm7Lnur/pmLbvvInvvIzkuqfnlJ/lj6bkuIDkuKrmnInmlYjnrb7lkI3jgILlpoLmnpzlkIjnuqbkvb/nlKjnrb7lkI3kvZzkuLrllK/kuIDmoIfor4bnrKbvvIzov5nkvJrlr7zoh7Tpl67popjjgILop6PlhrPmlrnmoYjmmK/lvLrliLYgYHNgIOWcqOS9juWNiuWMuumXtO+8mgoKYGBgc29saWRpdHkKZnVuY3Rpb24gaXNWYWxpZFNpZ25hdHVyZShieXRlczMyIGhhc2gsIHVpbnQ4IHYsIGJ5dGVzMzIgciwgYnl0ZXMzMiBzKSBpbnRlcm5hbCBwdXJlIHJldHVybnMgKGJvb2wpIHsKICAgIC8vIOmYsuatouetvuWQjeW7tuWxleaApwogICAgaWYgKHVpbnQyNTYocykgPiAweDdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGNUQ1NzZFNzM1N0E0NTAxRERGRTkyRjQ2NjgxQjIwQTApIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICAKICAgIGFkZHJlc3Mgc2lnbmVyID0gZWNyZWNvdmVyKGhhc2gsIHYsIHIsIHMpOwogICAgcmV0dXJuIHNpZ25lciAhPSBhZGRyZXNzKDApOwp9CmBgYAoKLS0tCgojIyDlronlhajlvIDlj5Hlrp7ot7UKCiMjIyDkvb/nlKjnu4/ov4flrqHorqHnmoTlupMKCuS4jeimgemHjeaWsOWPkeaYjui9ruWtkOOAgk9wZW5aZXBwZWxpbiBDb250cmFjdHMg5o+Q5L6b5LqG57uP6L+H5aSa5qyh5a6h6K6h55qE5qCH5YeG5a6e546w77yaCgpgYGBzb2xpZGl0eQppbXBvcnQgIkBvcGVuemVwcGVsaW4vY29udHJhY3RzL3Rva2VuL0VSQzIwL0VSQzIwLnNvbCI7CmltcG9ydCAiQG9wZW56ZXBwZWxpbi9jb250cmFjdHMvYWNjZXNzL093bmFibGUuc29sIjsKaW1wb3J0ICJAb3BlbnplcHBlbGluL2NvbnRyYWN0cy9zZWN1cml0eS9SZWVudHJhbmN5R3VhcmQuc29sIjsKaW1wb3J0ICJAb3BlbnplcHBlbGluL2NvbnRyYWN0cy9zZWN1cml0eS9QYXVzYWJsZS5zb2wiOwoKY29udHJhY3QgTXlUb2tlbiBpcyBFUkMyMCwgT3duYWJsZSwgUmVlbnRyYW5jeUd1YXJkLCBQYXVzYWJsZSB7CiAgICBjb25zdHJ1Y3RvcigpIEVSQzIwKCJNeVRva2VuIiwgIk1USyIpIE93bmFibGUobXNnLnNlbmRlcikge30KICAgIAogICAgZnVuY3Rpb24gbWludChhZGRyZXNzIHRvLCB1aW50MjU2IGFtb3VudCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBfbWludCh0bywgYW1vdW50KTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gdHJhbnNmZXIoYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIAogICAgICAgIHB1YmxpYyAKICAgICAgICBvdmVycmlkZSAKICAgICAgICB3aGVuTm90UGF1c2VkIAogICAgICAgIG5vblJlZW50cmFudCAKICAgICAgICByZXR1cm5zIChib29sKSAKICAgIHsKICAgICAgICByZXR1cm4gc3VwZXIudHJhbnNmZXIodG8sIGFtb3VudCk7CiAgICB9Cn0KYGBgCgojIyMg6L+b6KGM5a6J5YWo5a6h6K6hCgrlnKjkuLvnvZHpg6jnvbLliY3vvIzoh7PlsJHov5vooYzkuIDmrKHkuJPkuJrnmoTlronlhajlrqHorqHjgILlrqHorqHkuI3og73kv53or4HmsqHmnInmvI/mtJ7vvIzkvYblj6/ku6Xlj5HnjrDlpKfpg6jliIbluLjop4Hpl67popjjgIIKCiMjIyDorr7nva7mvI/mtJ7otY/ph5EKCumDqOe9suWQjuiuvue9rua8j+a0nui1j+mHkeiuoeWIku+8jOa/gOWKseeZveW4vem7keWuouaKpeWRiua8j+a0nuiAjOS4jeaYr+WIqeeUqOWug+S7rOOAgkltbXVuZWZpIOaYr+acgOWkp+eahCBXZWIzIOa8j+a0nui1j+mHkeW5s+WPsOOAggoKIyMjIOWunueOsOe0p+aApeaaguWBnAoK5Li65YWz6ZSu5Yqf6IO95re75Yqg5pqC5YGc5py65Yi277yM5Zyo5Y+R546w5ryP5rSe5pe25Y+v5Lul5b+r6YCf5q2i5o2f77yaCgpgYGBzb2xpZGl0eQpjb250cmFjdCBFbWVyZ2VuY3lTdG9wIGlzIE93bmFibGUsIFBhdXNhYmxlIHsKICAgIGZ1bmN0aW9uIHBhdXNlKCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBfcGF1c2UoKTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gdW5wYXVzZSgpIGV4dGVybmFsIG9ubHlPd25lciB7CiAgICAgICAgX3VucGF1c2UoKTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gY3JpdGljYWxGdW5jdGlvbigpIGV4dGVybmFsIHdoZW5Ob3RQYXVzZWQgewogICAgICAgIC8vIOWFs+mUrumAu+i+kQogICAgfQp9CmBgYAoKIyMjIOS9v+eUqOaXtumXtOmUgQoK5a+55LqO6auY6aOO6Zmp5pON5L2c77yI5aaC5Y2H57qn5ZCI57qm44CB5L+u5pS55YWz6ZSu5Y+C5pWw77yJ77yM5L2/55So5pe26Ze06ZSB57uZ55So5oi35Y+N5bqU5pe26Ze077yaCgpgYGBzb2xpZGl0eQpjb250cmFjdCBUaW1lTG9jayB7CiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBERUxBWSA9IDIgZGF5czsKICAgIAogICAgbWFwcGluZyhieXRlczMyID0+IHVpbnQyNTYpIHB1YmxpYyBwZW5kaW5nQWN0aW9uczsKICAgIAogICAgZnVuY3Rpb24gc2NoZWR1bGVBY3Rpb24oYnl0ZXMzMiBhY3Rpb25JZCkgZXh0ZXJuYWwgb25seU93bmVyIHsKICAgICAgICBwZW5kaW5nQWN0aW9uc1thY3Rpb25JZF0gPSBibG9jay50aW1lc3RhbXAgKyBERUxBWTsKICAgIH0KICAgIAogICAgZnVuY3Rpb24gZXhlY3V0ZUFjdGlvbihieXRlczMyIGFjdGlvbklkKSBleHRlcm5hbCBvbmx5T3duZXIgewogICAgICAgIHJlcXVpcmUocGVuZGluZ0FjdGlvbnNbYWN0aW9uSWRdICE9IDAsICJOb3Qgc2NoZWR1bGVkIik7CiAgICAgICAgcmVxdWlyZShibG9jay50aW1lc3RhbXAgPj0gcGVuZGluZ0FjdGlvbnNbYWN0aW9uSWRdLCAiVG9vIGVhcmx5Iik7CiAgICAgICAgCiAgICAgICAgZGVsZXRlIHBlbmRpbmdBY3Rpb25zW2FjdGlvbklkXTsKICAgICAgICAvLyDmiafooYzmk43kvZwKICAgIH0KfQpgYGAKCi0tLQoKIyMg5oC757uTCgrmmbrog73lkIjnuqblronlhajmmK/kuIDkuKrmjIHnu63mvJTov5vnmoTpoobln5/jgILmlrDnmoTmlLvlh7vmqKHlvI/kuI3mlq3lh7rnjrDvvIzpmLLlvqHmlrnms5XkuZ/lnKjkuI3mlq3mlLnov5vjgILmnKznq6Dku4vnu43nmoTmvI/mtJ7nsbvlnovigJTigJTph43lhaXjgIHmlbTmlbDmuqLlh7rjgIHorr/pl67mjqfliLbjgIHpooToqIDmnLrmk43nurXjgIFNRVbjgIFEb1PjgIHnrb7lkI3pl67popjigJTigJTopobnm5bkuoblpKfpg6jliIbljoblj7LkuIrnmoTph43lpKfmlLvlh7vjgIIKCuS9huWuieWFqOS4jeS7heS7heaYr+mBv+WFjeW3suefpea8j+a0nuOAguWug+mcgOimgemYsuW+oeaAp+e8lueoi+eahOaAnee7tOaWueW8j++8muWBh+iuvuaJgOacieWklumDqOi+k+WFpemDveaYr+aBtuaEj+eahO+8jOWBh+iuvuaJgOacieWklumDqOiwg+eUqOmDveWPr+iDveWksei0peaIlumHjeWFpe+8jOWBh+iuvuaUu+WHu+iAheavlOS9oOabtOS6huino+S9oOeahOS7o+eggeOAggoK5LiL5LiA56ug5bCG6K6o6K665Luj5biB5qCH5YeG77yM6L+Z5pivIERlRmkg55Sf5oCB57O757uf55qE5Z+656GA5p6E5bu65Z2X44CCCgotLS0KCiMjIOWPguiAg+aWh+eMrgoKLSBbU1dDIFJlZ2lzdHJ5XShodHRwczovL3N3Y3JlZ2lzdHJ5LmlvLykgLSDmmbrog73lkIjnuqblvLHngrnliIbnsbsKLSBbQ29uc2Vuc3lzIFNtYXJ0IENvbnRyYWN0IEJlc3QgUHJhY3RpY2VzXShodHRwczovL2NvbnNlbnN5cy5naXRodWIuaW8vc21hcnQtY29udHJhY3QtYmVzdC1wcmFjdGljZXMvKQotIFtPcGVuWmVwcGVsaW4gQ29udHJhY3RzXShodHRwczovL2RvY3Mub3BlbnplcHBlbGluLmNvbS9jb250cmFjdHMvKQotIFtSZWt0IE5ld3NdKGh0dHBzOi8vcmVrdC5uZXdzLykgLSBEZUZpIOWuieWFqOS6i+S7tuaKpemBkwotIFtJbW11bmVmaV0oaHR0cHM6Ly9pbW11bmVmaS5jb20vKSAtIFdlYjMg5ryP5rSe6LWP6YeR5bmz5Y+wCg=="}
+# 第 5 章：安全与常见漏洞
+
+> 智能合约一旦部署就无法修改，漏洞可能导致数百万美元的损失。理解攻击模式是编写安全代码的前提。
+
+---
+
+## 重入攻击
+
+重入攻击是智能合约历史上最著名的漏洞类型。2016 年的 DAO 攻击利用这个漏洞盗取了价值 6000 万美元的 ETH，直接导致了以太坊的硬分叉。
+
+攻击的核心在于：当合约 A 调用合约 B 时，控制权转移到 B。如果 B 是恶意合约，它可以在 A 完成状态更新之前再次调用 A，利用 A 的旧状态执行操作。
+
+![重入攻击流程](/images/scriptures/smart-contracts/05-reentrancy.png)
+
+下面是一个存在重入漏洞的提款合约：
+
+```solidity
+contract VulnerableBank {
+    mapping(address => uint256) public balances;
+    
+    function deposit() external payable {
+        balances[msg.sender] += msg.value;
+    }
+    
+    function withdraw() external {
+        uint256 balance = balances[msg.sender];
+        require(balance > 0, "No balance");
+        
+        // 危险：先转账，后更新状态
+        (bool success, ) = msg.sender.call{value: balance}("");
+        require(success, "Transfer failed");
+        
+        balances[msg.sender] = 0;  // 状态更新在转账之后
+    }
+}
+```
+
+攻击合约可以这样利用这个漏洞：
+
+```solidity
+contract Attacker {
+    VulnerableBank public bank;
+    
+    constructor(address _bank) {
+        bank = VulnerableBank(_bank);
+    }
+    
+    function attack() external payable {
+        bank.deposit{value: msg.value}();
+        bank.withdraw();
+    }
+    
+    receive() external payable {
+        // 在收到 ETH 时再次调用 withdraw
+        if (address(bank).balance >= 1 ether) {
+            bank.withdraw();
+        }
+    }
+}
+```
+
+攻击流程是：攻击者调用 `attack()`，存入 1 ETH 后调用 `withdraw()`。银行合约检查余额（1 ETH），然后向攻击者转账。攻击者的 `receive()` 函数被触发，立即再次调用 `withdraw()`。此时银行合约的 `balances[attacker]` 还没有被清零，所以检查通过，再次转账。这个循环持续到银行合约的余额耗尽。
+
+### 防御方法
+
+最有效的防御是 Checks-Effects-Interactions 模式：先检查条件，再更新状态，最后进行外部调用。
+
+```solidity
+contract SecureBank {
+    mapping(address => uint256) public balances;
+    
+    function withdraw() external {
+        uint256 balance = balances[msg.sender];
+        require(balance > 0, "No balance");
+        
+        // 先更新状态
+        balances[msg.sender] = 0;
+        
+        // 最后进行外部调用
+        (bool success, ) = msg.sender.call{value: balance}("");
+        require(success, "Transfer failed");
+    }
+}
+```
+
+另一种方法是使用重入锁：
+
+```solidity
+contract ReentrancyGuard {
+    uint256 private _status;
+    uint256 private constant NOT_ENTERED = 1;
+    uint256 private constant ENTERED = 2;
+    
+    modifier nonReentrant() {
+        require(_status != ENTERED, "ReentrancyGuard: reentrant call");
+        _status = ENTERED;
+        _;
+        _status = NOT_ENTERED;
+    }
+}
+
+contract SecureBankWithGuard is ReentrancyGuard {
+    mapping(address => uint256) public balances;
+    
+    function withdraw() external nonReentrant {
+        uint256 balance = balances[msg.sender];
+        require(balance > 0, "No balance");
+        
+        balances[msg.sender] = 0;
+        
+        (bool success, ) = msg.sender.call{value: balance}("");
+        require(success, "Transfer failed");
+    }
+}
+```
+
+OpenZeppelin 提供了经过审计的 `ReentrancyGuard` 合约，生产环境应该直接使用它。
+
+---
+
+## 整数溢出
+
+在 Solidity 0.8.0 之前，整数运算不会自动检查溢出。`uint256` 的最大值是 `2^256 - 1`，加 1 会回绕到 0。
+
+```solidity
+// Solidity < 0.8.0
+contract Overflow {
+    uint8 public count = 255;
+    
+    function increment() external {
+        count += 1;  // count 变成 0，而不是 256
+    }
+    
+    function decrement() external {
+        count -= 1;  // 如果 count 是 0，会变成 255
+    }
+}
+```
+
+这个漏洞曾被用于攻击多个代币合约。攻击者可以通过下溢让自己的余额从 0 变成一个巨大的数字。
+
+Solidity 0.8.0 之后，算术运算默认会检查溢出，溢出时交易回滚。如果确定不会溢出且需要节省 Gas，可以使用 `unchecked` 块：
+
+```solidity
+// Solidity >= 0.8.0
+contract SafeMath {
+    function safeIncrement(uint256 x) external pure returns (uint256) {
+        return x + 1;  // 溢出时自动回滚
+    }
+    
+    function unsafeIncrement(uint256 x) external pure returns (uint256) {
+        unchecked {
+            return x + 1;  // 不检查溢出，节省约 100 Gas
+        }
+    }
+}
+```
+
+> 即使在 0.8.0 之后，类型转换仍然不检查溢出。`uint8(256)` 会得到 0，而不是回滚。
+
+---
+
+## 访问控制漏洞
+
+访问控制错误是最常见的漏洞类型之一。忘记添加权限检查，或者权限检查逻辑有误，都可能让攻击者执行未授权的操作。
+
+```solidity
+// 危险：任何人都可以调用
+contract VulnerableToken {
+    mapping(address => uint256) public balances;
+    
+    function mint(address to, uint256 amount) external {
+        // 缺少权限检查！
+        balances[to] += amount;
+    }
+}
+```
+
+正确的做法是实现严格的访问控制：
+
+```solidity
+contract SecureToken {
+    mapping(address => uint256) public balances;
+    address public owner;
+    mapping(address => bool) public minters;
+    
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Not owner");
+        _;
+    }
+    
+    modifier onlyMinter() {
+        require(minters[msg.sender], "Not minter");
+        _;
+    }
+    
+    constructor() {
+        owner = msg.sender;
+    }
+    
+    function setMinter(address minter, bool status) external onlyOwner {
+        minters[minter] = status;
+    }
+    
+    function mint(address to, uint256 amount) external onlyMinter {
+        balances[to] += amount;
+    }
+}
+```
+
+对于复杂的权限系统，推荐使用 OpenZeppelin 的 `AccessControl` 合约，它支持基于角色的权限管理。
+
+### tx.origin 陷阱
+
+`tx.origin` 返回交易的原始发起者（EOA），而 `msg.sender` 返回直接调用者。使用 `tx.origin` 进行权限检查是危险的：
+
+```solidity
+// 危险：使用 tx.origin 进行权限检查
+contract VulnerableWallet {
+    address public owner;
+    
+    constructor() {
+        owner = msg.sender;
+    }
+    
+    function transfer(address to, uint256 amount) external {
+        require(tx.origin == owner, "Not owner");  // 危险！
+        payable(to).transfer(amount);
+    }
+}
+```
+
+攻击者可以诱骗 owner 调用一个恶意合约，恶意合约再调用 `VulnerableWallet.transfer()`。此时 `tx.origin` 是 owner，检查通过，资金被转走。
+
+```solidity
+contract TxOriginAttacker {
+    VulnerableWallet public wallet;
+    address public attacker;
+    
+    constructor(address _wallet) {
+        wallet = VulnerableWallet(_wallet);
+        attacker = msg.sender;
+    }
+    
+    // 诱骗 owner 调用这个函数
+    function attack() external {
+        wallet.transfer(attacker, address(wallet).balance);
+    }
+}
+```
+
+永远使用 `msg.sender` 而不是 `tx.origin` 进行权限检查。
+
+---
+
+## 预言机操纵
+
+DeFi 协议通常依赖预言机获取资产价格。如果预言机可以被操纵，攻击者可以在操纵价格后执行有利于自己的操作。
+
+最常见的攻击是闪电贷操纵。攻击者借入大量资金，在单个交易内操纵 AMM 的价格，利用被操纵的价格在目标协议中获利，然后归还闪电贷。
+
+```solidity
+// 危险：直接使用 AMM 现货价格
+contract VulnerableLending {
+    IUniswapV2Pair public pair;
+    
+    function getPrice() public view returns (uint256) {
+        (uint112 reserve0, uint112 reserve1, ) = pair.getReserves();
+        return uint256(reserve1) * 1e18 / uint256(reserve0);  // 可被操纵
+    }
+    
+    function borrow(uint256 collateralAmount) external {
+        uint256 price = getPrice();
+        uint256 borrowLimit = collateralAmount * price / 1e18;
+        // 基于可操纵的价格计算借款额度
+    }
+}
+```
+
+### 防御方法
+
+使用时间加权平均价格（TWAP）而不是现货价格：
+
+```solidity
+contract SecureLending {
+    IUniswapV3Pool public pool;
+    uint32 public twapInterval = 1800;  // 30 分钟
+    
+    function getTWAP() public view returns (uint256) {
+        uint32[] memory secondsAgos = new uint32[](2);
+        secondsAgos[0] = twapInterval;
+        secondsAgos[1] = 0;
+        
+        (int56[] memory tickCumulatives, ) = pool.observe(secondsAgos);
+        
+        int56 tickCumulativesDelta = tickCumulatives[1] - tickCumulatives[0];
+        int24 averageTick = int24(tickCumulativesDelta / int56(uint56(twapInterval)));
+        
+        // 从 tick 计算价格
+        return OracleLibrary.getQuoteAtTick(averageTick, 1e18, token0, token1);
+    }
+}
+```
+
+更好的选择是使用 Chainlink 等去中心化预言机网络：
+
+```solidity
+import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
+
+contract ChainlinkPriceFeed {
+    AggregatorV3Interface public priceFeed;
+    
+    constructor(address _priceFeed) {
+        priceFeed = AggregatorV3Interface(_priceFeed);
+    }
+    
+    function getLatestPrice() public view returns (uint256) {
+        (
+            uint80 roundId,
+            int256 price,
+            uint256 startedAt,
+            uint256 updatedAt,
+            uint80 answeredInRound
+        ) = priceFeed.latestRoundData();
+        
+        // 检查数据新鲜度
+        require(updatedAt > block.timestamp - 3600, "Stale price");
+        require(price > 0, "Invalid price");
+        require(answeredInRound >= roundId, "Stale round");
+        
+        return uint256(price);
+    }
+}
+```
+
+---
+
+## 前端运行与 MEV
+
+以太坊的交易在被打包进区块之前，会在公开的内存池中等待。任何人都可以看到待处理的交易，并尝试在它之前或之后插入自己的交易来获利。
+
+常见的 MEV 攻击包括：
+
+**三明治攻击**：攻击者看到一笔大额 DEX 交易，在它之前买入（推高价格），在它之后卖出（获利）。受害者以更差的价格成交。
+
+**清算抢跑**：攻击者监控借贷协议，当发现可清算的头寸时，抢在其他清算人之前执行清算获取奖励。
+
+**套利抢跑**：攻击者复制其他人发现的套利交易，用更高的 Gas 费抢先执行。
+
+### 防御方法
+
+对于普通用户，使用私有交易池（如 Flashbots Protect）可以避免交易被抢跑。交易直接发送给区块构建者，不经过公开内存池。
+
+对于协议开发者，可以使用 commit-reveal 模式：
+
+```solidity
+contract CommitReveal {
+    mapping(address => bytes32) public commits;
+    mapping(address => uint256) public commitBlock;
+    
+    uint256 public constant REVEAL_DELAY = 2;  // 等待 2 个区块
+    
+    function commit(bytes32 hash) external {
+        commits[msg.sender] = hash;
+        commitBlock[msg.sender] = block.number;
+    }
+    
+    function reveal(uint256 value, bytes32 salt) external {
+        require(block.number >= commitBlock[msg.sender] + REVEAL_DELAY, "Too early");
+        require(keccak256(abi.encodePacked(value, salt)) == commits[msg.sender], "Invalid reveal");
+        
+        // 执行操作
+        delete commits[msg.sender];
+    }
+}
+```
+
+另一种方法是使用批量拍卖，所有订单以统一价格结算，消除抢跑的激励。
+
+---
+
+## 拒绝服务
+
+拒绝服务（DoS）攻击让合约无法正常运行。常见的模式包括：
+
+**Gas 耗尽**：如果合约需要遍历一个无限增长的数组，攻击者可以通过添加大量元素让遍历超出 Gas 限制。
+
+```solidity
+// 危险：无限循环
+contract VulnerableAirdrop {
+    address[] public recipients;
+    
+    function addRecipient(address recipient) external {
+        recipients.push(recipient);
+    }
+    
+    function distribute() external {
+        // 如果 recipients 太多，会超出 Gas 限制
+        for (uint256 i = 0; i < recipients.length; i++) {
+            payable(recipients[i]).transfer(1 ether);
+        }
+    }
+}
+```
+
+解决方案是使用拉取模式（pull over push）：
+
+```solidity
+contract SecureAirdrop {
+    mapping(address => uint256) public claimable;
+    
+    function setClaimable(address[] calldata recipients, uint256 amount) external {
+        for (uint256 i = 0; i < recipients.length; i++) {
+            claimable[recipients[i]] = amount;
+        }
+    }
+    
+    function claim() external {
+        uint256 amount = claimable[msg.sender];
+        require(amount > 0, "Nothing to claim");
+        
+        claimable[msg.sender] = 0;
+        payable(msg.sender).transfer(amount);
+    }
+}
+```
+
+**回滚攻击**：如果合约向多个地址转账，其中一个地址的 `receive()` 函数故意回滚，整个交易失败。
+
+```solidity
+// 危险：一个失败导致全部失败
+contract VulnerablePayment {
+    function payAll(address[] calldata recipients, uint256[] calldata amounts) external {
+        for (uint256 i = 0; i < recipients.length; i++) {
+            // 如果任何一个转账失败，整个交易回滚
+            payable(recipients[i]).transfer(amounts[i]);
+        }
+    }
+}
+```
+
+解决方案是使用 `call` 并忽略失败：
+
+```solidity
+contract SecurePayment {
+    function payAll(address[] calldata recipients, uint256[] calldata amounts) external {
+        for (uint256 i = 0; i < recipients.length; i++) {
+            // 忽略单个失败，继续执行
+            (bool success, ) = recipients[i].call{value: amounts[i]}("");
+            // 可以记录失败的地址，让他们稍后手动领取
+        }
+    }
+}
+```
+
+---
+
+## 签名相关漏洞
+
+链下签名在 DeFi 中广泛使用，但实现不当会导致严重漏洞。
+
+**签名重放**：同一个签名被多次使用。
+
+```solidity
+// 危险：没有防重放机制
+contract VulnerablePermit {
+    function executeWithSignature(
+        address to,
+        uint256 amount,
+        bytes calldata signature
+    ) external {
+        bytes32 hash = keccak256(abi.encodePacked(to, amount));
+        address signer = recoverSigner(hash, signature);
+        require(signer == owner, "Invalid signature");
+        
+        // 同一个签名可以被多次使用！
+        payable(to).transfer(amount);
+    }
+}
+```
+
+解决方案是使用 nonce：
+
+```solidity
+contract SecurePermit {
+    mapping(address => uint256) public nonces;
+    
+    function executeWithSignature(
+        address to,
+        uint256 amount,
+        uint256 nonce,
+        bytes calldata signature
+    ) external {
+        require(nonce == nonces[msg.sender], "Invalid nonce");
+        
+        bytes32 hash = keccak256(abi.encodePacked(to, amount, nonce));
+        address signer = recoverSigner(hash, signature);
+        require(signer == owner, "Invalid signature");
+        
+        nonces[msg.sender]++;
+        payable(to).transfer(amount);
+    }
+}
+```
+
+**跨链重放**：签名在一条链上有效，被攻击者在另一条链上重放。解决方案是在签名中包含 `chainId`。
+
+**签名延展性**：ECDSA 签名的 `s` 值可以被修改为 `n - s`（n 是曲线阶），产生另一个有效签名。如果合约使用签名作为唯一标识符，这会导致问题。解决方案是强制 `s` 在低半区间：
+
+```solidity
+function isValidSignature(bytes32 hash, uint8 v, bytes32 r, bytes32 s) internal pure returns (bool) {
+    // 防止签名延展性
+    if (uint256(s) > 0x7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5D576E7357A4501DDFE92F46681B20A0) {
+        return false;
+    }
+    
+    address signer = ecrecover(hash, v, r, s);
+    return signer != address(0);
+}
+```
+
+---
+
+## 安全开发实践
+
+### 使用经过审计的库
+
+不要重新发明轮子。OpenZeppelin Contracts 提供了经过多次审计的标准实现：
+
+```solidity
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+import "@openzeppelin/contracts/security/Pausable.sol";
+
+contract MyToken is ERC20, Ownable, ReentrancyGuard, Pausable {
+    constructor() ERC20("MyToken", "MTK") Ownable(msg.sender) {}
+    
+    function mint(address to, uint256 amount) external onlyOwner {
+        _mint(to, amount);
+    }
+    
+    function transfer(address to, uint256 amount) 
+        public 
+        override 
+        whenNotPaused 
+        nonReentrant 
+        returns (bool) 
+    {
+        return super.transfer(to, amount);
+    }
+}
+```
+
+### 进行安全审计
+
+在主网部署前，至少进行一次专业的安全审计。审计不能保证没有漏洞，但可以发现大部分常见问题。
+
+### 设置漏洞赏金
+
+部署后设置漏洞赏金计划，激励白帽黑客报告漏洞而不是利用它们。Immunefi 是最大的 Web3 漏洞赏金平台。
+
+### 实现紧急暂停
+
+为关键功能添加暂停机制，在发现漏洞时可以快速止损：
+
+```solidity
+contract EmergencyStop is Ownable, Pausable {
+    function pause() external onlyOwner {
+        _pause();
+    }
+    
+    function unpause() external onlyOwner {
+        _unpause();
+    }
+    
+    function criticalFunction() external whenNotPaused {
+        // 关键逻辑
+    }
+}
+```
+
+### 使用时间锁
+
+对于高风险操作（如升级合约、修改关键参数），使用时间锁给用户反应时间：
+
+```solidity
+contract TimeLock {
+    uint256 public constant DELAY = 2 days;
+    
+    mapping(bytes32 => uint256) public pendingActions;
+    
+    function scheduleAction(bytes32 actionId) external onlyOwner {
+        pendingActions[actionId] = block.timestamp + DELAY;
+    }
+    
+    function executeAction(bytes32 actionId) external onlyOwner {
+        require(pendingActions[actionId] != 0, "Not scheduled");
+        require(block.timestamp >= pendingActions[actionId], "Too early");
+        
+        delete pendingActions[actionId];
+        // 执行操作
+    }
+}
+```
+
+---
+
+## 总结
+
+智能合约安全是一个持续演进的领域。新的攻击模式不断出现，防御方法也在不断改进。本章介绍的漏洞类型——重入、整数溢出、访问控制、预言机操纵、MEV、DoS、签名问题——覆盖了大部分历史上的重大攻击。
+
+但安全不仅仅是避免已知漏洞。它需要防御性编程的思维方式：假设所有外部输入都是恶意的，假设所有外部调用都可能失败或重入，假设攻击者比你更了解你的代码。
+
+下一章将讨论代币标准，这是 DeFi 生态系统的基础构建块。
+
+---
+
+## 参考文献
+
+- [SWC Registry](https://swcregistry.io/) - 智能合约弱点分类
+- [Consensys Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
+- [Rekt News](https://rekt.news/) - DeFi 安全事件报道
+- [Immunefi](https://immunefi.com/) - Web3 漏洞赏金平台
