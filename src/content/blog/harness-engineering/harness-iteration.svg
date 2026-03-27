@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="Courier New, monospace">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#474747"/>
+    </marker>
+    <marker id="arr-red" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#D13429"/>
+    </marker>
+    <marker id="arr-green" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4A8B71"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="720" height="380" fill="#fafaf9" rx="8"/>
+
+  <!-- Title -->
+  <text x="360" y="30" text-anchor="middle" font-size="14" fill="#474747" font-weight="bold">Harness 迭代循环</text>
+
+  <!-- Step 1: User gives task -->
+  <rect x="40" y="60" width="130" height="50" rx="4" fill="white" stroke="#474747" stroke-width="1.5"/>
+  <text x="105" y="82" text-anchor="middle" font-size="10" fill="#474747" font-weight="bold">用户提交任务</text>
+  <text x="105" y="97" text-anchor="middle" font-size="9" fill="#8C928F">需求描述</text>
+
+  <!-- Step 2: Harness processes -->
+  <rect x="220" y="60" width="130" height="50" rx="4" fill="#4A8B71" fill-opacity="0.15" stroke="#4A8B71" stroke-width="1.5"/>
+  <text x="285" y="82" text-anchor="middle" font-size="10" fill="#4A8B71" font-weight="bold">Harness 处理</text>
+  <text x="285" y="97" text-anchor="middle" font-size="9" fill="#474747">注入规则 + 工具 + 验证</text>
+  <line x1="170" y1="85" x2="220" y2="85" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Step 3: AI generates output -->
+  <rect x="400" y="60" width="130" height="50" rx="4" fill="white" stroke="#474747" stroke-width="1.5"/>
+  <text x="465" y="82" text-anchor="middle" font-size="10" fill="#474747" font-weight="bold">AI 生成输出</text>
+  <text x="465" y="97" text-anchor="middle" font-size="9" fill="#8C928F">代码 / 文档</text>
+  <line x1="350" y1="85" x2="400" y2="85" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Step 4: Hook validates -->
+  <rect x="580" y="60" width="100" height="50" rx="4" fill="white" stroke="#474747" stroke-width="1.5"/>
+  <text x="630" y="82" text-anchor="middle" font-size="10" fill="#474747" font-weight="bold">Hook 验证</text>
+  <text x="630" y="97" text-anchor="middle" font-size="9" fill="#8C928F">lint + test</text>
+  <line x1="530" y1="85" x2="580" y2="85" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Pass path (green) -->
+  <rect x="580" y="140" width="100" height="35" rx="3" fill="#4A8B71" fill-opacity="0.1" stroke="#4A8B71" stroke-width="1"/>
+  <text x="630" y="162" text-anchor="middle" font-size="10" fill="#4A8B71" font-weight="bold">通过</text>
+  <line x1="630" y1="110" x2="630" y2="140" stroke="#4A8B71" stroke-width="1" marker-end="url(#arr-green)"/>
+
+  <!-- Fail path (red) - loop back -->
+  <rect x="580" y="210" width="100" height="35" rx="3" fill="#D13429" fill-opacity="0.1" stroke="#D13429" stroke-width="1"/>
+  <text x="630" y="232" text-anchor="middle" font-size="10" fill="#D13429" font-weight="bold">失败</text>
+  <line x1="630" y1="110" x2="630" y2="210" stroke="#D13429" stroke-width="1" marker-end="url(#arr-red)"/>
+
+  <!-- Failure analysis box -->
+  <rect x="300" y="200" width="230" height="50" rx="4" fill="#D13429" fill-opacity="0.08" stroke="#D13429" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="415" y="222" text-anchor="middle" font-size="10" fill="#D13429" font-weight="bold">分析失败原因</text>
+  <text x="415" y="237" text-anchor="middle" font-size="9" fill="#474747">这条规则应该放哪里？</text>
+  <path d="M 580 227 L 530 225" stroke="#D13429" stroke-width="1" marker-end="url(#arr-red)"/>
+
+  <!-- Decision diamond (which component) -->
+  <polygon points="200,200 250,225 200,250 150,225" fill="white" stroke="#474747" stroke-width="1"/>
+  <text x="200" y="229" text-anchor="middle" font-size="9" fill="#474747">分类</text>
+  <line x1="300" y1="225" x2="250" y2="225" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Three paths from decision -->
+  <!-- To CLAUDE.md -->
+  <rect x="40" y="150" width="90" height="35" rx="3" fill="white" stroke="#474747" stroke-width="1"/>
+  <text x="85" y="172" text-anchor="middle" font-size="9" fill="#474747">通用规则</text>
+  <text x="85" y="182" text-anchor="middle" font-size="8" fill="#8C928F">→ CLAUDE.md</text>
+  <line x1="150" y1="218" x2="130" y2="185" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- To Skill -->
+  <rect x="40" y="210" width="90" height="35" rx="3" fill="white" stroke="#474747" stroke-width="1"/>
+  <text x="85" y="232" text-anchor="middle" font-size="9" fill="#474747">领域规则</text>
+  <text x="85" y="242" text-anchor="middle" font-size="8" fill="#8C928F">→ Skill</text>
+  <line x1="150" y1="225" x2="130" y2="227" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- To Hook -->
+  <rect x="40" y="270" width="90" height="35" rx="3" fill="white" stroke="#474747" stroke-width="1"/>
+  <text x="85" y="292" text-anchor="middle" font-size="9" fill="#474747">可自动检查</text>
+  <text x="85" y="302" text-anchor="middle" font-size="8" fill="#8C928F">→ Hook</text>
+  <line x1="150" y1="232" x2="130" y2="277" stroke="#474747" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Loop back arrow (dashed) -->
+  <path d="M 85 150 L 85 115 Q 85 85 115 85" stroke="#4A8B71" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arr-green)"/>
+  <text x="60" y="130" font-size="8" fill="#4A8B71">规则加入后</text>
+  <text x="60" y="140" font-size="8" fill="#4A8B71">重新执行</text>
+
+  <!-- Bottom annotation -->
+  <rect x="80" y="330" width="560" height="35" rx="4" fill="#4A8B71" fill-opacity="0.06" stroke="none"/>
+  <text x="360" y="350" text-anchor="middle" font-size="10" fill="#474747">每次失败花 5 分钟加一条规则。一个季度后积累几十条「免疫规则」。</text>
+  <text x="360" y="363" text-anchor="middle" font-size="9" fill="#8C928F">Harness 的价值是累积性的——每多一条规则，AI 就少犯一类错误。</text>
+</svg>
