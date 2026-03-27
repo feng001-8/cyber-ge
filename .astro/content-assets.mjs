@@ -1,8 +1,0 @@
-
-import __ASTRO_IMAGE_IMPORT_Z1QUojD from "./spec-workflow.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fspec-driven-development%2Findex.md";
-import __ASTRO_IMAGE_IMPORT_1k753I from "./steth-vs-wsteth.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md";
-import __ASTRO_IMAGE_IMPORT_2du9aY from "./share-model-formula.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md";
-import __ASTRO_IMAGE_IMPORT_tU5Vr from "./no-dilution.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md";
-import __ASTRO_IMAGE_IMPORT_278vPs from "./oracle-flow.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md";
-export default new Map([["./spec-workflow.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fspec-driven-development%2Findex.md", __ASTRO_IMAGE_IMPORT_Z1QUojD], ["./steth-vs-wsteth.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md", __ASTRO_IMAGE_IMPORT_1k753I], ["./share-model-formula.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md", __ASTRO_IMAGE_IMPORT_2du9aY], ["./no-dilution.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md", __ASTRO_IMAGE_IMPORT_tU5Vr], ["./oracle-flow.png?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fliquid-staking-share-model%2Findex.md", __ASTRO_IMAGE_IMPORT_278vPs]]);
-		
