@@ -1,0 +1,167 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { marked } from 'marked';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// 读取 Markdown 文件
+const mdPath = path.join(process.cwd(), 'src/content/scriptures/spoken-english/03-directions.md');
+const mdContent = fs.readFileSync(mdPath, 'utf-8');
+let htmlContent = marked(mdContent);
+
+// 修复代码块第一行空白问题
+htmlContent = htmlContent.replace(/<code([^>]*)>\n/g, '<code$1>');
+
+const scripture = {
+  symbol: '䷹',
+  title: '英语口语',
+  titleEn: 'Spoken English',
+  chapters: [
+    { id: 'shopping', volume: 1, title: 'Shopping', titleZh: '购物篇' },
+    { id: 'airport', volume: 2, title: 'Airport', titleZh: '机场乘机篇' },
+    { id: 'directions', volume: 3, title: 'Directions', titleZh: '问路篇' },
+  ]
+};
+
+const chapter = scripture.chapters[2];
+const prevChapter = scripture.chapters[1];
+const nextChapter = null;
+const readTime = 5;
+---
+
+<Layout title={`${chapter.titleZh} · ${scripture.title}`}>
+  <main class="relative z-10 flex-grow w-full max-w-[1600px] mx-auto flex flex-col lg:flex-row min-h-[calc(100vh-4rem)]">
+    <!-- Sidebar -->
+    <aside class="w-full lg:w-72 border-b lg:border-b-0 lg:border-r border-text-main/10 flex-shrink-0 bg-[#FAFAF8] lg:sticky lg:top-16 lg:h-[calc(100vh-4rem)] overflow-y-auto hidden lg:block">
+      <div class="p-5 sticky top-0 bg-[#FAFAF8]/95 backdrop-blur-sm z-10 border-b border-text-main/5">
+        <a href="/scriptures" class="flex items-center gap-2 text-text-subtle hover:text-jade transition-colors mb-3 text-sm">
+          <span class="material-symbols-outlined text-base">arrow_back</span>
+          <span>返回书架</span>
+        </a>
+        <h2 class="font-bold text-lg text-text-main leading-tight">{scripture.title}</h2>
+        <p class="text-xs text-text-subtle mt-1">{scripture.titleEn}</p>
+      </div>
+      <nav class="p-3 space-y-1">
+        {scripture.chapters.map((ch, idx) => {
+          const isActive = idx === 2;
+          return (
+            <a href={`/scriptures/spoken-english/${String(ch.volume).padStart(2, '0')}`} class={`group relative block px-4 py-3 rounded-lg transition-all duration-200 ${isActive ? 'bg-jade/10' : 'hover:bg-black/5'}`}>
+              <div class={`absolute left-0 top-2 bottom-2 w-1 rounded-full transition-all ${isActive ? 'bg-jade' : 'bg-transparent group-hover:bg-jade/30'}`}></div>
+              <div class="flex items-start gap-3">
+                <span class={`font-mono text-xs mt-0.5 ${isActive ? 'text-jade font-bold' : 'text-text-subtle'}`}>{String(ch.volume).padStart(2, '0')}</span>
+                <div>
+                  <div class={`text-sm leading-tight ${isActive ? 'font-bold text-jade' : 'text-text-main'}`}>{ch.titleZh}</div>
+                  <div class="text-xs text-text-subtle mt-0.5">{ch.title}</div>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <div class="flex-grow overflow-y-auto">
+      <article class="max-w-4xl mx-auto px-6 py-8 lg:py-12">
+        <header class="mb-10 pb-8 border-b border-text-main/10">
+          <div class="flex items-center gap-3 mb-4">
+            <span class="font-mono text-sm text-jade font-bold">第 {chapter.volume} 章</span>
+            <span class="text-text-subtle">·</span>
+            <span class="text-sm text-text-subtle">约 {readTime} 分钟阅读</span>
+          </div>
+          <h1 class="text-3xl lg:text-4xl font-bold text-text-main mb-2">{chapter.titleZh}</h1>
+          <p class="text-lg text-text-subtle">{chapter.title}</p>
+        </header>
+
+        <div class="prose prose-lg max-w-none scripture-content" set:html={htmlContent}>
+        </div>
+
+        <!-- Navigation -->
+        <nav class="mt-16 pt-8 border-t border-text-main/10 flex justify-between items-center">
+          {prevChapter ? (
+            <a href={`/scriptures/spoken-english/${String(prevChapter.volume).padStart(2, '0')}`} class="group flex items-center gap-3 text-text-subtle hover:text-jade transition-colors">
+              <span class="material-symbols-outlined">arrow_back</span>
+              <div>
+                <div class="text-xs">上一章</div>
+                <div class="font-medium text-text-main group-hover:text-jade">{prevChapter.titleZh}</div>
+              </div>
+            </a>
+          ) : <div></div>}
+          {nextChapter ? (
+            <a href={`/scriptures/spoken-english/${String(nextChapter.volume).padStart(2, '0')}`} class="group flex items-center gap-3 text-text-subtle hover:text-jade transition-colors text-right">
+              <div>
+                <div class="text-xs">下一章</div>
+                <div class="font-medium text-text-main group-hover:text-jade">{nextChapter.titleZh}</div>
+              </div>
+              <span class="material-symbols-outlined">arrow_forward</span>
+            </a>
+          ) : <div></div>}
+        </nav>
+      </article>
+    </div>
+  </main>
+</Layout>
+
+<style is:global>
+  .scripture-content h1 { display: none; }
+  .scripture-content h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-text-main);
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(42, 45, 44, 0.1);
+  }
+  .scripture-content h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-text-main);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  .scripture-content h4 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text-main);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  .scripture-content p {
+    color: var(--color-text-main);
+    line-height: 1.75;
+    margin-bottom: 1rem;
+  }
+  .scripture-content ul, .scripture-content ol {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+  }
+  .scripture-content li {
+    margin-bottom: 0.5rem;
+    color: var(--color-text-main);
+  }
+  .scripture-content blockquote {
+    border-left: 4px solid var(--color-jade);
+    background-color: rgba(74, 139, 113, 0.05);
+    padding: 1rem 1.5rem;
+    margin: 1.5rem 0;
+    border-radius: 0 0.5rem 0.5rem 0;
+  }
+  .scripture-content blockquote p {
+    margin-bottom: 0;
+  }
+  .scripture-content code {
+    background-color: #f3f4f6;
+    color: #1f2937;
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    font-family: ui-monospace, monospace;
+  }
+  .scripture-content a {
+    color: var(--color-jade);
+  }
+  .scripture-content a:hover {
+    text-decoration: underline;
+  }
+</style>
